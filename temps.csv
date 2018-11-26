@@ -1,0 +1,190 @@
+,country,temp_in_celcius
+0,Burkina Faso,28.25
+1,Mali,28.25
+2,Kiribati,28.2
+3,Djibouti,28
+4,Tuvalu,28
+5,Senegal,27.85
+6,Mauritania,27.65
+7,Maldives,27.65
+8,Palau,27.6
+9,Benin,27.55
+10,The Gambia,27.5
+11,Marshall Islands,27.4
+12,Ghana,27.2
+13,Bahrain,27.15
+14,Niger,27.15
+15,Qatar,27.15
+16,Seychelles,27.15
+17,Togo,27.15
+18,Somalia,27.05
+19,United Arab Emirates,27
+20,Sri Lanka,26.95
+21,Sudan,26.9
+22,Brunei,26.85
+23,Cambodia,26.8
+24,Nigeria,26.8
+25,Saint Vincent and the Grenadines,26.8
+26,Guinea-Bissau,26.75
+27,Samoa,26.7
+28,Grenada,26.65
+29,Chad,26.55
+30,Singapore,26.45
+31,Ivory Coast,26.35
+32,Thailand,26.3
+33,Sierra Leone,26.05
+34,Antigua and Barbuda,26
+35,Barbados,26
+36,Guyana,26
+37,Indonesia,25.85
+38,Federated States of Micronesia,25.85
+39,Philippines,25.85
+40,Trinidad and Tobago,25.75
+41,Guinea,25.7
+42,Suriname,25.7
+43,Solomon Islands,25.65
+44,Oman,25.6
+45,Comoros,25.55
+46,Eritrea,25.5
+47,Saint Lucia,25.5
+48,Malaysia,25.4
+49,Panama,25.4
+50,Belize,25.3
+51,Kuwait,25.35
+52,Venezuela,25.35
+53,Liberia,25.3
+54,East Timor,25.25
+55,Papua New Guinea,25.25
+56,Tonga,25.25
+57,Cuba,25.2
+58,Gabon,25.05
+59,Bangladesh,25
+60,Brazil,24.95
+61,Jamaica,24.95
+62,Central African Republic,24.9
+63,Haiti,24.9
+64,Vietnam,24.45
+65,Nicaragua,24.9
+66,Bahamas,24.85
+67,Costa Rica,24.8
+68,Kenya,24.75
+69,Saudi Arabia,24.65
+70,Cameroon,24.6
+71,Republic of the Congo,24.55
+72,Dominican Republic,24.55
+73,Equatorial Guinea,24.55
+74,Colombia,24.5
+75,Saint Kitts and Nevis,24.5
+76,El Salvador,24.45
+77,Fiji,24.4
+78,Democratic Republic of the Congo,24
+79,Vanuatu,23.95
+80,Yemen,23.85
+81,Mozambique,23.8
+82,São Tomé and Príncipe,23.75
+83,India,23.65
+84,Paraguay,23.55
+85,Honduras,23.5
+86,Guatemala,23.45
+87,Cape Verde,23.3
+88,Laos,22.8
+89,Uganda,22.8
+90,Madagascar,22.65
+91,Algeria,22.5
+92,Mauritius,22.4
+93,Dominica,22.35
+94,Tanzania,22.35
+95,Ethiopia,22.2
+96,Egypt,22.1
+97,Malawi,21.9
+98,Ecuador,21.85
+99,Libya,21.8
+100,Australia,21.65
+101,Angola,21.55
+102,Bolivia,21.55
+103,Botswana,21.5
+104,Iraq,21.4
+105,Eswatini,21.4
+106,Zambia,21.4
+107,Mexico,21
+108,Zimbabwe,21
+109,Pakistan,20.2
+110,Namibia,19.95
+111,Burundi,19.8
+112,Peru,19.6
+113,Israel,19.2
+114,Malta,19.2
+115,Tunisia,19.2
+116,Cyprus,18.45
+117,Jordan,18.3
+118,Rwanda,17.85
+119,South Africa,17.75
+120,Syria,17.75
+121,Uruguay,17.55
+122,Iran,17.25
+123,Morocco,17.1
+124,Lebanon,16.4
+125,Greece,15.4
+126,Portugal,15.15
+127,Turkmenistan,15.1
+128,Argentina,14.8
+129,Monaco,13.55
+130,Italy,13.45
+131,Spain,13.3
+132,Myanmar,13.05
+133,Afghanistan,12.6
+134,Uzbekistan,12.05
+135,Azerbaijan,11.95
+136,Lesotho,11.85
+137,San Marino,11.85
+138,South Korea,11.5
+139,Albania,11.4
+140,Japan,11.15
+141,Turkey,11.1
+142,Croatia,10.9
+143,France,10.7
+144,Montenegro,10.55
+145,Bulgaria,10.55
+146,New Zealand,10.55
+147,Serbia,10.55
+148,Bosnia and Herzegovina,9.85
+149,Republic of Macedonia,9.8
+150,Hungary,9.75
+151,Belgium,9.55
+152,Moldova,9.45
+153,Republic of Ireland,9.3
+154,Netherlands,9.25
+155,Slovenia,8.9
+156,Romania,8.8
+157,Luxembourg,8.65
+158,United States,8.55
+159,Germany,8.5
+160,Chile,8.45
+161,United Kingdom,8.45
+162,Ukraine,8.3
+163,Nepal,8.1
+164,Poland,7.85
+166,Czech Republic,7.55
+167,Denmark,7.5
+168,Bhutan,7.4
+169,Armenia,7.15
+170,China,6.95
+171,Slovakia,6.8
+172,Kazakhstan,6.4
+173,Austria,6.35
+174,Belarus,6.15
+175,Lithuania,6.2
+176,Georgia (country),5.8
+177,North Korea,5.7
+178,Liechtenstein,5.65
+179,Latvia,5.6
+180,Switzerland,5.5
+181,Estonia,5.1
+182,Sweden,2.1
+183,Tajikistan,2
+184,Iceland,1.75
+185,Finland,1.7
+186,Kyrgyzstan,1.55
+187,Norway,1.5
+188,Mongolia,−0.70
+189,Russia,−5.10
