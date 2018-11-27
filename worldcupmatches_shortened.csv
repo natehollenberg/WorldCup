@@ -1,0 +1,853 @@
+Year,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Attendance,RoundID,MatchID,Home Team Initials,Away Team Initials
+1930,Pocitos,Montevideo ,France,4,1,Mexico,4444,201,1096,FRA,MEX
+1930,Parque Central,Montevideo ,USA,3,0,Belgium,18346,201,1090,USA,BEL
+1930,Parque Central,Montevideo ,Yugoslavia,2,1,Brazil,24059,201,1093,YUG,BRA
+1930,Pocitos,Montevideo ,Romania,3,1,Peru,2549,201,1098,ROU,PER
+1930,Parque Central,Montevideo ,Argentina,1,0,France,23409,201,1085,ARG,FRA
+1930,Parque Central,Montevideo ,Chile,3,0,Mexico,9249,201,1095,CHI,MEX
+1930,Parque Central,Montevideo ,Yugoslavia,4,0,Bolivia,18306,201,1092,YUG,BOL
+1930,Parque Central,Montevideo ,USA,3,0,Paraguay,18306,201,1097,USA,PAR
+1930,Estadio Centenario,Montevideo ,Uruguay,1,0,Peru,57735,201,1099,URU,PER
+1930,Estadio Centenario,Montevideo ,Chile,1,0,France,2000,201,1094,CHI,FRA
+1930,Estadio Centenario,Montevideo ,Argentina,6,3,Mexico,42100,201,1086,ARG,MEX
+1930,Estadio Centenario,Montevideo ,Brazil,4,0,Bolivia,25466,201,1091,BRA,BOL
+1930,Estadio Centenario,Montevideo ,Paraguay,1,0,Belgium,12000,201,1089,PAR,BEL
+1930,Estadio Centenario,Montevideo ,Uruguay,4,0,Romania,70022,201,1100,URU,ROU
+1930,Estadio Centenario,Montevideo ,Argentina,3,1,Chile,41459,201,1084,ARG,CHI
+1930,Estadio Centenario,Montevideo ,Argentina,6,1,USA,72886,202,1088,ARG,USA
+1930,Estadio Centenario,Montevideo ,Uruguay,6,1,Yugoslavia,79867,202,1101,URU,YUG
+1930,Estadio Centenario,Montevideo ,Uruguay,4,2,Argentina,68346,405,1087,URU,ARG
+1934,Stadio Benito Mussolini,Turin ,Austria,3,2,France,16000,204,1104,AUT,FRA
+1934,Giorgio Ascarelli,Naples ,Hungary,4,2,Egypt,9000,204,1119,HUN,EGY
+1934,San Siro,Milan ,Switzerland,3,2,Netherlands,33000,204,1133,SUI,NED
+1934,Littorale,Bologna ,Sweden,3,2,Argentina,14000,204,1102,SWE,ARG
+1934,Giovanni Berta,Florence ,Germany,5,2,Belgium,8000,204,1108,GER,BEL
+1934,Luigi Ferraris,Genoa ,Spain,3,1,Brazil,21000,204,1111,ESP,BRA
+1934,Nazionale PNF,Rome ,Italy,7,1,USA,25000,204,1135,ITA,USA
+1934,Littorio,Trieste ,Czechoslovakia,2,1,Romania,9000,204,1141,TCH,ROU
+1934,Stadio Benito Mussolini,Turin ,Czechoslovakia,3,2,Switzerland,12000,418,1143,TCH,SUI
+1934,San Siro,Milan ,Germany,2,1,Sweden,3000,418,1129,GER,SWE
+1934,Giovanni Berta,Florence ,Italy,1,1,Spain,35000,418,1122,ITA,ESP
+1934,Littorale,Bologna ,Austria,2,1,Hungary,23000,418,1106,AUT,HUN
+1934,Giovanni Berta,Florence ,Italy,1,0,Spain,43000,418,1123,ITA,ESP
+1934,San Siro,Milan ,Italy,1,0,Austria,35000,3492,1107,ITA,AUT
+1934,Nazionale PNF,Rome ,Czechoslovakia,3,1,Germany,15000,3492,1130,TCH,GER
+1934,Giorgio Ascarelli,Naples ,Germany,3,2,Austria,7000,3491,1105,GER,AUT
+1934,Nazionale PNF,Rome ,Italy,2,1,Czechoslovakia,55000,3490,1134,ITA,TCH
+1938,Parc des Princes,Paris ,Switzerland,1,1,Germany,27152,206,1165,SUI,GER
+1938,Velodrome Municipale,Reims ,Hungary,6,0,Dutch East Indies,9000,206,1173,HUN,INH
+1938,Stade Olympique,Colombes ,France,3,1,Belgium,30454,206,1146,FRA,BEL
+1938,Stade Municipal,Toulouse ,Cuba,3,3,Romania,7000,206,1156,CUB,ROU
+1938,Stade V´è_lodrome,Marseilles ,Italy,2,1,Norway,19000,206,1179,ITA,NOR
+1938,Stade de la Meinau,Strasbourg ,Brazil,6,5,Poland,13452,206,1150,BRA,POL
+1938,Cavee Verte,Le Havre ,Czechoslovakia,3,0,Netherlands,11000,206,1172,TCH,NED
+1938,Stade Municipal,Toulouse ,Cuba,2,1,Romania,8000,206,1157,CUB,ROU
+1938,Parc des Princes,Paris ,Switzerland,4,2,Germany,20025,206,1166,SUI,GER
+1938,Stade du Parc Lescure,Bordeaux ,Brazil,1,1,Czechoslovakia,22021,429,1152,BRA,TCH
+1938,Victor Boucquey,Lille ,Hungary,2,0,Switzerland,15000,429,1175,HUN,SUI
+1938,Fort Carree,Antibes ,Sweden,8,0,Cuba,7000,429,1158,SWE,CUB
+1938,Stade Olympique,Colombes ,Italy,3,1,France,58455,429,1164,ITA,FRA
+1938,Stade du Parc Lescure,Bordeaux ,Brazil,2,1,Czechoslovakia,18141,429,1153,BRA,TCH
+1938,Parc des Princes,Paris ,Hungary,5,1,Sweden,20000,3489,1176,HUN,SWE
+1938,Stade V´è_lodrome,Marseilles ,Italy,2,1,Brazil,33000,3489,1149,ITA,BRA
+1938,Stade du Parc Lescure,Bordeaux ,Brazil,4,2,Sweden,12000,3488,1151,BRA,SWE
+1938,Stade Olympique,Colombes ,Italy,4,2,Hungary,45000,3487,1174,ITA,HUN
+1950,Maracan´è_ - Est´è_dio Jornalista M´è_rio Filho,Rio De Janeiro ,Brazil,4,0,Mexico,81649,208,1187,BRA,MEX
+1950,Maracan´è_ - Est´è_dio Jornalista M´è_rio Filho,Rio De Janeiro ,England,2,0,Chile,29703,208,1192,ENG,CHI
+1950,Durival de Brito,Curitiba ,Spain,3,1,USA,9511,208,1208,ESP,USA
+1950,Pacaembu,Sao Paulo ,Sweden,3,2,Italy,36502,208,1219,SWE,ITA
+1950,Independencia,Belo Horizonte ,Yugoslavia,3,0,Switzerland,7336,208,1230,YUG,SUI
+1950,Pacaembu,Sao Paulo ,Brazil,2,2,Switzerland,42032,208,1188,BRA,SUI
+1950,Eucaliptos,Porto Alegre ,Yugoslavia,4,1,Mexico,11078,208,1225,YUG,MEX
+1950,Maracan´è_ - Est´è_dio Jornalista M´è_rio Filho,Rio De Janeiro ,Spain,2,0,Chile,19790,208,1193,ESP,CHI
+1950,Durival de Brito,Curitiba ,Sweden,2,2,Paraguay,7903,208,1228,SWE,PAR
+1950,Independencia,Belo Horizonte ,USA,1,0,England,10151,208,1202,USA,ENG
+1950,Maracan´è_ - Est´è_dio Jornalista M´è_rio Filho,Rio De Janeiro ,Brazil,2,0,Yugoslavia,142429,208,1191,BRA,YUG
+1950,Maracan´è_ - Est´è_dio Jornalista M´è_rio Filho,Rio De Janeiro ,Spain,1,0,England,74462,208,1199,ESP,ENG
+1950,Pacaembu,Sao Paulo ,Italy,2,0,Paraguay,25811,208,1218,ITA,PAR
+1950,Independencia,Belo Horizonte ,Uruguay,8,0,Bolivia,5284,208,1185,URU,BOL
+1950,Eucaliptos,Porto Alegre ,Switzerland,2,1,Mexico,3580,208,1222,SUI,MEX
+1950,Ilha do Retiro,Recife ,Chile,5,2,USA,8501,208,1194,CHI,USA
+1950,Pacaembu,Sao Paulo ,Uruguay,2,2,Spain,44802,209,1207,URU,ESP
+1950,Maracan´è_ - Est´è_dio Jornalista M´è_rio Filho,Rio De Janeiro ,Brazil,7,1,Sweden,138886,209,1189,BRA,SWE
+1950,Maracan´è_ - Est´è_dio Jornalista M´è_rio Filho,Rio De Janeiro ,Brazil,6,1,Spain,152772,209,1186,BRA,ESP
+1950,Pacaembu,Sao Paulo ,Uruguay,3,2,Sweden,7987,209,1231,URU,SWE
+1950,Pacaembu,Sao Paulo ,Sweden,3,1,Spain,11227,209,1206,SWE,ESP
+1950,Maracan´è_ - Est´è_dio Jornalista M´è_rio Filho,Rio De Janeiro ,Uruguay,2,1,Brazil,173850,209,1190,URU,BRA
+1954,Wankdorf Stadium,Berne ,Uruguay,2,0,Czechoslovakia,20500,211,1315,URU,TCH
+1954,Hardturm,Zurich ,Austria,1,0,Scotland,25000,211,1236,AUT,SCO
+1954,Charmilles,Geneva ,Brazil,5,0,Mexico,13470,211,1249,BRA,MEX
+1954,La Pontaise,Lausanne ,Yugoslavia,1,0,France,16000,211,1276,YUG,FRA
+1954,Wankdorf Stadium,Berne ,Germany FR,4,1,Turkey,28000,211,1283,FRG,TUR
+1954,Hardturm,Zurich ,Hungary,9,0,Korea Republic,13000,211,1294,HUN,KOR
+1954,St. Jakob,Basel ,England,4,4,Belgium,14000,211,1240,ENG,BEL
+1954,La Pontaise,Lausanne ,Switzerland,2,1,Italy,43000,211,1300,SUI,ITA
+1954,St. Jakob,Basel ,Uruguay,7,0,Scotland,34000,211,1313,URU,SCO
+1954,Hardturm,Zurich ,Austria,5,0,Czechoslovakia,26000,211,1238,AUT,TCH
+1954,Charmilles,Geneva ,France,3,2,Mexico,19000,211,1275,FRA,MEX
+1954,La Pontaise,Lausanne ,Brazil,1,1,Yugoslavia,24637,211,1252,BRA,YUG
+1954,St. Jakob,Basel ,Hungary,8,3,Germany FR,56000,211,1277,HUN,FRG
+1954,Charmilles,Geneva ,Turkey,7,0,Korea Republic,4000,211,1304,TUR,KOR
+1954,Wankdorf Stadium,Berne ,England,2,0,Switzerland,43500,211,1263,ENG,SUI
+1954,Comunale di Cornaredo,Lugano ,Italy,4,1,Belgium,24000,211,1243,ITA,BEL
+1954,Hardturm,Zurich ,Germany FR,7,2,Turkey,17000,211,1284,FRG,TUR
+1954,St. Jakob,Basel ,Switzerland,4,1,Italy,30000,211,1301,SUI,ITA
+1954,St. Jakob,Basel ,Uruguay,4,2,England,28000,212,1264,URU,ENG
+1954,La Pontaise,Lausanne ,Austria,7,5,Switzerland,35000,212,1237,AUT,SUI
+1954,Charmilles,Geneva ,Germany FR,2,0,Yugoslavia,17000,212,1285,FRG,YUG
+1954,Wankdorf Stadium,Berne ,Hungary,4,2,Brazil,40000,212,1248,HUN,BRA
+1954,St. Jakob,Basel ,Germany FR,6,1,Austria,58000,462,1233,FRG,AUT
+1954,La Pontaise,Lausanne ,Hungary,4,2,Uruguay,45000,462,1295,HUN,URU
+1954,Hardturm,Zurich ,Austria,3,1,Uruguay,32000,3485,1239,AUT,URU
+1954,Wankdorf Stadium,Berne ,Germany FR,3,2,Hungary,62500,3484,1278,FRG,HUN
+1958,Rasunda Stadium,Solna ,Sweden,3,0,Mexico,34107,220,1415,SWE,MEX
+1958,Nya Ullevi,Gothenburg ,Soviet Union,2,2,England,49348,220,1372,URS,ENG
+1958,Malmo Stadion,Malm´è_ ,Argentina,1,3,Germany FR,31156,220,1323,ARG,FRG
+1958,Jarnvallen,Sandviken ,Hungary,1,1,Wales,15343,220,1407,HUN,WAL
+1958,Idrottsparken,Norrk´è_Ping ,France,7,3,Paraguay,16518,220,1386,FRA,PAR
+1958,Arosvallen,Vasteras ,Yugoslavia,1,1,Scotland,9591,220,1434,YUG,SCO
+1958,Rimnersvallen,Udevalla ,Brazil,3,0,Austria,17788,220,1326,BRA,AUT
+1958,Orjans Vall,Halmstad ,Northern Ireland,1,0,Czechoslovakia,10647,220,1421,NIR,TCH
+1958,Nya Ullevi,Gothenburg ,Brazil,0,0,England,40895,220,1339,BRA,ENG
+1958,Rasunda Stadium,Solna ,Mexico,1,1,Wales,15150,220,1418,MEX,WAL
+1958,Idrottsparken,Norrk´è_Ping ,Paraguay,3,2,Scotland,11665,220,1423,PAR,SCO
+1958,Arosvallen,Vasteras ,Yugoslavia,3,2,France,12217,220,1388,YUG,FRA
+1958,Ryavallen,Boras ,Soviet Union,2,0,Austria,21239,220,1332,URS,AUT
+1958,Olympia Stadium,Helsingborg ,Germany FR,2,2,Czechoslovakia,25000,220,1391,FRG,TCH
+1958,Orjans Vall,Halmstad ,Argentina,3,1,Northern Ireland,14174,220,1324,ARG,NIR
+1958,Rasunda Stadium,Solna ,Sweden,2,1,Hungary,38850,220,1406,SWE,HUN
+1958,Rasunda Stadium,Solna ,Sweden,0,0,Wales,30287,220,1438,SWE,WAL
+1958,Nya Ullevi,Gothenburg ,Brazil,2,0,Soviet Union,50928,220,1344,BRA,URS
+1958,Malmo Stadion,Malm´è_ ,Germany FR,2,2,Northern Ireland,21990,220,1389,FRG,NIR
+1958,Jarnvallen,Sandviken ,Hungary,4,0,Mexico,13300,220,1403,HUN,MEX
+1958,Tunavallen,Eskilstuna ,Paraguay,3,3,Yugoslavia,13103,220,1426,PAR,YUG
+1958,Eyravallen,Orebro ,France,2,1,Scotland,13554,220,1387,FRA,SCO
+1958,Ryavallen,Boras ,England,2,2,Austria,15872,220,1327,ENG,AUT
+1958,Olympia Stadium,Helsingborg ,Czechoslovakia,6,1,Argentina,16418,220,1325,TCH,ARG
+1958,Nya Ullevi,Gothenburg ,Soviet Union,1,0,England,23182,220,1373,URS,ENG
+1958,Malmo Stadion,Malm´è_ ,Northern Ireland,2,1,Czechoslovakia,6196,220,1422,NIR,TCH
+1958,Rasunda Stadium,Solna ,Wales,2,1,Hungary,2823,220,1408,WAL,HUN
+1958,Nya Ullevi,Gothenburg ,Brazil,1,0,Wales,25923,221,1345,BRA,WAL
+1958,Malmo Stadion,Malm´è_ ,Germany FR,1,0,Yugoslavia,20055,221,1392,FRG,YUG
+1958,Rasunda Stadium,Solna ,Sweden,2,0,Soviet Union,31900,221,1437,SWE,URS
+1958,Idrottsparken,Norrk´è_Ping ,France,4,0,Northern Ireland,11800,221,1385,FRA,NIR
+1958,Nya Ullevi,Gothenburg ,Sweden,3,1,Germany FR,49471,488,1390,SWE,FRG
+1958,Rasunda Stadium,Solna ,Brazil,5,2,France,27100,488,1340,BRA,FRA
+1958,Nya Ullevi,Gothenburg ,France,6,3,Germany FR,32483,3483,1382,FRA,FRG
+1958,Rasunda Stadium,Solna ,Brazil,5,2,Sweden,49737,3482,1343,BRA,SWE
+1962,Carlos Dittborn,Arica ,Uruguay,2,1,Colombia,7908,231,1479,URU,COL
+1962,Estadio Sausalito,Vina Del Mar ,Brazil,2,0,Mexico,10484,231,1461,BRA,MEX
+1962,Estadio El Teniente-Codelco,Rancagua ,Argentina,1,0,Bulgaria,7134,231,1447,ARG,BUL
+1962,Nacional,Santiago De Chile ,Chile,3,1,Switzerland,65006,231,1473,CHI,SUI
+1962,Carlos Dittborn,Arica ,Soviet Union,2,0,Yugoslavia,9622,231,1563,URS,YUG
+1962,Estadio Sausalito,Vina Del Mar ,Czechoslovakia,1,0,Spain,12700,231,1498,TCH,ESP
+1962,Estadio El Teniente-Codelco,Rancagua ,Hungary,2,1,England,7938,231,1490,HUN,ENG
+1962,Nacional,Santiago De Chile ,Germany FR,0,0,Italy,65440,231,1507,FRG,ITA
+1962,Carlos Dittborn,Arica ,Yugoslavia,3,1,Uruguay,8829,231,1564,YUG,URU
+1962,Estadio Sausalito,Vina Del Mar ,Brazil,0,0,Czechoslovakia,14903,231,1462,BRA,TCH
+1962,Estadio El Teniente-Codelco,Rancagua ,England,3,1,Argentina,9794,231,1450,ENG,ARG
+1962,Nacional,Santiago De Chile ,Chile,2,0,Italy,66057,231,1472,CHI,ITA
+1962,Carlos Dittborn,Arica ,Soviet Union,4,4,Colombia,8040,231,1478,URS,COL
+1962,Estadio Sausalito,Vina Del Mar ,Spain,1,0,Mexico,11875,231,1497,ESP,MEX
+1962,Estadio El Teniente-Codelco,Rancagua ,Hungary,6,1,Bulgaria,7442,231,1470,HUN,BUL
+1962,Nacional,Santiago De Chile ,Germany FR,2,1,Switzerland,64922,231,1510,FRG,SUI
+1962,Carlos Dittborn,Arica ,Soviet Union,2,1,Uruguay,9973,231,1562,URS,URU
+1962,Estadio Sausalito,Vina Del Mar ,Brazil,2,1,Spain,18715,231,1460,BRA,ESP
+1962,Estadio El Teniente-Codelco,Rancagua ,Hungary,0,0,Argentina,7945,231,1451,HUN,ARG
+1962,Nacional,Santiago De Chile ,Germany FR,2,0,Chile,67224,231,1471,FRG,CHI
+1962,Carlos Dittborn,Arica ,Yugoslavia,5,0,Colombia,7167,231,1480,YUG,COL
+1962,Estadio Sausalito,Vina Del Mar ,Mexico,3,1,Czechoslovakia,10648,231,1544,MEX,TCH
+1962,Estadio El Teniente-Codelco,Rancagua ,England,0,0,Bulgaria,5700,231,1464,ENG,BUL
+1962,Nacional,Santiago De Chile ,Italy,3,0,Switzerland,59828,231,1532,ITA,SUI
+1962,Carlos Dittborn,Arica ,Chile,2,1,Soviet Union,17268,232,1474,CHI,URS
+1962,Estadio Sausalito,Vina Del Mar ,Brazil,3,1,England,17736,232,1459,BRA,ENG
+1962,Estadio El Teniente-Codelco,Rancagua ,Czechoslovakia,1,0,Hungary,11690,232,1525,TCH,HUN
+1962,Nacional,Santiago De Chile ,Yugoslavia,1,0,Germany FR,63324,232,1511,YUG,FRG
+1962,Estadio Sausalito,Vina Del Mar ,Czechoslovakia,3,1,Yugoslavia,5890,514,1559,TCH,YUG
+1962,Nacional,Santiago De Chile ,Brazil,4,2,Chile,76594,514,1458,BRA,CHI
+1962,Nacional,Santiago De Chile ,Chile,1,0,Yugoslavia,66697,3481,1475,CHI,YUG
+1962,Nacional,Santiago De Chile ,Brazil,3,1,Czechoslovakia,68679,3480,1463,BRA,TCH
+1966,Wembley Stadium,London ,England,0,0,Uruguay,87148,238,1636,ENG,URU
+1966,Hillsborough,Sheffield ,Germany FR,5,0,Switzerland,36127,238,1656,FRG,SUI
+1966,Goodison Park,Liverpool ,Brazil,2,0,Bulgaria,47308,238,1596,BRA,BUL
+1966,Ayresome Park,Middlesbrough ,Soviet Union,3,0,Korea DPR,23006,238,1710,URS,PRK
+1966,Wembley Stadium,London ,France,1,1,Mexico,69237,238,1650,FRA,MEX
+1966,Old Trafford Stadium,Manchester ,Portugal,3,1,Hungary,29886,238,1675,POR,HUN
+1966,Villa Park,Birmingham ,Argentina,2,1,Spain,42738,238,1578,ARG,ESP
+1966,Roker Park Ground,Sunderland ,Italy,2,0,Chile,27199,238,1608,ITA,CHI
+1966,White City,London ,Uruguay,2,1,France,45662,238,1653,URU,FRA
+1966,Hillsborough,Sheffield ,Spain,2,1,Switzerland,32028,238,1641,ESP,SUI
+1966,Goodison Park,Liverpool ,Hungary,3,1,Brazil,51387,238,1597,HUN,BRA
+1966,Ayresome Park,Middlesbrough ,Korea DPR,1,1,Chile,13792,238,1609,PRK,CHI
+1966,Old Trafford Stadium,Manchester ,Portugal,3,0,Bulgaria,25438,238,1602,POR,BUL
+1966,Villa Park,Birmingham ,Germany FR,0,0,Argentina,46587,238,1579,FRG,ARG
+1966,Roker Park Ground,Sunderland ,Soviet Union,1,0,Italy,27793,238,1682,URS,ITA
+1966,Wembley Stadium,London ,England,2,0,Mexico,92570,238,1634,ENG,MEX
+1966,Wembley Stadium,London ,Uruguay,0,0,Mexico,61112,238,1689,URU,MEX
+1966,Hillsborough,Sheffield ,Argentina,2,0,Switzerland,32127,238,1582,ARG,SUI
+1966,Goodison Park,Liverpool ,Portugal,3,1,Brazil,58479,238,1598,POR,BRA
+1966,Ayresome Park,Middlesbrough ,Korea DPR,1,0,Italy,17829,238,1679,PRK,ITA
+1966,Wembley Stadium,London ,England,2,0,France,98270,238,1632,ENG,FRA
+1966,Old Trafford Stadium,Manchester ,Hungary,3,1,Bulgaria,24129,238,1599,HUN,BUL
+1966,Villa Park,Birmingham ,Germany FR,2,1,Spain,42187,238,1637,FRG,ESP
+1966,Roker Park Ground,Sunderland ,Soviet Union,2,1,Chile,16027,238,1610,URS,CHI
+1966,Wembley Stadium,London ,England,1,0,Argentina,90584,239,1577,ENG,ARG
+1966,Hillsborough,Sheffield ,Germany FR,4,0,Uruguay,40007,239,1660,FRG,URU
+1966,Roker Park Ground,Sunderland ,Soviet Union,2,1,Hungary,26844,239,1676,URS,HUN
+1966,Goodison Park,Liverpool ,Portugal,5,3,Korea DPR,40248,239,1702,POR,PRK
+1966,Goodison Park,Liverpool ,Germany FR,2,1,Soviet Union,38273,536,1659,FRG,URS
+1966,Wembley Stadium,London ,England,2,1,Portugal,94493,536,1635,ENG,POR
+1966,Wembley Stadium,London ,Portugal,2,1,Soviet Union,87696,3479,1709,POR,URS
+1966,Wembley Stadium,London ,England,4,2,Germany FR,96924,3478,1633,ENG,FRG
+1970,Estadio Azteca,Mexico City ,Mexico,0,0,Soviet Union,107160,250,1902,MEX,URS
+1970,Cuauhtemoc,Puebla ,Uruguay,2,0,Israel,20654,250,1881,URU,ISR
+1970,Nou Camp - Estadio Le´è_n,Leon ,Peru,3,2,Bulgaria,13765,250,1780,PER,BUL
+1970,Jalisco,Guadalajara ,England,1,0,Romania,50560,250,1812,ENG,ROU
+1970,Luis Dosal,Toluca ,Italy,1,0,Sweden,13433,250,1883,ITA,SWE
+1970,Nou Camp - Estadio Le´è_n,Leon ,Germany FR,2,1,Morocco,12942,250,1839,FRG,MAR
+1970,Jalisco,Guadalajara ,Brazil,4,1,Czechoslovakia,52897,250,1770,BRA,TCH
+1970,Estadio Azteca,Mexico City ,Belgium,3,0,El Salvador,92205,250,1747,BEL,SLV
+1970,Cuauhtemoc,Puebla ,Uruguay,0,0,Italy,29968,250,1884,URU,ITA
+1970,Nou Camp - Estadio Le´è_n,Leon ,Peru,3,0,Morocco,13537,250,1893,PER,MAR
+1970,Jalisco,Guadalajara ,Romania,2,1,Czechoslovakia,56818,250,1919,ROU,TCH
+1970,Estadio Azteca,Mexico City ,Soviet Union,4,1,Belgium,95261,250,1753,URS,BEL
+1970,Luis Dosal,Toluca ,Sweden,1,1,Israel,9624,250,1880,SWE,ISR
+1970,Nou Camp - Estadio Le´è_n,Leon ,Germany FR,5,2,Bulgaria,12710,250,1774,FRG,BUL
+1970,Jalisco,Guadalajara ,Brazil,1,0,England,66843,250,1764,BRA,ENG
+1970,Estadio Azteca,Mexico City ,Mexico,4,0,El Salvador,103058,250,1820,MEX,SLV
+1970,Cuauhtemoc,Puebla ,Sweden,1,0,Uruguay,18163,250,1922,SWE,URU
+1970,Nou Camp - Estadio Le´è_n,Leon ,Germany FR,3,1,Peru,17875,250,1840,FRG,PER
+1970,Jalisco,Guadalajara ,Brazil,3,2,Romania,50804,250,1769,BRA,ROU
+1970,Estadio Azteca,Mexico City ,Soviet Union,2,0,El Salvador,89979,250,1823,URS,SLV
+1970,Luis Dosal,Toluca ,Italy,0,0,Israel,9890,250,1877,ITA,ISR
+1970,Nou Camp - Estadio Le´è_n,Leon ,Bulgaria,1,1,Morocco,12299,250,1779,BUL,MAR
+1970,Jalisco,Guadalajara ,England,1,0,Czechoslovakia,49292,250,1813,ENG,TCH
+1970,Estadio Azteca,Mexico City ,Mexico,1,0,Belgium,108192,250,1752,MEX,BEL
+1970,Luis Dosal,Toluca ,Italy,4,1,Mexico,26851,251,1882,ITA,MEX
+1970,Nou Camp - Estadio Le´è_n,Leon ,Germany FR,3,2,England,23357,251,1811,FRG,ENG
+1970,Jalisco,Guadalajara ,Brazil,4,2,Peru,54233,251,1768,BRA,PER
+1970,Estadio Azteca,Mexico City ,Uruguay,1,0,Soviet Union,26085,251,1925,URU,URS
+1970,Jalisco,Guadalajara ,Brazil,3,1,Uruguay,51261,569,1771,BRA,URU
+1970,Estadio Azteca,Mexico City ,Italy,4,3,Germany FR,102444,569,1838,ITA,FRG
+1970,Estadio Azteca,Mexico City ,Germany FR,1,0,Uruguay,104403,3477,1843,FRG,URU
+1970,Estadio Azteca,Mexico City ,Brazil,4,1,Italy,107412,3476,1765,BRA,ITA
+1974,Waldstadion,Frankfurt/Main ,Brazil,0,0,Yugoslavia,62000,262,1986,BRA,YUG
+1974,Olympiastadion,Berlin West ,Germany FR,1,0,Chile,81100,262,2003,FRG,CHI
+1974,Volksparkstadion,Hamburg ,German DR,2,0,Australia,17000,262,1955,GDR,AUS
+1974,Westfalenstadion,Dortmund ,Zaire,0,2,Scotland,27000,262,2176,ZAI,SCO
+1974,Niedersachsenstadion,Hanover ,Uruguay,0,2,Netherlands,55100,262,2098,URU,NED
+1974,Rheinstadion,D´è_Sseldorf ,Sweden,0,0,Bulgaria,23800,262,1995,SWE,BUL
+1974,Olympiastadion,Munich ,Italy,3,1,Haiti,53000,262,2083,ITA,HAI
+1974,Neckarstadion,Stuttgart ,Poland,3,2,Argentina,32700,262,1952,POL,ARG
+1974,Volksparkstadion,Hamburg ,Australia,0,3,Germany FR,53300,262,1954,AUS,FRG
+1974,Waldstadion,Frankfurt/Main ,Scotland,0,0,Brazil,62000,262,1985,SCO,BRA
+1974,Olympiastadion,Berlin West ,Chile,1,1,German DR,28300,262,2004,CHI,GDR
+1974,Parkstadion,Gelsenkirchen ,Yugoslavia,9,0,Zaire,31700,262,2186,YUG,ZAI
+1974,Westfalenstadion,Dortmund ,Netherlands,0,0,Sweden,53700,262,2097,NED,SWE
+1974,Niedersachsenstadion,Hanover ,Bulgaria,1,1,Uruguay,13400,262,1996,BUL,URU
+1974,Olympiastadion,Munich ,Haiti,0,7,Poland,25300,262,2085,HAI,POL
+1974,Neckarstadion,Stuttgart ,Argentina,1,1,Italy,70100,262,1949,ARG,ITA
+1974,Waldstadion,Frankfurt/Main ,Scotland,1,1,Yugoslavia,56000,262,2175,SCO,YUG
+1974,Olympiastadion,Berlin West ,Australia,0,0,Chile,17400,262,1953,AUS,CHI
+1974,Parkstadion,Gelsenkirchen ,Zaire,0,3,Brazil,36200,262,1987,ZAI,BRA
+1974,Volksparkstadion,Hamburg ,German DR,1,0,Germany FR,60200,262,2062,GDR,FRG
+1974,Westfalenstadion,Dortmund ,Bulgaria,1,4,Netherlands,53300,262,1990,BUL,NED
+1974,Olympiastadion,Munich ,Argentina,4,1,Haiti,25900,262,1947,ARG,HAI
+1974,Rheinstadion,D´è_Sseldorf ,Sweden,3,0,Uruguay,28300,262,2181,SWE,URU
+1974,Neckarstadion,Stuttgart ,Poland,2,1,Italy,70100,262,2129,POL,ITA
+1974,Rheinstadion,D´è_Sseldorf ,Yugoslavia,0,2,Germany FR,67385,263,2066,YUG,FRG
+1974,Niedersachsenstadion,Hanover ,Brazil,1,0,German DR,59863,263,1982,BRA,GDR
+1974,Parkstadion,Gelsenkirchen ,Netherlands,4,0,Argentina,56548,263,1948,NED,ARG
+1974,Neckarstadion,Stuttgart ,Sweden,0,1,Poland,44955,263,2167,SWE,POL
+1974,Niedersachsenstadion,Hanover ,Argentina,1,2,Brazil,39400,263,1945,ARG,BRA
+1974,Waldstadion,Frankfurt/Main ,Poland,2,1,Yugoslavia,58000,263,2170,POL,YUG
+1974,Parkstadion,Gelsenkirchen ,German DR,0,2,Netherlands,68348,263,2067,GDR,NED
+1974,Rheinstadion,D´è_Sseldorf ,Germany FR,4,2,Sweden,67800,263,2065,FRG,SWE
+1974,Waldstadion,Frankfurt/Main ,Poland,0,1,Germany FR,62000,263,2064,POL,FRG
+1974,Westfalenstadion,Dortmund ,Netherlands,2,0,Brazil,53700,263,1983,NED,BRA
+1974,Parkstadion,Gelsenkirchen ,Argentina,1,1,German DR,54254,263,1946,ARG,GDR
+1974,Rheinstadion,D´è_Sseldorf ,Sweden,2,1,Yugoslavia,41300,263,2182,SWE,YUG
+1974,Olympiastadion,Munich ,Brazil,0,1,Poland,77100,264,1984,BRA,POL
+1974,Olympiastadion,Munich ,Netherlands,1,2,Germany FR,78200,605,2063,NED,FRG
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Germany FR,0,0,Poland,67579,278,2351,FRG,POL
+1978,Estadio Jos´è_ Mar´è_a Minella,Mar Del Plata ,Italy,2,1,France,42373,278,2347,ITA,FRA
+1978,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Tunisia,3,1,Mexico,17396,278,2433,TUN,MEX
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,2,1,Hungary,71615,278,2199,ARG,HUN
+1978,Estadio Jos´è_ Mar´è_a Minella,Mar Del Plata ,Sweden,1,1,Brazil,32569,278,2253,SWE,BRA
+1978,Jose Amalfitani,Buenos Aires ,Austria,2,1,Spain,40841,278,2216,AUT,ESP
+1978,Estadio Ol´è_mpico Chateau Carreras,Cordoba ,Peru,3,1,Scotland,37927,278,2451,PER,SCO
+1978,San Martin,Mendoza ,Netherlands,3,0,IR Iran,33431,278,2388,NED,IRN
+1978,Estadio Jos´è_ Mar´è_a Minella,Mar Del Plata ,Italy,3,1,Hungary,26533,278,2396,ITA,HUN
+1978,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Poland,1,0,Tunisia,9624,278,2454,POL,TUN
+1978,Estadio Ol´è_mpico Chateau Carreras,Cordoba ,Germany FR,6,0,Mexico,35258,278,2350,FRG,MEX
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,2,1,France,71666,278,2197,ARG,FRA
+1978,Estadio Jos´è_ Mar´è_a Minella,Mar Del Plata ,Brazil,0,0,Spain,34771,278,2246,BRA,ESP
+1978,Jose Amalfitani,Buenos Aires ,Austria,1,0,Sweden,41424,278,2224,AUT,SWE
+1978,Estadio Ol´è_mpico Chateau Carreras,Cordoba ,Scotland,1,1,IR Iran,7938,278,2408,SCO,IRN
+1978,San Martin,Mendoza ,Netherlands,0,0,Peru,28125,278,2394,NED,PER
+1978,Estadio Jos´è_ Mar´è_a Minella,Mar Del Plata ,France,3,1,Hungary,23127,278,2344,FRA,HUN
+1978,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Poland,3,1,Mexico,22651,278,2431,POL,MEX
+1978,Estadio Ol´è_mpico Chateau Carreras,Cordoba ,Germany FR,0,0,Tunisia,30667,278,2352,FRG,TUN
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Italy,1,0,Argentina,71712,278,2200,ITA,ARG
+1978,Estadio Jos´è_ Mar´è_a Minella,Mar Del Plata ,Brazil,1,0,Austria,35221,278,2215,BRA,AUT
+1978,Jose Amalfitani,Buenos Aires ,Spain,1,0,Sweden,42132,278,2337,ESP,SWE
+1978,Estadio Ol´è_mpico Chateau Carreras,Cordoba ,Peru,4,1,Iran,21262,278,2405,PER,IRN
+1978,San Martin,Mendoza ,Scotland,3,2,Netherlands,35130,278,2395,SCO,NED
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Germany FR,0,0,Italy,67547,279,2349,FRG,ITA
+1978,Estadio Ol´è_mpico Chateau Carreras,Cordoba ,Netherlands,5,1,Austria,25050,279,2220,NED,AUT
+1978,San Martin,Mendoza ,Brazil,3,0,Peru,31278,279,2251,BRA,PER
+1978,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,2,0,Poland,37091,279,2202,ARG,POL
+1978,San Martin,Mendoza ,Poland,1,0,Peru,35288,279,2450,POL,PER
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Italy,1,0,Austria,66695,279,2221,ITA,AUT
+1978,Estadio Ol´è_mpico Chateau Carreras,Cordoba ,Germany FR,2,2,Netherlands,40750,279,2348,FRG,NED
+1978,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,0,0,Brazil,37326,279,2196,ARG,BRA
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Netherlands,2,1,Italy,67433,279,2391,NED,ITA
+1978,Estadio Ol´è_mpico Chateau Carreras,Cordoba ,Austria,3,2,Germany FR,38318,279,2217,AUT,FRG
+1978,San Martin,Mendoza ,Brazil,3,1,Poland,39586,279,2252,BRA,POL
+1978,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,6,0,Peru,37315,279,2201,ARG,PER
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Brazil,2,1,Italy,69659,280,2247,BRA,ITA
+1978,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,3,1,Netherlands,71483,639,2198,ARG,NED
+1982,Camp Nou,Barcelona ,Argentina,0,1,Belgium,95000,293,749,ARG,BEL
+1982,Estadio Municipal de Bala´è_dos,Vigo ,Italy,0,0,Poland,33000,293,995,ITA,POL
+1982,Ramon Sanchez Pizjuan,Seville ,Brazil,2,1,Soviet Union,68000,293,791,BRA,URS
+1982,Riazor,La Coru´è_A ,Peru,0,0,Cameroon,11000,293,833,PER,CMR
+1982,Nuevo Estadio,Elche ,Hungary,10,1,El Salvador,23000,293,896,HUN,SLV
+1982,La Rosaleda,Malaga ,Scotland,5,2,New Zealand,36000,293,1051,SCO,NZL
+1982,El Molinon,Gijon ,Germany FR,1,2,Algeria,42000,293,741,FRG,ALG
+1982,San Mames,Bilbao ,England,3,1,France,44172,293,878,ENG,FRA
+1982,Luis Casanova,Valencia ,Spain,1,1,Honduras,49562,293,901,ESP,HON
+1982,Carlos Tartiere,Oviedo ,Chile,0,1,Austria,22500,293,764,CHI,AUT
+1982,Jose Zorrilla,Valladolid ,Czechoslovakia,1,1,Kuwait,25000,293,1012,TCH,KUW
+1982,La Romareda,Zaragoza ,Yugoslavia,0,0,Northern Ireland,25000,293,1044,YUG,NIR
+1982,Estadio Municipal de Bala´è_dos,Vigo ,Italy,1,1,Peru,25000,293,994,ITA,PER
+1982,Jose Rico Perez,Alicante ,Argentina,4,1,Hungary,32093,293,752,ARG,HUN
+1982,Benito Villamarin,Seville ,Brazil,4,1,Scotland,47379,293,790,BRA,SCO
+1982,Riazor,La Coru´è_A ,Poland,0,0,Cameroon,19000,293,834,POL,CMR
+1982,Nuevo Estadio,Elche ,Belgium,1,0,El Salvador,15000,293,774,BEL,SLV
+1982,La Rosaleda,Malaga ,Soviet Union,3,0,New Zealand,19000,293,1054,URS,NZL
+1982,El Molinon,Gijon ,Germany FR,4,1,Chile,42000,293,813,FRG,CHI
+1982,San Mames,Bilbao ,England,2,0,Czechoslovakia,41123,293,889,ENG,TCH
+1982,Luis Casanova,Valencia ,Spain,2,1,Yugoslavia,48000,293,903,ESP,YUG
+1982,Carlos Tartiere,Oviedo ,Algeria,0,2,Austria,22000,293,739,ALG,AUT
+1982,Jose Zorrilla,Valladolid ,France,4,1,Kuwait,30043,293,919,FRA,KUW
+1982,La Romareda,Zaragoza ,Honduras,1,1,Northern Ireland,15000,293,959,HON,NIR
+1982,Riazor,La Coru´è_A ,Poland,5,1,Peru,25000,293,1055,POL,PER
+1982,Nuevo Estadio,Elche ,Belgium,1,1,Hungary,37000,293,779,BEL,HUN
+1982,La Rosaleda,Malaga ,Soviet Union,2,2,Scotland,45000,293,1071,URS,SCO
+1982,Estadio Municipal de Bala´è_dos,Vigo ,Italy,1,1,Cameroon,20000,293,828,ITA,CMR
+1982,Jose Rico Perez,Alicante ,Argentina,2,0,El Salvador,32500,293,751,ARG,SLV
+1982,Benito Villamarin,Seville ,Brazil,4,0,New Zealand,43000,293,789,BRA,NZL
+1982,Carlos Tartiere,Oviedo ,Algeria,3,2,Chile,16000,293,740,ALG,CHI
+1982,Jose Zorrilla,Valladolid ,France,1,1,Czechoslovakia,28000,293,922,FRA,TCH
+1982,La Romareda,Zaragoza ,Honduras,0,1,Yugoslavia,25000,293,962,HON,YUG
+1982,El Molinon,Gijon ,Germany FR,1,0,Austria,41000,293,770,FRG,AUT
+1982,San Mames,Bilbao ,England,1,0,Kuwait,39700,293,882,ENG,KUW
+1982,Luis Casanova,Valencia ,Northern Ireland,1,0,Spain,49562,293,902,NIR,ESP
+1982,Vicente Calderon,Madrid ,Austria,0,1,France,37000,294,767,AUT,FRA
+1982,Camp Nou,Barcelona ,Poland,3,0,Belgium,65000,294,782,POL,BEL
+1982,Sarria,Barcelona ,Italy,2,1,Argentina,43000,294,753,ITA,ARG
+1982,Santiago Bernabeu,Madrid ,Germany FR,0,0,England,75000,294,879,FRG,ENG
+1982,Vicente Calderon,Madrid ,Austria,2,2,Northern Ireland,20000,294,771,AUT,NIR
+1982,Camp Nou,Barcelona ,Belgium,0,1,Soviet Union,45000,294,783,BEL,URS
+1982,Sarria,Barcelona ,Argentina,1,3,Brazil,44000,294,750,ARG,BRA
+1982,Santiago Bernabeu,Madrid ,Germany FR,2,1,Spain,90089,294,900,FRG,ESP
+1982,Vicente Calderon,Madrid ,France,4,1,Northern Ireland,37000,294,920,FRA,NIR
+1982,Camp Nou,Barcelona ,Poland,0,0,Soviet Union,65000,294,1058,POL,URS
+1982,Sarria,Barcelona ,Italy,3,2,Brazil,44000,294,788,ITA,BRA
+1982,Santiago Bernabeu,Madrid ,Spain,0,0,England,75000,294,877,ESP,ENG
+1982,Camp Nou,Barcelona ,Poland,0,2,Italy,50000,295,996,POL,ITA
+1982,Ramon Sanchez Pizjuan,Seville ,Germany FR,3,3,France,70000,295,914,FRG,FRA
+1982,Jose Rico Perez,Alicante ,Poland,3,2,France,28000,676,921,POL,FRA
+1982,Santiago Bernabeu,Madrid ,Italy,3,1,Germany FR,90000,3475,923,ITA,FRG
+1986,Estadio Azteca,Mexico City ,Bulgaria,1,1,Italy,96000,308,459,BUL,ITA
+1986,Nou Camp - Estadio Le´è_n,Leon ,Canada,0,1,France,65500,308,468,CAN,FRA
+1986,Jalisco,Guadalajara ,Spain,0,1,Brazil,35748,308,439,ESP,BRA
+1986,Estadio Irapuato,Irapuato ,Soviet Union,6,0,Hungary,16500,308,610,URS,HUN
+1986,Estadio Ol´è_mpico Universitario,Mexico City ,Argentina,3,1,Korea Republic,60000,308,395,ARG,KOR
+1986,Estadio Universitario,Monterrey ,Morocco,0,0,Poland,19900,308,674,MAR,POL
+1986,Tres de Marzo,Guadalajara ,Algeria,1,1,Northern Ireland,22000,308,379,ALG,NIR
+1986,Estadio Azteca,Mexico City ,Belgium,1,2,Mexico,110000,308,428,BEL,MEX
+1986,Tecnologico,Monterrey ,Portugal,1,0,England,23000,308,538,POR,ENG
+1986,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,1,0,Iraq,24000,308,628,PAR,IRQ
+1986,Neza,Nezahualcoyotl ,Scotland,0,1,Denmark,18000,308,517,SCO,DEN
+1986,Estadio Corregidora,Queretaro ,Uruguay,1,1,Germany FR,30500,308,585,URU,FRG
+1986,Cuauhtemoc,Puebla ,Italy,1,1,Argentina,32000,308,394,ITA,ARG
+1986,Nou Camp - Estadio Le´è_n,Leon ,France,1,1,Soviet Union,36540,308,571,FRA,URS
+1986,Estadio Ol´è_mpico Universitario,Mexico City ,Korea Republic,1,1,Bulgaria,45000,308,460,KOR,BUL
+1986,Estadio Irapuato,Irapuato ,Hungary,2,0,Canada,13800,308,475,HUN,CAN
+1986,Jalisco,Guadalajara ,Brazil,1,0,Algeria,48000,308,377,BRA,ALG
+1986,Tecnologico,Monterrey ,England,0,0,Morocco,20200,308,533,ENG,MAR
+1986,Tres de Marzo,Guadalajara ,Northern Ireland,1,2,Spain,28000,308,551,NIR,ESP
+1986,Estadio Azteca,Mexico City ,Mexico,1,1,Paraguay,114600,308,680,MEX,PAR
+1986,Estadio Universitario,Monterrey ,Poland,1,0,Portugal,19915,308,701,POL,POR
+1986,Bombonera - Estadio Nemesio Diez,Toluca ,Iraq,1,2,Belgium,20000,308,427,IRQ,BEL
+1986,Neza,Nezahualcoyotl ,Denmark,6,1,Uruguay,26500,308,522,DEN,URU
+1986,Estadio Corregidora,Queretaro ,Germany FR,2,1,Scotland,30000,308,580,FRG,SCO
+1986,Nou Camp - Estadio Le´è_n,Leon ,Hungary,0,3,France,31420,308,567,HUN,FRA
+1986,Estadio Irapuato,Irapuato ,Soviet Union,2,0,Canada,14200,308,476,URS,CAN
+1986,Cuauhtemoc,Puebla ,Korea Republic,2,3,Italy,20000,308,643,KOR,ITA
+1986,Estadio Ol´è_mpico Universitario,Mexico City ,Argentina,2,0,Bulgaria,65000,308,389,ARG,BUL
+1986,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,2,2,Belgium,16000,308,429,PAR,BEL
+1986,Estadio Azteca,Mexico City ,Iraq,0,1,Mexico,103763,308,627,IRQ,MEX
+1986,Tres de Marzo,Guadalajara ,Portugal,1,3,Morocco,28000,308,675,POR,MAR
+1986,Tecnologico,Monterrey ,England,3,0,Poland,22700,308,537,ENG,POL
+1986,Jalisco,Guadalajara ,Northern Ireland,0,3,Brazil,51000,308,441,NIR,BRA
+1986,Tecnologico,Monterrey ,Algeria,0,3,Spain,23980,308,378,ALG,ESP
+1986,Neza,Nezahualcoyotl ,Scotland,0,0,Uruguay,20000,308,712,SCO,URU
+1986,Estadio Corregidora,Queretaro ,Denmark,2,0,Germany FR,36000,308,512,DEN,FRG
+1986,Nou Camp - Estadio Le´è_n,Leon ,Soviet Union,3,4,Belgium,32277,309,432,URS,BEL
+1986,Estadio Azteca,Mexico City ,Mexico,2,0,Bulgaria,114580,309,463,MEX,BUL
+1986,Cuauhtemoc,Puebla ,Argentina,1,0,Uruguay,26000,309,398,ARG,URU
+1986,Jalisco,Guadalajara ,Brazil,4,0,Poland,45000,309,444,BRA,POL
+1986,Estadio Ol´è_mpico Universitario,Mexico City ,Italy,0,2,France,70000,309,568,ITA,FRA
+1986,Estadio Universitario,Monterrey ,Morocco,0,1,Germany FR,19800,309,574,MAR,FRG
+1986,Estadio Azteca,Mexico City ,England,3,0,Paraguay,98728,309,536,ENG,PAR
+1986,Estadio Corregidora,Queretaro ,Denmark,1,5,Spain,38500,309,511,DEN,ESP
+1986,Jalisco,Guadalajara ,Brazil,1,1,France,65000,714,440,BRA,FRA
+1986,Estadio Universitario,Monterrey ,Germany FR,0,0,Mexico,41700,714,575,FRG,MEX
+1986,Cuauhtemoc,Puebla ,Spain,1,1,Belgium,45000,714,421,ESP,BEL
+1986,Estadio Azteca,Mexico City ,Argentina,2,1,England,114580,714,392,ARG,ENG
+1986,Jalisco,Guadalajara ,France,0,2,Germany FR,45000,3469,564,FRA,FRG
+1986,Estadio Azteca,Mexico City ,Argentina,2,0,Belgium,114500,3469,388,ARG,BEL
+1986,Cuauhtemoc,Puebla ,France,4,2,Belgium,21000,3468,422,FRA,BEL
+1986,Estadio Azteca,Mexico City ,Argentina,3,2,Germany FR,114600,3467,393,ARG,FRG
+1990,Giuseppe Meazza,Milan ,Argentina,0,1,Cameroon,73780,322,26,ARG,CMR
+1990,Stadio San Nicola,Bari ,Soviet Union,0,2,Romania,42907,322,342,URS,ROU
+1990,Renato Dall Ara,Bologna ,"rn"">United Arab Emirates",0,2,Colombia,30791,322,119,UAE,COL
+1990,Stadio Olimpico,Rome ,Italy,1,0,Austria,73303,322,42,ITA,AUT
+1990,Comunale,Florence ,USA,1,5,Czechoslovakia,33266,322,355,USA,TCH
+1990,Stadio delle Alpi,Turin ,Brazil,2,1,Sweden,62628,322,75,BRA,SWE
+1990,Giuseppe Meazza,Milan ,Germany FR,4,1,Yugoslavia,74765,322,201,FRG,YUG
+1990,Luigi Ferraris,Genoa ,Costa Rica,1,0,Scotland,30867,322,127,CRC,SCO
+1990,Sant Elia,Cagliari ,England,1,1,"rn"">Republic of Ireland",35238,322,161,ENG,IRL
+1990,Marc Antonio Bentegodi,Verona ,Belgium,2,0,Korea Republic,32790,322,57,BEL,KOR
+1990,Della Favorita,Palermo ,Netherlands,1,1,Egypt,33288,322,151,NED,EGY
+1990,Dacia Arena,Udine ,Uruguay,0,0,Spain,35713,322,180,URU,ESP
+1990,San Paolo,Naples ,Argentina,2,0,Soviet Union,55759,322,30,ARG,URS
+1990,Stadio San Nicola,Bari ,Cameroon,2,1,Romania,38687,322,108,CMR,ROU
+1990,Renato Dall Ara,Bologna ,Yugoslavia,1,0,Colombia,32257,322,120,YUG,COL
+1990,Stadio Olimpico,Rome ,Italy,1,0,USA,73423,322,265,ITA,USA
+1990,Comunale,Florence ,Austria,0,1,Czechoslovakia,38962,322,43,AUT,TCH
+1990,Giuseppe Meazza,Milan ,Germany FR,5,1,"rn"">United Arab Emirates",71169,322,198,FRG,UAE
+1990,Stadio delle Alpi,Turin ,Brazil,1,0,Costa Rica,58007,322,73,BRA,CRC
+1990,Luigi Ferraris,Genoa ,Sweden,1,2,Scotland,31823,322,348,SWE,SCO
+1990,Sant Elia,Cagliari ,England,0,0,Netherlands,35267,322,160,ENG,NED
+1990,Della Favorita,Palermo ,"rn"">Republic of Ireland",0,0,Egypt,33288,322,152,IRL,EGY
+1990,Dacia Arena,Udine ,Korea Republic,1,3,Spain,32733,322,175,KOR,ESP
+1990,Marc Antonio Bentegodi,Verona ,Belgium,3,1,Uruguay,33759,322,66,BEL,URU
+1990,San Paolo,Naples ,Argentina,1,1,Romania,52733,322,29,ARG,ROU
+1990,Stadio San Nicola,Bari ,Cameroon,0,4,Soviet Union,37307,322,111,CMR,URS
+1990,Giuseppe Meazza,Milan ,Germany FR,1,1,Colombia,72510,322,114,FRG,COL
+1990,Renato Dall Ara,Bologna ,Yugoslavia,4,1,"rn"">United Arab Emirates",27833,322,364,YUG,UAE
+1990,Stadio Olimpico,Rome ,Italy,2,0,Czechoslovakia,73303,322,263,ITA,TCH
+1990,Comunale,Florence ,Austria,2,1,USA,34857,322,48,AUT,USA
+1990,Stadio delle Alpi,Turin ,Brazil,1,0,Scotland,62502,322,74,BRA,SCO
+1990,Luigi Ferraris,Genoa ,Sweden,1,2,Costa Rica,30223,322,128,SWE,CRC
+1990,Friuli,Udine ,Korea Republic,0,1,Uruguay,29039,322,290,KOR,URU
+1990,Marc Antonio Bentegodi,Verona ,Belgium,1,2,Spain,35950,322,56,BEL,ESP
+1990,Della Favorita,Palermo ,"rn"">Republic of Ireland",1,1,Netherlands,33288,322,228,IRL,NED
+1990,Sant Elia,Cagliari ,England,1,0,Egypt,34959,322,150,ENG,EGY
+1990,San Paolo,Naples ,Cameroon,2,1,Colombia,50026,323,102,CMR,COL
+1990,Stadio San Nicola,Bari ,Czechoslovakia,4,1,Costa Rica,47673,323,129,TCH,CRC
+1990,Stadio delle Alpi,Turin ,Brazil,0,1,Argentina,61381,323,25,BRA,ARG
+1990,Giuseppe Meazza,Milan ,Germany FR,2,1,Netherlands,74559,323,196,FRG,NED
+1990,Luigi Ferraris,Genoa ,"rn"">Republic of Ireland",0,0,Romania,31818,323,248,IRL,ROU
+1990,Stadio Olimpico,Rome ,Italy,2,0,Uruguay,73303,323,264,ITA,URU
+1990,Marc Antonio Bentegodi,Verona ,Spain,1,2,Yugoslavia,35500,323,181,ESP,YUG
+1990,Renato Dall Ara,Bologna ,England,1,0,Belgium,34520,323,55,ENG,BEL
+1990,Comunale,Florence ,Yugoslavia,0,0,Argentina,38971,751,31,YUG,ARG
+1990,Stadio Olimpico,Rome ,Italy,1,0,"rn"">Republic of Ireland",73303,751,243,ITA,IRL
+1990,Giuseppe Meazza,Milan ,Germany FR,1,0,Czechoslovakia,73347,751,197,FRG,TCH
+1990,San Paolo,Naples ,England,3,2,Cameroon,55205,751,103,ENG,CMR
+1990,San Paolo,Naples ,Italy,1,1,Argentina,59978,3464,28,ITA,ARG
+1990,Stadio delle Alpi,Turin ,Germany FR,1,1,England,62628,3464,159,FRG,ENG
+1990,Stadio San Nicola,Bari ,Italy,2,1,England,51426,3463,162,ITA,ENG
+1990,Stadio Olimpico,Rome ,Germany FR,1,0,Argentina,73603,3462,27,FRG,ARG
+1994,Cotton Bowl,Dallas ,Spain,2,2,Korea Republic,56247,337,3050,ESP,KOR
+1994,Soldier Field,Chicago ,Germany,1,0,Bolivia,63117,337,3049,GER,BOL
+1994,Pontiac Silverdome,Detroit ,USA,1,1,Switzerland,73425,337,3051,USA,SUI
+1994,Giants Stadium,New York/New Jersey ,Italy,0,1,"rn"">Republic of Ireland",75338,337,3052,ITA,IRL
+1994,Rose Bowl,Los Angeles ,Colombia,1,3,Romania,91856,337,3053,COL,ROU
+1994,Citrus Bowl,Orlando ,Belgium,1,0,Morocco,61219,337,3054,BEL,MAR
+1994,RFK Stadium,Washington Dc ,Norway,1,0,Mexico,52395,337,3055,NOR,MEX
+1994,Rose Bowl,Los Angeles ,Cameroon,2,2,Sweden,93194,337,3056,CMR,SWE
+1994,RFK Stadium,Washington Dc ,Netherlands,2,1,Saudi Arabia,50535,337,3058,NED,KSA
+1994,Stanford Stadium,San Francisco ,Brazil,2,0,Russia,81061,337,3057,BRA,RUS
+1994,Foxboro Stadium,Boston ,Argentina,4,0,Greece,54456,337,3059,ARG,GRE
+1994,Cotton Bowl,Dallas ,Nigeria,3,0,Bulgaria,44132,337,3061,NGA,BUL
+1994,Soldier Field,Chicago ,Germany,1,1,Spain,63113,337,3060,GER,ESP
+1994,Pontiac Silverdome,Detroit ,Romania,1,4,Switzerland,61428,337,3062,ROU,SUI
+1994,Rose Bowl,Los Angeles ,USA,2,1,Colombia,93869,337,3063,USA,COL
+1994,Giants Stadium,New York/New Jersey ,Italy,1,0,Norway,74624,337,3064,ITA,NOR
+1994,Foxboro Stadium,Boston ,Korea Republic,0,0,Bolivia,54453,337,3065,KOR,BOL
+1994,Citrus Bowl,Orlando ,Mexico,2,1,"rn"">Republic of Ireland",60790,337,3066,MEX,IRL
+1994,Pontiac Silverdome,Detroit ,Sweden,3,1,Russia,71528,337,3068,SWE,RUS
+1994,Stanford Stadium,San Francisco ,Brazil,3,0,Cameroon,83401,337,3067,BRA,CMR
+1994,Citrus Bowl,Orlando ,Belgium,1,0,Netherlands,62387,337,3069,BEL,NED
+1994,Giants Stadium,New York/New Jersey ,Saudi Arabia,2,1,Morocco,76322,337,3070,KSA,MAR
+1994,Foxboro Stadium,Boston ,Argentina,2,1,Nigeria,54453,337,3071,ARG,NGA
+1994,Soldier Field,Chicago ,Bulgaria,4,0,Greece,63160,337,3072,BUL,GRE
+1994,Rose Bowl,Los Angeles ,USA,0,1,Romania,93869,337,3073,USA,ROU
+1994,Stanford Stadium,San Francisco ,Switzerland,0,2,Colombia,83401,337,3074,SUI,COL
+1994,Cotton Bowl,Dallas ,Germany,3,2,Korea Republic,63998,337,3076,GER,KOR
+1994,Soldier Field,Chicago ,Bolivia,1,3,Spain,63089,337,3075,BOL,ESP
+1994,Giants Stadium,New York/New Jersey ,"rn"">Republic of Ireland",0,0,Norway,72404,337,3077,IRL,NOR
+1994,Pontiac Silverdome,Detroit ,Brazil,1,1,Sweden,77217,337,3080,BRA,SWE
+1994,RFK Stadium,Washington Dc ,Italy,1,1,Mexico,52535,337,3078,ITA,MEX
+1994,Stanford Stadium,San Francisco ,Russia,6,1,Cameroon,74914,337,3079,RUS,CMR
+1994,Citrus Bowl,Orlando ,Morocco,1,2,Netherlands,60578,337,3081,MAR,NED
+1994,RFK Stadium,Washington Dc ,Belgium,0,1,Saudi Arabia,52959,337,3082,BEL,KSA
+1994,Foxboro Stadium,Boston ,Greece,0,2,Nigeria,53001,337,3083,GRE,NGA
+1994,Cotton Bowl,Dallas ,Argentina,0,2,Bulgaria,63998,337,3084,ARG,BUL
+1994,Soldier Field,Chicago ,Germany,3,2,Belgium,60246,338,3085,GER,BEL
+1994,RFK Stadium,Washington Dc ,Spain,3,0,Switzerland,53121,338,3086,ESP,SUI
+1994,Cotton Bowl,Dallas ,Saudi Arabia,1,3,Sweden,60277,338,3087,KSA,SWE
+1994,Rose Bowl,Los Angeles ,Romania,3,2,Argentina,90469,338,3088,ROU,ARG
+1994,Citrus Bowl,Orlando ,Netherlands,2,0,"rn"">Republic of Ireland",61355,338,3089,NED,IRL
+1994,Stanford Stadium,San Francisco ,Brazil,1,0,USA,84147,338,3090,BRA,USA
+1994,Foxboro Stadium,Boston ,Nigeria,1,2,Italy,54367,338,3091,NGA,ITA
+1994,Giants Stadium,New York/New Jersey ,Mexico,1,1,Bulgaria,71030,338,3092,MEX,BUL
+1994,Foxboro Stadium,Boston ,Italy,2,1,Spain,53400,796,3097,ITA,ESP
+1994,Cotton Bowl,Dallas ,Netherlands,2,3,Brazil,63500,796,3098,NED,BRA
+1994,Giants Stadium,New York/New Jersey ,Bulgaria,2,1,Germany,72000,796,3096,BUL,GER
+1994,Stanford Stadium,San Francisco ,Romania,2,2,Sweden,83500,796,3095,ROU,SWE
+1994,Giants Stadium,New York/New Jersey ,Bulgaria,1,2,Italy,74110,3461,3100,BUL,ITA
+1994,Rose Bowl,Los Angeles ,Sweden,0,1,Brazil,91856,3461,3099,SWE,BRA
+1994,Rose Bowl,Los Angeles ,Sweden,4,0,Bulgaria,91500,3460,3103,SWE,BUL
+1994,Rose Bowl,Los Angeles ,Brazil,0,0,Italy,94194,3459,3104,BRA,ITA
+1998,Stade de France,Saint-Denis ,Brazil,2,1,Scotland,80000,1014,4000,BRA,SCO
+1998,La Mosson,Montpellier ,Morocco,2,2,Norway,29800,1014,8725,MAR,NOR
+1998,Stade du Parc Lescure,Bordeaux ,Italy,2,2,Chile,31800,1014,8726,ITA,CHI
+1998,Stade Municipal,Toulouse ,Cameroon,1,1,Austria,33500,1014,8727,CMR,AUT
+1998,La Mosson,Montpellier ,Paraguay,0,0,Bulgaria,29800,1014,8728,PAR,BUL
+1998,Stade Felix Bollaert,Lens ,Saudi Arabia,0,1,Denmark,38100,1014,8729,KSA,DEN
+1998,Stade V´è_lodrome,Marseilles ,France,3,0,South Africa,55000,1014,8730,FRA,RSA
+1998,La Beaujoire,Nantes ,Spain,2,3,Nigeria,35500,1014,8731,ESP,NGA
+1998,Stade de Gerland,Lyon ,Korea Republic,1,3,Mexico,39100,1014,8732,KOR,MEX
+1998,Stade de France,Saint-Denis ,Netherlands,0,0,Belgium,77000,1014,8733,NED,BEL
+1998,Stade Municipal,Toulouse ,Argentina,1,0,Japan,33500,1014,8734,ARG,JPN
+1998,Stade Geoffroy Guichard,Saint-Etienne ,Yugoslavia,1,0,Iran,30600,1014,8735,YUG,IRN
+1998,Stade Felix Bollaert,Lens ,Jamaica,1,3,Croatia,38100,1014,8736,JAM,CRO
+1998,Stade V´è_lodrome,Marseilles ,England,2,0,Tunisia,55000,1014,8740,ENG,TUN
+1998,Stade de Gerland,Lyon ,Romania,1,0,Colombia,39100,1014,8739,ROU,COL
+1998,Parc des Princes,Paris ,Germany,2,0,USA,45500,1014,8738,GER,USA
+1998,Stade du Parc Lescure,Bordeaux ,Scotland,1,1,Norway,31800,1014,8741,SCO,NOR
+1998,La Beaujoire,Nantes ,Brazil,3,0,Morocco,35500,1014,8742,BRA,MAR
+1998,Stade Geoffroy Guichard,Saint-Etienne ,Chile,1,1,Austria,30600,1014,8743,CHI,AUT
+1998,La Mosson,Montpellier ,Italy,3,0,Cameroon,29800,1014,8744,ITA,CMR
+1998,Stade Municipal,Toulouse ,South Africa,1,1,Denmark,33500,1014,8746,RSA,DEN
+1998,Stade de France,Saint-Denis ,France,4,0,Saudi Arabia,80000,1014,8745,FRA,KSA
+1998,Parc des Princes,Paris ,Nigeria,1,0,Bulgaria,45500,1014,8747,NGA,BUL
+1998,Stade Geoffroy Guichard,Saint-Etienne ,Spain,0,0,Paraguay,30600,1014,8748,ESP,PAR
+1998,La Beaujoire,Nantes ,Japan,0,1,Croatia,35500,1014,8751,JPN,CRO
+1998,Stade du Parc Lescure,Bordeaux ,Belgium,2,2,Mexico,31800,1014,8750,BEL,MEX
+1998,Stade V´è_lodrome,Marseilles ,Netherlands,5,0,Korea Republic,55000,1014,8749,NED,KOR
+1998,Stade Felix Bollaert,Lens ,Germany,2,2,Yugoslavia,38100,1014,8753,GER,YUG
+1998,Parc des Princes,Paris ,Argentina,5,0,Jamaica,45500,1014,8752,ARG,JAM
+1998,Stade de Gerland,Lyon ,USA,1,2,Iran,39100,1014,8754,USA,IRN
+1998,La Mosson,Montpellier ,Colombia,1,0,Tunisia,29800,1014,8755,COL,TUN
+1998,Stade Municipal,Toulouse ,Romania,2,1,England,33500,1014,8756,ROU,ENG
+1998,Stade de France,Saint-Denis ,Italy,2,1,Austria,80000,1014,8757,ITA,AUT
+1998,La Beaujoire,Nantes ,Chile,1,1,Cameroon,35500,1014,8760,CHI,CMR
+1998,Stade Geoffroy Guichard,Saint-Etienne ,Scotland,0,3,Morocco,30600,1014,8758,SCO,MAR
+1998,Stade V´è_lodrome,Marseilles ,Brazil,1,2,Norway,55000,1014,8759,BRA,NOR
+1998,Stade de Gerland,Lyon ,France,2,1,Denmark,39100,1014,8762,FRA,DEN
+1998,Stade du Parc Lescure,Bordeaux ,South Africa,2,2,Saudi Arabia,31800,1014,8764,RSA,KSA
+1998,Stade Felix Bollaert,Lens ,Spain,6,1,Bulgaria,38100,1014,8761,ESP,BUL
+1998,Stade Municipal,Toulouse ,Nigeria,1,3,Paraguay,33500,1014,8763,NGA,PAR
+1998,Parc des Princes,Paris ,Belgium,1,1,Korea Republic,45500,1014,8765,BEL,KOR
+1998,Stade Geoffroy Guichard,Saint-Etienne ,Netherlands,2,2,Mexico,30600,1014,8766,NED,MEX
+1998,La Mosson,Montpellier ,Germany,2,0,Iran,29800,1014,8767,GER,IRN
+1998,La Beaujoire,Nantes ,USA,0,1,Yugoslavia,35500,1014,8768,USA,YUG
+1998,Stade de Gerland,Lyon ,Japan,1,2,Jamaica,39100,1014,8771,JPN,JAM
+1998,Stade du Parc Lescure,Bordeaux ,Argentina,1,0,Croatia,31800,1014,8772,ARG,CRO
+1998,Stade de France,Saint-Denis ,Romania,1,1,Tunisia,77000,1014,8769,ROU,TUN
+1998,Stade Felix Bollaert,Lens ,Colombia,0,2,England,38100,1014,8770,COL,ENG
+1998,Stade V´è_lodrome,Marseilles ,Italy,1,0,Norway,55000,1024,8774,ITA,NOR
+1998,Parc des Princes,Paris ,Brazil,4,1,Chile,45500,1024,8773,BRA,CHI
+1998,Stade Felix Bollaert,Lens ,France,1,0,Paraguay,31800,1024,8776,FRA,PAR
+1998,Stade de France,Saint-Denis ,Nigeria,1,4,Denmark,77000,1024,8775,NGA,DEN
+1998,La Mosson,Montpellier ,Germany,2,1,Mexico,29800,1024,8777,GER,MEX
+1998,Stade Municipal,Toulouse ,Netherlands,2,1,Yugoslavia,33500,1024,8778,NED,YUG
+1998,Stade du Parc Lescure,Bordeaux ,Romania,0,1,Croatia,31800,1024,8780,ROU,CRO
+1998,Stade Geoffroy Guichard,Saint-Etienne ,Argentina,2,2,England,30600,1024,8779,ARG,ENG
+1998,Stade de France,Saint-Denis ,Italy,0,0,France,77000,1025,8781,ITA,FRA
+1998,La Beaujoire,Nantes ,Brazil,3,2,Denmark,35500,1025,8782,BRA,DEN
+1998,Stade V´è_lodrome,Marseilles ,Netherlands,2,1,Argentina,55000,1025,8784,NED,ARG
+1998,Stade de Gerland,Lyon ,Germany,0,3,Croatia,39100,1025,8783,GER,CRO
+1998,Stade V´è_lodrome,Marseilles ,Brazil,1,1,Netherlands,54000,1026,8785,BRA,NED
+1998,Stade de France,Saint-Denis ,France,2,1,Croatia,76000,1026,8786,FRA,CRO
+1998,Parc des Princes,Paris ,Netherlands,1,2,Croatia,45500,1028,8787,NED,CRO
+1998,Stade de France,Saint-Denis ,Brazil,0,3,France,80000,1027,8788,BRA,FRA
+2002,Seoul World Cup Stadium,Seoul ,France,0,1,Senegal,62561,43950100,43950001,FRA,SEN
+2002,Munsu Football Stadium,Ulsan ,Uruguay,1,2,Denmark,30157,43950100,43950003,URU,DEN
+2002,Niigata Stadium Big Swan,Niigata ,"rn"">Republic of Ireland",1,1,Cameroon,33679,43950100,43950002,IRL,CMR
+2002,Sapporo Dome,Sapporo ,Germany,8,0,Saudi Arabia,32218,43950100,43950004,GER,KSA
+2002,Kashima Stadium,Ibaraki ,Argentina,1,0,Nigeria,34050,43950100,43950007,ARG,NGA
+2002,Busan Asiad Main Stadium,Busan ,Paraguay,2,2,South Africa,25186,43950100,43950006,PAR,RSA
+2002,Saitama Stadium 2002,Saitama ,England,1,1,Sweden,52721,43950100,43950005,ENG,SWE
+2002,Gwangju World Cup Stadium,Gwangju ,Spain,3,1,Slovenia,28598,43950100,43950008,ESP,SVN
+2002,Munsu Football Stadium,Ulsan ,Brazil,2,1,Turkey,33842,43950100,43950010,BRA,TUR
+2002,Sapporo Dome,Sapporo ,Italy,2,0,Ecuador,31081,43950100,43950011,ITA,ECU
+2002,Niigata Stadium Big Swan,Niigata ,Croatia,0,1,Mexico,32239,43950100,43950009,CRO,MEX
+2002,Gwangju World Cup Stadium,Gwangju ,China PR,0,2,Costa Rica,27217,43950100,43950012,CHN,CRC
+2002,Saitama Stadium 2002,Saitama ,Japan,2,2,Belgium,55256,43950100,43950013,JPN,BEL
+2002,Busan Asiad Main Stadium,Busan ,Korea Republic,2,0,Poland,48760,43950100,43950014,KOR,POL
+2002,Kobe Wing Stadium,Kobe ,Russia,2,0,Tunisia,30957,43950100,43950015,RUS,TUN
+2002,Suwon World Cup Stadium,Suwon ,USA,3,2,Portugal,37306,43950100,43950016,USA,POR
+2002,Kashima Stadium,Ibaraki ,Germany,1,1,"rn"">Republic of Ireland",35854,43950100,43950017,GER,IRL
+2002,Daegu World Cup Stadium,Daegu ,Denmark,1,1,Senegal,43500,43950100,43950020,DEN,SEN
+2002,Saitama Stadium 2002,Saitama ,Cameroon,1,0,Saudi Arabia,52328,43950100,43950019,CMR,KSA
+2002,Busan Asiad Main Stadium,Busan ,France,0,0,Uruguay,38289,43950100,43950018,FRA,URU
+2002,Kobe Wing Stadium,Kobe ,Sweden,2,1,Nigeria,36194,43950100,43950021,SWE,NGA
+2002,Sapporo Dome,Sapporo ,Argentina,0,1,England,35927,43950100,43950023,ARG,ENG
+2002,Jeonju World Cup Stadium,Jeonju ,Spain,3,1,Paraguay,24000,43950100,43950022,ESP,PAR
+2002,Daegu World Cup Stadium,Daegu ,South Africa,1,0,Slovenia,47226,43950100,43950024,RSA,SVN
+2002,Jeju World Cup Stadium,Jeju ,Brazil,4,0,China PR,36750,43950100,43950026,BRA,CHN
+2002,Kashima Stadium,Ibaraki ,Italy,1,2,Croatia,36472,43950100,43950025,ITA,CRO
+2002,Incheon Football Stadium,Incheon ,Costa Rica,1,1,Turkey,42299,43950100,43950028,CRC,TUR
+2002,International Stadium Yokohama,Yokohama ,Japan,1,0,Russia,66108,43950100,43950029,JPN,RUS
+2002,Miyagi Stadium,Rifu ,Mexico,2,1,Ecuador,45610,43950100,43950027,MEX,ECU
+2002,Daegu World Cup Stadium,Daegu ,Korea Republic,1,1,USA,60778,43950100,43950030,KOR,USA
+2002,Jeonju World Cup Stadium,Jeonju ,Portugal,4,0,Poland,31000,43950100,43950032,POR,POL
+2002,Oita Stadium Big Eye,Oita ,Tunisia,1,1,Belgium,39700,43950100,43950031,TUN,BEL
+2002,Incheon Football Stadium,Incheon ,Denmark,2,0,France,48100,43950100,43950033,DEN,FRA
+2002,Suwon World Cup Stadium,Suwon ,Senegal,3,3,Uruguay,33681,43950100,43950034,SEN,URU
+2002,International Stadium Yokohama,Yokohama ,Saudi Arabia,0,3,"rn"">Republic of Ireland",65320,43950100,43950036,KSA,IRL
+2002,Shizuoka Stadium Ecopa,Shizuoka ,Cameroon,0,2,Germany,47085,43950100,43950035,CMR,GER
+2002,Miyagi Stadium,Rifu ,Sweden,1,1,Argentina,45777,43950100,43950037,SWE,ARG
+2002,Osaka Nagai Stadium,Osaka ,Nigeria,0,0,England,44864,43950100,43950038,NGA,ENG
+2002,Jeju World Cup Stadium,Jeju ,Slovenia,1,3,Paraguay,30176,43950100,43950040,SVN,PAR
+2002,Daejeon World Cup Stadium,Daejeon ,South Africa,2,3,Spain,31024,43950100,43950039,RSA,ESP
+2002,Suwon World Cup Stadium,Suwon ,Costa Rica,2,5,Brazil,38524,43950100,43950041,CRC,BRA
+2002,Seoul World Cup Stadium,Seoul ,Turkey,3,0,China PR,43605,43950100,43950042,TUR,CHN
+2002,International Stadium Yokohama,Yokohama ,Ecuador,1,0,Croatia,65862,43950100,43950044,ECU,CRO
+2002,Oita Stadium Big Eye,Oita ,Mexico,1,1,Italy,39291,43950100,43950043,MEX,ITA
+2002,Osaka Nagai Stadium,Osaka ,Tunisia,0,2,Japan,45213,43950100,43950045,TUN,JPN
+2002,Incheon Football Stadium,Incheon ,Portugal,0,1,Korea Republic,50239,43950100,43950047,POR,KOR
+2002,Daejeon World Cup Stadium,Daejeon ,Poland,3,1,USA,26482,43950100,43950048,POL,USA
+2002,Shizuoka Stadium Ecopa,Shizuoka ,Belgium,3,2,Russia,46640,43950100,43950046,BEL,RUS
+2002,Niigata Stadium Big Swan,Niigata ,Denmark,0,3,England,40582,43950200,43950050,DEN,ENG
+2002,Jeju World Cup Stadium,Jeju ,Germany,1,0,Paraguay,25176,43950200,43950049,GER,PAR
+2002,Suwon World Cup Stadium,Suwon ,Spain,1,1,"rn"">Republic of Ireland",38926,43950200,43950052,ESP,IRL
+2002,Oita Stadium Big Eye,Oita ,Sweden,1,2,Senegal,39747,43950200,43950051,SWE,SEN
+2002,Kobe Wing Stadium,Kobe ,Brazil,2,0,Belgium,40440,43950200,43950054,BRA,BEL
+2002,Jeonju World Cup Stadium,Jeonju ,Mexico,0,2,USA,36380,43950200,43950053,MEX,USA
+2002,Miyagi Stadium,Rifu ,Japan,0,1,Turkey,45666,43950200,43950055,JPN,TUR
+2002,Daejeon World Cup Stadium,Daejeon ,Korea Republic,2,1,Italy,38588,43950200,43950056,KOR,ITA
+2002,Shizuoka Stadium Ecopa,Shizuoka ,England,1,2,Brazil,47436,43950300,43950057,ENG,BRA
+2002,Munsu Football Stadium,Ulsan ,Germany,1,0,USA,37337,43950300,43950058,GER,USA
+2002,Osaka Nagai Stadium,Osaka ,Senegal,0,1,Turkey,44233,43950300,43950060,SEN,TUR
+2002,Gwangju World Cup Stadium,Gwangju ,Spain,0,0,Korea Republic,42114,43950300,43950059,ESP,KOR
+2002,Seoul World Cup Stadium,Seoul ,Germany,1,0,Korea Republic,65256,43950400,43950061,GER,KOR
+2002,Saitama Stadium 2002,Saitama ,Brazil,1,0,Turkey,61058,43950400,43950062,BRA,TUR
+2002,Daegu World Cup Stadium,Daegu ,Korea Republic,2,3,Turkey,63483,43950500,43950063,KOR,TUR
+2002,International Stadium Yokohama,Yokohama ,Germany,0,2,Brazil,69029,43950600,43950064,GER,BRA
+2006,"FIFA World Cup Stadium, Munich",Munich ,Germany,4,2,Costa Rica,66000,97410100,97410001,GER,CRC
+2006,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Poland,0,2,Ecuador,52000,97410100,97410002,POL,ECU
+2006,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,England,1,0,Paraguay,48000,97410100,97410003,ENG,PAR
+2006,"FIFA World Cup Stadium, Dortmund",Dortmund ,"rn"">Trinidad and Tobago",0,0,Sweden,62959,97410100,97410004,TRI,SWE
+2006,"FIFA World Cup Stadium, Hamburg",Hamburg ,Argentina,2,1,C´è_te d'Ivoire,49480,97410100,97410005,ARG,CIV
+2006,Zentralstadion,Leipzig ,"rn"">Serbia and Montenegro",0,1,Netherlands,43000,97410100,97410006,SCG,NED
+2006,Franken-Stadion,Nuremberg ,Mexico,3,1,Iran,41000,97410100,97410007,MEX,IRN
+2006,"FIFA World Cup Stadium, Cologne",Cologne ,Angola,0,1,Portugal,45000,97410100,97410008,ANG,POR
+2006,Fritz-Walter-Stadion,Kaiserslautern ,Australia,3,1,Japan,46000,97410100,97410012,AUS,JPN
+2006,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,USA,0,3,Czech Republic,52000,97410100,97410010,USA,CZE
+2006,"FIFA World Cup Stadium, Hanover",Hanover ,Italy,2,0,Ghana,43000,97410100,97410009,ITA,GHA
+2006,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Korea Republic,2,1,Togo,48000,97410100,97410014,KOR,TOG
+2006,Gottlieb-Daimler-Stadion,Stuttgart ,France,0,0,Switzerland,52000,97410100,97410013,FRA,SUI
+2006,Olympiastadion,Berlin ,Brazil,1,0,Croatia,72000,97410100,97410011,BRA,CRO
+2006,Zentralstadion,Leipzig ,Spain,4,0,Ukraine,43000,97410100,97410015,ESP,UKR
+2006,"FIFA World Cup Stadium, Munich",Munich ,Tunisia,2,2,Saudi Arabia,66000,97410100,97410016,TUN,KSA
+2006,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,1,0,Poland,65000,97410100,97410017,GER,POL
+2006,"FIFA World Cup Stadium, Hamburg",Hamburg ,Ecuador,3,0,Costa Rica,50000,97410100,97410018,ECU,CRC
+2006,Franken-Stadion,Nuremberg ,England,2,0,"rn"">Trinidad and Tobago",41000,97410100,97410019,ENG,TRI
+2006,Olympiastadion,Berlin ,Sweden,1,0,Paraguay,72000,97410100,97410020,SWE,PAR
+2006,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Argentina,6,0,"rn"">Serbia and Montenegro",52000,97410100,97410021,ARG,SCG
+2006,Gottlieb-Daimler-Stadion,Stuttgart ,Netherlands,2,1,C´è_te d'Ivoire,52000,97410100,97410022,NED,CIV
+2006,"FIFA World Cup Stadium, Hanover",Hanover ,Mexico,0,0,Angola,43000,97410100,97410023,MEX,ANG
+2006,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Portugal,2,0,IR Iran,48000,97410100,97410024,POR,IRN
+2006,"FIFA World Cup Stadium, Cologne",Cologne ,Czech Republic,0,2,Ghana,45000,97410100,97410026,CZE,GHA
+2006,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1,1,USA,46000,97410100,97410025,ITA,USA
+2006,Franken-Stadion,Nuremberg ,Japan,0,0,Croatia,41000,97410100,97410028,JPN,CRO
+2006,"FIFA World Cup Stadium, Munich",Munich ,Brazil,2,0,Australia,66000,97410100,97410027,BRA,AUS
+2006,Zentralstadion,Leipzig ,France,1,1,Korea Republic,43000,97410100,97410029,FRA,KOR
+2006,"FIFA World Cup Stadium, Dortmund",Dortmund ,Togo,0,2,Switzerland,65000,97410100,97410030,TOG,SUI
+2006,"FIFA World Cup Stadium, Hamburg",Hamburg ,Saudi Arabia,0,4,Ukraine,50000,97410100,97410032,KSA,UKR
+2006,Gottlieb-Daimler-Stadion,Stuttgart ,Spain,3,1,Tunisia,52000,97410100,97410031,ESP,TUN
+2006,Olympiastadion,Berlin ,Ecuador,0,3,Germany,72000,97410100,97410033,ECU,GER
+2006,"FIFA World Cup Stadium, Hanover",Hanover ,Costa Rica,1,2,Poland,43000,97410100,97410034,CRC,POL
+2006,"FIFA World Cup Stadium, Cologne",Cologne ,Sweden,2,2,England,45000,97410100,97410035,SWE,ENG
+2006,Fritz-Walter-Stadion,Kaiserslautern ,Paraguay,2,0,"rn"">Trinidad and Tobago",46000,97410100,97410036,PAR,TRI
+2006,Zentralstadion,Leipzig ,Iran,1,1,Angola,38000,97410100,97410040,IRN,ANG
+2006,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Portugal,2,1,Mexico,52000,97410100,97410039,POR,MEX
+2006,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Netherlands,0,0,Argentina,48000,97410100,97410037,NED,ARG
+2006,"FIFA World Cup Stadium, Munich",Munich ,C´è_te d'Ivoire,3,2,"rn"">Serbia and Montenegro",66000,97410100,97410038,CIV,SCG
+2006,"FIFA World Cup Stadium, Hamburg",Hamburg ,Czech Republic,0,2,Italy,50000,97410100,97410041,CZE,ITA
+2006,Franken-Stadion,Nuremberg ,Ghana,2,1,USA,41000,97410100,97410042,GHA,USA
+2006,"FIFA World Cup Stadium, Dortmund",Dortmund ,Japan,1,4,Brazil,65000,97410100,97410043,JPN,BRA
+2006,Gottlieb-Daimler-Stadion,Stuttgart ,Croatia,2,2,Australia,52000,97410100,97410044,CRO,AUS
+2006,Olympiastadion,Berlin ,Ukraine,1,0,Tunisia,72000,97410100,97410048,UKR,TUN
+2006,Fritz-Walter-Stadion,Kaiserslautern ,Saudi Arabia,0,1,Spain,46000,97410100,97410047,KSA,ESP
+2006,"FIFA World Cup Stadium, Cologne",Cologne ,Togo,0,2,France,45000,97410100,97410045,TOG,FRA
+2006,"FIFA World Cup Stadium, Hanover",Hanover ,Switzerland,2,0,Korea Republic,43000,97410100,97410046,SUI,KOR
+2006,"FIFA World Cup Stadium, Munich",Munich ,Germany,2,0,Sweden,66000,97410200,97410049,GER,SWE
+2006,Zentralstadion,Leipzig ,Argentina,2,1,Mexico,43000,97410200,97410050,ARG,MEX
+2006,Gottlieb-Daimler-Stadion,Stuttgart ,England,1,0,Ecuador,52000,97410200,97410051,ENG,ECU
+2006,Franken-Stadion,Nuremberg ,Portugal,1,0,Netherlands,41000,97410200,97410052,POR,NED
+2006,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1,0,Australia,46000,97410200,97410053,ITA,AUS
+2006,"FIFA World Cup Stadium, Cologne",Cologne ,Switzerland,0,0,Ukraine,45000,97410200,97410054,SUI,UKR
+2006,"FIFA World Cup Stadium, Dortmund",Dortmund ,Brazil,3,0,Ghana,65000,97410200,97410055,BRA,GHA
+2006,"FIFA World Cup Stadium, Hanover",Hanover ,Spain,1,3,France,43000,97410200,97410056,ESP,FRA
+2006,Olympiastadion,Berlin ,Germany,1,1,Argentina,72000,97410300,97410057,GER,ARG
+2006,"FIFA World Cup Stadium, Hamburg",Hamburg ,Italy,3,0,Ukraine,50000,97410300,97410058,ITA,UKR
+2006,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,England,0,0,Portugal,52000,97410300,97410059,ENG,POR
+2006,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Brazil,0,1,France,48000,97410300,97410060,BRA,FRA
+2006,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,0,2,Italy,65000,97410400,97410061,GER,ITA
+2006,"FIFA World Cup Stadium, Munich",Munich ,Portugal,0,1,France,66000,97410400,97410062,POR,FRA
+2006,Gottlieb-Daimler-Stadion,Stuttgart ,Germany,3,1,Portugal,52000,97410500,97410063,GER,POR
+2006,Olympiastadion,Berlin ,Italy,1,1,France,69000,97410600,97410064,ITA,FRA
+2010,Soccer City Stadium,Johannesburg ,South Africa,1,1,Mexico,84490,249722,300061454,RSA,MEX
+2010,Cape Town Stadium,Cape Town ,Uruguay,0,0,France,64100,249722,300061453,URU,FRA
+2010,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Korea Republic,2,0,Greece,31513,249722,300061459,KOR,GRE
+2010,Ellis Park Stadium,Johannesburg ,Argentina,1,0,Nigeria,55686,249722,300061460,ARG,NGA
+2010,Royal Bafokeng Sports Palace,Phokeng ,England,1,1,USA,38646,249722,300061466,ENG,USA
+2010,Peter Mokaba Stadium,Polokwane ,Algeria,0,1,Slovenia,30325,249722,300061465,ALG,SVN
+2010,Loftus Versfeld Stadium,Tshwane/Pretoria ,Serbia,0,1,Ghana,38833,249722,300061471,SRB,GHA
+2010,Durban Stadium,Durban ,Germany,4,0,Australia,62660,249722,300111116,GER,AUS
+2010,Soccer City Stadium,Johannesburg ,Netherlands,2,0,Denmark,83465,249722,300061478,NED,DEN
+2010,Free State Stadium,Mangaung/Bloemfontein ,Japan,1,0,Cameroon,30620,249722,300061477,JPN,CMR
+2010,Cape Town Stadium,Cape Town ,Italy,1,1,Paraguay,62869,249722,300061484,ITA,PAR
+2010,Royal Bafokeng Sports Palace,Phokeng ,New Zealand,1,1,Slovakia,23871,249722,300061483,NZL,SVK
+2010,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,C´è_te d'Ivoire,0,0,Portugal,37034,249722,300061489,CIV,POR
+2010,Ellis Park Stadium,Johannesburg ,Brazil,2,1,Korea DPR,54331,249722,300061490,BRA,PRK
+2010,Mbombela Stadium,Nelspruit ,Honduras,0,1,Chile,32664,249722,300061495,HON,CHI
+2010,Durban Stadium,Durban ,Spain,0,1,Switzerland,62453,249722,300111112,ESP,SUI
+2010,Loftus Versfeld Stadium,Tshwane/Pretoria ,South Africa,0,3,Uruguay,42658,249722,300061452,RSA,URU
+2010,Soccer City Stadium,Johannesburg ,Argentina,4,1,Korea Republic,82174,249722,300061458,ARG,KOR
+2010,Free State Stadium,Mangaung/Bloemfontein ,Greece,2,1,Nigeria,31593,249722,300061457,GRE,NGA
+2010,Peter Mokaba Stadium,Polokwane ,France,0,2,Mexico,35370,249722,300061451,FRA,MEX
+2010,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Germany,0,1,Serbia,38294,249722,300061470,GER,SRB
+2010,Ellis Park Stadium,Johannesburg ,Slovenia,2,2,USA,45573,249722,300061463,SVN,USA
+2010,Cape Town Stadium,Cape Town ,England,0,0,Algeria,64100,249722,300061464,ENG,ALG
+2010,Durban Stadium,Durban ,Netherlands,1,0,Japan,62010,249722,300111117,NED,JPN
+2010,Royal Bafokeng Sports Palace,Phokeng ,Ghana,1,1,Australia,34812,249722,300061469,GHA,AUS
+2010,Loftus Versfeld Stadium,Tshwane/Pretoria ,Cameroon,1,2,Denmark,38074,249722,300061475,CMR,DEN
+2010,Free State Stadium,Mangaung/Bloemfontein ,Slovakia,0,2,Paraguay,26643,249722,300061481,SVK,PAR
+2010,Mbombela Stadium,Nelspruit ,Italy,1,1,New Zealand,38229,249722,300061482,ITA,NZL
+2010,Soccer City Stadium,Johannesburg ,Brazil,3,1,C´è_te d'Ivoire,84455,249722,300061488,BRA,CIV
+2010,Cape Town Stadium,Cape Town ,Portugal,7,0,Korea DPR,63644,249722,300061487,POR,PRK
+2010,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Chile,1,0,Switzerland,34872,249722,300061493,CHI,SUI
+2010,Ellis Park Stadium,Johannesburg ,Spain,2,0,Honduras,54386,249722,300061494,ESP,HON
+2010,Royal Bafokeng Sports Palace,Phokeng ,Mexico,0,1,Uruguay,33425,249722,300061450,MEX,URU
+2010,Free State Stadium,Mangaung/Bloemfontein ,France,1,2,South Africa,39415,249722,300061449,FRA,RSA
+2010,Durban Stadium,Durban ,Nigeria,2,2,Korea Republic,61874,249722,300111115,NGA,KOR
+2010,Peter Mokaba Stadium,Polokwane ,Greece,0,2,Argentina,38891,249722,300061455,GRE,ARG
+2010,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Slovenia,0,1,England,36893,249722,300061462,SVN,ENG
+2010,Loftus Versfeld Stadium,Tshwane/Pretoria ,USA,1,0,Algeria,35827,249722,300061461,USA,ALG
+2010,Soccer City Stadium,Johannesburg ,Ghana,0,1,Germany,83391,249722,300061468,GHA,GER
+2010,Mbombela Stadium,Nelspruit ,Australia,2,1,Serbia,37836,249722,300061467,AUS,SRB
+2010,Ellis Park Stadium,Johannesburg ,Slovakia,3,2,Italy,53412,249722,300061480,SVK,ITA
+2010,Peter Mokaba Stadium,Polokwane ,Paraguay,0,0,New Zealand,34850,249722,300061479,PAR,NZL
+2010,Royal Bafokeng Sports Palace,Phokeng ,Denmark,1,3,Japan,27967,249722,300061474,DEN,JPN
+2010,Cape Town Stadium,Cape Town ,Cameroon,1,2,Netherlands,63093,249722,300061473,CMR,NED
+2010,Durban Stadium,Durban ,Portugal,0,0,Brazil,62712,249722,300111111,POR,BRA
+2010,Mbombela Stadium,Nelspruit ,Korea DPR,0,3,C´è_te d'Ivoire,34763,249722,300061486,PRK,CIV
+2010,Loftus Versfeld Stadium,Tshwane/Pretoria ,Chile,1,2,Spain,41958,249722,300061491,CHI,ESP
+2010,Free State Stadium,Mangaung/Bloemfontein ,Switzerland,0,0,Honduras,28042,249722,300061492,SUI,HON
+2010,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2,1,Korea Republic,30597,249717,300061504,URU,KOR
+2010,Royal Bafokeng Sports Palace,Phokeng ,USA,1,2,Ghana,34976,249717,300061503,USA,GHA
+2010,Free State Stadium,Mangaung/Bloemfontein ,Germany,4,1,England,40510,249717,300061501,GER,ENG
+2010,Soccer City Stadium,Johannesburg ,Argentina,3,1,Mexico,84377,249717,300061502,ARG,MEX
+2010,Durban Stadium,Durban ,Netherlands,2,1,Slovakia,61962,249717,300111113,NED,SVK
+2010,Ellis Park Stadium,Johannesburg ,Brazil,3,0,Chile,54096,249717,300061500,BRA,CHI
+2010,Loftus Versfeld Stadium,Tshwane/Pretoria ,Paraguay,0,0,Japan,36742,249717,300061497,PAR,JPN
+2010,Cape Town Stadium,Cape Town ,Spain,1,0,Portugal,62955,249717,300061498,ESP,POR
+2010,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Netherlands,2,1,Brazil,40186,249718,300061507,NED,BRA
+2010,Soccer City Stadium,Johannesburg ,Uruguay,1,1,Ghana,84017,249718,300061508,URU,GHA
+2010,Cape Town Stadium,Cape Town ,Argentina,0,4,Germany,64100,249718,300061505,ARG,GER
+2010,Ellis Park Stadium,Johannesburg ,Paraguay,0,1,Spain,55359,249718,300061506,PAR,ESP
+2010,Cape Town Stadium,Cape Town ,Uruguay,2,3,Netherlands,62479,249719,300061512,URU,NED
+2010,Durban Stadium,Durban ,Germany,0,1,Spain,60960,249719,300111114,GER,ESP
+2010,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2,3,Germany,36254,249720,300061510,URU,GER
+2010,Soccer City Stadium,Johannesburg ,Netherlands,0,1,Spain,84490,249721,300061509,NED,ESP
+2014,Arena de Sao Paulo,Sao Paulo ,Brazil,3,1,Croatia,62103,255931,300186456,BRA,CRO
+2014,Estadio das Dunas,Natal ,Mexico,1,0,Cameroon,39216,255931,300186492,MEX,CMR
+2014,Arena Fonte Nova,Salvador ,Spain,1,5,Netherlands,48173,255931,300186510,ESP,NED
+2014,Arena Pantanal,Cuiaba ,Chile,3,1,Australia,40275,255931,300186473,CHI,AUS
+2014,Estadio Mineirao,Belo Horizonte ,Colombia,3,0,Greece,57174,255931,300186471,COL,GRE
+2014,Estadio Castelao,Fortaleza ,Uruguay,1,3,Costa Rica,58679,255931,300186489,URU,CRC
+2014,Arena Amazonia,Manaus ,England,1,2,Italy,39800,255931,300186513,ENG,ITA
+2014,Arena Pernambuco,Recife ,C´è_te d'Ivoire,2,1,Japan,40267,255931,300186507,CIV,JPN
+2014,Estadio Nacional,Brasilia ,Switzerland,2,1,Ecuador,68351,255931,300186494,SUI,ECU
+2014,Estadio Beira-Rio,Porto Alegre ,France,3,0,Honduras,43012,255931,300186496,FRA,HON
+2014,Estadio do Maracana,Rio De Janeiro ,Argentina,2,1,"rn"">Bosnia and Herzegovina",74738,255931,300186477,ARG,BIH
+2014,Arena Fonte Nova,Salvador ,Germany,4,0,Portugal,51081,255931,300186475,GER,POR
+2014,Arena da Baixada,Curitiba ,IR Iran,0,0,Nigeria,39081,255931,300186505,IRN,NGA
+2014,Estadio das Dunas,Natal ,Ghana,1,2,USA,39760,255931,300186512,GHA,USA
+2014,Estadio Mineirao,Belo Horizonte ,Belgium,2,1,Algeria,56800,255931,300186479,BEL,ALG
+2014,Estadio Castelao,Fortaleza ,Brazil,0,0,Mexico,60342,255931,300186509,BRA,MEX
+2014,Arena Pantanal,Cuiaba ,Russia,1,1,Korea Republic,37603,255931,300186499,RUS,KOR
+2014,Estadio Beira-Rio,Porto Alegre ,Australia,2,3,Netherlands,42877,255931,300186478,AUS,NED
+2014,Estadio do Maracana,Rio De Janeiro ,Spain,0,2,Chile,74101,255931,300186498,ESP,CHI
+2014,Arena Amazonia,Manaus ,Cameroon,0,4,Croatia,39982,255931,300186453,CMR,CRO
+2014,Estadio Nacional,Brasilia ,Colombia,2,1,C´è_te d'Ivoire,68748,255931,300186468,COL,CIV
+2014,Arena de Sao Paulo,Sao Paulo ,Uruguay,2,1,England,62575,255931,300186486,URU,ENG
+2014,Estadio das Dunas,Natal ,Japan,0,0,Greece,39485,255931,300186454,JPN,GRE
+2014,Arena Pernambuco,Recife ,Italy,0,1,Costa Rica,40285,255931,300186500,ITA,CRC
+2014,Arena Fonte Nova,Salvador ,Switzerland,2,5,France,51003,255931,300186514,SUI,FRA
+2014,Arena da Baixada,Curitiba ,Honduras,1,2,Ecuador,39224,255931,300186463,HON,ECU
+2014,Estadio Mineirao,Belo Horizonte ,Argentina,1,0,IR Iran,57698,255931,300186466,ARG,IRN
+2014,Estadio Castelao,Fortaleza ,Germany,2,2,Ghana,59621,255931,300186493,GER,GHA
+2014,Arena Pantanal,Cuiaba ,Nigeria,1,0,"rn"">Bosnia and Herzegovina",40499,255931,300186511,NGA,BIH
+2014,Estadio do Maracana,Rio De Janeiro ,Belgium,1,0,Russia,73819,255931,300186481,BEL,RUS
+2014,Estadio Beira-Rio,Porto Alegre ,Korea Republic,2,4,Algeria,42732,255931,300186495,KOR,ALG
+2014,Arena Amazonia,Manaus ,USA,2,2,Portugal,40123,255931,300186483,USA,POR
+2014,Arena da Baixada,Curitiba ,Australia,0,3,Spain,39375,255931,300186467,AUS,ESP
+2014,Arena de Sao Paulo,Sao Paulo ,Netherlands,2,0,Chile,62996,255931,300186470,NED,CHI
+2014,Estadio Nacional,Brasilia ,Cameroon,1,4,Brazil,69112,255931,300186472,CMR,BRA
+2014,Arena Pernambuco,Recife ,Croatia,1,3,Mexico,41212,255931,300186452,CRO,MEX
+2014,Estadio das Dunas,Natal ,Italy,0,1,Uruguay,39706,255931,300186465,ITA,URU
+2014,Estadio Mineirao,Belo Horizonte ,Costa Rica,0,0,England,57823,255931,300186484,CRC,ENG
+2014,Arena Pantanal,Cuiaba ,Japan,1,4,Colombia,40340,255931,300186457,JPN,COL
+2014,Estadio Castelao,Fortaleza ,Greece,2,1,C´è_te d'Ivoire,59095,255931,300186455,GRE,CIV
+2014,Estadio Beira-Rio,Porto Alegre ,Nigeria,2,3,Argentina,43285,255931,300186458,NGA,ARG
+2014,Arena Fonte Nova,Salvador ,"rn"">Bosnia and Herzegovina",3,1,IR Iran,48011,255931,300186464,BIH,IRN
+2014,Arena Amazonia,Manaus ,Honduras,0,3,Switzerland,40322,255931,300186482,HON,SUI
+2014,Estadio do Maracana,Rio De Janeiro ,Ecuador,0,0,France,73749,255931,300186515,ECU,FRA
+2014,Arena Pernambuco,Recife ,USA,0,1,Germany,41876,255931,300186469,USA,GER
+2014,Estadio Nacional,Brasilia ,Portugal,2,1,Ghana,67540,255931,300186476,POR,GHA
+2014,Arena de Sao Paulo,Sao Paulo ,Korea Republic,0,1,Belgium,61397,255931,300186480,KOR,BEL
+2014,Arena da Baixada,Curitiba ,Algeria,1,1,Russia,39311,255931,300186506,ALG,RUS
+2014,Estadio Mineirao,Belo Horizonte ,Brazil,1,1,Chile,57714,255951,300186487,BRA,CHI
+2014,Estadio do Maracana,Rio De Janeiro ,Colombia,2,0,Uruguay,73804,255951,300186491,COL,URU
+2014,Estadio Nacional,Brasilia ,France,2,0,Nigeria,67882,255951,300186462,FRA,NGA
+2014,Estadio Beira-Rio,Porto Alegre ,Germany,2,1,Algeria,,255951,300186460,GER,ALG
+2014,Estadio Castelao,Fortaleza ,Brazil,2,1,Colombia,60342,255953,300186461,BRA,COL
+2014,Estadio do Maracana,Rio De Janeiro ,France,0,1,Germany,74240,255953,300186485,FRA,GER
+2014,Estadio Mineirao,Belo Horizonte ,Brazil,1,7,Germany,58141,255955,300186474,BRA,GER
+2014,Estadio Nacional,Brasilia ,Brazil,0,3,Netherlands,68034,255957,300186502,BRA,NED
+2014,Estadio do Maracana,Rio De Janeiro ,Germany,1,0,Argentina,74738,255959,300186501,GER,ARG
+2014,Arena de Sao Paulo,Sao Paulo ,Netherlands,0,0,Argentina,63267,255955,300186490,NED,ARG
+2014,Arena Fonte Nova,Salvador ,Netherlands,0,0,Costa Rica,51179,255953,300186488,NED,CRC
+2014,Estadio Nacional,Brasilia ,Argentina,1,0,Belgium,68551,255953,300186504,ARG,BEL
+2014,Estadio Castelao,Fortaleza ,Netherlands,2,1,Mexico,58817,255951,300186508,NED,MEX
+2014,Arena Pernambuco,Recife ,Costa Rica,1,1,Greece,41242,255951,300186459,CRC,GRE
+2014,Arena de Sao Paulo,Sao Paulo ,Argentina,1,0,Switzerland,63255,255951,300186503,ARG,SUI
+2014,Arena Fonte Nova,Salvador ,Belgium,2,1,USA,51227,255951,300186497,BEL,USA
+2014,Estadio Mineirao,Belo Horizonte ,Brazil,1,1,Chile,57714,255951,300186487,BRA,CHI
+2014,Estadio do Maracana,Rio De Janeiro ,Colombia,2,0,Uruguay,73804,255951,300186491,COL,URU
+2014,Estadio Castelao,Fortaleza ,Netherlands,2,1,Mexico,58817,255951,300186508,NED,MEX
+2014,Arena Pernambuco,Recife ,Costa Rica,1,1,Greece,41242,255951,300186459,CRC,GRE
+2014,Estadio Nacional,Brasilia ,France,2,0,Nigeria,67882,255951,300186462,FRA,NGA
+2014,Estadio Beira-Rio,Porto Alegre ,Germany,2,1,Algeria,,255951,300186460,GER,ALG
+2014,Arena de Sao Paulo,Sao Paulo ,Argentina,1,0,Switzerland,63255,255951,300186503,ARG,SUI
+2014,Arena Fonte Nova,Salvador ,Belgium,2,1,USA,51227,255951,300186497,BEL,USA
+2014,Estadio do Maracana,Rio De Janeiro ,France,0,1,Germany,74240,255953,300186485,FRA,GER
+2014,Estadio Castelao,Fortaleza ,Brazil,2,1,Colombia,60342,255953,300186461,BRA,COL
+2014,Estadio Nacional,Brasilia ,Argentina,1,0,Belgium,68551,255953,300186504,ARG,BEL
+2014,Arena Fonte Nova,Salvador ,Netherlands,0,0,Costa Rica,51179,255953,300186488,NED,CRC
+2014,Estadio Mineirao,Belo Horizonte ,Brazil,1,7,Germany,58141,255955,300186474,BRA,GER
+2014,Arena de Sao Paulo,Sao Paulo ,Netherlands,0,0,Argentina,63267,255955,300186490,NED,ARG
+2014,Estadio Nacional,Brasilia ,Brazil,0,3,Netherlands,68034,255957,300186502,BRA,NED
+2014,Estadio do Maracana,Rio De Janeiro ,Germany,1,0,Argentina,74738,255959,300186501,GER,ARG
