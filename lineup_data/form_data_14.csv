@@ -1,0 +1,3361 @@
+,goals_for,goals_against,team,game_id,date
+0,2,4,Deportivo La Coruña,424,10Sep
+1,2,2,Deportivo La Coruña,424,26Aug
+2,0,3,Deportivo La Coruña,424,20Aug
+3,3,0,Deportivo La Coruña,424,20May
+4,0,0,Deportivo La Coruña,424,14May
+5,1,0,Deportivo Alaves,424,10Sep
+6,0,2,Deportivo Alaves,424,26Aug
+7,1,0,Deportivo Alaves,424,18Aug
+8,3,1,Deportivo Alaves,424,27May
+9,1,1,Deportivo Alaves,424,20May
+10,10,0,Real Madrid,425,13Sep
+11,3,0,Real Madrid,425,13Sep
+12,1,1,Real Madrid,425,09Sep
+13,2,2,Real Madrid,425,27Aug
+14,0,3,Real Madrid,425,20Aug
+15,3,1,Real Betis,425,10Sep
+16,2,1,Real Betis,425,25Aug
+17,2,0,Real Betis,425,20Aug
+18,2,2,Real Betis,425,20May
+19,1,1,Real Betis,425,14May
+20,4,0,Sevilla,426,13Sep
+21,2,2,Sevilla,426,13Sep
+22,3,0,Sevilla,426,09Sep
+23,0,1,Sevilla,426,27Aug
+24,2,2,Sevilla,426,22Aug
+25,1,3,Las Palmas,426,11Sep
+26,1,5,Las Palmas,426,26Aug
+27,1,0,Las Palmas,426,18Aug
+28,3,0,Las Palmas,426,20May
+29,1,4,Las Palmas,426,14May
+30,3,1,Villarreal,427,14Sep
+31,3,1,Villarreal,427,10Sep
+32,3,0,Villarreal,427,25Aug
+33,1,0,Villarreal,427,21Aug
+34,1,3,Villarreal,427,21May
+35,5,0,Espanyol de Barcelona,427,09Sep
+36,0,1,Espanyol de Barcelona,427,27Aug
+37,1,1,Espanyol de Barcelona,427,19Aug
+38,1,2,Espanyol de Barcelona,427,19May
+39,0,1,Espanyol de Barcelona,427,13May
+40,1,0,Celta Vigo,428,10Sep
+41,2,1,Celta Vigo,428,25Aug
+42,2,3,Celta Vigo,428,19Aug
+43,2,2,Celta Vigo,428,21May
+44,1,4,Celta Vigo,428,17May
+45,1,2,Getafe,428,08Sep
+46,0,1,Getafe,428,27Aug
+47,0,0,Getafe,428,20Aug
+48,1,1,Getafe,428,15Jan
+49,0,1,Getafe,428,06Jan
+50,1,1,Levante,429,09Sep
+51,2,2,Levante,429,26Aug
+52,1,0,Levante,429,21Aug
+53,0,2,Levante,429,15Jan
+54,0,2,Levante,429,11Jan
+55,4,0,Real Sociedad,429,14Sep
+56,2,4,Real Sociedad,429,10Sep
+57,3,0,Real Sociedad,429,25Aug
+58,2,3,Real Sociedad,429,19Aug
+59,2,2,Real Sociedad,429,21May
+60,1,0,Atletico Madrid,430,16Sep
+61,1,2,Atletico Madrid,430,12Sep
+62,0,0,Atletico Madrid,430,12Sep
+63,0,0,Atletico Madrid,430,09Sep
+64,1,5,Atletico Madrid,430,26Aug
+65,0,1,Sevilla,430,17Sep
+66,4,0,Sevilla,430,13Sep
+67,2,2,Sevilla,430,13Sep
+68,3,0,Sevilla,430,09Sep
+69,0,1,Sevilla,430,27Aug
+70,0,3,Deportivo Alaves,431,17Sep
+71,1,0,Deportivo Alaves,431,10Sep
+72,0,2,Deportivo Alaves,431,26Aug
+73,1,0,Deportivo Alaves,431,18Aug
+74,3,1,Deportivo Alaves,431,27May
+75,1,3,Real Madrid,431,17Sep
+76,10,0,Real Madrid,431,13Sep
+77,3,0,Real Madrid,431,13Sep
+78,1,1,Real Madrid,431,09Sep
+79,2,2,Real Madrid,431,27Aug
+80,1,0,Malaga,432,16Sep
+81,1,3,Malaga,432,11Sep
+82,1,0,Malaga,432,26Aug
+83,0,1,Malaga,432,21Aug
+84,0,2,Malaga,432,21May
+85,1,0,Athletic Club,432,17Sep
+86,0,0,Athletic Club,432,14Sep
+87,2,0,Athletic Club,432,10Sep
+88,0,1,Athletic Club,432,27Aug
+89,1,0,Athletic Club,432,24Aug
+90,0,1,Girona,433,17Sep
+91,2,0,Girona,433,10Sep
+92,1,0,Girona,433,26Aug
+93,2,2,Girona,433,19Aug
+94,2,0,Girona,433,15Jan
+95,1,2,Barcelona,433,16Sep
+96,1,0,Barcelona,433,12Sep
+97,3,0,Barcelona,433,12Sep
+98,5,0,Barcelona,433,09Sep
+99,0,2,Barcelona,433,26Aug
+100,2,1,Espanyol de Barcelona,434,18Sep
+101,5,0,Espanyol de Barcelona,434,09Sep
+102,0,1,Espanyol de Barcelona,434,27Aug
+103,1,1,Espanyol de Barcelona,434,19Aug
+104,1,2,Espanyol de Barcelona,434,19May
+105,2,1,Deportivo La Coruña,434,16Sep
+106,2,4,Deportivo La Coruña,434,10Sep
+107,2,2,Deportivo La Coruña,434,26Aug
+108,0,3,Deportivo La Coruña,434,20Aug
+109,3,0,Deportivo La Coruña,434,20May
+110,1,2,Getafe,435,16Sep
+111,1,2,Getafe,435,08Sep
+112,0,1,Getafe,435,27Aug
+113,0,0,Getafe,435,20Aug
+114,1,1,Getafe,435,15Jan
+115,0,3,Villarreal,435,17Sep
+116,3,1,Villarreal,435,14Sep
+117,3,1,Villarreal,435,10Sep
+118,3,0,Villarreal,435,25Aug
+119,1,0,Villarreal,435,21Aug
+120,1,0,Las Palmas,436,17Sep
+121,1,3,Las Palmas,436,11Sep
+122,1,5,Las Palmas,436,26Aug
+123,1,0,Las Palmas,436,18Aug
+124,3,0,Las Palmas,436,20May
+125,1,0,Leganés,436,15Sep
+126,1,2,Leganés,436,08Sep
+127,0,1,Leganés,436,27Aug
+128,1,0,Leganés,436,18Aug
+129,1,1,Leganés,436,20May
+130,1,0,Eibar,437,15Sep
+131,3,0,Eibar,437,09Sep
+132,0,1,Eibar,437,27Aug
+133,0,1,Eibar,437,21Aug
+134,4,2,Eibar,437,21May
+135,2,1,Celta Vigo,437,18Sep
+136,1,0,Celta Vigo,437,10Sep
+137,2,1,Celta Vigo,437,25Aug
+138,2,3,Celta Vigo,437,19Aug
+139,2,2,Celta Vigo,437,21May
+140,1,3,Real Sociedad,438,17Sep
+141,4,0,Real Sociedad,438,14Sep
+142,2,4,Real Sociedad,438,10Sep
+143,3,0,Real Sociedad,438,25Aug
+144,2,3,Real Sociedad,438,19Aug
+145,1,1,Valencia,438,16Sep
+146,0,0,Valencia,438,09Sep
+147,2,2,Valencia,438,27Aug
+148,1,0,Valencia,438,18Aug
+149,1,3,Valencia,438,21May
+150,2,1,Real Betis,439,16Sep
+151,3,1,Real Betis,439,10Sep
+152,2,1,Real Betis,439,25Aug
+153,2,0,Real Betis,439,20Aug
+154,2,2,Real Betis,439,20May
+155,1,1,Levante,439,16Sep
+156,1,1,Levante,439,09Sep
+157,2,2,Levante,439,26Aug
+158,1,0,Levante,439,21Aug
+159,0,2,Levante,439,15Jan
+160,1,1,Celta Vigo,440,21Sep
+161,2,1,Celta Vigo,440,18Sep
+162,1,0,Celta Vigo,440,10Sep
+163,2,1,Celta Vigo,440,25Aug
+164,2,3,Celta Vigo,440,19Aug
+165,0,0,Girona,440,20Sep
+166,0,1,Girona,440,17Sep
+167,2,0,Girona,440,10Sep
+168,1,0,Girona,440,26Aug
+169,2,2,Girona,440,19Aug
+170,1,0,Deportivo La Coruña,441,20Sep
+171,2,1,Deportivo La Coruña,441,16Sep
+172,2,4,Deportivo La Coruña,441,10Sep
+173,2,2,Deportivo La Coruña,441,26Aug
+174,0,3,Deportivo La Coruña,441,20Aug
+175,1,1,Getafe,441,21Sep
+176,1,2,Getafe,441,16Sep
+177,1,2,Getafe,441,08Sep
+178,0,1,Getafe,441,27Aug
+179,0,0,Getafe,441,20Aug
+180,3,0,Sevilla,442,26Sep
+181,2,0,Sevilla,442,23Sep
+182,1,0,Sevilla,442,20Sep
+183,0,1,Sevilla,442,17Sep
+184,4,0,Sevilla,442,13Sep
+185,5,0,Malaga,442,19Sep
+186,1,0,Malaga,442,16Sep
+187,1,3,Malaga,442,11Sep
+188,1,0,Malaga,442,26Aug
+189,0,1,Malaga,442,21Aug
+190,3,0,Levante,443,21Sep
+191,1,1,Levante,443,16Sep
+192,1,1,Levante,443,09Sep
+193,2,2,Levante,443,26Aug
+194,1,0,Levante,443,21Aug
+195,1,0,Deportivo Alaves,443,20Sep
+196,0,3,Deportivo Alaves,443,17Sep
+197,1,0,Deportivo Alaves,443,10Sep
+198,0,2,Deportivo Alaves,443,26Aug
+199,1,0,Deportivo Alaves,443,18Aug
+200,0,0,Leganés,444,20Sep
+201,1,0,Leganés,444,15Sep
+202,1,2,Leganés,444,08Sep
+203,0,1,Leganés,444,27Aug
+204,1,0,Leganés,444,18Aug
+205,1,2,Atletico Madrid,444,27Sep
+206,2,0,Atletico Madrid,444,23Sep
+207,1,2,Atletico Madrid,444,20Sep
+208,1,0,Atletico Madrid,444,16Sep
+209,1,2,Atletico Madrid,444,12Sep
+210,2,3,Real Sociedad,445,24Sep
+211,3,0,Real Sociedad,445,21Sep
+212,1,3,Real Sociedad,445,17Sep
+213,4,0,Real Sociedad,445,14Sep
+214,2,4,Real Sociedad,445,10Sep
+215,0,1,Real Betis,445,20Sep
+216,2,1,Real Betis,445,16Sep
+217,3,1,Real Betis,445,10Sep
+218,2,1,Real Betis,445,25Aug
+219,2,0,Real Betis,445,20Aug
+220,0,1,Barcelona,446,27Sep
+221,0,3,Barcelona,446,23Sep
+222,6,1,Barcelona,446,19Sep
+223,1,2,Barcelona,446,16Sep
+224,1,0,Barcelona,446,12Sep
+225,1,0,Las Palmas,446,20Sep
+226,1,0,Las Palmas,446,17Sep
+227,1,3,Las Palmas,446,11Sep
+228,1,5,Las Palmas,446,26Aug
+229,1,0,Las Palmas,446,18Aug
+230,5,0,Valencia,447,19Sep
+231,1,1,Valencia,447,16Sep
+232,0,0,Valencia,447,09Sep
+233,2,2,Valencia,447,27Aug
+234,1,0,Valencia,447,18Aug
+235,3,3,Athletic Club,447,23Sep
+236,1,2,Athletic Club,447,20Sep
+237,1,0,Athletic Club,447,17Sep
+238,0,0,Athletic Club,447,14Sep
+239,2,0,Athletic Club,447,10Sep
+240,4,0,Villarreal,448,24Sep
+241,0,0,Villarreal,448,21Sep
+242,0,3,Villarreal,448,17Sep
+243,3,1,Villarreal,448,14Sep
+244,3,1,Villarreal,448,10Sep
+245,6,1,Eibar,448,19Sep
+246,1,0,Eibar,448,15Sep
+247,3,0,Eibar,448,09Sep
+248,0,1,Eibar,448,27Aug
+249,0,1,Eibar,448,21Aug
+250,1,3,Real Madrid,449,26Sep
+251,1,2,Real Madrid,449,23Sep
+252,0,1,Real Madrid,449,20Sep
+253,1,3,Real Madrid,449,17Sep
+254,10,0,Real Madrid,449,13Sep
+255,0,0,Espanyol de Barcelona,449,21Sep
+256,2,1,Espanyol de Barcelona,449,18Sep
+257,5,0,Espanyol de Barcelona,449,09Sep
+258,0,1,Espanyol de Barcelona,449,27Aug
+259,1,1,Espanyol de Barcelona,449,19Aug
+260,4,1,Espanyol de Barcelona,450,24Sep
+261,0,0,Espanyol de Barcelona,450,21Sep
+262,2,1,Espanyol de Barcelona,450,18Sep
+263,5,0,Espanyol de Barcelona,450,09Sep
+264,0,1,Espanyol de Barcelona,450,27Aug
+265,4,0,Levante,450,25Sep
+266,3,0,Levante,450,21Sep
+267,1,1,Levante,450,16Sep
+268,1,1,Levante,450,09Sep
+269,2,2,Levante,450,26Aug
+270,0,1,Athletic Club,451,28Sep
+271,3,3,Athletic Club,451,23Sep
+272,1,2,Athletic Club,451,20Sep
+273,1,0,Athletic Club,451,17Sep
+274,0,0,Athletic Club,451,14Sep
+275,1,0,Sevilla,451,26Sep
+276,3,0,Sevilla,451,26Sep
+277,2,0,Sevilla,451,23Sep
+278,1,0,Sevilla,451,20Sep
+279,0,1,Sevilla,451,17Sep
+280,4,0,Getafe,452,24Sep
+281,1,1,Getafe,452,21Sep
+282,1,2,Getafe,452,16Sep
+283,1,2,Getafe,452,08Sep
+284,0,1,Getafe,452,27Aug
+285,5,3,Real Madrid,452,26Sep
+286,1,3,Real Madrid,452,26Sep
+287,1,2,Real Madrid,452,23Sep
+288,0,1,Real Madrid,452,20Sep
+289,1,3,Real Madrid,452,17Sep
+290,1,2,Deportivo Alaves,453,23Sep
+291,1,0,Deportivo Alaves,453,20Sep
+292,0,3,Deportivo Alaves,453,17Sep
+293,1,0,Deportivo Alaves,453,10Sep
+294,0,2,Deportivo Alaves,453,26Aug
+295,3,1,Real Sociedad,453,28Sep
+296,2,3,Real Sociedad,453,24Sep
+297,3,0,Real Sociedad,453,21Sep
+298,1,3,Real Sociedad,453,17Sep
+299,4,0,Real Sociedad,453,14Sep
+300,1,3,Atletico Madrid,454,27Sep
+301,1,2,Atletico Madrid,454,27Sep
+302,2,0,Atletico Madrid,454,23Sep
+303,1,2,Atletico Madrid,454,20Sep
+304,1,0,Atletico Madrid,454,16Sep
+305,0,1,Barcelona,454,27Sep
+306,0,1,Barcelona,454,27Sep
+307,0,3,Barcelona,454,23Sep
+308,6,1,Barcelona,454,19Sep
+309,1,2,Barcelona,454,16Sep
+310,0,4,Eibar,455,24Sep
+311,6,1,Eibar,455,19Sep
+312,1,0,Eibar,455,15Sep
+313,3,0,Eibar,455,09Sep
+314,0,1,Eibar,455,27Aug
+315,4,1,Deportivo La Coruña,455,24Sep
+316,1,0,Deportivo La Coruña,455,20Sep
+317,2,1,Deportivo La Coruña,455,16Sep
+318,2,4,Deportivo La Coruña,455,10Sep
+319,2,2,Deportivo La Coruña,455,26Aug
+320,0,3,Girona,456,23Sep
+321,0,0,Girona,456,20Sep
+322,0,1,Girona,456,17Sep
+323,2,0,Girona,456,10Sep
+324,1,0,Girona,456,26Aug
+325,0,0,Villarreal,456,28Sep
+326,4,0,Villarreal,456,24Sep
+327,0,0,Villarreal,456,21Sep
+328,0,3,Villarreal,456,17Sep
+329,3,1,Villarreal,456,14Sep
+330,3,3,Malaga,457,23Sep
+331,5,0,Malaga,457,19Sep
+332,1,0,Malaga,457,16Sep
+333,1,3,Malaga,457,11Sep
+334,1,0,Malaga,457,26Aug
+335,0,2,Leganés,457,24Sep
+336,0,0,Leganés,457,20Sep
+337,1,0,Leganés,457,15Sep
+338,1,2,Leganés,457,08Sep
+339,0,1,Leganés,457,27Aug
+340,4,0,Real Betis,458,25Sep
+341,0,1,Real Betis,458,20Sep
+342,2,1,Real Betis,458,16Sep
+343,3,1,Real Betis,458,10Sep
+344,2,1,Real Betis,458,25Aug
+345,2,3,Valencia,458,24Sep
+346,5,0,Valencia,458,19Sep
+347,1,1,Valencia,458,16Sep
+348,0,0,Valencia,458,09Sep
+349,2,2,Valencia,458,27Aug
+350,0,2,Las Palmas,459,24Sep
+351,1,0,Las Palmas,459,20Sep
+352,1,0,Las Palmas,459,17Sep
+353,1,3,Las Palmas,459,11Sep
+354,1,5,Las Palmas,459,26Aug
+355,0,4,Celta Vigo,459,24Sep
+356,1,1,Celta Vigo,459,21Sep
+357,2,1,Celta Vigo,459,18Sep
+358,1,0,Celta Vigo,459,10Sep
+359,2,1,Celta Vigo,459,25Aug
+360,0,2,Levante,460,30Sep
+361,4,0,Levante,460,25Sep
+362,3,0,Levante,460,21Sep
+363,1,1,Levante,460,16Sep
+364,1,1,Levante,460,09Sep
+365,2,1,Getafe,460,30Sep
+366,4,0,Getafe,460,24Sep
+367,1,1,Getafe,460,21Sep
+368,1,2,Getafe,460,16Sep
+369,1,2,Getafe,460,08Sep
+370,4,4,Real Betis,461,01Oct
+371,4,0,Real Betis,461,25Sep
+372,0,1,Real Betis,461,20Sep
+373,2,1,Real Betis,461,16Sep
+374,3,1,Real Betis,461,10Sep
+375,0,2,Deportivo Alaves,461,30Sep
+376,1,2,Deportivo Alaves,461,23Sep
+377,1,0,Deportivo Alaves,461,20Sep
+378,0,3,Deportivo Alaves,461,17Sep
+379,1,0,Deportivo Alaves,461,10Sep
+380,3,2,Valencia,462,01Oct
+381,2,3,Valencia,462,24Sep
+382,5,0,Valencia,462,19Sep
+383,1,1,Valencia,462,16Sep
+384,0,0,Valencia,462,09Sep
+385,5,1,Sevilla,462,17Oct
+386,1,0,Sevilla,462,14Oct
+387,2,0,Sevilla,462,30Sep
+388,1,0,Sevilla,462,26Sep
+389,3,0,Sevilla,462,26Sep
+390,3,1,Barcelona,463,18Oct
+391,1,1,Barcelona,463,14Oct
+392,3,0,Barcelona,463,01Oct
+393,0,1,Barcelona,463,27Sep
+394,0,1,Barcelona,463,27Sep
+395,2,0,Malaga,463,30Sep
+396,3,3,Malaga,463,23Sep
+397,5,0,Malaga,463,19Sep
+398,1,0,Malaga,463,16Sep
+399,1,3,Malaga,463,11Sep
+400,1,2,Villarreal,464,15Oct
+401,3,0,Villarreal,464,01Oct
+402,0,0,Villarreal,464,28Sep
+403,4,0,Villarreal,464,24Sep
+404,0,0,Villarreal,464,21Sep
+405,3,0,Las Palmas,464,01Oct
+406,0,2,Las Palmas,464,24Sep
+407,1,0,Las Palmas,464,20Sep
+408,1,0,Las Palmas,464,17Sep
+409,1,3,Las Palmas,464,11Sep
+410,3,3,Celta Vigo,465,29Sep
+411,0,4,Celta Vigo,465,24Sep
+412,1,1,Celta Vigo,465,21Sep
+413,2,1,Celta Vigo,465,18Sep
+414,1,0,Celta Vigo,465,10Sep
+415,0,0,Atletico Madrid,465,18Oct
+416,1,1,Atletico Madrid,465,14Oct
+417,0,0,Atletico Madrid,465,30Sep
+418,1,3,Atletico Madrid,465,27Sep
+419,1,2,Atletico Madrid,465,27Sep
+420,0,0,Leganés,466,30Sep
+421,0,2,Leganés,466,24Sep
+422,0,0,Leganés,466,20Sep
+423,1,0,Leganés,466,15Sep
+424,1,2,Leganés,466,08Sep
+425,1,0,Athletic Club,466,14Oct
+426,3,2,Athletic Club,466,01Oct
+427,0,1,Athletic Club,466,28Sep
+428,3,3,Athletic Club,466,23Sep
+429,1,2,Athletic Club,466,20Sep
+430,1,1,Real Madrid,467,17Oct
+431,1,2,Real Madrid,467,14Oct
+432,2,0,Real Madrid,467,01Oct
+433,5,3,Real Madrid,467,26Sep
+434,1,3,Real Madrid,467,26Sep
+435,3,0,Eibar,467,01Oct
+436,0,4,Eibar,467,24Sep
+437,6,1,Eibar,467,19Sep
+438,1,0,Eibar,467,15Sep
+439,3,0,Eibar,467,09Sep
+440,0,2,Real Sociedad,468,14Oct
+441,4,4,Real Sociedad,468,01Oct
+442,3,1,Real Sociedad,468,28Sep
+443,2,3,Real Sociedad,468,24Sep
+444,3,0,Real Sociedad,468,21Sep
+445,2,0,Espanyol de Barcelona,468,01Oct
+446,4,1,Espanyol de Barcelona,468,24Sep
+447,0,0,Espanyol de Barcelona,468,21Sep
+448,2,1,Espanyol de Barcelona,468,18Sep
+449,5,0,Espanyol de Barcelona,468,09Sep
+450,2,1,Deportivo La Coruña,469,30Sep
+451,4,1,Deportivo La Coruña,469,24Sep
+452,1,0,Deportivo La Coruña,469,20Sep
+453,2,1,Deportivo La Coruña,469,16Sep
+454,2,4,Deportivo La Coruña,469,10Sep
+455,3,3,Girona,469,29Sep
+456,0,3,Girona,469,23Sep
+457,0,0,Girona,469,20Sep
+458,0,1,Girona,469,17Sep
+459,2,0,Girona,469,10Sep
+460,0,2,Deportivo Alaves,470,14Oct
+461,0,2,Deportivo Alaves,470,30Sep
+462,1,2,Deportivo Alaves,470,23Sep
+463,1,0,Deportivo Alaves,470,20Sep
+464,0,3,Deportivo Alaves,470,17Sep
+465,3,6,Valencia,470,15Oct
+466,3,2,Valencia,470,01Oct
+467,2,3,Valencia,470,24Sep
+468,5,0,Valencia,470,19Sep
+469,1,1,Valencia,470,16Sep
+470,1,5,Atletico Madrid,471,18Oct
+471,0,0,Atletico Madrid,471,18Oct
+472,1,1,Atletico Madrid,471,14Oct
+473,0,0,Atletico Madrid,471,30Sep
+474,1,3,Atletico Madrid,471,27Sep
+475,2,2,Villarreal,471,19Oct
+476,1,2,Villarreal,471,15Oct
+477,3,0,Villarreal,471,01Oct
+478,0,0,Villarreal,471,28Sep
+479,4,0,Villarreal,471,24Sep
+480,2,2,Athletic Club,472,19Oct
+481,1,0,Athletic Club,472,14Oct
+482,3,2,Athletic Club,472,01Oct
+483,0,1,Athletic Club,472,28Sep
+484,3,3,Athletic Club,472,23Sep
+485,5,0,Barcelona,472,18Oct
+486,3,1,Barcelona,472,18Oct
+487,1,1,Barcelona,472,14Oct
+488,3,0,Barcelona,472,01Oct
+489,0,1,Barcelona,472,27Sep
+490,1,1,Sevilla,473,17Oct
+491,5,1,Sevilla,473,17Oct
+492,1,0,Sevilla,473,14Oct
+493,2,0,Sevilla,473,30Sep
+494,1,0,Sevilla,473,26Sep
+495,0,2,Leganés,473,15Oct
+496,0,0,Leganés,473,30Sep
+497,0,2,Leganés,473,24Sep
+498,0,0,Leganés,473,20Sep
+499,1,0,Leganés,473,15Sep
+500,1,2,Getafe,474,14Oct
+501,2,1,Getafe,474,30Sep
+502,4,0,Getafe,474,24Sep
+503,1,1,Getafe,474,21Sep
+504,1,2,Getafe,474,16Sep
+505,0,6,Real Sociedad,474,19Oct
+506,0,2,Real Sociedad,474,14Oct
+507,4,4,Real Sociedad,474,01Oct
+508,3,1,Real Sociedad,474,28Sep
+509,2,3,Real Sociedad,474,24Sep
+510,1,2,Girona,475,15Oct
+511,3,3,Girona,475,29Sep
+512,0,3,Girona,475,23Sep
+513,0,0,Girona,475,20Sep
+514,0,1,Girona,475,17Sep
+515,1,1,Real Madrid,475,17Oct
+516,1,1,Real Madrid,475,17Oct
+517,1,2,Real Madrid,475,14Oct
+518,2,0,Real Madrid,475,01Oct
+519,5,3,Real Madrid,475,26Sep
+520,0,0,Eibar,476,15Oct
+521,3,0,Eibar,476,01Oct
+522,0,4,Eibar,476,24Sep
+523,6,1,Eibar,476,19Sep
+524,1,0,Eibar,476,15Sep
+525,0,0,Levante,476,13Oct
+526,0,2,Levante,476,30Sep
+527,4,0,Levante,476,25Sep
+528,3,0,Levante,476,21Sep
+529,1,1,Levante,476,16Sep
+530,0,2,Malaga,477,15Oct
+531,2,0,Malaga,477,30Sep
+532,3,3,Malaga,477,23Sep
+533,5,0,Malaga,477,19Sep
+534,1,0,Malaga,477,16Sep
+535,2,5,Celta Vigo,477,16Oct
+536,3,3,Celta Vigo,477,29Sep
+537,0,4,Celta Vigo,477,24Sep
+538,1,1,Celta Vigo,477,21Sep
+539,2,1,Celta Vigo,477,18Sep
+540,2,5,Las Palmas,478,16Oct
+541,3,0,Las Palmas,478,01Oct
+542,0,2,Las Palmas,478,24Sep
+543,1,0,Las Palmas,478,20Sep
+544,1,0,Las Palmas,478,17Sep
+545,0,0,Deportivo La Coruña,478,15Oct
+546,2,1,Deportivo La Coruña,478,30Sep
+547,4,1,Deportivo La Coruña,478,24Sep
+548,1,0,Deportivo La Coruña,478,20Sep
+549,2,1,Deportivo La Coruña,478,16Sep
+550,0,0,Espanyol de Barcelona,479,13Oct
+551,2,0,Espanyol de Barcelona,479,01Oct
+552,4,1,Espanyol de Barcelona,479,24Sep
+553,0,0,Espanyol de Barcelona,479,21Sep
+554,2,1,Espanyol de Barcelona,479,18Sep
+555,3,6,Real Betis,479,15Oct
+556,4,4,Real Betis,479,01Oct
+557,4,0,Real Betis,479,25Sep
+558,0,1,Real Betis,479,20Sep
+559,2,1,Real Betis,479,16Sep
+560,2,0,Real Betis,480,21Oct
+561,3,6,Real Betis,480,15Oct
+562,4,4,Real Betis,480,01Oct
+563,4,0,Real Betis,480,25Sep
+564,0,1,Real Betis,480,20Sep
+565,1,1,Getafe,480,21Oct
+566,1,2,Getafe,480,14Oct
+567,2,1,Getafe,480,30Sep
+568,4,0,Getafe,480,24Sep
+569,1,1,Getafe,480,21Sep
+570,4,0,Valencia,481,21Oct
+571,3,6,Valencia,481,15Oct
+572,3,2,Valencia,481,01Oct
+573,2,3,Valencia,481,24Sep
+574,5,0,Valencia,481,19Sep
+575,1,0,Leganés,481,22Oct
+576,0,2,Leganés,481,15Oct
+577,0,0,Leganés,481,30Sep
+578,0,2,Leganés,481,24Sep
+579,0,0,Leganés,481,20Sep
+580,1,2,Deportivo La Coruña,482,23Oct
+581,0,0,Deportivo La Coruña,482,15Oct
+582,2,1,Deportivo La Coruña,482,30Sep
+583,4,1,Deportivo La Coruña,482,24Sep
+584,1,0,Deportivo La Coruña,482,20Sep
+585,1,1,Atletico Madrid,482,31Oct
+586,1,1,Atletico Madrid,482,28Oct
+587,0,1,Atletico Madrid,482,22Oct
+588,1,5,Atletico Madrid,482,18Oct
+589,0,0,Atletico Madrid,482,18Oct
+590,2,0,Deportivo Alaves,483,21Oct
+591,0,2,Deportivo Alaves,483,14Oct
+592,0,2,Deportivo Alaves,483,30Sep
+593,1,2,Deportivo Alaves,483,23Sep
+594,1,0,Deportivo Alaves,483,20Sep
+595,1,1,Espanyol de Barcelona,483,23Oct
+596,0,0,Espanyol de Barcelona,483,13Oct
+597,2,0,Espanyol de Barcelona,483,01Oct
+598,4,1,Espanyol de Barcelona,483,24Sep
+599,0,0,Espanyol de Barcelona,483,21Sep
+600,0,0,Barcelona,484,31Oct
+601,0,2,Barcelona,484,28Oct
+602,2,0,Barcelona,484,21Oct
+603,5,0,Barcelona,484,18Oct
+604,3,1,Barcelona,484,18Oct
+605,2,1,Sevilla,484,01Nov
+606,2,1,Sevilla,484,28Oct
+607,4,0,Sevilla,484,21Oct
+608,1,1,Sevilla,484,17Oct
+609,5,1,Sevilla,484,17Oct
+610,1,1,Levante,485,21Oct
+611,0,0,Levante,485,13Oct
+612,0,2,Levante,485,30Sep
+613,4,0,Levante,485,25Sep
+614,3,0,Levante,485,21Sep
+615,1,2,Girona,485,23Oct
+616,1,2,Girona,485,15Oct
+617,3,3,Girona,485,29Sep
+618,0,3,Girona,485,23Sep
+619,0,0,Girona,485,20Sep
+620,0,1,Celta Vigo,486,22Oct
+621,2,5,Celta Vigo,486,16Oct
+622,3,3,Celta Vigo,486,29Sep
+623,0,4,Celta Vigo,486,24Sep
+624,1,1,Celta Vigo,486,21Sep
+625,0,2,Athletic Club,486,28Oct
+626,1,0,Athletic Club,486,22Oct
+627,2,2,Athletic Club,486,19Oct
+628,1,0,Athletic Club,486,14Oct
+629,3,2,Athletic Club,486,01Oct
+630,2,1,Real Sociedad,487,29Oct
+631,1,1,Real Sociedad,487,23Oct
+632,0,6,Real Sociedad,487,19Oct
+633,0,2,Real Sociedad,487,14Oct
+634,4,4,Real Sociedad,487,01Oct
+635,3,0,Eibar,487,22Oct
+636,0,0,Eibar,487,15Oct
+637,3,0,Eibar,487,01Oct
+638,0,4,Eibar,487,24Sep
+639,6,1,Eibar,487,19Sep
+640,1,1,Villarreal,488,28Oct
+641,4,0,Villarreal,488,22Oct
+642,2,2,Villarreal,488,19Oct
+643,1,2,Villarreal,488,15Oct
+644,3,0,Villarreal,488,01Oct
+645,2,0,Malaga,488,21Oct
+646,0,2,Malaga,488,15Oct
+647,2,0,Malaga,488,30Sep
+648,3,3,Malaga,488,23Sep
+649,5,0,Malaga,488,19Sep
+650,3,1,Real Madrid,489,01Nov
+651,2,1,Real Madrid,489,29Oct
+652,3,0,Real Madrid,489,22Oct
+653,1,1,Real Madrid,489,17Oct
+654,1,1,Real Madrid,489,17Oct
+655,4,0,Las Palmas,489,22Oct
+656,2,5,Las Palmas,489,16Oct
+657,3,0,Las Palmas,489,01Oct
+658,0,2,Las Palmas,489,24Sep
+659,1,0,Las Palmas,489,20Sep
+660,2,1,Girona,490,29Oct
+661,1,2,Girona,490,23Oct
+662,1,2,Girona,490,15Oct
+663,3,3,Girona,490,29Sep
+664,0,3,Girona,490,23Sep
+665,3,0,Real Sociedad,490,02Nov
+666,2,1,Real Sociedad,490,29Oct
+667,1,1,Real Sociedad,490,23Oct
+668,0,6,Real Sociedad,490,19Oct
+669,0,2,Real Sociedad,490,14Oct
+670,2,1,Getafe,491,29Oct
+671,1,1,Getafe,491,21Oct
+672,1,2,Getafe,491,14Oct
+673,2,1,Getafe,491,30Sep
+674,4,0,Getafe,491,24Sep
+675,1,2,Deportivo Alaves,491,28Oct
+676,2,0,Deportivo Alaves,491,21Oct
+677,0,2,Deportivo Alaves,491,14Oct
+678,0,2,Deportivo Alaves,491,30Sep
+679,1,2,Deportivo Alaves,491,23Sep
+680,2,1,Leganés,492,28Oct
+681,1,0,Leganés,492,22Oct
+682,0,2,Leganés,492,15Oct
+683,0,0,Leganés,492,30Sep
+684,0,2,Leganés,492,24Sep
+685,0,3,Barcelona,492,31Oct
+686,0,0,Barcelona,492,31Oct
+687,0,2,Barcelona,492,28Oct
+688,2,0,Barcelona,492,21Oct
+689,5,0,Barcelona,492,18Oct
+690,3,3,Sevilla,493,01Nov
+691,2,1,Sevilla,493,01Nov
+692,2,1,Sevilla,493,28Oct
+693,4,0,Sevilla,493,21Oct
+694,1,1,Sevilla,493,17Oct
+695,2,1,Celta Vigo,493,29Oct
+696,0,1,Celta Vigo,493,22Oct
+697,2,5,Celta Vigo,493,16Oct
+698,3,3,Celta Vigo,493,29Sep
+699,0,4,Celta Vigo,493,24Sep
+700,0,1,Atletico Madrid,494,31Oct
+701,1,1,Atletico Madrid,494,31Oct
+702,1,1,Atletico Madrid,494,28Oct
+703,0,1,Atletico Madrid,494,22Oct
+704,1,5,Atletico Madrid,494,18Oct
+705,3,2,Real Madrid,494,01Nov
+706,3,1,Real Madrid,494,01Nov
+707,2,1,Real Madrid,494,29Oct
+708,3,0,Real Madrid,494,22Oct
+709,1,1,Real Madrid,494,17Oct
+710,2,1,Malaga,495,29Oct
+711,2,0,Malaga,495,21Oct
+712,0,2,Malaga,495,15Oct
+713,2,0,Malaga,495,30Sep
+714,3,3,Malaga,495,23Sep
+715,1,3,Deportivo La Coruña,495,30Oct
+716,1,2,Deportivo La Coruña,495,23Oct
+717,0,0,Deportivo La Coruña,495,15Oct
+718,2,1,Deportivo La Coruña,495,30Sep
+719,4,1,Deportivo La Coruña,495,24Sep
+720,1,0,Espanyol de Barcelona,496,30Oct
+721,1,1,Espanyol de Barcelona,496,23Oct
+722,0,0,Espanyol de Barcelona,496,13Oct
+723,2,0,Espanyol de Barcelona,496,01Oct
+724,4,1,Espanyol de Barcelona,496,24Sep
+725,1,2,Valencia,496,28Oct
+726,4,0,Valencia,496,21Oct
+727,3,6,Valencia,496,15Oct
+728,3,2,Valencia,496,01Oct
+729,2,3,Valencia,496,24Sep
+730,1,3,Las Palmas,497,30Oct
+731,4,0,Las Palmas,497,22Oct
+732,2,5,Las Palmas,497,16Oct
+733,3,0,Las Palmas,497,01Oct
+734,0,2,Las Palmas,497,24Sep
+735,2,2,Levante,497,29Oct
+736,1,1,Levante,497,21Oct
+737,0,0,Levante,497,13Oct
+738,0,2,Levante,497,30Sep
+739,4,0,Levante,497,25Sep
+740,1,0,Athletic Club,498,02Nov
+741,0,2,Athletic Club,498,28Oct
+742,1,0,Athletic Club,498,22Oct
+743,2,2,Athletic Club,498,19Oct
+744,1,0,Athletic Club,498,14Oct
+745,0,2,Villarreal,498,02Nov
+746,1,1,Villarreal,498,28Oct
+747,4,0,Villarreal,498,22Oct
+748,2,2,Villarreal,498,19Oct
+749,1,2,Villarreal,498,15Oct
+750,2,2,Eibar,499,29Oct
+751,3,0,Eibar,499,22Oct
+752,0,0,Eibar,499,15Oct
+753,3,0,Eibar,499,01Oct
+754,0,4,Eibar,499,24Sep
+755,1,0,Real Betis,499,30Oct
+756,2,0,Real Betis,499,21Oct
+757,3,6,Real Betis,499,15Oct
+758,4,4,Real Betis,499,01Oct
+759,4,0,Real Betis,499,25Sep
+760,3,1,Celta Vigo,500,05Nov
+761,2,1,Celta Vigo,500,29Oct
+762,0,1,Celta Vigo,500,22Oct
+763,2,5,Celta Vigo,500,16Oct
+764,3,3,Celta Vigo,500,29Sep
+765,3,0,Leganés,500,04Nov
+766,2,1,Leganés,500,28Oct
+767,1,0,Leganés,500,22Oct
+768,0,2,Leganés,500,15Oct
+769,0,0,Leganés,500,30Sep
+770,1,0,Deportivo Alaves,501,04Nov
+771,1,2,Deportivo Alaves,501,28Oct
+772,2,0,Deportivo Alaves,501,21Oct
+773,0,2,Deportivo Alaves,501,14Oct
+774,0,2,Deportivo Alaves,501,30Sep
+775,3,1,Eibar,501,05Nov
+776,2,2,Eibar,501,29Oct
+777,3,0,Eibar,501,22Oct
+778,0,0,Eibar,501,15Oct
+779,3,0,Eibar,501,01Oct
+780,0,6,Real Madrid,502,21Nov
+781,0,0,Real Madrid,502,18Nov
+782,3,0,Real Madrid,502,05Nov
+783,3,2,Real Madrid,502,01Nov
+784,3,1,Real Madrid,502,01Nov
+785,2,0,Malaga,502,05Nov
+786,2,1,Malaga,502,29Oct
+787,2,0,Malaga,502,21Oct
+788,0,2,Malaga,502,15Oct
+789,2,0,Malaga,502,30Sep
+790,2,2,Real Betis,503,03Nov
+791,1,0,Real Betis,503,30Oct
+792,2,0,Real Betis,503,21Oct
+793,3,6,Real Betis,503,15Oct
+794,4,4,Real Betis,503,01Oct
+795,1,2,Girona,503,05Nov
+796,2,1,Girona,503,29Oct
+797,1,2,Girona,503,23Oct
+798,1,2,Girona,503,15Oct
+799,3,3,Girona,503,29Sep
+800,1,2,Levante,504,05Nov
+801,2,2,Levante,504,29Oct
+802,1,1,Levante,504,21Oct
+803,0,0,Levante,504,13Oct
+804,0,2,Levante,504,30Sep
+805,2,0,Atletico Madrid,504,22Nov
+806,0,0,Atletico Madrid,504,18Nov
+807,0,1,Atletico Madrid,504,04Nov
+808,0,1,Atletico Madrid,504,31Oct
+809,1,1,Atletico Madrid,504,31Oct
+810,0,1,Deportivo La Coruña,505,04Nov
+811,1,3,Deportivo La Coruña,505,30Oct
+812,1,2,Deportivo La Coruña,505,23Oct
+813,0,0,Deportivo La Coruña,505,15Oct
+814,2,1,Deportivo La Coruña,505,30Sep
+815,1,1,Athletic Club,505,19Nov
+816,3,1,Athletic Club,505,05Nov
+817,1,0,Athletic Club,505,02Nov
+818,0,2,Athletic Club,505,28Oct
+819,1,0,Athletic Club,505,22Oct
+820,1,1,Real Sociedad,506,17Nov
+821,3,1,Real Sociedad,506,05Nov
+822,3,0,Real Sociedad,506,02Nov
+823,2,1,Real Sociedad,506,29Oct
+824,1,1,Real Sociedad,506,23Oct
+825,3,0,Las Palmas,506,05Nov
+826,1,3,Las Palmas,506,30Oct
+827,4,0,Las Palmas,506,22Oct
+828,2,5,Las Palmas,506,16Oct
+829,3,0,Las Palmas,506,01Oct
+830,1,1,Villarreal,507,19Nov
+831,2,0,Villarreal,507,05Nov
+832,0,2,Villarreal,507,02Nov
+833,1,1,Villarreal,507,28Oct
+834,4,0,Villarreal,507,22Oct
+835,3,3,Sevilla,507,21Nov
+836,2,1,Sevilla,507,18Nov
+837,2,1,Sevilla,507,04Nov
+838,3,3,Sevilla,507,01Nov
+839,2,1,Sevilla,507,01Nov
+840,3,0,Valencia,508,04Nov
+841,1,2,Valencia,508,28Oct
+842,4,0,Valencia,508,21Oct
+843,3,6,Valencia,508,15Oct
+844,3,2,Valencia,508,01Oct
+845,0,0,Barcelona,508,22Nov
+846,0,3,Barcelona,508,18Nov
+847,2,1,Barcelona,508,04Nov
+848,0,3,Barcelona,508,31Oct
+849,0,0,Barcelona,508,31Oct
+850,1,0,Espanyol de Barcelona,509,04Nov
+851,1,0,Espanyol de Barcelona,509,30Oct
+852,1,1,Espanyol de Barcelona,509,23Oct
+853,0,0,Espanyol de Barcelona,509,13Oct
+854,2,0,Espanyol de Barcelona,509,01Oct
+855,2,2,Getafe,509,03Nov
+856,2,1,Getafe,509,29Oct
+857,1,1,Getafe,509,21Oct
+858,1,2,Getafe,509,14Oct
+859,2,1,Getafe,509,30Sep
+860,3,2,Malaga,510,19Nov
+861,2,0,Malaga,510,05Nov
+862,2,1,Malaga,510,29Oct
+863,2,0,Malaga,510,21Oct
+864,0,2,Malaga,510,15Oct
+865,0,2,Levante,510,19Nov
+866,1,2,Levante,510,05Nov
+867,2,2,Levante,510,29Oct
+868,1,1,Levante,510,21Oct
+869,0,0,Levante,510,13Oct
+870,0,1,Barcelona,511,22Nov
+871,0,0,Barcelona,511,22Nov
+872,0,3,Barcelona,511,18Nov
+873,2,1,Barcelona,511,04Nov
+874,0,3,Barcelona,511,31Oct
+875,2,1,Celta Vigo,511,18Nov
+876,3,1,Celta Vigo,511,05Nov
+877,2,1,Celta Vigo,511,29Oct
+878,0,1,Celta Vigo,511,22Oct
+879,2,5,Celta Vigo,511,16Oct
+880,2,1,Atletico Madrid,512,22Nov
+881,2,0,Atletico Madrid,512,22Nov
+882,0,0,Atletico Madrid,512,18Nov
+883,0,1,Atletico Madrid,512,04Nov
+884,0,1,Atletico Madrid,512,31Oct
+885,0,1,Real Sociedad,512,23Nov
+886,1,1,Real Sociedad,512,17Nov
+887,3,1,Real Sociedad,512,05Nov
+888,3,0,Real Sociedad,512,02Nov
+889,2,1,Real Sociedad,512,29Oct
+890,0,4,Sevilla,513,21Nov
+891,3,3,Sevilla,513,21Nov
+892,2,1,Sevilla,513,18Nov
+893,2,1,Sevilla,513,04Nov
+894,3,3,Sevilla,513,01Nov
+895,3,2,Deportivo La Coruña,513,19Nov
+896,0,1,Deportivo La Coruña,513,04Nov
+897,1,3,Deportivo La Coruña,513,30Oct
+898,1,2,Deportivo La Coruña,513,23Oct
+899,0,0,Deportivo La Coruña,513,15Oct
+900,3,2,Athletic Club,514,23Nov
+901,1,1,Athletic Club,514,19Nov
+902,3,1,Athletic Club,514,05Nov
+903,1,0,Athletic Club,514,02Nov
+904,0,2,Athletic Club,514,28Oct
+905,0,3,Real Madrid,514,21Nov
+906,0,6,Real Madrid,514,21Nov
+907,0,0,Real Madrid,514,18Nov
+908,3,0,Real Madrid,514,05Nov
+909,3,2,Real Madrid,514,01Nov
+910,0,3,Leganés,515,18Nov
+911,3,0,Leganés,515,04Nov
+912,2,1,Leganés,515,28Oct
+913,1,0,Leganés,515,22Oct
+914,0,2,Leganés,515,15Oct
+915,2,3,Villarreal,515,23Nov
+916,1,1,Villarreal,515,19Nov
+917,2,0,Villarreal,515,05Nov
+918,0,2,Villarreal,515,02Nov
+919,1,1,Villarreal,515,28Oct
+920,4,1,Getafe,516,18Nov
+921,2,2,Getafe,516,03Nov
+922,2,1,Getafe,516,29Oct
+923,1,1,Getafe,516,21Oct
+924,1,2,Getafe,516,14Oct
+925,0,2,Valencia,516,19Nov
+926,3,0,Valencia,516,04Nov
+927,1,2,Valencia,516,28Oct
+928,4,0,Valencia,516,21Oct
+929,3,6,Valencia,516,15Oct
+930,5,0,Eibar,517,20Nov
+931,3,1,Eibar,517,05Nov
+932,2,2,Eibar,517,29Oct
+933,3,0,Eibar,517,22Oct
+934,0,0,Eibar,517,15Oct
+935,0,2,Espanyol de Barcelona,517,19Nov
+936,1,0,Espanyol de Barcelona,517,04Nov
+937,1,0,Espanyol de Barcelona,517,30Oct
+938,1,1,Espanyol de Barcelona,517,23Oct
+939,0,0,Espanyol de Barcelona,517,13Oct
+940,0,2,Las Palmas,518,19Nov
+941,3,0,Las Palmas,518,05Nov
+942,1,3,Las Palmas,518,30Oct
+943,4,0,Las Palmas,518,22Oct
+944,2,5,Las Palmas,518,16Oct
+945,5,0,Real Betis,518,20Nov
+946,2,2,Real Betis,518,03Nov
+947,1,0,Real Betis,518,30Oct
+948,2,0,Real Betis,518,21Oct
+949,3,6,Real Betis,518,15Oct
+950,1,1,Girona,519,17Nov
+951,1,2,Girona,519,05Nov
+952,2,1,Girona,519,29Oct
+953,1,2,Girona,519,23Oct
+954,1,2,Girona,519,15Oct
+955,4,1,Deportivo Alaves,519,18Nov
+956,1,0,Deportivo Alaves,519,04Nov
+957,1,2,Deportivo Alaves,519,28Oct
+958,2,0,Deportivo Alaves,519,21Oct
+959,0,2,Deportivo Alaves,519,14Oct
+960,1,2,Deportivo Alaves,520,25Nov
+961,4,1,Deportivo Alaves,520,18Nov
+962,1,0,Deportivo Alaves,520,04Nov
+963,1,2,Deportivo Alaves,520,28Oct
+964,2,0,Deportivo Alaves,520,21Oct
+965,2,2,Las Palmas,520,26Nov
+966,0,2,Las Palmas,520,19Nov
+967,3,0,Las Palmas,520,05Nov
+968,1,3,Las Palmas,520,30Oct
+969,4,0,Las Palmas,520,22Oct
+970,1,0,Getafe,521,27Nov
+971,4,1,Getafe,521,18Nov
+972,2,2,Getafe,521,03Nov
+973,2,1,Getafe,521,29Oct
+974,1,1,Getafe,521,21Oct
+975,1,2,Eibar,521,25Nov
+976,5,0,Eibar,521,20Nov
+977,3,1,Eibar,521,05Nov
+978,2,2,Eibar,521,29Oct
+979,3,0,Eibar,521,22Oct
+980,3,2,Real Madrid,522,06Dec
+981,0,0,Real Madrid,522,02Dec
+982,3,2,Real Madrid,522,25Nov
+983,0,3,Real Madrid,522,21Nov
+984,0,6,Real Madrid,522,21Nov
+985,1,1,Sevilla,522,06Dec
+986,2,0,Sevilla,522,02Dec
+987,2,3,Sevilla,522,26Nov
+988,0,4,Sevilla,522,21Nov
+989,3,3,Sevilla,522,21Nov
+990,2,2,Deportivo La Coruña,523,26Nov
+991,3,2,Deportivo La Coruña,523,19Nov
+992,0,1,Deportivo La Coruña,523,04Nov
+993,1,3,Deportivo La Coruña,523,30Oct
+994,1,2,Deportivo La Coruña,523,23Oct
+995,1,0,Leganés,523,24Nov
+996,0,3,Leganés,523,18Nov
+997,3,0,Leganés,523,04Nov
+998,2,1,Leganés,523,28Oct
+999,1,0,Leganés,523,22Oct
+1000,1,1,Valencia,524,26Nov
+1001,0,2,Valencia,524,19Nov
+1002,3,0,Valencia,524,04Nov
+1003,1,2,Valencia,524,28Oct
+1004,4,0,Valencia,524,21Oct
+1005,1,0,Celta Vigo,524,24Nov
+1006,2,1,Celta Vigo,524,18Nov
+1007,3,1,Celta Vigo,524,05Nov
+1008,2,1,Celta Vigo,524,29Oct
+1009,0,1,Celta Vigo,524,22Oct
+1010,2,1,Real Sociedad,525,02Dec
+1011,2,2,Real Sociedad,525,26Nov
+1012,0,1,Real Sociedad,525,23Nov
+1013,1,1,Real Sociedad,525,17Nov
+1014,3,1,Real Sociedad,525,05Nov
+1015,3,2,Malaga,525,25Nov
+1016,3,2,Malaga,525,19Nov
+1017,2,0,Malaga,525,05Nov
+1018,2,1,Malaga,525,29Oct
+1019,2,0,Malaga,525,21Oct
+1020,2,2,Real Betis,526,25Nov
+1021,5,0,Real Betis,526,20Nov
+1022,2,2,Real Betis,526,03Nov
+1023,1,0,Real Betis,526,30Oct
+1024,2,0,Real Betis,526,21Oct
+1025,1,1,Atletico Madrid,526,05Dec
+1026,2,1,Atletico Madrid,526,02Dec
+1027,0,5,Atletico Madrid,526,25Nov
+1028,2,1,Atletico Madrid,526,22Nov
+1029,2,0,Atletico Madrid,526,22Nov
+1030,0,5,Levante,527,25Nov
+1031,0,2,Levante,527,19Nov
+1032,1,2,Levante,527,05Nov
+1033,2,2,Levante,527,29Oct
+1034,1,1,Levante,527,21Oct
+1035,0,0,Athletic Club,527,02Dec
+1036,2,2,Athletic Club,527,26Nov
+1037,3,2,Athletic Club,527,23Nov
+1038,1,1,Athletic Club,527,19Nov
+1039,3,1,Athletic Club,527,05Nov
+1040,3,1,Villarreal,528,03Dec
+1041,2,3,Villarreal,528,26Nov
+1042,2,3,Villarreal,528,23Nov
+1043,1,1,Villarreal,528,19Nov
+1044,2,0,Villarreal,528,05Nov
+1045,2,0,Barcelona,528,05Dec
+1046,2,2,Barcelona,528,02Dec
+1047,1,1,Barcelona,528,26Nov
+1048,0,1,Barcelona,528,22Nov
+1049,0,0,Barcelona,528,22Nov
+1050,1,0,Espanyol de Barcelona,529,27Nov
+1051,0,2,Espanyol de Barcelona,529,19Nov
+1052,1,0,Espanyol de Barcelona,529,04Nov
+1053,1,0,Espanyol de Barcelona,529,30Oct
+1054,1,1,Espanyol de Barcelona,529,23Oct
+1055,2,2,Girona,529,25Nov
+1056,1,1,Girona,529,17Nov
+1057,1,2,Girona,529,05Nov
+1058,2,1,Girona,529,29Oct
+1059,1,2,Girona,529,23Oct
+1060,0,1,Sevilla,530,06Dec
+1061,1,1,Sevilla,530,06Dec
+1062,2,0,Sevilla,530,02Dec
+1063,2,3,Sevilla,530,26Nov
+1064,0,4,Sevilla,530,21Nov
+1065,0,0,Levante,530,01Dec
+1066,0,5,Levante,530,25Nov
+1067,0,2,Levante,530,19Nov
+1068,1,2,Levante,530,05Nov
+1069,2,2,Levante,530,29Oct
+1070,0,2,Athletic Club,531,07Dec
+1071,0,0,Athletic Club,531,02Dec
+1072,2,2,Athletic Club,531,26Nov
+1073,3,2,Athletic Club,531,23Nov
+1074,1,1,Athletic Club,531,19Nov
+1075,1,3,Real Sociedad,531,07Dec
+1076,2,1,Real Sociedad,531,02Dec
+1077,2,2,Real Sociedad,531,26Nov
+1078,0,1,Real Sociedad,531,23Nov
+1079,1,1,Real Sociedad,531,17Nov
+1080,3,1,Eibar,532,03Dec
+1081,1,2,Eibar,532,25Nov
+1082,5,0,Eibar,532,20Nov
+1083,3,1,Eibar,532,05Nov
+1084,2,2,Eibar,532,29Oct
+1085,1,0,Valencia,532,03Dec
+1086,1,1,Valencia,532,26Nov
+1087,0,2,Valencia,532,19Nov
+1088,3,0,Valencia,532,04Nov
+1089,1,2,Valencia,532,28Oct
+1090,4,2,Atletico Madrid,533,05Dec
+1091,1,1,Atletico Madrid,533,05Dec
+1092,2,1,Atletico Madrid,533,02Dec
+1093,0,5,Atletico Madrid,533,25Nov
+1094,2,1,Atletico Madrid,533,22Nov
+1095,2,3,Deportivo Alaves,533,04Dec
+1096,1,2,Deportivo Alaves,533,25Nov
+1097,4,1,Deportivo Alaves,533,18Nov
+1098,1,0,Deportivo Alaves,533,04Nov
+1099,1,2,Deportivo Alaves,533,28Oct
+1100,2,3,Girona,534,04Dec
+1101,2,2,Girona,534,25Nov
+1102,1,1,Girona,534,17Nov
+1103,1,2,Girona,534,05Nov
+1104,2,1,Girona,534,29Oct
+1105,1,0,Getafe,534,03Dec
+1106,1,0,Getafe,534,27Nov
+1107,4,1,Getafe,534,18Nov
+1108,2,2,Getafe,534,03Nov
+1109,2,1,Getafe,534,29Oct
+1110,2,2,Celta Vigo,535,02Dec
+1111,1,0,Celta Vigo,535,24Nov
+1112,2,1,Celta Vigo,535,18Nov
+1113,3,1,Celta Vigo,535,05Nov
+1114,2,1,Celta Vigo,535,29Oct
+1115,0,1,Villarreal,535,07Dec
+1116,3,1,Villarreal,535,03Dec
+1117,2,3,Villarreal,535,26Nov
+1118,2,3,Villarreal,535,23Nov
+1119,1,1,Villarreal,535,19Nov
+1120,1,0,Las Palmas,536,03Dec
+1121,2,2,Las Palmas,536,26Nov
+1122,0,2,Las Palmas,536,19Nov
+1123,3,0,Las Palmas,536,05Nov
+1124,1,3,Las Palmas,536,30Oct
+1125,3,1,Espanyol de Barcelona,536,03Dec
+1126,1,0,Espanyol de Barcelona,536,27Nov
+1127,0,2,Espanyol de Barcelona,536,19Nov
+1128,1,0,Espanyol de Barcelona,536,04Nov
+1129,1,0,Espanyol de Barcelona,536,30Oct
+1130,1,1,Barcelona,537,05Dec
+1131,2,0,Barcelona,537,05Dec
+1132,2,2,Barcelona,537,02Dec
+1133,1,1,Barcelona,537,26Nov
+1134,0,1,Barcelona,537,22Nov
+1135,2,0,Deportivo La Coruña,537,02Dec
+1136,2,2,Deportivo La Coruña,537,26Nov
+1137,3,2,Deportivo La Coruña,537,19Nov
+1138,0,1,Deportivo La Coruña,537,04Nov
+1139,1,3,Deportivo La Coruña,537,30Oct
+1140,0,0,Malaga,538,01Dec
+1141,3,2,Malaga,538,25Nov
+1142,3,2,Malaga,538,19Nov
+1143,2,0,Malaga,538,05Nov
+1144,2,1,Malaga,538,29Oct
+1145,1,0,Real Betis,538,03Dec
+1146,2,2,Real Betis,538,25Nov
+1147,5,0,Real Betis,538,20Nov
+1148,2,2,Real Betis,538,03Nov
+1149,1,0,Real Betis,538,30Oct
+1150,1,2,Levante,539,10Dec
+1151,0,0,Levante,539,01Dec
+1152,0,5,Levante,539,25Nov
+1153,0,2,Levante,539,19Nov
+1154,1,2,Levante,539,05Nov
+1155,3,1,Leganés,539,03Dec
+1156,1,0,Leganés,539,24Nov
+1157,0,3,Leganés,539,18Nov
+1158,3,0,Leganés,539,04Nov
+1159,2,1,Leganés,539,28Oct
+1160,0,0,Getafe,540,09Dec
+1161,1,0,Getafe,540,03Dec
+1162,1,0,Getafe,540,27Nov
+1163,4,1,Getafe,540,18Nov
+1164,2,2,Getafe,540,03Nov
+1165,2,0,Las Palmas,540,08Dec
+1166,1,0,Las Palmas,540,03Dec
+1167,2,2,Las Palmas,540,26Nov
+1168,0,2,Las Palmas,540,19Nov
+1169,3,0,Las Palmas,540,05Nov
+1170,0,2,Real Sociedad,541,10Dec
+1171,1,3,Real Sociedad,541,07Dec
+1172,2,1,Real Sociedad,541,02Dec
+1173,2,2,Real Sociedad,541,26Nov
+1174,0,1,Real Sociedad,541,23Nov
+1175,5,0,Sevilla,541,09Dec
+1176,0,1,Sevilla,541,06Dec
+1177,1,1,Sevilla,541,06Dec
+1178,2,0,Sevilla,541,02Dec
+1179,2,3,Sevilla,541,26Nov
+1180,0,0,Eibar,542,09Dec
+1181,3,1,Eibar,542,03Dec
+1182,1,2,Eibar,542,25Nov
+1183,5,0,Eibar,542,20Nov
+1184,3,1,Eibar,542,05Nov
+1185,0,1,Girona,542,11Dec
+1186,2,3,Girona,542,04Dec
+1187,2,2,Girona,542,25Nov
+1188,1,1,Girona,542,17Nov
+1189,1,2,Girona,542,05Nov
+1190,2,0,Deportivo Alaves,543,08Dec
+1191,2,3,Deportivo Alaves,543,04Dec
+1192,1,2,Deportivo Alaves,543,25Nov
+1193,4,1,Deportivo Alaves,543,18Nov
+1194,1,0,Deportivo Alaves,543,04Nov
+1195,0,2,Malaga,543,10Dec
+1196,0,0,Malaga,543,01Dec
+1197,3,2,Malaga,543,25Nov
+1198,3,2,Malaga,543,19Nov
+1199,2,0,Malaga,543,05Nov
+1200,0,1,Real Betis,544,10Dec
+1201,1,0,Real Betis,544,03Dec
+1202,2,2,Real Betis,544,25Nov
+1203,5,0,Real Betis,544,20Nov
+1204,2,2,Real Betis,544,03Nov
+1205,1,2,Athletic Club,544,10Dec
+1206,0,2,Athletic Club,544,07Dec
+1207,0,0,Athletic Club,544,02Dec
+1208,2,2,Athletic Club,544,26Nov
+1209,3,2,Athletic Club,544,23Nov
+1210,0,1,Espanyol de Barcelona,545,11Dec
+1211,3,1,Espanyol de Barcelona,545,03Dec
+1212,1,0,Espanyol de Barcelona,545,27Nov
+1213,0,2,Espanyol de Barcelona,545,19Nov
+1214,1,0,Espanyol de Barcelona,545,04Nov
+1215,0,1,Atletico Madrid,545,10Dec
+1216,4,2,Atletico Madrid,545,05Dec
+1217,1,1,Atletico Madrid,545,05Dec
+1218,2,1,Atletico Madrid,545,02Dec
+1219,0,5,Atletico Madrid,545,25Nov
+1220,1,2,Real Madrid,546,13Dec
+1221,5,0,Real Madrid,546,09Dec
+1222,2,1,Real Madrid,546,06Dec
+1223,3,2,Real Madrid,546,06Dec
+1224,0,0,Real Madrid,546,02Dec
+1225,0,2,Barcelona,546,10Dec
+1226,1,1,Barcelona,546,05Dec
+1227,2,0,Barcelona,546,05Dec
+1228,2,2,Barcelona,546,02Dec
+1229,1,1,Barcelona,546,26Nov
+1230,2,1,Valencia,547,09Dec
+1231,1,0,Valencia,547,03Dec
+1232,1,1,Valencia,547,26Nov
+1233,0,2,Valencia,547,19Nov
+1234,3,0,Valencia,547,04Nov
+1235,0,2,Villarreal,547,10Dec
+1236,0,1,Villarreal,547,07Dec
+1237,3,1,Villarreal,547,03Dec
+1238,2,3,Villarreal,547,26Nov
+1239,2,3,Villarreal,547,23Nov
+1240,1,0,Deportivo La Coruña,548,09Dec
+1241,2,0,Deportivo La Coruña,548,02Dec
+1242,2,2,Deportivo La Coruña,548,26Nov
+1243,3,2,Deportivo La Coruña,548,19Nov
+1244,0,1,Deportivo La Coruña,548,04Nov
+1245,2,1,Celta Vigo,548,09Dec
+1246,2,2,Celta Vigo,548,02Dec
+1247,1,0,Celta Vigo,548,24Nov
+1248,2,1,Celta Vigo,548,18Nov
+1249,3,1,Celta Vigo,548,05Nov
+1250,1,0,Atletico Madrid,549,22Dec
+1251,1,0,Atletico Madrid,549,16Dec
+1252,0,1,Atletico Madrid,549,10Dec
+1253,4,2,Atletico Madrid,549,05Dec
+1254,1,1,Atletico Madrid,549,05Dec
+1255,1,0,Getafe,549,17Dec
+1256,0,0,Getafe,549,09Dec
+1257,1,0,Getafe,549,03Dec
+1258,1,0,Getafe,549,27Nov
+1259,4,1,Getafe,549,18Nov
+1260,0,1,Valencia,550,23Dec
+1261,2,1,Valencia,550,16Dec
+1262,2,1,Valencia,550,09Dec
+1263,1,0,Valencia,550,03Dec
+1264,1,1,Valencia,550,26Nov
+1265,1,0,Girona,550,17Dec
+1266,0,1,Girona,550,11Dec
+1267,2,3,Girona,550,04Dec
+1268,2,2,Girona,550,25Nov
+1269,1,1,Girona,550,17Nov
+1270,2,0,Las Palmas,551,20Dec
+1271,2,2,Las Palmas,551,17Dec
+1272,2,0,Las Palmas,551,08Dec
+1273,1,0,Las Palmas,551,03Dec
+1274,2,2,Las Palmas,551,26Nov
+1275,2,1,Eibar,551,16Dec
+1276,0,0,Eibar,551,09Dec
+1277,3,1,Eibar,551,03Dec
+1278,1,2,Eibar,551,25Nov
+1279,5,0,Eibar,551,20Nov
+1280,3,1,Sevilla,552,20Dec
+1281,0,0,Sevilla,552,15Dec
+1282,5,0,Sevilla,552,09Dec
+1283,0,1,Sevilla,552,06Dec
+1284,1,1,Sevilla,552,06Dec
+1285,0,2,Real Betis,552,18Dec
+1286,0,1,Real Betis,552,10Dec
+1287,1,0,Real Betis,552,03Dec
+1288,2,2,Real Betis,552,25Nov
+1289,5,0,Real Betis,552,20Nov
+1290,0,0,Leganés,553,19Dec
+1291,1,0,Leganés,553,09Dec
+1292,3,1,Leganés,553,03Dec
+1293,1,0,Leganés,553,24Nov
+1294,0,3,Leganés,553,18Nov
+1295,0,0,Real Sociedad,553,16Dec
+1296,0,2,Real Sociedad,553,10Dec
+1297,1,3,Real Sociedad,553,07Dec
+1298,2,1,Real Sociedad,553,02Dec
+1299,2,2,Real Sociedad,553,26Nov
+1300,0,3,Barcelona,554,23Dec
+1301,4,0,Barcelona,554,17Dec
+1302,0,2,Barcelona,554,10Dec
+1303,1,1,Barcelona,554,05Dec
+1304,2,0,Barcelona,554,05Dec
+1305,0,0,Levante,554,19Dec
+1306,0,0,Levante,554,15Dec
+1307,1,2,Levante,554,10Dec
+1308,0,0,Levante,554,01Dec
+1309,0,5,Levante,554,25Nov
+1310,0,0,Athletic Club,555,16Dec
+1311,1,2,Athletic Club,555,10Dec
+1312,0,2,Athletic Club,555,07Dec
+1313,0,0,Athletic Club,555,02Dec
+1314,2,2,Athletic Club,555,26Nov
+1315,1,0,Deportivo Alaves,555,21Dec
+1316,1,0,Deportivo Alaves,555,16Dec
+1317,2,0,Deportivo Alaves,555,08Dec
+1318,2,3,Deportivo Alaves,555,04Dec
+1319,1,2,Deportivo Alaves,555,25Nov
+1320,0,1,Villarreal,556,23Dec
+1321,0,1,Villarreal,556,17Dec
+1322,0,2,Villarreal,556,10Dec
+1323,0,1,Villarreal,556,07Dec
+1324,3,1,Villarreal,556,03Dec
+1325,4,0,Deportivo La Coruña,556,17Dec
+1326,1,0,Deportivo La Coruña,556,09Dec
+1327,2,0,Deportivo La Coruña,556,02Dec
+1328,2,2,Deportivo La Coruña,556,26Nov
+1329,3,2,Deportivo La Coruña,556,19Nov
+1330,1,3,Celta Vigo,557,23Dec
+1331,0,1,Celta Vigo,557,17Dec
+1332,2,1,Celta Vigo,557,09Dec
+1333,2,2,Celta Vigo,557,02Dec
+1334,1,0,Celta Vigo,557,24Nov
+1335,0,3,Real Madrid,557,23Dec
+1336,1,0,Real Madrid,557,16Dec
+1337,1,2,Real Madrid,557,13Dec
+1338,5,0,Real Madrid,557,09Dec
+1339,2,1,Real Madrid,557,06Dec
+1340,0,2,Malaga,558,18Dec
+1341,0,2,Malaga,558,10Dec
+1342,0,0,Malaga,558,01Dec
+1343,3,2,Malaga,558,25Nov
+1344,3,2,Malaga,558,19Nov
+1345,1,0,Espanyol de Barcelona,558,22Dec
+1346,2,2,Espanyol de Barcelona,558,17Dec
+1347,0,1,Espanyol de Barcelona,558,11Dec
+1348,3,1,Espanyol de Barcelona,558,03Dec
+1349,1,0,Espanyol de Barcelona,558,27Nov
+1350,2,0,Getafe,559,20Dec
+1351,1,0,Getafe,559,17Dec
+1352,0,0,Getafe,559,09Dec
+1353,1,0,Getafe,559,03Dec
+1354,1,0,Getafe,559,27Nov
+1355,1,0,Malaga,559,21Dec
+1356,0,2,Malaga,559,18Dec
+1357,0,2,Malaga,559,10Dec
+1358,0,0,Malaga,559,01Dec
+1359,3,2,Malaga,559,25Nov
+1360,4,1,Girona,560,21Dec
+1361,1,0,Girona,560,17Dec
+1362,0,1,Girona,560,11Dec
+1363,2,3,Girona,560,04Dec
+1364,2,2,Girona,560,25Nov
+1365,1,2,Las Palmas,560,06Jan
+1366,1,1,Las Palmas,560,03Jan
+1367,2,0,Las Palmas,560,20Dec
+1368,2,2,Las Palmas,560,17Dec
+1369,2,0,Las Palmas,560,08Dec
+1370,2,2,Real Madrid,561,07Jan
+1371,0,3,Real Madrid,561,04Jan
+1372,0,3,Real Madrid,561,23Dec
+1373,1,0,Real Madrid,561,16Dec
+1374,1,2,Real Madrid,561,13Dec
+1375,1,1,Villarreal,561,07Jan
+1376,1,0,Villarreal,561,04Jan
+1377,0,1,Villarreal,561,23Dec
+1378,0,1,Villarreal,561,17Dec
+1379,0,2,Villarreal,561,10Dec
+1380,4,1,Eibar,562,21Dec
+1381,2,1,Eibar,562,16Dec
+1382,0,0,Eibar,562,09Dec
+1383,3,1,Eibar,562,03Dec
+1384,1,2,Eibar,562,25Nov
+1385,2,0,Atletico Madrid,562,06Jan
+1386,0,4,Atletico Madrid,562,03Jan
+1387,1,0,Atletico Madrid,562,22Dec
+1388,1,0,Atletico Madrid,562,16Dec
+1389,0,1,Atletico Madrid,562,10Dec
+1390,1,3,Deportivo La Coruña,563,23Dec
+1391,4,0,Deportivo La Coruña,563,17Dec
+1392,1,0,Deportivo La Coruña,563,09Dec
+1393,2,0,Deportivo La Coruña,563,02Dec
+1394,2,2,Deportivo La Coruña,563,26Nov
+1395,2,1,Valencia,563,06Jan
+1396,1,1,Valencia,563,03Jan
+1397,0,1,Valencia,563,23Dec
+1398,2,1,Valencia,563,16Dec
+1399,2,1,Valencia,563,09Dec
+1400,3,0,Levante,564,07Jan
+1401,1,2,Levante,564,04Jan
+1402,0,0,Levante,564,19Dec
+1403,0,0,Levante,564,15Dec
+1404,1,2,Levante,564,10Dec
+1405,2,2,Celta Vigo,564,07Jan
+1406,1,1,Celta Vigo,564,04Jan
+1407,1,3,Celta Vigo,564,23Dec
+1408,0,1,Celta Vigo,564,17Dec
+1409,2,1,Celta Vigo,564,09Dec
+1410,2,0,Deportivo Alaves,565,07Jan
+1411,1,3,Deportivo Alaves,565,03Jan
+1412,1,0,Deportivo Alaves,565,21Dec
+1413,1,0,Deportivo Alaves,565,16Dec
+1414,2,0,Deportivo Alaves,565,08Dec
+1415,3,5,Sevilla,565,06Jan
+1416,0,2,Sevilla,565,03Jan
+1417,3,1,Sevilla,565,20Dec
+1418,0,0,Sevilla,565,15Dec
+1419,5,0,Sevilla,565,09Dec
+1420,0,1,Espanyol de Barcelona,566,08Jan
+1421,1,2,Espanyol de Barcelona,566,04Jan
+1422,1,0,Espanyol de Barcelona,566,22Dec
+1423,2,2,Espanyol de Barcelona,566,17Dec
+1424,0,1,Espanyol de Barcelona,566,11Dec
+1425,0,2,Athletic Club,566,22Dec
+1426,0,0,Athletic Club,566,16Dec
+1427,1,2,Athletic Club,566,10Dec
+1428,0,2,Athletic Club,566,07Dec
+1429,0,0,Athletic Club,566,02Dec
+1430,3,1,Real Sociedad,567,20Dec
+1431,0,0,Real Sociedad,567,16Dec
+1432,0,2,Real Sociedad,567,10Dec
+1433,1,3,Real Sociedad,567,07Dec
+1434,2,1,Real Sociedad,567,02Dec
+1435,3,0,Barcelona,567,07Jan
+1436,1,1,Barcelona,567,04Jan
+1437,0,3,Barcelona,567,23Dec
+1438,4,0,Barcelona,567,17Dec
+1439,0,2,Barcelona,567,10Dec
+1440,0,2,Real Betis,568,22Dec
+1441,0,2,Real Betis,568,18Dec
+1442,0,1,Real Betis,568,10Dec
+1443,1,0,Real Betis,568,03Dec
+1444,2,2,Real Betis,568,25Nov
+1445,1,0,Leganés,568,07Jan
+1446,1,0,Leganés,568,04Jan
+1447,0,0,Leganés,568,19Dec
+1448,1,0,Leganés,568,09Dec
+1449,3,1,Leganés,568,03Dec
+1450,2,0,Getafe,569,06Jan
+1451,2,0,Getafe,569,20Dec
+1452,1,0,Getafe,569,17Dec
+1453,0,0,Getafe,569,09Dec
+1454,1,0,Getafe,569,03Dec
+1455,2,0,Athletic Club,569,07Jan
+1456,0,2,Athletic Club,569,22Dec
+1457,0,0,Athletic Club,569,16Dec
+1458,1,2,Athletic Club,569,10Dec
+1459,0,2,Athletic Club,569,07Dec
+1460,1,1,Espanyol de Barcelona,570,14Jan
+1461,0,2,Espanyol de Barcelona,570,11Jan
+1462,0,1,Espanyol de Barcelona,570,08Jan
+1463,1,2,Espanyol de Barcelona,570,04Jan
+1464,1,0,Espanyol de Barcelona,570,22Dec
+1465,1,0,Sevilla,570,14Jan
+1466,2,1,Sevilla,570,11Jan
+1467,3,5,Sevilla,570,06Jan
+1468,0,2,Sevilla,570,03Jan
+1469,3,1,Sevilla,570,20Dec
+1470,0,1,Atletico Madrid,571,13Jan
+1471,3,0,Atletico Madrid,571,09Jan
+1472,2,0,Atletico Madrid,571,06Jan
+1473,0,4,Atletico Madrid,571,03Jan
+1474,1,0,Atletico Madrid,571,22Dec
+1475,2,1,Girona,571,06Jan
+1476,4,1,Girona,571,21Dec
+1477,1,0,Girona,571,17Dec
+1478,0,1,Girona,571,11Dec
+1479,2,3,Girona,571,04Dec
+1480,2,1,Villarreal,572,10Jan
+1481,1,1,Villarreal,572,07Jan
+1482,1,0,Villarreal,572,04Jan
+1483,0,1,Villarreal,572,23Dec
+1484,0,1,Villarreal,572,17Dec
+1485,0,2,Levante,572,11Jan
+1486,3,0,Levante,572,07Jan
+1487,1,2,Levante,572,04Jan
+1488,0,0,Levante,572,19Dec
+1489,0,0,Levante,572,15Dec
+1490,4,0,Las Palmas,573,09Jan
+1491,1,2,Las Palmas,573,06Jan
+1492,1,1,Las Palmas,573,03Jan
+1493,2,0,Las Palmas,573,20Dec
+1494,2,2,Las Palmas,573,17Dec
+1495,1,2,Valencia,573,13Jan
+1496,4,0,Valencia,573,09Jan
+1497,2,1,Valencia,573,06Jan
+1498,1,1,Valencia,573,03Jan
+1499,0,1,Valencia,573,23Dec
+1500,1,0,Deportivo Alaves,574,14Jan
+1501,2,0,Deportivo Alaves,574,10Jan
+1502,2,0,Deportivo Alaves,574,07Jan
+1503,1,3,Deportivo Alaves,574,03Jan
+1504,1,0,Deportivo Alaves,574,21Dec
+1505,3,2,Leganés,574,15Jan
+1506,2,1,Leganés,574,10Jan
+1507,1,0,Leganés,574,07Jan
+1508,1,0,Leganés,574,04Jan
+1509,0,0,Leganés,574,19Dec
+1510,0,1,Real Madrid,575,13Jan
+1511,2,2,Real Madrid,575,10Jan
+1512,2,2,Real Madrid,575,07Jan
+1513,0,3,Real Madrid,575,04Jan
+1514,0,3,Real Madrid,575,23Dec
+1515,1,1,Deportivo La Coruña,575,07Jan
+1516,1,3,Deportivo La Coruña,575,23Dec
+1517,4,0,Deportivo La Coruña,575,17Dec
+1518,1,0,Deportivo La Coruña,575,09Dec
+1519,2,0,Deportivo La Coruña,575,02Dec
+1520,1,0,Real Sociedad,576,07Jan
+1521,3,1,Real Sociedad,576,20Dec
+1522,0,0,Real Sociedad,576,16Dec
+1523,0,2,Real Sociedad,576,10Dec
+1524,1,3,Real Sociedad,576,07Dec
+1525,5,0,Celta Vigo,576,11Jan
+1526,2,2,Celta Vigo,576,07Jan
+1527,1,1,Celta Vigo,576,04Jan
+1528,1,3,Celta Vigo,576,23Dec
+1529,0,1,Celta Vigo,576,17Dec
+1530,3,5,Real Betis,577,06Jan
+1531,0,2,Real Betis,577,22Dec
+1532,0,2,Real Betis,577,18Dec
+1533,0,1,Real Betis,577,10Dec
+1534,1,0,Real Betis,577,03Dec
+1535,2,4,Barcelona,577,14Jan
+1536,5,0,Barcelona,577,11Jan
+1537,3,0,Barcelona,577,07Jan
+1538,1,1,Barcelona,577,04Jan
+1539,0,3,Barcelona,577,23Dec
+1540,1,2,Eibar,578,06Jan
+1541,4,1,Eibar,578,21Dec
+1542,2,1,Eibar,578,16Dec
+1543,0,0,Eibar,578,09Dec
+1544,3,1,Eibar,578,03Dec
+1545,0,1,Malaga,578,08Jan
+1546,1,0,Malaga,578,21Dec
+1547,0,2,Malaga,578,18Dec
+1548,0,2,Malaga,578,10Dec
+1549,0,0,Malaga,578,01Dec
+1550,1,1,Athletic Club,579,14Jan
+1551,2,0,Athletic Club,579,07Jan
+1552,0,2,Athletic Club,579,22Dec
+1553,0,0,Athletic Club,579,16Dec
+1554,1,2,Athletic Club,579,10Dec
+1555,0,1,Eibar,579,13Jan
+1556,1,2,Eibar,579,06Jan
+1557,4,1,Eibar,579,21Dec
+1558,2,1,Eibar,579,16Dec
+1559,0,0,Eibar,579,09Dec
+1560,1,2,Deportivo La Coruña,580,13Jan
+1561,1,1,Deportivo La Coruña,580,07Jan
+1562,1,3,Deportivo La Coruña,580,23Dec
+1563,4,0,Deportivo La Coruña,580,17Dec
+1564,1,0,Deportivo La Coruña,580,09Dec
+1565,0,1,Levante,580,14Jan
+1566,0,2,Levante,580,11Jan
+1567,3,0,Levante,580,07Jan
+1568,1,2,Levante,580,04Jan
+1569,0,0,Levante,580,19Dec
+1570,2,1,Valencia,581,20Jan
+1571,2,1,Valencia,581,17Jan
+1572,1,2,Valencia,581,13Jan
+1573,4,0,Valencia,581,09Jan
+1574,2,1,Valencia,581,06Jan
+1575,7,1,Real Madrid,581,21Jan
+1576,0,1,Real Madrid,581,18Jan
+1577,0,1,Real Madrid,581,13Jan
+1578,2,2,Real Madrid,581,10Jan
+1579,2,2,Real Madrid,581,07Jan
+1580,1,0,Malaga,582,12Jan
+1581,0,1,Malaga,582,08Jan
+1582,1,0,Malaga,582,21Dec
+1583,0,2,Malaga,582,18Dec
+1584,0,2,Malaga,582,10Dec
+1585,6,0,Girona,582,13Jan
+1586,2,1,Girona,582,06Jan
+1587,4,1,Girona,582,21Dec
+1588,1,0,Girona,582,17Dec
+1589,0,1,Girona,582,11Dec
+1590,0,1,Villarreal,583,13Jan
+1591,2,1,Villarreal,583,10Jan
+1592,1,1,Villarreal,583,07Jan
+1593,1,0,Villarreal,583,04Jan
+1594,0,1,Villarreal,583,23Dec
+1595,2,4,Real Sociedad,583,14Jan
+1596,1,0,Real Sociedad,583,07Jan
+1597,3,1,Real Sociedad,583,20Dec
+1598,0,0,Real Sociedad,583,16Dec
+1599,0,2,Real Sociedad,583,10Dec
+1600,2,2,Leganés,584,21Jan
+1601,0,1,Leganés,584,18Jan
+1602,3,2,Leganés,584,15Jan
+1603,2,1,Leganés,584,10Jan
+1604,1,0,Leganés,584,07Jan
+1605,0,3,Espanyol de Barcelona,584,20Jan
+1606,1,0,Espanyol de Barcelona,584,17Jan
+1607,1,1,Espanyol de Barcelona,584,14Jan
+1608,0,2,Espanyol de Barcelona,584,11Jan
+1609,0,1,Espanyol de Barcelona,584,08Jan
+1610,1,1,Atletico Madrid,585,20Jan
+1611,1,2,Atletico Madrid,585,17Jan
+1612,0,1,Atletico Madrid,585,13Jan
+1613,3,0,Atletico Madrid,585,09Jan
+1614,2,0,Atletico Madrid,585,06Jan
+1615,6,0,Las Palmas,585,13Jan
+1616,4,0,Las Palmas,585,09Jan
+1617,1,2,Las Palmas,585,06Jan
+1618,1,1,Las Palmas,585,03Jan
+1619,2,0,Las Palmas,585,20Dec
+1620,0,3,Sevilla,586,20Jan
+1621,1,2,Sevilla,586,17Jan
+1622,1,0,Sevilla,586,14Jan
+1623,2,1,Sevilla,586,11Jan
+1624,3,5,Sevilla,586,06Jan
+1625,1,0,Getafe,586,12Jan
+1626,2,0,Getafe,586,06Jan
+1627,2,0,Getafe,586,20Dec
+1628,1,0,Getafe,586,17Dec
+1629,0,0,Getafe,586,09Dec
+1630,0,5,Barcelona,587,21Jan
+1631,1,0,Barcelona,587,17Jan
+1632,2,4,Barcelona,587,14Jan
+1633,5,0,Barcelona,587,11Jan
+1634,3,0,Barcelona,587,07Jan
+1635,2,2,Deportivo Alaves,587,21Jan
+1636,2,1,Deportivo Alaves,587,17Jan
+1637,1,0,Deportivo Alaves,587,14Jan
+1638,2,0,Deportivo Alaves,587,10Jan
+1639,2,0,Deportivo Alaves,587,07Jan
+1640,0,1,Celta Vigo,588,14Jan
+1641,5,0,Celta Vigo,588,11Jan
+1642,2,2,Celta Vigo,588,07Jan
+1643,1,1,Celta Vigo,588,04Jan
+1644,1,3,Celta Vigo,588,23Dec
+1645,3,2,Real Betis,588,15Jan
+1646,3,5,Real Betis,588,06Jan
+1647,0,2,Real Betis,588,22Dec
+1648,0,2,Real Betis,588,18Dec
+1649,0,1,Real Betis,588,10Dec
+1650,1,2,Real Sociedad,589,21Jan
+1651,2,4,Real Sociedad,589,14Jan
+1652,1,0,Real Sociedad,589,07Jan
+1653,3,1,Real Sociedad,589,20Dec
+1654,0,0,Real Sociedad,589,16Dec
+1655,7,1,Deportivo La Coruña,589,21Jan
+1656,1,2,Deportivo La Coruña,589,13Jan
+1657,1,1,Deportivo La Coruña,589,07Jan
+1658,1,3,Deportivo La Coruña,589,23Dec
+1659,4,0,Deportivo La Coruña,589,17Dec
+1660,1,1,Eibar,590,22Jan
+1661,0,1,Eibar,590,13Jan
+1662,1,2,Eibar,590,06Jan
+1663,4,1,Eibar,590,21Dec
+1664,2,1,Eibar,590,16Dec
+1665,1,1,Sevilla,590,28Jan
+1666,3,1,Sevilla,590,23Jan
+1667,0,3,Sevilla,590,20Jan
+1668,1,2,Sevilla,590,17Jan
+1669,1,0,Sevilla,590,14Jan
+1670,0,5,Real Betis,591,21Jan
+1671,3,2,Real Betis,591,15Jan
+1672,3,5,Real Betis,591,06Jan
+1673,0,2,Real Betis,591,22Dec
+1674,0,2,Real Betis,591,18Dec
+1675,2,1,Villarreal,591,20Jan
+1676,0,1,Villarreal,591,13Jan
+1677,2,1,Villarreal,591,10Jan
+1678,1,1,Villarreal,591,07Jan
+1679,1,0,Villarreal,591,04Jan
+1680,2,1,Deportivo Alaves,592,24Jan
+1681,2,2,Deportivo Alaves,592,21Jan
+1682,2,1,Deportivo Alaves,592,17Jan
+1683,1,0,Deportivo Alaves,592,14Jan
+1684,2,0,Deportivo Alaves,592,10Jan
+1685,1,2,Celta Vigo,592,21Jan
+1686,0,1,Celta Vigo,592,14Jan
+1687,5,0,Celta Vigo,592,11Jan
+1688,2,2,Celta Vigo,592,07Jan
+1689,1,1,Celta Vigo,592,04Jan
+1690,2,1,Levante,593,20Jan
+1691,0,1,Levante,593,14Jan
+1692,0,2,Levante,593,11Jan
+1693,3,0,Levante,593,07Jan
+1694,1,2,Levante,593,04Jan
+1695,1,2,Real Madrid,593,24Jan
+1696,7,1,Real Madrid,593,21Jan
+1697,0,1,Real Madrid,593,18Jan
+1698,0,1,Real Madrid,593,13Jan
+1699,2,2,Real Madrid,593,10Jan
+1700,2,2,Getafe,594,19Jan
+1701,1,0,Getafe,594,12Jan
+1702,2,0,Getafe,594,06Jan
+1703,2,0,Getafe,594,20Dec
+1704,1,0,Getafe,594,17Dec
+1705,3,2,Leganés,594,28Jan
+1706,1,2,Leganés,594,24Jan
+1707,2,2,Leganés,594,21Jan
+1708,0,1,Leganés,594,18Jan
+1709,3,2,Leganés,594,15Jan
+1710,2,0,Espanyol de Barcelona,595,25Jan
+1711,0,3,Espanyol de Barcelona,595,20Jan
+1712,1,0,Espanyol de Barcelona,595,17Jan
+1713,1,1,Espanyol de Barcelona,595,14Jan
+1714,0,2,Espanyol de Barcelona,595,11Jan
+1715,2,1,Barcelona,595,28Jan
+1716,2,0,Barcelona,595,25Jan
+1717,0,5,Barcelona,595,21Jan
+1718,1,0,Barcelona,595,17Jan
+1719,2,4,Barcelona,595,14Jan
+1720,1,1,Girona,596,20Jan
+1721,6,0,Girona,596,13Jan
+1722,2,1,Girona,596,06Jan
+1723,4,1,Girona,596,21Dec
+1724,1,0,Girona,596,17Dec
+1725,2,2,Athletic Club,596,19Jan
+1726,1,1,Athletic Club,596,14Jan
+1727,2,0,Athletic Club,596,07Jan
+1728,0,2,Athletic Club,596,22Dec
+1729,0,0,Athletic Club,596,16Dec
+1730,3,1,Atletico Madrid,597,23Jan
+1731,1,1,Atletico Madrid,597,20Jan
+1732,1,2,Atletico Madrid,597,17Jan
+1733,0,1,Atletico Madrid,597,13Jan
+1734,3,0,Atletico Madrid,597,09Jan
+1735,1,4,Valencia,597,27Jan
+1736,2,1,Valencia,597,24Jan
+1737,2,1,Valencia,597,20Jan
+1738,2,1,Valencia,597,17Jan
+1739,1,2,Valencia,597,13Jan
+1740,2,1,Las Palmas,598,20Jan
+1741,6,0,Las Palmas,598,13Jan
+1742,4,0,Las Palmas,598,09Jan
+1743,1,2,Las Palmas,598,06Jan
+1744,1,1,Las Palmas,598,03Jan
+1745,1,1,Malaga,598,22Jan
+1746,1,0,Malaga,598,12Jan
+1747,0,1,Malaga,598,08Jan
+1748,1,0,Malaga,598,21Dec
+1749,0,2,Malaga,598,18Dec
+1750,1,1,Athletic Club,599,26Jan
+1751,2,2,Athletic Club,599,19Jan
+1752,1,1,Athletic Club,599,14Jan
+1753,2,0,Athletic Club,599,07Jan
+1754,0,2,Athletic Club,599,22Dec
+1755,3,0,Las Palmas,599,28Jan
+1756,2,1,Las Palmas,599,20Jan
+1757,6,0,Las Palmas,599,13Jan
+1758,4,0,Las Palmas,599,09Jan
+1759,1,2,Las Palmas,599,06Jan
+1760,4,2,Villarreal,600,27Jan
+1761,2,1,Villarreal,600,20Jan
+1762,0,1,Villarreal,600,13Jan
+1763,2,1,Villarreal,600,10Jan
+1764,1,1,Villarreal,600,07Jan
+1765,2,1,Deportivo Alaves,600,28Jan
+1766,2,1,Deportivo Alaves,600,24Jan
+1767,2,2,Deportivo Alaves,600,21Jan
+1768,2,1,Deportivo Alaves,600,17Jan
+1769,1,0,Deportivo Alaves,600,14Jan
+1770,0,0,Malaga,601,27Jan
+1771,1,1,Malaga,601,22Jan
+1772,1,0,Malaga,601,12Jan
+1773,0,1,Malaga,601,08Jan
+1774,1,0,Malaga,601,21Dec
+1775,1,0,Atletico Madrid,601,04Feb
+1776,3,0,Atletico Madrid,601,28Jan
+1777,3,1,Atletico Madrid,601,23Jan
+1778,1,1,Atletico Madrid,601,20Jan
+1779,1,2,Atletico Madrid,601,17Jan
+1780,0,0,Leganés,602,04Feb
+1781,1,1,Leganés,602,31Jan
+1782,3,2,Leganés,602,28Jan
+1783,1,2,Leganés,602,24Jan
+1784,2,2,Leganés,602,21Jan
+1785,1,1,Eibar,602,26Jan
+1786,1,1,Eibar,602,22Jan
+1787,0,1,Eibar,602,13Jan
+1788,1,2,Eibar,602,06Jan
+1789,4,1,Eibar,602,21Dec
+1790,2,2,Real Madrid,603,03Feb
+1791,1,4,Real Madrid,603,27Jan
+1792,1,2,Real Madrid,603,24Jan
+1793,7,1,Real Madrid,603,21Jan
+1794,0,1,Real Madrid,603,18Jan
+1795,4,2,Real Sociedad,603,27Jan
+1796,1,2,Real Sociedad,603,21Jan
+1797,2,4,Real Sociedad,603,14Jan
+1798,1,0,Real Sociedad,603,07Jan
+1799,3,1,Real Sociedad,603,20Dec
+1800,5,1,Sevilla,604,03Feb
+1801,1,1,Sevilla,604,31Jan
+1802,1,1,Sevilla,604,28Jan
+1803,3,1,Sevilla,604,23Jan
+1804,0,3,Sevilla,604,20Jan
+1805,0,0,Girona,604,27Jan
+1806,1,1,Girona,604,20Jan
+1807,6,0,Girona,604,13Jan
+1808,2,1,Girona,604,06Jan
+1809,4,1,Girona,604,21Dec
+1810,1,1,Barcelona,605,04Feb
+1811,1,0,Barcelona,605,01Feb
+1812,2,1,Barcelona,605,28Jan
+1813,2,0,Barcelona,605,25Jan
+1814,0,5,Barcelona,605,21Jan
+1815,1,1,Getafe,605,28Jan
+1816,2,2,Getafe,605,19Jan
+1817,1,0,Getafe,605,12Jan
+1818,2,0,Getafe,605,06Jan
+1819,2,0,Getafe,605,20Dec
+1820,3,2,Celta Vigo,606,29Jan
+1821,1,2,Celta Vigo,606,21Jan
+1822,0,1,Celta Vigo,606,14Jan
+1823,5,0,Celta Vigo,606,11Jan
+1824,2,2,Celta Vigo,606,07Jan
+1825,3,2,Espanyol de Barcelona,606,28Jan
+1826,2,0,Espanyol de Barcelona,606,25Jan
+1827,0,3,Espanyol de Barcelona,606,20Jan
+1828,1,0,Espanyol de Barcelona,606,17Jan
+1829,1,1,Espanyol de Barcelona,606,14Jan
+1830,1,0,Valencia,607,04Feb
+1831,1,0,Valencia,607,01Feb
+1832,1,4,Valencia,607,27Jan
+1833,2,1,Valencia,607,24Jan
+1834,2,1,Valencia,607,20Jan
+1835,2,2,Levante,607,27Jan
+1836,2,1,Levante,607,20Jan
+1837,0,1,Levante,607,14Jan
+1838,0,2,Levante,607,11Jan
+1839,3,0,Levante,607,07Jan
+1840,2,2,Deportivo La Coruña,608,27Jan
+1841,7,1,Deportivo La Coruña,608,21Jan
+1842,1,2,Deportivo La Coruña,608,13Jan
+1843,1,1,Deportivo La Coruña,608,07Jan
+1844,1,3,Deportivo La Coruña,608,23Dec
+1845,3,2,Real Betis,608,29Jan
+1846,0,5,Real Betis,608,21Jan
+1847,3,2,Real Betis,608,15Jan
+1848,3,5,Real Betis,608,06Jan
+1849,0,2,Real Betis,608,22Dec
+1850,2,0,Girona,609,04Feb
+1851,0,0,Girona,609,27Jan
+1852,1,1,Girona,609,20Jan
+1853,6,0,Girona,609,13Jan
+1854,2,1,Girona,609,06Jan
+1855,2,0,Leganés,609,07Feb
+1856,0,0,Leganés,609,04Feb
+1857,1,1,Leganés,609,31Jan
+1858,3,2,Leganés,609,28Jan
+1859,1,2,Leganés,609,24Jan
+1860,1,0,Las Palmas,610,05Feb
+1861,3,0,Las Palmas,610,28Jan
+1862,2,1,Las Palmas,610,20Jan
+1863,6,0,Las Palmas,610,13Jan
+1864,4,0,Las Palmas,610,09Jan
+1865,2,0,Sevilla,610,07Feb
+1866,5,1,Sevilla,610,03Feb
+1867,1,1,Sevilla,610,31Jan
+1868,1,1,Sevilla,610,28Jan
+1869,3,1,Sevilla,610,23Jan
+1870,5,1,Eibar,611,03Feb
+1871,1,1,Eibar,611,26Jan
+1872,1,1,Eibar,611,22Jan
+1873,0,1,Eibar,611,13Jan
+1874,1,2,Eibar,611,06Jan
+1875,0,2,Barcelona,611,08Feb
+1876,1,1,Barcelona,611,04Feb
+1877,1,0,Barcelona,611,01Feb
+1878,2,1,Barcelona,611,28Jan
+1879,2,0,Barcelona,611,25Jan
+1880,2,1,Deportivo Alaves,612,03Feb
+1881,2,1,Deportivo Alaves,612,28Jan
+1882,2,1,Deportivo Alaves,612,24Jan
+1883,2,2,Deportivo Alaves,612,21Jan
+1884,2,1,Deportivo Alaves,612,17Jan
+1885,5,0,Deportivo La Coruña,612,02Feb
+1886,2,2,Deportivo La Coruña,612,27Jan
+1887,7,1,Deportivo La Coruña,612,21Jan
+1888,1,2,Deportivo La Coruña,612,13Jan
+1889,1,1,Deportivo La Coruña,612,07Jan
+1890,1,0,Malaga,613,05Feb
+1891,0,0,Malaga,613,27Jan
+1892,1,1,Malaga,613,22Jan
+1893,1,0,Malaga,613,12Jan
+1894,0,1,Malaga,613,08Jan
+1895,0,2,Valencia,613,08Feb
+1896,1,0,Valencia,613,04Feb
+1897,1,0,Valencia,613,01Feb
+1898,1,4,Valencia,613,27Jan
+1899,2,1,Valencia,613,24Jan
+1900,5,2,Real Sociedad,614,10Feb
+1901,5,0,Real Sociedad,614,02Feb
+1902,4,2,Real Sociedad,614,27Jan
+1903,1,2,Real Sociedad,614,21Jan
+1904,2,4,Real Sociedad,614,14Jan
+1905,2,2,Levante,614,03Feb
+1906,2,2,Levante,614,27Jan
+1907,2,1,Levante,614,20Jan
+1908,0,1,Levante,614,14Jan
+1909,0,2,Levante,614,11Jan
+1910,0,1,Atletico Madrid,615,10Feb
+1911,1,3,Atletico Madrid,615,07Feb
+1912,1,0,Atletico Madrid,615,04Feb
+1913,3,0,Atletico Madrid,615,28Jan
+1914,3,1,Atletico Madrid,615,23Jan
+1915,0,0,Athletic Club,615,09Feb
+1916,2,0,Athletic Club,615,04Feb
+1917,1,1,Athletic Club,615,26Jan
+1918,2,2,Athletic Club,615,19Jan
+1919,1,1,Athletic Club,615,14Jan
+1920,1,1,Espanyol de Barcelona,616,04Feb
+1921,3,2,Espanyol de Barcelona,616,28Jan
+1922,2,0,Espanyol de Barcelona,616,25Jan
+1923,0,3,Espanyol de Barcelona,616,20Jan
+1924,1,0,Espanyol de Barcelona,616,17Jan
+1925,1,2,Villarreal,616,10Feb
+1926,2,1,Villarreal,616,03Feb
+1927,4,2,Villarreal,616,27Jan
+1928,2,1,Villarreal,616,20Jan
+1929,0,1,Villarreal,616,13Jan
+1930,2,1,Real Betis,617,03Feb
+1931,3,2,Real Betis,617,29Jan
+1932,0,5,Real Betis,617,21Jan
+1933,3,2,Real Betis,617,15Jan
+1934,3,5,Real Betis,617,06Jan
+1935,5,2,Real Madrid,617,10Feb
+1936,0,0,Real Madrid,617,07Feb
+1937,2,2,Real Madrid,617,03Feb
+1938,1,4,Real Madrid,617,27Jan
+1939,1,2,Real Madrid,617,24Jan
+1940,0,0,Getafe,618,04Feb
+1941,1,1,Getafe,618,28Jan
+1942,2,2,Getafe,618,19Jan
+1943,1,0,Getafe,618,12Jan
+1944,2,0,Getafe,618,06Jan
+1945,2,1,Celta Vigo,618,03Feb
+1946,3,2,Celta Vigo,618,29Jan
+1947,1,2,Celta Vigo,618,21Jan
+1948,0,1,Celta Vigo,618,14Jan
+1949,5,0,Celta Vigo,618,11Jan
+1950,0,1,Leganés,619,10Feb
+1951,2,0,Leganés,619,07Feb
+1952,0,0,Leganés,619,04Feb
+1953,1,1,Leganés,619,31Jan
+1954,3,2,Leganés,619,28Jan
+1955,3,1,Real Madrid,619,14Feb
+1956,5,2,Real Madrid,619,10Feb
+1957,0,0,Real Madrid,619,07Feb
+1958,2,2,Real Madrid,619,03Feb
+1959,1,4,Real Madrid,619,27Jan
+1960,0,1,Deportivo La Coruña,620,12Feb
+1961,5,0,Deportivo La Coruña,620,02Feb
+1962,2,2,Deportivo La Coruña,620,27Jan
+1963,7,1,Deportivo La Coruña,620,21Jan
+1964,1,2,Deportivo La Coruña,620,13Jan
+1965,2,2,Espanyol de Barcelona,620,11Feb
+1966,1,1,Espanyol de Barcelona,620,04Feb
+1967,3,2,Espanyol de Barcelona,620,28Jan
+1968,2,0,Espanyol de Barcelona,620,25Jan
+1969,0,3,Espanyol de Barcelona,620,20Jan
+1970,2,2,Celta Vigo,621,11Feb
+1971,2,1,Celta Vigo,621,03Feb
+1972,3,2,Celta Vigo,621,29Jan
+1973,1,2,Celta Vigo,621,21Jan
+1974,0,1,Celta Vigo,621,14Jan
+1975,0,1,Eibar,621,10Feb
+1976,5,1,Eibar,621,03Feb
+1977,1,1,Eibar,621,26Jan
+1978,1,1,Eibar,621,22Jan
+1979,0,1,Eibar,621,13Jan
+1980,1,3,Real Madrid,622,21Feb
+1981,3,5,Real Madrid,622,18Feb
+1982,3,1,Real Madrid,622,14Feb
+1983,5,2,Real Madrid,622,10Feb
+1984,0,0,Real Madrid,622,07Feb
+1985,1,2,Deportivo Alaves,622,10Feb
+1986,2,1,Deportivo Alaves,622,03Feb
+1987,2,1,Deportivo Alaves,622,28Jan
+1988,2,1,Deportivo Alaves,622,24Jan
+1989,2,2,Deportivo Alaves,622,21Jan
+1990,3,0,Leganés,623,16Feb
+1991,0,1,Leganés,623,10Feb
+1992,2,0,Leganés,623,07Feb
+1993,0,0,Leganés,623,04Feb
+1994,1,1,Leganés,623,31Jan
+1995,0,0,Las Palmas,623,09Feb
+1996,1,0,Las Palmas,623,05Feb
+1997,3,0,Las Palmas,623,28Jan
+1998,2,1,Las Palmas,623,20Jan
+1999,6,0,Las Palmas,623,13Jan
+2000,1,1,Barcelona,624,20Feb
+2001,0,2,Barcelona,624,17Feb
+2002,0,0,Barcelona,624,11Feb
+2003,0,2,Barcelona,624,08Feb
+2004,1,1,Barcelona,624,04Feb
+2005,1,0,Girona,624,11Feb
+2006,2,0,Girona,624,04Feb
+2007,0,0,Girona,624,27Jan
+2008,1,1,Girona,624,20Jan
+2009,6,0,Girona,624,13Jan
+2010,1,1,Villarreal,625,18Feb
+2011,3,1,Villarreal,625,15Feb
+2012,1,2,Villarreal,625,10Feb
+2013,2,1,Villarreal,625,03Feb
+2014,4,2,Villarreal,625,27Jan
+2015,0,0,Getafe,625,11Feb
+2016,0,0,Getafe,625,04Feb
+2017,1,1,Getafe,625,28Jan
+2018,2,2,Getafe,625,19Jan
+2019,1,0,Getafe,625,12Jan
+2020,2,0,Athletic Club,626,18Feb
+2021,1,3,Athletic Club,626,15Feb
+2022,0,0,Athletic Club,626,09Feb
+2023,2,0,Athletic Club,626,04Feb
+2024,1,1,Athletic Club,626,26Jan
+2025,0,1,Malaga,626,10Feb
+2026,1,0,Malaga,626,05Feb
+2027,0,0,Malaga,626,27Jan
+2028,1,1,Malaga,626,22Jan
+2029,1,0,Malaga,626,12Jan
+2030,3,1,Valencia,627,11Feb
+2031,0,2,Valencia,627,08Feb
+2032,1,0,Valencia,627,04Feb
+2033,1,0,Valencia,627,01Feb
+2034,1,4,Valencia,627,27Jan
+2035,3,0,Real Sociedad,627,18Feb
+2036,2,2,Real Sociedad,627,15Feb
+2037,5,2,Real Sociedad,627,10Feb
+2038,5,0,Real Sociedad,627,02Feb
+2039,4,2,Real Sociedad,627,27Jan
+2040,1,2,Sevilla,628,17Feb
+2041,1,0,Sevilla,628,11Feb
+2042,2,0,Sevilla,628,07Feb
+2043,5,1,Sevilla,628,03Feb
+2044,1,1,Sevilla,628,31Jan
+2045,1,0,Atletico Madrid,628,21Feb
+2046,2,0,Atletico Madrid,628,18Feb
+2047,1,4,Atletico Madrid,628,15Feb
+2048,0,1,Atletico Madrid,628,10Feb
+2049,1,3,Atletico Madrid,628,07Feb
+2050,3,1,Levante,629,11Feb
+2051,2,2,Levante,629,03Feb
+2052,2,2,Levante,629,27Jan
+2053,2,1,Levante,629,20Jan
+2054,0,1,Levante,629,14Jan
+2055,0,1,Real Betis,629,12Feb
+2056,2,1,Real Betis,629,03Feb
+2057,3,2,Real Betis,629,29Jan
+2058,0,5,Real Betis,629,21Jan
+2059,3,2,Real Betis,629,15Jan
+2060,1,1,Espanyol de Barcelona,630,18Feb
+2061,2,2,Espanyol de Barcelona,630,11Feb
+2062,1,1,Espanyol de Barcelona,630,04Feb
+2063,3,2,Espanyol de Barcelona,630,28Jan
+2064,2,0,Espanyol de Barcelona,630,25Jan
+2065,2,3,Real Madrid,630,21Feb
+2066,1,3,Real Madrid,630,21Feb
+2067,3,5,Real Madrid,630,18Feb
+2068,3,1,Real Madrid,630,14Feb
+2069,5,2,Real Madrid,630,10Feb
+2070,3,0,Girona,631,16Feb
+2071,1,0,Girona,631,11Feb
+2072,2,0,Girona,631,04Feb
+2073,0,0,Girona,631,27Jan
+2074,1,1,Girona,631,20Jan
+2075,3,0,Celta Vigo,631,19Feb
+2076,2,2,Celta Vigo,631,11Feb
+2077,2,1,Celta Vigo,631,03Feb
+2078,3,2,Celta Vigo,631,29Jan
+2079,1,2,Celta Vigo,631,21Jan
+2080,1,2,Athletic Club,632,22Feb
+2081,2,0,Athletic Club,632,18Feb
+2082,1,3,Athletic Club,632,15Feb
+2083,0,0,Athletic Club,632,09Feb
+2084,2,0,Athletic Club,632,04Feb
+2085,1,2,Valencia,632,17Feb
+2086,3,1,Valencia,632,11Feb
+2087,0,2,Valencia,632,08Feb
+2088,1,0,Valencia,632,04Feb
+2089,1,0,Valencia,632,01Feb
+2090,3,0,Getafe,633,19Feb
+2091,0,0,Getafe,633,11Feb
+2092,0,0,Getafe,633,04Feb
+2093,1,1,Getafe,633,28Jan
+2094,2,2,Getafe,633,19Jan
+2095,1,0,Deportivo La Coruña,633,17Feb
+2096,0,1,Deportivo La Coruña,633,12Feb
+2097,5,0,Deportivo La Coruña,633,02Feb
+2098,2,2,Deportivo La Coruña,633,27Jan
+2099,7,1,Deportivo La Coruña,633,21Jan
+2100,1,2,Malaga,634,17Feb
+2101,0,1,Malaga,634,10Feb
+2102,1,0,Malaga,634,05Feb
+2103,0,0,Malaga,634,27Jan
+2104,1,1,Malaga,634,22Jan
+2105,0,0,Sevilla,634,21Feb
+2106,1,2,Sevilla,634,17Feb
+2107,1,0,Sevilla,634,11Feb
+2108,2,0,Sevilla,634,07Feb
+2109,5,1,Sevilla,634,03Feb
+2110,1,0,Atletico Madrid,635,22Feb
+2111,1,0,Atletico Madrid,635,21Feb
+2112,2,0,Atletico Madrid,635,18Feb
+2113,1,4,Atletico Madrid,635,15Feb
+2114,0,1,Atletico Madrid,635,10Feb
+2115,1,3,Leganés,635,21Feb
+2116,3,0,Leganés,635,16Feb
+2117,0,1,Leganés,635,10Feb
+2118,2,0,Leganés,635,07Feb
+2119,0,0,Leganés,635,04Feb
+2120,0,2,Eibar,636,17Feb
+2121,0,1,Eibar,636,10Feb
+2122,5,1,Eibar,636,03Feb
+2123,1,1,Eibar,636,26Jan
+2124,1,1,Eibar,636,22Jan
+2125,0,1,Villarreal,636,22Feb
+2126,1,1,Villarreal,636,18Feb
+2127,3,1,Villarreal,636,15Feb
+2128,1,2,Villarreal,636,10Feb
+2129,2,1,Villarreal,636,03Feb
+2130,3,5,Real Betis,637,18Feb
+2131,0,1,Real Betis,637,12Feb
+2132,2,1,Real Betis,637,03Feb
+2133,3,2,Real Betis,637,29Jan
+2134,0,5,Real Betis,637,21Jan
+2135,2,1,Real Sociedad,637,22Feb
+2136,3,0,Real Sociedad,637,18Feb
+2137,2,2,Real Sociedad,637,15Feb
+2138,5,2,Real Sociedad,637,10Feb
+2139,5,0,Real Sociedad,637,02Feb
+2140,1,2,Las Palmas,638,17Feb
+2141,0,0,Las Palmas,638,09Feb
+2142,1,0,Las Palmas,638,05Feb
+2143,3,0,Las Palmas,638,28Jan
+2144,2,1,Las Palmas,638,20Jan
+2145,0,1,Barcelona,638,20Feb
+2146,1,1,Barcelona,638,20Feb
+2147,0,2,Barcelona,638,17Feb
+2148,0,0,Barcelona,638,11Feb
+2149,0,2,Barcelona,638,08Feb
+2150,1,0,Deportivo Alaves,639,17Feb
+2151,1,2,Deportivo Alaves,639,10Feb
+2152,2,1,Deportivo Alaves,639,03Feb
+2153,2,1,Deportivo Alaves,639,28Jan
+2154,2,1,Deportivo Alaves,639,24Jan
+2155,3,0,Levante,639,18Feb
+2156,3,1,Levante,639,11Feb
+2157,2,2,Levante,639,03Feb
+2158,2,2,Levante,639,27Jan
+2159,2,1,Levante,639,20Jan
+2160,1,0,Villarreal,640,25Feb
+2161,0,1,Villarreal,640,22Feb
+2162,1,1,Villarreal,640,18Feb
+2163,3,1,Villarreal,640,15Feb
+2164,1,2,Villarreal,640,10Feb
+2165,6,1,Girona,640,24Feb
+2166,3,0,Girona,640,16Feb
+2167,1,0,Girona,640,11Feb
+2168,2,0,Girona,640,04Feb
+2169,0,0,Girona,640,27Jan
+2170,2,5,Sevilla,641,25Feb
+2171,0,0,Sevilla,641,21Feb
+2172,1,2,Sevilla,641,17Feb
+2173,1,0,Sevilla,641,11Feb
+2174,2,0,Sevilla,641,07Feb
+2175,2,1,Athletic Club,641,25Feb
+2176,1,2,Athletic Club,641,22Feb
+2177,2,0,Athletic Club,641,18Feb
+2178,1,3,Athletic Club,641,15Feb
+2179,0,0,Athletic Club,641,09Feb
+2180,0,0,Deportivo La Coruña,642,23Feb
+2181,1,0,Deportivo La Coruña,642,17Feb
+2182,0,1,Deportivo La Coruña,642,12Feb
+2183,5,0,Deportivo La Coruña,642,02Feb
+2184,2,2,Deportivo La Coruña,642,27Jan
+2185,2,0,Eibar,642,24Feb
+2186,0,2,Eibar,642,17Feb
+2187,0,1,Eibar,642,10Feb
+2188,5,1,Eibar,642,03Feb
+2189,1,1,Eibar,642,26Jan
+2190,0,0,Leganés,643,24Feb
+2191,1,3,Leganés,643,21Feb
+2192,3,0,Leganés,643,16Feb
+2193,0,1,Leganés,643,10Feb
+2194,2,0,Leganés,643,07Feb
+2195,2,1,Malaga,643,25Feb
+2196,1,2,Malaga,643,17Feb
+2197,0,1,Malaga,643,10Feb
+2198,1,0,Malaga,643,05Feb
+2199,0,0,Malaga,643,27Jan
+2200,4,0,Real Madrid,644,24Feb
+2201,2,3,Real Madrid,644,21Feb
+2202,1,3,Real Madrid,644,21Feb
+2203,3,5,Real Madrid,644,18Feb
+2204,3,1,Real Madrid,644,14Feb
+2205,1,0,Getafe,644,25Feb
+2206,3,0,Getafe,644,19Feb
+2207,0,0,Getafe,644,11Feb
+2208,0,0,Getafe,644,04Feb
+2209,1,1,Getafe,644,28Jan
+2210,0,2,Levante,645,26Feb
+2211,3,0,Levante,645,18Feb
+2212,3,1,Levante,645,11Feb
+2213,2,2,Levante,645,03Feb
+2214,2,2,Levante,645,27Jan
+2215,0,0,Espanyol de Barcelona,645,23Feb
+2216,1,1,Espanyol de Barcelona,645,18Feb
+2217,2,2,Espanyol de Barcelona,645,11Feb
+2218,1,1,Espanyol de Barcelona,645,04Feb
+2219,3,2,Espanyol de Barcelona,645,28Jan
+2220,6,1,Barcelona,646,24Feb
+2221,0,1,Barcelona,646,20Feb
+2222,1,1,Barcelona,646,20Feb
+2223,0,2,Barcelona,646,17Feb
+2224,0,0,Barcelona,646,11Feb
+2225,2,5,Atletico Madrid,646,25Feb
+2226,1,0,Atletico Madrid,646,22Feb
+2227,1,0,Atletico Madrid,646,21Feb
+2228,2,0,Atletico Madrid,646,18Feb
+2229,1,4,Atletico Madrid,646,15Feb
+2230,2,1,Real Sociedad,647,25Feb
+2231,2,1,Real Sociedad,647,22Feb
+2232,3,0,Real Sociedad,647,18Feb
+2233,2,2,Real Sociedad,647,15Feb
+2234,5,2,Real Sociedad,647,10Feb
+2235,4,0,Deportivo Alaves,647,24Feb
+2236,1,0,Deportivo Alaves,647,17Feb
+2237,1,2,Deportivo Alaves,647,10Feb
+2238,2,1,Deportivo Alaves,647,03Feb
+2239,2,1,Deportivo Alaves,647,28Jan
+2240,2,1,Valencia,648,25Feb
+2241,1,2,Valencia,648,17Feb
+2242,3,1,Valencia,648,11Feb
+2243,0,2,Valencia,648,08Feb
+2244,1,0,Valencia,648,04Feb
+2245,0,2,Real Betis,648,26Feb
+2246,3,5,Real Betis,648,18Feb
+2247,0,1,Real Betis,648,12Feb
+2248,2,1,Real Betis,648,03Feb
+2249,3,2,Real Betis,648,29Jan
+2250,2,0,Celta Vigo,649,24Feb
+2251,3,0,Celta Vigo,649,19Feb
+2252,2,2,Celta Vigo,649,11Feb
+2253,2,1,Celta Vigo,649,03Feb
+2254,3,2,Celta Vigo,649,29Jan
+2255,0,0,Las Palmas,649,24Feb
+2256,1,2,Las Palmas,649,17Feb
+2257,0,0,Las Palmas,649,09Feb
+2258,1,0,Las Palmas,649,05Feb
+2259,3,0,Las Palmas,649,28Jan
+2260,1,0,Girona,650,27Feb
+2261,6,1,Girona,650,24Feb
+2262,3,0,Girona,650,16Feb
+2263,1,0,Girona,650,11Feb
+2264,2,0,Girona,650,04Feb
+2265,3,0,Deportivo La Coruña,650,28Feb
+2266,0,0,Deportivo La Coruña,650,23Feb
+2267,1,0,Deportivo La Coruña,650,17Feb
+2268,0,1,Deportivo La Coruña,650,12Feb
+2269,5,0,Deportivo La Coruña,650,02Feb
+2270,1,0,Eibar,651,28Feb
+2271,2,0,Eibar,651,24Feb
+2272,0,2,Eibar,651,17Feb
+2273,0,1,Eibar,651,10Feb
+2274,5,1,Eibar,651,03Feb
+2275,3,1,Real Madrid,651,03Mar
+2276,1,0,Real Madrid,651,27Feb
+2277,4,0,Real Madrid,651,24Feb
+2278,2,3,Real Madrid,651,21Feb
+2279,1,3,Real Madrid,651,21Feb
+2280,0,1,Sevilla,652,28Feb
+2281,2,5,Sevilla,652,25Feb
+2282,0,0,Sevilla,652,21Feb
+2283,1,2,Sevilla,652,17Feb
+2284,1,0,Sevilla,652,11Feb
+2285,1,1,Valencia,652,28Feb
+2286,2,1,Valencia,652,25Feb
+2287,1,2,Valencia,652,17Feb
+2288,3,1,Valencia,652,11Feb
+2289,0,2,Valencia,652,08Feb
+2290,3,0,Getafe,653,28Feb
+2291,1,0,Getafe,653,25Feb
+2292,3,0,Getafe,653,19Feb
+2293,0,0,Getafe,653,11Feb
+2294,0,0,Getafe,653,04Feb
+2295,1,0,Levante,653,01Mar
+2296,0,2,Levante,653,26Feb
+2297,3,0,Levante,653,18Feb
+2298,3,1,Levante,653,11Feb
+2299,2,2,Levante,653,03Feb
+2300,0,1,Malaga,654,28Feb
+2301,2,1,Malaga,654,25Feb
+2302,1,2,Malaga,654,17Feb
+2303,0,1,Malaga,654,10Feb
+2304,1,0,Malaga,654,05Feb
+2305,1,1,Barcelona,654,01Mar
+2306,6,1,Barcelona,654,24Feb
+2307,0,1,Barcelona,654,20Feb
+2308,1,1,Barcelona,654,20Feb
+2309,0,2,Barcelona,654,17Feb
+2310,1,0,Espanyol de Barcelona,655,27Feb
+2311,0,0,Espanyol de Barcelona,655,23Feb
+2312,1,1,Espanyol de Barcelona,655,18Feb
+2313,2,2,Espanyol de Barcelona,655,11Feb
+2314,1,1,Espanyol de Barcelona,655,04Feb
+2315,0,0,Real Sociedad,655,01Mar
+2316,2,1,Real Sociedad,655,25Feb
+2317,2,1,Real Sociedad,655,22Feb
+2318,3,0,Real Sociedad,655,18Feb
+2319,2,2,Real Sociedad,655,15Feb
+2320,1,0,Atletico Madrid,656,04Mar
+2321,4,0,Atletico Madrid,656,28Feb
+2322,2,5,Atletico Madrid,656,25Feb
+2323,1,0,Atletico Madrid,656,22Feb
+2324,1,0,Atletico Madrid,656,21Feb
+2325,1,0,Celta Vigo,656,27Feb
+2326,2,0,Celta Vigo,656,24Feb
+2327,3,0,Celta Vigo,656,19Feb
+2328,2,2,Celta Vigo,656,11Feb
+2329,2,1,Celta Vigo,656,03Feb
+2330,1,1,Las Palmas,657,01Mar
+2331,0,0,Las Palmas,657,24Feb
+2332,1,2,Las Palmas,657,17Feb
+2333,0,0,Las Palmas,657,09Feb
+2334,1,0,Las Palmas,657,05Feb
+2335,1,0,Villarreal,657,28Feb
+2336,1,0,Villarreal,657,25Feb
+2337,0,1,Villarreal,657,22Feb
+2338,1,1,Villarreal,657,18Feb
+2339,3,1,Villarreal,657,15Feb
+2340,2,0,Athletic Club,658,03Mar
+2341,1,1,Athletic Club,658,28Feb
+2342,2,1,Athletic Club,658,25Feb
+2343,1,2,Athletic Club,658,22Feb
+2344,2,0,Athletic Club,658,18Feb
+2345,4,0,Leganés,658,28Feb
+2346,0,0,Leganés,658,24Feb
+2347,1,3,Leganés,658,21Feb
+2348,3,0,Leganés,658,16Feb
+2349,0,1,Leganés,658,10Feb
+2350,1,0,Deportivo Alaves,659,01Mar
+2351,4,0,Deportivo Alaves,659,24Feb
+2352,1,0,Deportivo Alaves,659,17Feb
+2353,1,2,Deportivo Alaves,659,10Feb
+2354,2,1,Deportivo Alaves,659,03Feb
+2355,0,0,Real Betis,659,01Mar
+2356,0,2,Real Betis,659,26Feb
+2357,3,5,Real Betis,659,18Feb
+2358,0,1,Real Betis,659,12Feb
+2359,2,1,Real Betis,659,03Feb
+2360,1,1,Levante,660,04Mar
+2361,1,0,Levante,660,01Mar
+2362,0,2,Levante,660,26Feb
+2363,3,0,Levante,660,18Feb
+2364,3,1,Levante,660,11Feb
+2365,1,1,Eibar,660,03Mar
+2366,1,0,Eibar,660,28Feb
+2367,2,0,Eibar,660,24Feb
+2368,0,2,Eibar,660,17Feb
+2369,0,1,Eibar,660,10Feb
+2370,1,1,Deportivo La Coruña,661,03Mar
+2371,3,0,Deportivo La Coruña,661,28Feb
+2372,0,0,Deportivo La Coruña,661,23Feb
+2373,1,0,Deportivo La Coruña,661,17Feb
+2374,0,1,Deportivo La Coruña,661,12Feb
+2375,2,1,Las Palmas,661,05Mar
+2376,1,1,Las Palmas,661,01Mar
+2377,0,0,Las Palmas,661,24Feb
+2378,1,2,Las Palmas,661,17Feb
+2379,0,0,Las Palmas,661,09Feb
+2380,2,0,Valencia,662,04Mar
+2381,1,1,Valencia,662,28Feb
+2382,2,1,Valencia,662,25Feb
+2383,1,2,Valencia,662,17Feb
+2384,3,1,Valencia,662,11Feb
+2385,2,1,Deportivo Alaves,662,04Mar
+2386,1,0,Deportivo Alaves,662,01Mar
+2387,4,0,Deportivo Alaves,662,24Feb
+2388,1,0,Deportivo Alaves,662,17Feb
+2389,1,2,Deportivo Alaves,662,10Feb
+2390,2,1,Real Sociedad,663,04Mar
+2391,0,0,Real Sociedad,663,01Mar
+2392,2,1,Real Sociedad,663,25Feb
+2393,2,1,Real Sociedad,663,22Feb
+2394,3,0,Real Sociedad,663,18Feb
+2395,3,1,Getafe,663,03Mar
+2396,3,0,Getafe,663,28Feb
+2397,1,0,Getafe,663,25Feb
+2398,3,0,Getafe,663,19Feb
+2399,0,0,Getafe,663,11Feb
+2400,2,0,Real Betis,664,04Mar
+2401,0,0,Real Betis,664,01Mar
+2402,0,2,Real Betis,664,26Feb
+2403,3,5,Real Betis,664,18Feb
+2404,0,1,Real Betis,664,12Feb
+2405,1,1,Espanyol de Barcelona,664,04Mar
+2406,1,0,Espanyol de Barcelona,664,27Feb
+2407,0,0,Espanyol de Barcelona,664,23Feb
+2408,1,1,Espanyol de Barcelona,664,18Feb
+2409,2,2,Espanyol de Barcelona,664,11Feb
+2410,2,0,Leganés,665,03Mar
+2411,4,0,Leganés,665,28Feb
+2412,0,0,Leganés,665,24Feb
+2413,1,3,Leganés,665,21Feb
+2414,3,0,Leganés,665,16Feb
+2415,0,2,Sevilla,665,10Mar
+2416,2,0,Sevilla,665,03Mar
+2417,0,1,Sevilla,665,28Feb
+2418,2,5,Sevilla,665,25Feb
+2419,0,0,Sevilla,665,21Feb
+2420,2,0,Barcelona,666,13Mar
+2421,0,2,Barcelona,666,10Mar
+2422,1,0,Barcelona,666,04Mar
+2423,1,1,Barcelona,666,01Mar
+2424,6,1,Barcelona,666,24Feb
+2425,2,0,Athletic Club,666,11Mar
+2426,3,1,Athletic Club,666,08Mar
+2427,2,0,Athletic Club,666,03Mar
+2428,1,1,Athletic Club,666,28Feb
+2429,2,1,Athletic Club,666,25Feb
+2430,2,1,Celta Vigo,667,05Mar
+2431,1,0,Celta Vigo,667,27Feb
+2432,2,0,Celta Vigo,667,24Feb
+2433,3,0,Celta Vigo,667,19Feb
+2434,2,2,Celta Vigo,667,11Feb
+2435,2,0,Malaga,667,03Mar
+2436,0,1,Malaga,667,28Feb
+2437,2,1,Malaga,667,25Feb
+2438,1,2,Malaga,667,17Feb
+2439,0,1,Malaga,667,10Feb
+2440,0,2,Villarreal,668,03Mar
+2441,1,0,Villarreal,668,28Feb
+2442,1,0,Villarreal,668,25Feb
+2443,0,1,Villarreal,668,22Feb
+2444,1,1,Villarreal,668,18Feb
+2445,2,0,Atletico Madrid,668,13Mar
+2446,3,0,Atletico Madrid,668,11Mar
+2447,3,0,Atletico Madrid,668,08Mar
+2448,1,0,Atletico Madrid,668,04Mar
+2449,4,0,Atletico Madrid,668,28Feb
+2450,1,2,Real Madrid,669,10Mar
+2451,1,2,Real Madrid,669,06Mar
+2452,3,1,Real Madrid,669,03Mar
+2453,1,0,Real Madrid,669,27Feb
+2454,4,0,Real Madrid,669,24Feb
+2455,0,2,Girona,669,03Mar
+2456,1,0,Girona,669,27Feb
+2457,6,1,Girona,669,24Feb
+2458,3,0,Girona,669,16Feb
+2459,1,0,Girona,669,11Feb
+2460,2,0,Girona,670,09Mar
+2461,0,2,Girona,670,03Mar
+2462,1,0,Girona,670,27Feb
+2463,6,1,Girona,670,24Feb
+2464,3,0,Girona,670,16Feb
+2465,0,1,Levante,670,10Mar
+2466,1,1,Levante,670,04Mar
+2467,1,0,Levante,670,01Mar
+2468,0,2,Levante,670,26Feb
+2469,3,0,Levante,670,18Feb
+2470,1,2,Athletic Club,671,15Mar
+2471,2,0,Athletic Club,671,11Mar
+2472,3,1,Athletic Club,671,08Mar
+2473,2,0,Athletic Club,671,03Mar
+2474,1,1,Athletic Club,671,28Feb
+2475,3,0,Celta Vigo,671,11Mar
+2476,2,1,Celta Vigo,671,05Mar
+2477,1,0,Celta Vigo,671,27Feb
+2478,2,0,Celta Vigo,671,24Feb
+2479,3,0,Celta Vigo,671,19Feb
+2480,0,2,Las Palmas,672,11Mar
+2481,2,1,Las Palmas,672,05Mar
+2482,1,1,Las Palmas,672,01Mar
+2483,0,0,Las Palmas,672,24Feb
+2484,1,2,Las Palmas,672,17Feb
+2485,2,4,Real Madrid,672,14Mar
+2486,1,2,Real Madrid,672,10Mar
+2487,1,2,Real Madrid,672,06Mar
+2488,3,1,Real Madrid,672,03Mar
+2489,1,0,Real Madrid,672,27Feb
+2490,1,2,Sevilla,673,13Mar
+2491,0,2,Sevilla,673,10Mar
+2492,2,0,Sevilla,673,03Mar
+2493,0,1,Sevilla,673,28Feb
+2494,2,5,Sevilla,673,25Feb
+2495,3,0,Barcelona,673,14Mar
+2496,2,0,Barcelona,673,13Mar
+2497,0,2,Barcelona,673,10Mar
+2498,1,0,Barcelona,673,04Mar
+2499,1,1,Barcelona,673,01Mar
+2500,2,1,Espanyol de Barcelona,674,11Mar
+2501,1,1,Espanyol de Barcelona,674,04Mar
+2502,1,0,Espanyol de Barcelona,674,27Feb
+2503,0,0,Espanyol de Barcelona,674,23Feb
+2504,1,1,Espanyol de Barcelona,674,18Feb
+2505,1,3,Deportivo Alaves,674,12Mar
+2506,2,1,Deportivo Alaves,674,04Mar
+2507,1,0,Deportivo Alaves,674,01Mar
+2508,4,0,Deportivo Alaves,674,24Feb
+2509,1,0,Deportivo Alaves,674,17Feb
+2510,2,0,Leganés,675,11Mar
+2511,2,0,Leganés,675,03Mar
+2512,4,0,Leganés,675,28Feb
+2513,0,0,Leganés,675,24Feb
+2514,1,3,Leganés,675,21Feb
+2515,0,2,Valencia,675,10Mar
+2516,2,0,Valencia,675,04Mar
+2517,1,1,Valencia,675,28Feb
+2518,2,1,Valencia,675,25Feb
+2519,1,2,Valencia,675,17Feb
+2520,1,2,Eibar,676,10Mar
+2521,1,1,Eibar,676,03Mar
+2522,1,0,Eibar,676,28Feb
+2523,2,0,Eibar,676,24Feb
+2524,0,2,Eibar,676,17Feb
+2525,2,1,Real Sociedad,676,11Mar
+2526,2,1,Real Sociedad,676,04Mar
+2527,0,0,Real Sociedad,676,01Mar
+2528,2,1,Real Sociedad,676,25Feb
+2529,2,1,Real Sociedad,676,22Feb
+2530,0,2,Malaga,677,10Mar
+2531,2,0,Malaga,677,03Mar
+2532,0,1,Malaga,677,28Feb
+2533,2,1,Malaga,677,25Feb
+2534,1,2,Malaga,677,17Feb
+2535,0,2,Villarreal,677,11Mar
+2536,0,2,Villarreal,677,03Mar
+2537,1,0,Villarreal,677,28Feb
+2538,1,0,Villarreal,677,25Feb
+2539,0,1,Villarreal,677,22Feb
+2540,1,5,Atletico Madrid,678,15Mar
+2541,2,0,Atletico Madrid,678,13Mar
+2542,3,0,Atletico Madrid,678,11Mar
+2543,3,0,Atletico Madrid,678,08Mar
+2544,1,0,Atletico Madrid,678,04Mar
+2545,2,0,Deportivo La Coruña,678,09Mar
+2546,1,1,Deportivo La Coruña,678,03Mar
+2547,3,0,Deportivo La Coruña,678,28Feb
+2548,0,0,Deportivo La Coruña,678,23Feb
+2549,1,0,Deportivo La Coruña,678,17Feb
+2550,0,1,Getafe,679,10Mar
+2551,3,1,Getafe,679,03Mar
+2552,3,0,Getafe,679,28Feb
+2553,1,0,Getafe,679,25Feb
+2554,3,0,Getafe,679,19Feb
+2555,1,3,Real Betis,679,12Mar
+2556,2,0,Real Betis,679,04Mar
+2557,0,0,Real Betis,679,01Mar
+2558,0,2,Real Betis,679,26Feb
+2559,3,5,Real Betis,679,18Feb
+2560,1,1,Deportivo La Coruña,680,17Mar
+2561,2,0,Deportivo La Coruña,680,09Mar
+2562,1,1,Deportivo La Coruña,680,03Mar
+2563,3,0,Deportivo La Coruña,680,28Feb
+2564,0,0,Deportivo La Coruña,680,23Feb
+2565,0,0,Malaga,680,18Mar
+2566,0,2,Malaga,680,10Mar
+2567,2,0,Malaga,680,03Mar
+2568,0,1,Malaga,680,28Feb
+2569,2,1,Malaga,680,25Feb
+2570,3,1,Deportivo Alaves,681,17Mar
+2571,1,3,Deportivo Alaves,681,12Mar
+2572,2,1,Deportivo Alaves,681,04Mar
+2573,1,0,Deportivo Alaves,681,01Mar
+2574,4,0,Deportivo Alaves,681,24Feb
+2575,1,2,Getafe,681,17Mar
+2576,0,1,Getafe,681,10Mar
+2577,3,1,Getafe,681,03Mar
+2578,3,0,Getafe,681,28Feb
+2579,1,0,Getafe,681,25Feb
+2580,0,0,Celta Vigo,682,18Mar
+2581,3,0,Celta Vigo,682,11Mar
+2582,2,1,Celta Vigo,682,05Mar
+2583,1,0,Celta Vigo,682,27Feb
+2584,2,0,Celta Vigo,682,24Feb
+2585,2,2,Sevilla,682,31Mar
+2586,2,1,Sevilla,682,18Mar
+2587,1,2,Sevilla,682,13Mar
+2588,0,2,Sevilla,682,10Mar
+2589,2,0,Sevilla,682,03Mar
+2590,3,0,Real Betis,683,17Mar
+2591,1,3,Real Betis,683,12Mar
+2592,2,0,Real Betis,683,04Mar
+2593,0,0,Real Betis,683,01Mar
+2594,0,2,Real Betis,683,26Feb
+2595,2,1,Eibar,683,16Mar
+2596,1,2,Eibar,683,10Mar
+2597,1,1,Eibar,683,03Mar
+2598,1,0,Eibar,683,28Feb
+2599,2,0,Eibar,683,24Feb
+2600,2,2,Barcelona,684,31Mar
+2601,2,0,Barcelona,684,18Mar
+2602,3,0,Barcelona,684,14Mar
+2603,2,0,Barcelona,684,13Mar
+2604,0,2,Barcelona,684,10Mar
+2605,2,1,Leganés,684,18Mar
+2606,2,0,Leganés,684,11Mar
+2607,2,0,Leganés,684,03Mar
+2608,4,0,Leganés,684,28Feb
+2609,0,0,Leganés,684,24Feb
+2610,2,1,Levante,685,16Mar
+2611,0,1,Levante,685,10Mar
+2612,1,1,Levante,685,04Mar
+2613,1,0,Levante,685,01Mar
+2614,0,2,Levante,685,26Feb
+2615,1,1,Las Palmas,685,17Mar
+2616,0,2,Las Palmas,685,11Mar
+2617,2,1,Las Palmas,685,05Mar
+2618,1,1,Las Palmas,685,01Mar
+2619,0,0,Las Palmas,685,24Feb
+2620,0,3,Real Madrid,686,31Mar
+2621,6,3,Real Madrid,686,18Mar
+2622,2,4,Real Madrid,686,14Mar
+2623,1,2,Real Madrid,686,10Mar
+2624,1,2,Real Madrid,686,06Mar
+2625,1,0,Atletico Madrid,686,01Apr
+2626,2,1,Atletico Madrid,686,18Mar
+2627,1,5,Atletico Madrid,686,15Mar
+2628,2,0,Atletico Madrid,686,13Mar
+2629,3,0,Atletico Madrid,686,11Mar
+2630,1,2,Real Sociedad,687,17Mar
+2631,2,1,Real Sociedad,687,11Mar
+2632,2,1,Real Sociedad,687,04Mar
+2633,0,0,Real Sociedad,687,01Mar
+2634,2,1,Real Sociedad,687,25Feb
+2635,6,3,Girona,687,18Mar
+2636,2,0,Girona,687,09Mar
+2637,0,2,Girona,687,03Mar
+2638,1,0,Girona,687,27Feb
+2639,6,1,Girona,687,24Feb
+2640,3,1,Valencia,688,17Mar
+2641,0,2,Valencia,688,10Mar
+2642,2,0,Valencia,688,04Mar
+2643,1,1,Valencia,688,28Feb
+2644,2,1,Valencia,688,25Feb
+2645,3,0,Espanyol de Barcelona,688,17Mar
+2646,2,1,Espanyol de Barcelona,688,11Mar
+2647,1,1,Espanyol de Barcelona,688,04Mar
+2648,1,0,Espanyol de Barcelona,688,27Feb
+2649,0,0,Espanyol de Barcelona,688,23Feb
+2650,2,1,Villarreal,689,18Mar
+2651,0,2,Villarreal,689,11Mar
+2652,0,2,Villarreal,689,03Mar
+2653,1,0,Villarreal,689,28Feb
+2654,1,0,Villarreal,689,25Feb
+2655,2,0,Athletic Club,689,18Mar
+2656,1,2,Athletic Club,689,15Mar
+2657,2,0,Athletic Club,689,11Mar
+2658,3,1,Athletic Club,689,08Mar
+2659,2,0,Athletic Club,689,03Mar
+2660,1,1,Girona,690,31Mar
+2661,6,3,Girona,690,18Mar
+2662,2,0,Girona,690,09Mar
+2663,0,2,Girona,690,03Mar
+2664,1,0,Girona,690,27Feb
+2665,0,1,Real Betis,690,02Apr
+2666,3,0,Real Betis,690,17Mar
+2667,1,3,Real Betis,690,12Mar
+2668,2,0,Real Betis,690,04Mar
+2669,0,0,Real Betis,690,01Mar
+2670,4,0,Sevilla,691,07Apr
+2671,1,2,Sevilla,691,03Apr
+2672,2,2,Sevilla,691,31Mar
+2673,2,1,Sevilla,691,18Mar
+2674,1,2,Sevilla,691,13Mar
+2675,1,0,Villarreal,691,01Apr
+2676,2,1,Villarreal,691,18Mar
+2677,0,2,Villarreal,691,11Mar
+2678,0,2,Villarreal,691,03Mar
+2679,1,0,Villarreal,691,28Feb
+2680,3,1,Barcelona,692,07Apr
+2681,4,1,Barcelona,692,04Apr
+2682,2,2,Barcelona,692,31Mar
+2683,2,0,Barcelona,692,18Mar
+2684,3,0,Barcelona,692,14Mar
+2685,0,1,Valencia,692,01Apr
+2686,3,1,Valencia,692,17Mar
+2687,0,2,Valencia,692,10Mar
+2688,2,0,Valencia,692,04Mar
+2689,1,1,Valencia,692,28Feb
+2690,0,3,Las Palmas,693,31Mar
+2691,1,1,Las Palmas,693,17Mar
+2692,0,2,Las Palmas,693,11Mar
+2693,2,1,Las Palmas,693,05Mar
+2694,1,1,Las Palmas,693,01Mar
+2695,0,0,Real Sociedad,693,01Apr
+2696,1,2,Real Sociedad,693,17Mar
+2697,2,1,Real Sociedad,693,11Mar
+2698,2,1,Real Sociedad,693,04Mar
+2699,0,0,Real Sociedad,693,01Mar
+2700,0,1,Leganés,694,01Apr
+2701,2,1,Leganés,694,18Mar
+2702,2,0,Leganés,694,11Mar
+2703,2,0,Leganés,694,03Mar
+2704,4,0,Leganés,694,28Feb
+2705,1,1,Celta Vigo,694,31Mar
+2706,0,0,Celta Vigo,694,18Mar
+2707,3,0,Celta Vigo,694,11Mar
+2708,2,1,Celta Vigo,694,05Mar
+2709,1,0,Celta Vigo,694,27Feb
+2710,1,1,Athletic Club,695,31Mar
+2711,2,0,Athletic Club,695,18Mar
+2712,1,2,Athletic Club,695,15Mar
+2713,2,0,Athletic Club,695,11Mar
+2714,3,1,Athletic Club,695,08Mar
+2715,1,0,Deportivo La Coruña,695,01Apr
+2716,1,1,Deportivo La Coruña,695,17Mar
+2717,2,0,Deportivo La Coruña,695,09Mar
+2718,1,1,Deportivo La Coruña,695,03Mar
+2719,3,0,Deportivo La Coruña,695,28Feb
+2720,0,0,Eibar,696,01Apr
+2721,2,1,Eibar,696,16Mar
+2722,1,2,Eibar,696,10Mar
+2723,1,1,Eibar,696,03Mar
+2724,1,0,Eibar,696,28Feb
+2725,0,0,Deportivo Alaves,696,01Apr
+2726,3,1,Deportivo Alaves,696,17Mar
+2727,1,3,Deportivo Alaves,696,12Mar
+2728,2,1,Deportivo Alaves,696,04Mar
+2729,1,0,Deportivo Alaves,696,01Mar
+2730,1,1,Atletico Madrid,697,08Apr
+2731,2,0,Atletico Madrid,697,05Apr
+2732,1,0,Atletico Madrid,697,01Apr
+2733,2,1,Atletico Madrid,697,18Mar
+2734,1,5,Atletico Madrid,697,15Mar
+2735,1,1,Levante,697,31Mar
+2736,2,1,Levante,697,16Mar
+2737,0,1,Levante,697,10Mar
+2738,1,1,Levante,697,04Mar
+2739,1,0,Levante,697,01Mar
+2740,0,1,Getafe,698,02Apr
+2741,1,2,Getafe,698,17Mar
+2742,0,1,Getafe,698,10Mar
+2743,3,1,Getafe,698,03Mar
+2744,3,0,Getafe,698,28Feb
+2745,0,0,Espanyol de Barcelona,698,01Apr
+2746,3,0,Espanyol de Barcelona,698,17Mar
+2747,2,1,Espanyol de Barcelona,698,11Mar
+2748,1,1,Espanyol de Barcelona,698,04Mar
+2749,1,0,Espanyol de Barcelona,698,27Feb
+2750,1,0,Malaga,699,01Apr
+2751,0,0,Malaga,699,18Mar
+2752,0,2,Malaga,699,10Mar
+2753,2,0,Malaga,699,03Mar
+2754,0,1,Malaga,699,28Feb
+2755,1,1,Real Madrid,699,08Apr
+2756,0,3,Real Madrid,699,03Apr
+2757,0,3,Real Madrid,699,31Mar
+2758,6,3,Real Madrid,699,18Mar
+2759,2,4,Real Madrid,699,14Mar
+2760,3,2,Deportivo La Coruña,700,06Apr
+2761,1,0,Deportivo La Coruña,700,01Apr
+2762,1,1,Deportivo La Coruña,700,17Mar
+2763,2,0,Deportivo La Coruña,700,09Mar
+2764,1,1,Deportivo La Coruña,700,03Mar
+2765,0,0,Sevilla,700,11Apr
+2766,4,0,Sevilla,700,07Apr
+2767,1,2,Sevilla,700,03Apr
+2768,2,2,Sevilla,700,31Mar
+2769,2,1,Sevilla,700,18Mar
+2770,4,0,Celta Vigo,701,07Apr
+2771,1,1,Celta Vigo,701,31Mar
+2772,0,0,Celta Vigo,701,18Mar
+2773,3,0,Celta Vigo,701,11Mar
+2774,2,1,Celta Vigo,701,05Mar
+2775,3,0,Barcelona,701,10Apr
+2776,3,1,Barcelona,701,07Apr
+2777,4,1,Barcelona,701,04Apr
+2778,2,2,Barcelona,701,31Mar
+2779,2,0,Barcelona,701,18Mar
+2780,1,3,Villarreal,702,09Apr
+2781,1,0,Villarreal,702,01Apr
+2782,2,1,Villarreal,702,18Mar
+2783,0,2,Villarreal,702,11Mar
+2784,0,2,Villarreal,702,03Mar
+2785,3,1,Leganés,702,07Apr
+2786,0,1,Leganés,702,01Apr
+2787,2,1,Leganés,702,18Mar
+2788,2,0,Leganés,702,11Mar
+2789,2,0,Leganés,702,03Mar
+2790,1,0,Espanyol de Barcelona,703,08Apr
+2791,0,0,Espanyol de Barcelona,703,01Apr
+2792,3,0,Espanyol de Barcelona,703,17Mar
+2793,2,1,Espanyol de Barcelona,703,11Mar
+2794,1,1,Espanyol de Barcelona,703,04Mar
+2795,2,0,Eibar,703,07Apr
+2796,0,0,Eibar,703,01Apr
+2797,2,1,Eibar,703,16Mar
+2798,1,2,Eibar,703,10Mar
+2799,1,1,Eibar,703,03Mar
+2800,1,0,Valencia,704,08Apr
+2801,0,1,Valencia,704,01Apr
+2802,3,1,Valencia,704,17Mar
+2803,0,2,Valencia,704,10Mar
+2804,2,0,Valencia,704,04Mar
+2805,2,0,Getafe,704,07Apr
+2806,0,1,Getafe,704,02Apr
+2807,1,2,Getafe,704,17Mar
+2808,0,1,Getafe,704,10Mar
+2809,3,1,Getafe,704,03Mar
+2810,1,3,Real Madrid,705,11Apr
+2811,1,1,Real Madrid,705,08Apr
+2812,0,3,Real Madrid,705,03Apr
+2813,0,3,Real Madrid,705,31Mar
+2814,6,3,Real Madrid,705,18Mar
+2815,1,3,Athletic Club,705,09Apr
+2816,1,1,Athletic Club,705,31Mar
+2817,2,0,Athletic Club,705,18Mar
+2818,1,2,Athletic Club,705,15Mar
+2819,2,0,Athletic Club,705,11Mar
+2820,2,0,Deportivo Alaves,706,07Apr
+2821,0,0,Deportivo Alaves,706,01Apr
+2822,3,1,Deportivo Alaves,706,17Mar
+2823,1,3,Deportivo Alaves,706,12Mar
+2824,2,1,Deportivo Alaves,706,04Mar
+2825,5,0,Girona,706,08Apr
+2826,1,1,Girona,706,31Mar
+2827,6,3,Girona,706,18Mar
+2828,2,0,Girona,706,09Mar
+2829,0,2,Girona,706,03Mar
+2830,5,0,Real Sociedad,707,08Apr
+2831,0,0,Real Sociedad,707,01Apr
+2832,1,2,Real Sociedad,707,17Mar
+2833,2,1,Real Sociedad,707,11Mar
+2834,2,1,Real Sociedad,707,04Mar
+2835,1,0,Atletico Madrid,707,12Apr
+2836,1,1,Atletico Madrid,707,08Apr
+2837,2,0,Atletico Madrid,707,05Apr
+2838,1,0,Atletico Madrid,707,01Apr
+2839,2,1,Atletico Madrid,707,18Mar
+2840,2,1,Levante,708,08Apr
+2841,1,1,Levante,708,31Mar
+2842,2,1,Levante,708,16Mar
+2843,0,1,Levante,708,10Mar
+2844,1,1,Levante,708,04Mar
+2845,3,2,Malaga,708,06Apr
+2846,1,0,Malaga,708,01Apr
+2847,0,0,Malaga,708,18Mar
+2848,0,2,Malaga,708,10Mar
+2849,2,0,Malaga,708,03Mar
+2850,2,0,Real Betis,709,07Apr
+2851,0,1,Real Betis,709,02Apr
+2852,3,0,Real Betis,709,17Mar
+2853,1,3,Real Betis,709,12Mar
+2854,2,0,Real Betis,709,04Mar
+2855,2,1,Las Palmas,709,08Apr
+2856,0,3,Las Palmas,709,31Mar
+2857,1,1,Las Palmas,709,17Mar
+2858,0,2,Las Palmas,709,11Mar
+2859,2,1,Las Palmas,709,05Mar
+2860,1,0,Leganés,710,14Apr
+2861,3,1,Leganés,710,07Apr
+2862,0,1,Leganés,710,01Apr
+2863,2,1,Leganés,710,18Mar
+2864,2,0,Leganés,710,11Mar
+2865,2,3,Deportivo La Coruña,710,14Apr
+2866,3,2,Deportivo La Coruña,710,06Apr
+2867,1,0,Deportivo La Coruña,710,01Apr
+2868,1,1,Deportivo La Coruña,710,17Mar
+2869,2,0,Deportivo La Coruña,710,09Mar
+2870,0,1,Eibar,711,15Apr
+2871,2,0,Eibar,711,07Apr
+2872,0,0,Eibar,711,01Apr
+2873,2,1,Eibar,711,16Mar
+2874,1,2,Eibar,711,10Mar
+2875,1,0,Getafe,711,15Apr
+2876,2,0,Getafe,711,07Apr
+2877,0,1,Getafe,711,02Apr
+2878,1,2,Getafe,711,17Mar
+2879,0,1,Getafe,711,10Mar
+2880,1,0,Celta Vigo,712,14Apr
+2881,4,0,Celta Vigo,712,07Apr
+2882,1,1,Celta Vigo,712,31Mar
+2883,0,0,Celta Vigo,712,18Mar
+2884,3,0,Celta Vigo,712,11Mar
+2885,2,1,Valencia,712,14Apr
+2886,1,0,Valencia,712,08Apr
+2887,0,1,Valencia,712,01Apr
+2888,3,1,Valencia,712,17Mar
+2889,0,2,Valencia,712,10Mar
+2890,0,1,Girona,713,13Apr
+2891,5,0,Girona,713,08Apr
+2892,1,1,Girona,713,31Mar
+2893,6,3,Girona,713,18Mar
+2894,2,0,Girona,713,09Mar
+2895,1,0,Espanyol de Barcelona,713,15Apr
+2896,1,0,Espanyol de Barcelona,713,08Apr
+2897,0,0,Espanyol de Barcelona,713,01Apr
+2898,3,0,Espanyol de Barcelona,713,17Mar
+2899,2,1,Espanyol de Barcelona,713,11Mar
+2900,1,2,Malaga,714,15Apr
+2901,3,2,Malaga,714,06Apr
+2902,1,0,Malaga,714,01Apr
+2903,0,0,Malaga,714,18Mar
+2904,0,2,Malaga,714,10Mar
+2905,0,1,Real Sociedad,714,14Apr
+2906,5,0,Real Sociedad,714,08Apr
+2907,0,0,Real Sociedad,714,01Apr
+2908,1,2,Real Sociedad,714,17Mar
+2909,2,1,Real Sociedad,714,11Mar
+2910,0,1,Las Palmas,715,14Apr
+2911,2,1,Las Palmas,715,08Apr
+2912,0,3,Las Palmas,715,31Mar
+2913,1,1,Las Palmas,715,17Mar
+2914,0,2,Las Palmas,715,11Mar
+2915,0,1,Deportivo Alaves,715,15Apr
+2916,2,0,Deportivo Alaves,715,07Apr
+2917,0,0,Deportivo Alaves,715,01Apr
+2918,3,1,Deportivo Alaves,715,17Mar
+2919,1,3,Deportivo Alaves,715,12Mar
+2920,3,0,Atletico Madrid,716,15Apr
+2921,1,0,Atletico Madrid,716,12Apr
+2922,1,1,Atletico Madrid,716,08Apr
+2923,2,0,Atletico Madrid,716,05Apr
+2924,1,0,Atletico Madrid,716,01Apr
+2925,0,1,Real Betis,716,13Apr
+2926,2,0,Real Betis,716,07Apr
+2927,0,1,Real Betis,716,02Apr
+2928,3,0,Real Betis,716,17Mar
+2929,1,3,Real Betis,716,12Mar
+2930,2,3,Athletic Club,717,14Apr
+2931,1,3,Athletic Club,717,09Apr
+2932,1,1,Athletic Club,717,31Mar
+2933,2,0,Athletic Club,717,18Mar
+2934,1,2,Athletic Club,717,15Mar
+2935,3,0,Levante,717,15Apr
+2936,2,1,Levante,717,08Apr
+2937,1,1,Levante,717,31Mar
+2938,2,1,Levante,717,16Mar
+2939,0,1,Levante,717,10Mar
+2940,1,0,Levante,718,19Apr
+2941,3,0,Levante,718,15Apr
+2942,2,1,Levante,718,08Apr
+2943,1,1,Levante,718,31Mar
+2944,2,1,Levante,718,16Mar
+2945,0,0,Sevilla,718,17Apr
+2946,2,2,Sevilla,718,14Apr
+2947,0,0,Sevilla,718,11Apr
+2948,4,0,Sevilla,718,07Apr
+2949,1,2,Sevilla,718,03Apr
+2950,0,1,Espanyol de Barcelona,719,18Apr
+2951,1,0,Espanyol de Barcelona,719,15Apr
+2952,1,0,Espanyol de Barcelona,719,08Apr
+2953,0,0,Espanyol de Barcelona,719,01Apr
+2954,3,0,Espanyol de Barcelona,719,17Mar
+2955,1,0,Las Palmas,719,19Apr
+2956,0,1,Las Palmas,719,14Apr
+2957,2,1,Las Palmas,719,08Apr
+2958,0,3,Las Palmas,719,31Mar
+2959,1,1,Las Palmas,719,17Mar
+2960,3,0,Real Sociedad,720,19Apr
+2961,0,1,Real Sociedad,720,14Apr
+2962,5,0,Real Sociedad,720,08Apr
+2963,0,0,Real Sociedad,720,01Apr
+2964,1,2,Real Sociedad,720,17Mar
+2965,1,1,Athletic Club,720,18Apr
+2966,2,3,Athletic Club,720,14Apr
+2967,1,3,Athletic Club,720,09Apr
+2968,1,1,Athletic Club,720,31Mar
+2969,2,0,Athletic Club,720,18Mar
+2970,1,1,Real Madrid,721,18Apr
+2971,1,2,Real Madrid,721,15Apr
+2972,1,3,Real Madrid,721,11Apr
+2973,1,1,Real Madrid,721,08Apr
+2974,0,3,Real Madrid,721,03Apr
+2975,2,1,Leganés,721,17Apr
+2976,1,0,Leganés,721,14Apr
+2977,3,1,Leganés,721,07Apr
+2978,0,1,Leganés,721,01Apr
+2979,2,1,Leganés,721,18Mar
+2980,2,2,Villarreal,722,14Apr
+2981,1,3,Villarreal,722,09Apr
+2982,1,0,Villarreal,722,01Apr
+2983,2,1,Villarreal,722,18Mar
+2984,0,2,Villarreal,722,11Mar
+2985,2,2,Celta Vigo,722,17Apr
+2986,1,0,Celta Vigo,722,14Apr
+2987,4,0,Celta Vigo,722,07Apr
+2988,1,1,Celta Vigo,722,31Mar
+2989,0,0,Celta Vigo,722,18Mar
+2990,1,2,Getafe,723,18Apr
+2991,1,0,Getafe,723,15Apr
+2992,2,0,Getafe,723,07Apr
+2993,0,1,Getafe,723,02Apr
+2994,1,2,Getafe,723,17Mar
+2995,1,2,Girona,723,19Apr
+2996,0,1,Girona,723,13Apr
+2997,5,0,Girona,723,08Apr
+2998,1,1,Girona,723,31Mar
+2999,6,3,Girona,723,18Mar
+3000,1,2,Deportivo Alaves,724,19Apr
+3001,0,1,Deportivo Alaves,724,15Apr
+3002,2,0,Deportivo Alaves,724,07Apr
+3003,0,0,Deportivo Alaves,724,01Apr
+3004,3,1,Deportivo Alaves,724,17Mar
+3005,0,0,Atletico Madrid,724,22Apr
+3006,3,0,Atletico Madrid,724,19Apr
+3007,3,0,Atletico Madrid,724,15Apr
+3008,1,0,Atletico Madrid,724,12Apr
+3009,1,1,Atletico Madrid,724,08Apr
+3010,1,2,Valencia,725,18Apr
+3011,2,1,Valencia,725,14Apr
+3012,1,0,Valencia,725,08Apr
+3013,0,1,Valencia,725,01Apr
+3014,3,1,Valencia,725,17Mar
+3015,0,1,Eibar,725,18Apr
+3016,0,1,Eibar,725,15Apr
+3017,2,0,Eibar,725,07Apr
+3018,0,0,Eibar,725,01Apr
+3019,2,1,Eibar,725,16Mar
+3020,0,0,Deportivo La Coruña,726,17Apr
+3021,2,3,Deportivo La Coruña,726,14Apr
+3022,3,2,Deportivo La Coruña,726,06Apr
+3023,1,0,Deportivo La Coruña,726,01Apr
+3024,1,1,Deportivo La Coruña,726,17Mar
+3025,0,5,Barcelona,726,21Apr
+3026,4,5,Barcelona,726,20Apr
+3027,2,2,Barcelona,726,17Apr
+3028,2,1,Barcelona,726,14Apr
+3029,3,0,Barcelona,726,10Apr
+3030,1,0,Real Betis,727,19Apr
+3031,0,1,Real Betis,727,13Apr
+3032,2,0,Real Betis,727,07Apr
+3033,0,1,Real Betis,727,02Apr
+3034,3,0,Real Betis,727,17Mar
+3035,1,0,Malaga,727,19Apr
+3036,1,2,Malaga,727,15Apr
+3037,3,2,Malaga,727,06Apr
+3038,1,0,Malaga,727,01Apr
+3039,0,0,Malaga,727,18Mar
+3040,0,5,Sevilla,728,21Apr
+3041,0,0,Sevilla,728,17Apr
+3042,2,2,Sevilla,728,14Apr
+3043,0,0,Sevilla,728,11Apr
+3044,4,0,Sevilla,728,07Apr
+3045,2,0,Real Sociedad,728,22Apr
+3046,3,0,Real Sociedad,728,19Apr
+3047,0,1,Real Sociedad,728,14Apr
+3048,5,0,Real Sociedad,728,08Apr
+3049,0,0,Real Sociedad,728,01Apr
+3050,0,2,Girona,729,22Apr
+3051,1,2,Girona,729,19Apr
+3052,0,1,Girona,729,13Apr
+3053,5,0,Girona,729,08Apr
+3054,1,1,Girona,729,31Mar
+3055,0,1,Eibar,729,21Apr
+3056,0,1,Eibar,729,18Apr
+3057,0,1,Eibar,729,15Apr
+3058,2,0,Eibar,729,07Apr
+3059,0,0,Eibar,729,01Apr
+3060,1,3,Athletic Club,730,23Apr
+3061,1,1,Athletic Club,730,18Apr
+3062,2,3,Athletic Club,730,14Apr
+3063,1,3,Athletic Club,730,09Apr
+3064,1,1,Athletic Club,730,31Mar
+3065,0,0,Real Betis,730,22Apr
+3066,1,0,Real Betis,730,19Apr
+3067,0,1,Real Betis,730,13Apr
+3068,2,0,Real Betis,730,07Apr
+3069,0,1,Real Betis,730,02Apr
+3070,1,1,Celta Vigo,731,21Apr
+3071,2,2,Celta Vigo,731,17Apr
+3072,1,0,Celta Vigo,731,14Apr
+3073,4,0,Celta Vigo,731,07Apr
+3074,1,1,Celta Vigo,731,31Mar
+3075,0,0,Deportivo La Coruña,731,20Apr
+3076,0,0,Deportivo La Coruña,731,17Apr
+3077,2,3,Deportivo La Coruña,731,14Apr
+3078,3,2,Deportivo La Coruña,731,06Apr
+3079,1,0,Deportivo La Coruña,731,01Apr
+3080,2,1,Villarreal,732,17Apr
+3081,2,2,Villarreal,732,14Apr
+3082,1,3,Villarreal,732,09Apr
+3083,1,0,Villarreal,732,01Apr
+3084,2,1,Villarreal,732,18Mar
+3085,1,1,Valencia,732,21Apr
+3086,1,2,Valencia,732,18Apr
+3087,2,1,Valencia,732,14Apr
+3088,1,0,Valencia,732,08Apr
+3089,0,1,Valencia,732,01Apr
+3090,2,0,Malaga,733,22Apr
+3091,1,0,Malaga,733,19Apr
+3092,1,2,Malaga,733,15Apr
+3093,3,2,Malaga,733,06Apr
+3094,1,0,Malaga,733,01Apr
+3095,0,4,Deportivo Alaves,733,22Apr
+3096,1,2,Deportivo Alaves,733,19Apr
+3097,0,1,Deportivo Alaves,733,15Apr
+3098,2,0,Deportivo Alaves,733,07Apr
+3099,0,0,Deportivo Alaves,733,01Apr
+3100,0,1,Atletico Madrid,734,29Apr
+3101,1,1,Atletico Madrid,734,26Apr
+3102,0,0,Atletico Madrid,734,22Apr
+3103,3,0,Atletico Madrid,734,19Apr
+3104,3,0,Atletico Madrid,734,15Apr
+3105,0,2,Espanyol de Barcelona,734,22Apr
+3106,0,1,Espanyol de Barcelona,734,18Apr
+3107,1,0,Espanyol de Barcelona,734,15Apr
+3108,1,0,Espanyol de Barcelona,734,08Apr
+3109,0,0,Espanyol de Barcelona,734,01Apr
+3110,0,4,Las Palmas,735,22Apr
+3111,1,0,Las Palmas,735,19Apr
+3112,0,1,Las Palmas,735,14Apr
+3113,2,1,Las Palmas,735,08Apr
+3114,0,3,Las Palmas,735,31Mar
+3115,0,1,Getafe,735,21Apr
+3116,1,2,Getafe,735,18Apr
+3117,1,0,Getafe,735,15Apr
+3118,2,0,Getafe,735,07Apr
+3119,0,1,Getafe,735,02Apr
+3120,0,3,Barcelona,736,23Apr
+3121,0,5,Barcelona,736,21Apr
+3122,4,5,Barcelona,736,20Apr
+3123,2,2,Barcelona,736,17Apr
+3124,2,1,Barcelona,736,14Apr
+3125,2,1,Real Madrid,736,28Apr
+3126,1,2,Real Madrid,736,25Apr
+3127,1,1,Real Madrid,736,18Apr
+3128,1,2,Real Madrid,736,15Apr
+3129,1,3,Real Madrid,736,11Apr
+3130,0,0,Leganés,737,20Apr
+3131,2,1,Leganés,737,17Apr
+3132,1,0,Leganés,737,14Apr
+3133,3,1,Leganés,737,07Apr
+3134,0,1,Leganés,737,01Apr
+3135,1,3,Levante,737,23Apr
+3136,1,0,Levante,737,19Apr
+3137,3,0,Levante,737,15Apr
+3138,2,1,Levante,737,08Apr
+3139,1,1,Levante,737,31Mar
+3140,2,4,Barcelona,738,29Apr
+3141,0,3,Barcelona,738,23Apr
+3142,0,5,Barcelona,738,21Apr
+3143,4,5,Barcelona,738,20Apr
+3144,2,2,Barcelona,738,17Apr
+3145,4,1,Villarreal,738,28Apr
+3146,2,1,Villarreal,738,17Apr
+3147,2,2,Villarreal,738,14Apr
+3148,1,3,Villarreal,738,09Apr
+3149,1,0,Villarreal,738,01Apr
+3150,2,1,Sevilla,739,27Apr
+3151,0,5,Sevilla,739,21Apr
+3152,0,0,Sevilla,739,17Apr
+3153,2,2,Sevilla,739,14Apr
+3154,0,0,Sevilla,739,11Apr
+3155,2,2,Real Madrid,739,01May
+3156,2,1,Real Madrid,739,28Apr
+3157,1,2,Real Madrid,739,25Apr
+3158,1,1,Real Madrid,739,18Apr
+3159,1,2,Real Madrid,739,15Apr
+3160,3,1,Real Sociedad,740,28Apr
+3161,2,0,Real Sociedad,740,22Apr
+3162,3,0,Real Sociedad,740,19Apr
+3163,0,1,Real Sociedad,740,14Apr
+3164,5,0,Real Sociedad,740,08Apr
+3165,2,1,Leganés,740,28Apr
+3166,0,0,Leganés,740,20Apr
+3167,2,1,Leganés,740,17Apr
+3168,1,0,Leganés,740,14Apr
+3169,3,1,Leganés,740,07Apr
+3170,0,1,Deportivo Alaves,741,29Apr
+3171,0,4,Deportivo Alaves,741,22Apr
+3172,1,2,Deportivo Alaves,741,19Apr
+3173,0,1,Deportivo Alaves,741,15Apr
+3174,2,0,Deportivo Alaves,741,07Apr
+3175,3,1,Athletic Club,741,28Apr
+3176,1,3,Athletic Club,741,23Apr
+3177,1,1,Athletic Club,741,18Apr
+3178,2,3,Athletic Club,741,14Apr
+3179,1,3,Athletic Club,741,09Apr
+3180,2,4,Deportivo La Coruña,742,29Apr
+3181,0,0,Deportivo La Coruña,742,20Apr
+3182,0,0,Deportivo La Coruña,742,17Apr
+3183,2,3,Deportivo La Coruña,742,14Apr
+3184,3,2,Deportivo La Coruña,742,06Apr
+3185,1,0,Villarreal,742,05May
+3186,4,1,Villarreal,742,28Apr
+3187,2,1,Villarreal,742,17Apr
+3188,2,2,Villarreal,742,14Apr
+3189,1,3,Villarreal,742,09Apr
+3190,0,0,Eibar,743,29Apr
+3191,0,1,Eibar,743,21Apr
+3192,0,1,Eibar,743,18Apr
+3193,0,1,Eibar,743,15Apr
+3194,2,0,Eibar,743,07Apr
+3195,1,1,Las Palmas,743,28Apr
+3196,0,4,Las Palmas,743,22Apr
+3197,1,0,Las Palmas,743,19Apr
+3198,0,1,Las Palmas,743,14Apr
+3199,2,1,Las Palmas,743,08Apr
+3200,1,1,Getafe,744,29Apr
+3201,0,1,Getafe,744,21Apr
+3202,1,2,Getafe,744,18Apr
+3203,1,0,Getafe,744,15Apr
+3204,2,0,Getafe,744,07Apr
+3205,1,0,Atletico Madrid,744,03May
+3206,0,1,Atletico Madrid,744,29Apr
+3207,1,1,Atletico Madrid,744,26Apr
+3208,0,0,Atletico Madrid,744,22Apr
+3209,3,0,Atletico Madrid,744,19Apr
+3210,1,1,Girona,745,29Apr
+3211,0,2,Girona,745,22Apr
+3212,1,2,Girona,745,19Apr
+3213,0,1,Girona,745,13Apr
+3214,5,0,Girona,745,08Apr
+3215,0,0,Valencia,745,29Apr
+3216,1,1,Valencia,745,21Apr
+3217,1,2,Valencia,745,18Apr
+3218,2,1,Valencia,745,14Apr
+3219,1,0,Valencia,745,08Apr
+3220,2,1,Real Betis,746,30Apr
+3221,0,0,Real Betis,746,22Apr
+3222,1,0,Real Betis,746,19Apr
+3223,0,1,Real Betis,746,13Apr
+3224,2,0,Real Betis,746,07Apr
+3225,1,0,Sevilla,746,04May
+3226,2,1,Sevilla,746,27Apr
+3227,0,5,Sevilla,746,21Apr
+3228,0,0,Sevilla,746,17Apr
+3229,2,2,Sevilla,746,14Apr
+3230,2,2,Real Madrid,747,06May
+3231,2,2,Real Madrid,747,01May
+3232,2,1,Real Madrid,747,28Apr
+3233,1,2,Real Madrid,747,25Apr
+3234,1,1,Real Madrid,747,18Apr
+3235,4,1,Celta Vigo,747,28Apr
+3236,1,1,Celta Vigo,747,21Apr
+3237,2,2,Celta Vigo,747,17Apr
+3238,1,0,Celta Vigo,747,14Apr
+3239,4,0,Celta Vigo,747,07Apr
+3240,1,1,Espanyol de Barcelona,748,28Apr
+3241,0,2,Espanyol de Barcelona,748,22Apr
+3242,0,1,Espanyol de Barcelona,748,18Apr
+3243,1,0,Espanyol de Barcelona,748,15Apr
+3244,1,0,Espanyol de Barcelona,748,08Apr
+3245,2,1,Malaga,748,30Apr
+3246,2,0,Malaga,748,22Apr
+3247,1,0,Malaga,748,19Apr
+3248,1,2,Malaga,748,15Apr
+3249,3,2,Malaga,748,06Apr
+3250,2,1,Levante,749,27Apr
+3251,1,3,Levante,749,23Apr
+3252,1,0,Levante,749,19Apr
+3253,3,0,Levante,749,15Apr
+3254,2,1,Levante,749,08Apr
+3255,2,2,Barcelona,749,06May
+3256,2,4,Barcelona,749,29Apr
+3257,0,3,Barcelona,749,23Apr
+3258,0,5,Barcelona,749,21Apr
+3259,4,5,Barcelona,749,20Apr
+3260,1,1,Celta Vigo,750,05May
+3261,4,1,Celta Vigo,750,28Apr
+3262,1,1,Celta Vigo,750,21Apr
+3263,2,2,Celta Vigo,750,17Apr
+3264,1,0,Celta Vigo,750,14Apr
+3265,0,3,Levante,750,07May
+3266,2,1,Levante,750,27Apr
+3267,1,3,Levante,750,23Apr
+3268,1,0,Levante,750,19Apr
+3269,3,0,Levante,750,15Apr
+3270,0,3,Leganés,751,07May
+3271,2,1,Leganés,751,28Apr
+3272,0,0,Leganés,751,20Apr
+3273,2,1,Leganés,751,17Apr
+3274,1,0,Leganés,751,14Apr
+3275,2,0,Real Betis,751,05May
+3276,2,1,Real Betis,751,30Apr
+3277,0,0,Real Betis,751,22Apr
+3278,1,0,Real Betis,751,19Apr
+3279,0,1,Real Betis,751,13Apr
+3280,0,1,Las Palmas,752,06May
+3281,1,1,Las Palmas,752,28Apr
+3282,0,4,Las Palmas,752,22Apr
+3283,1,0,Las Palmas,752,19Apr
+3284,0,1,Las Palmas,752,14Apr
+3285,1,4,Girona,752,05May
+3286,1,1,Girona,752,29Apr
+3287,0,2,Girona,752,22Apr
+3288,1,2,Girona,752,19Apr
+3289,0,1,Girona,752,13Apr
+3290,0,3,Malaga,753,06May
+3291,2,1,Malaga,753,30Apr
+3292,2,0,Malaga,753,22Apr
+3293,1,0,Malaga,753,19Apr
+3294,1,2,Malaga,753,15Apr
+3295,0,1,Getafe,753,06May
+3296,1,1,Getafe,753,29Apr
+3297,0,1,Getafe,753,21Apr
+3298,1,2,Getafe,753,18Apr
+3299,1,0,Getafe,753,15Apr
+3300,3,2,Sevilla,754,09May
+3301,1,0,Sevilla,754,04May
+3302,2,1,Sevilla,754,27Apr
+3303,0,5,Sevilla,754,21Apr
+3304,0,0,Sevilla,754,17Apr
+3305,0,3,Deportivo Alaves,754,06May
+3306,0,1,Deportivo Alaves,754,29Apr
+3307,0,4,Deportivo Alaves,754,22Apr
+3308,1,2,Deportivo Alaves,754,19Apr
+3309,0,1,Deportivo Alaves,754,15Apr
+3310,5,1,Villarreal,755,09May
+3311,1,0,Villarreal,755,05May
+3312,4,1,Villarreal,755,28Apr
+3313,2,1,Villarreal,755,17Apr
+3314,2,2,Villarreal,755,14Apr
+3315,3,2,Real Madrid,755,09May
+3316,2,2,Real Madrid,755,06May
+3317,2,2,Real Madrid,755,01May
+3318,2,1,Real Madrid,755,28Apr
+3319,1,2,Real Madrid,755,25Apr
+3320,1,0,Valencia,756,05May
+3321,0,0,Valencia,756,29Apr
+3322,1,1,Valencia,756,21Apr
+3323,1,2,Valencia,756,18Apr
+3324,2,1,Valencia,756,14Apr
+3325,1,1,Deportivo La Coruña,756,05May
+3326,2,4,Deportivo La Coruña,756,29Apr
+3327,0,0,Deportivo La Coruña,756,20Apr
+3328,0,0,Deportivo La Coruña,756,17Apr
+3329,2,3,Deportivo La Coruña,756,14Apr
+3330,2,0,Athletic Club,757,05May
+3331,3,1,Athletic Club,757,28Apr
+3332,1,3,Athletic Club,757,23Apr
+3333,1,1,Athletic Club,757,18Apr
+3334,2,3,Athletic Club,757,14Apr
+3335,0,2,Espanyol de Barcelona,757,06May
+3336,1,1,Espanyol de Barcelona,757,28Apr
+3337,0,2,Espanyol de Barcelona,757,22Apr
+3338,0,1,Espanyol de Barcelona,757,18Apr
+3339,1,0,Espanyol de Barcelona,757,15Apr
+3340,0,1,Atletico Madrid,758,12May
+3341,0,2,Atletico Madrid,758,06May
+3342,1,0,Atletico Madrid,758,03May
+3343,0,1,Atletico Madrid,758,29Apr
+3344,1,1,Atletico Madrid,758,26Apr
+3345,1,4,Eibar,758,05May
+3346,0,0,Eibar,758,29Apr
+3347,0,1,Eibar,758,21Apr
+3348,0,1,Eibar,758,18Apr
+3349,0,1,Eibar,758,15Apr
+3350,5,1,Barcelona,759,09May
+3351,2,2,Barcelona,759,06May
+3352,2,4,Barcelona,759,29Apr
+3353,0,3,Barcelona,759,23Apr
+3354,0,5,Barcelona,759,21Apr
+3355,1,0,Real Sociedad,759,04May
+3356,3,1,Real Sociedad,759,28Apr
+3357,2,0,Real Sociedad,759,22Apr
+3358,3,0,Real Sociedad,759,19Apr
+3359,0,1,Real Sociedad,759,14Apr

@@ -1,0 +1,338 @@
+,home,away,league,game_id,season,temp,weather_desc,date
+0,Deportivo La Coruña,Deportivo Alaves,La_Liga,424,2017-2018,15C,Cloudy,20-Sep-17
+1,Real Madrid,Real Betis,La_Liga,425,2017-2018,16C,Cloudy,20-Sep-17
+2,Sevilla,Las Palmas,La_Liga,426,2017-2018,15C,Clear,20-Sep-17
+3,Villarreal,Espanyol de Barcelona,La_Liga,427,2017-2018,18C,Cloudy,21-Sep-17
+4,Celta Vigo,Getafe,La_Liga,428,2017-2018,15C,Cloudy,21-Sep-17
+5,Levante,Real Sociedad,La_Liga,429,2017-2018,18C,Cloudy,21-Sep-17
+6,Atletico Madrid,Sevilla,La_Liga,430,2017-2018,17C,Clear,23-Sep-17
+7,Deportivo Alaves,Real Madrid,La_Liga,431,2017-2018,10C,Cloudy,23-Sep-17
+8,Malaga,Athletic Club,La_Liga,432,2017-2018,22C,Cloudy,23-Sep-17
+9,Girona,Barcelona,La_Liga,433,2017-2018,14C,Cloudy,23-Sep-17
+10,Espanyol de Barcelona,Deportivo La Coruña,La_Liga,434,2017-2018,18C,Cloudy,24-Sep-17
+11,Getafe,Villarreal,La_Liga,435,2017-2018,13C,Cloudy,24-Sep-17
+12,Las Palmas,Leganés,La_Liga,436,2017-2018,20C,Cloudy,24-Sep-17
+13,Eibar,Celta Vigo,La_Liga,437,2017-2018,10C,Cloudy,24-Sep-17
+14,Real Sociedad,Valencia,La_Liga,438,2017-2018,14C,Cloudy,24-Sep-17
+15,Real Betis,Levante,La_Liga,439,2017-2018,15C,Cloudy,25-Sep-17
+16,Celta Vigo,Girona,La_Liga,440,2017-2018,15C,Cloudy,29-Sep-17
+17,Deportivo La Coruña,Getafe,La_Liga,441,2017-2018,14C,Cloudy,30-Sep-17
+18,Sevilla,Malaga,La_Liga,442,2017-2018,18C,Clear,30-Sep-17
+19,Levante,Deportivo Alaves,La_Liga,443,2017-2018,23C,Cloudy,30-Sep-17
+20,Leganés,Atletico Madrid,La_Liga,444,2017-2018,16C,Cloudy,30-Sep-17
+21,Real Sociedad,Real Betis,La_Liga,445,2017-2018,13C,Cloudy,01-Oct-17
+22,Barcelona,Las Palmas,La_Liga,446,2017-2018,18C,Cloudy,01-Oct-17
+23,Valencia,Athletic Club,La_Liga,447,2017-2018,20C,Cloudy,01-Oct-17
+24,Villarreal,Eibar,La_Liga,448,2017-2018,23C,Cloudy,01-Oct-17
+25,Real Madrid,Espanyol de Barcelona,La_Liga,449,2017-2018,18C,Cloudy,01-Oct-17
+26,Espanyol de Barcelona,Levante,La_Liga,450,2017-2018,17C,Cloudy,13-Oct-17
+27,Athletic Club,Sevilla,La_Liga,451,2017-2018,15C,Cloudy,14-Oct-17
+28,Getafe,Real Madrid,La_Liga,452,2017-2018,10C,Clear,14-Oct-17
+29,Deportivo Alaves,Real Sociedad,La_Liga,453,2017-2018,9C,Cloudy,14-Oct-17
+30,Atletico Madrid,Barcelona,La_Liga,454,2017-2018,16C,Clear,14-Oct-17
+31,Eibar,Deportivo La Coruña,La_Liga,455,2017-2018,13C,Clear,15-Oct-17
+32,Girona,Villarreal,La_Liga,456,2017-2018,12C,Cloudy,15-Oct-17
+33,Malaga,Leganés,La_Liga,457,2017-2018,15C,Clear,15-Oct-17
+34,Real Betis,Valencia,La_Liga,458,2017-2018,17C,Clear,15-Oct-17
+35,Las Palmas,Celta Vigo,La_Liga,459,2017-2018,22C,Cloudy,16-Oct-17
+36,Levante,Getafe,La_Liga,460,2017-2018,29C,Sunny,21-Oct-17
+37,Real Betis,Deportivo Alaves,La_Liga,461,2017-2018,25C,Cloudy,21-Oct-17
+38,Valencia,Sevilla,La_Liga,462,2017-2018,15C,Clear,21-Oct-17
+39,Barcelona,Malaga,La_Liga,463,2017-2018,15C,Clear,21-Oct-17
+40,Villarreal,Las Palmas,La_Liga,464,2017-2018,17C,Cloudy,22-Oct-17
+41,Celta Vigo,Atletico Madrid,La_Liga,465,2017-2018,9C,Cloudy,22-Oct-17
+42,Leganés,Athletic Club,La_Liga,466,2017-2018,9C,Clear,22-Oct-17
+43,Real Madrid,Eibar,La_Liga,467,2017-2018,10C,Clear,22-Oct-17
+44,Real Sociedad,Espanyol de Barcelona,La_Liga,468,2017-2018,9C,Cloudy,23-Oct-17
+45,Deportivo La Coruña,Girona,La_Liga,469,2017-2018,8C,Cloudy,23-Oct-17
+46,Deportivo Alaves,Valencia,La_Liga,470,2017-2018,13C,Cloudy,28-Oct-17
+47,Atletico Madrid,Villarreal,La_Liga,471,2017-2018,10C,Clear,28-Oct-17
+48,Athletic Club,Barcelona,La_Liga,472,2017-2018,14C,Cloudy,28-Oct-17
+49,Sevilla,Leganés,La_Liga,473,2017-2018,12C,Sunny,28-Oct-17
+50,Getafe,Real Sociedad,La_Liga,474,2017-2018,22C,Sunny,29-Oct-17
+51,Girona,Real Madrid,La_Liga,475,2017-2018,8C,Clear,29-Oct-17
+52,Eibar,Levante,La_Liga,476,2017-2018,5C,Cloudy,29-Oct-17
+53,Malaga,Celta Vigo,La_Liga,477,2017-2018,15C,Cloudy,29-Oct-17
+54,Las Palmas,Deportivo La Coruña,La_Liga,478,2017-2018,19C,Clear,30-Oct-17
+55,Espanyol de Barcelona,Real Betis,La_Liga,479,2017-2018,11C,Cloudy,30-Oct-17
+56,Real Betis,Getafe,La_Liga,480,2017-2018,attack78J.MolinaJoaquin77Tello7675AntunesGuardado7573Portillodefence86GuaitaAdán80J.García78Mandi77Amat7670BergaratechniqueJoaquin8784PortilloGuardado83Tello81J.García79Barragan78headerJ.García8079J.MolinaMandi77Amat77Barragan75Joaquin74freekick83AntunesGuardado79Joaquin77J.García7569PortilloMandi69,,03-Nov-17
+57,Valencia,Leganés,La_Liga,481,2017-2018,15C,Cloudy,04-Nov-17
+58,Deportivo La Coruña,Atletico Madrid,La_Liga,482,2017-2018,15C,Showers,04-Nov-17
+59,Deportivo Alaves,Espanyol de Barcelona,La_Liga,483,2017-2018,4C,Cloudy,04-Nov-17
+60,Barcelona,Sevilla,La_Liga,484,2017-2018,16C,Cloudy,04-Nov-17
+61,Levante,Girona,La_Liga,485,2017-2018,13C,Breezy,05-Nov-17
+62,Celta Vigo,Athletic Club,La_Liga,486,2017-2018,8C,Cloudy,05-Nov-17
+63,Real Sociedad,Eibar,La_Liga,487,2017-2018,11C,Showers,05-Nov-17
+64,Villarreal,Malaga,La_Liga,488,2017-2018,11C,Cloudy,05-Nov-17
+65,Real Madrid,Las Palmas,La_Liga,489,2017-2018,12C,Cloudy,05-Nov-17
+66,Girona,Real Sociedad,La_Liga,490,2017-2018,3C,Sunny,17-Nov-17
+67,Getafe,Deportivo Alaves,La_Liga,491,2017-2018,18C,Sunny,18-Nov-17
+68,Leganés,Barcelona,La_Liga,492,2017-2018,5C,Clear,18-Nov-17
+69,Sevilla,Celta Vigo,La_Liga,493,2017-2018,6C,Clear,18-Nov-17
+70,Atletico Madrid,Real Madrid,La_Liga,494,2017-2018,6C,Clear,18-Nov-17
+71,Malaga,Deportivo La Coruña,La_Liga,495,2017-2018,18C,Sunny,19-Nov-17
+72,Espanyol de Barcelona,Valencia,La_Liga,496,2017-2018,6C,Cloudy,19-Nov-17
+73,Las Palmas,Levante,La_Liga,497,2017-2018,18C,Cloudy,19-Nov-17
+74,Athletic Club,Villarreal,La_Liga,498,2017-2018,3C,Cloudy,19-Nov-17
+75,Eibar,Real Betis,La_Liga,499,2017-2018,0C,Cloudy,20-Nov-17
+76,Celta Vigo,Leganés,La_Liga,500,2017-2018,13C,Showers,24-Nov-17
+77,Deportivo Alaves,Eibar,La_Liga,501,2017-2018,7C,Cloudy,25-Nov-17
+78,Real Madrid,Malaga,La_Liga,502,2017-2018,8C,Cloudy,25-Nov-17
+79,Real Betis,Girona,La_Liga,503,2017-2018,16C,Cloudy,25-Nov-17
+80,Levante,Atletico Madrid,La_Liga,504,2017-2018,17C,Cloudy,25-Nov-17
+81,Deportivo La Coruña,Athletic Club,La_Liga,505,2017-2018,7C,Clear,26-Nov-17
+82,Real Sociedad,Las Palmas,La_Liga,506,2017-2018,12C,Cloudy,26-Nov-17
+83,Villarreal,Sevilla,La_Liga,507,2017-2018,11C,Clear,26-Nov-17
+84,Valencia,Barcelona,La_Liga,508,2017-2018,13C,Cloudy,26-Nov-17
+85,Espanyol de Barcelona,Getafe,La_Liga,509,2017-2018,5C,Rain,27-Nov-17
+86,Malaga,Levante,La_Liga,510,2017-2018,10C,Sunny,01-Dec-17
+87,Barcelona,Celta Vigo,La_Liga,511,2017-2018,0C,Sunny,02-Dec-17
+88,Atletico Madrid,Real Sociedad,La_Liga,512,2017-2018,0C,Cloudy,02-Dec-17
+89,Sevilla,Deportivo La Coruña,La_Liga,513,2017-2018,3C,Sunny,02-Dec-17
+90,Athletic Club,Real Madrid,La_Liga,514,2017-2018,3C,Cloudy,02-Dec-17
+91,Leganés,Villarreal,La_Liga,515,2017-2018,4C,Sunny,03-Dec-17
+92,Getafe,Valencia,La_Liga,516,2017-2018,-2C,Clear,03-Dec-17
+93,Eibar,Espanyol de Barcelona,La_Liga,517,2017-2018,0C,Cloudy,03-Dec-17
+94,Las Palmas,Real Betis,La_Liga,518,2017-2018,18C,Cloudy,03-Dec-17
+95,Girona,Deportivo Alaves,La_Liga,519,2017-2018,3C,Sunny,04-Dec-17
+96,Deportivo Alaves,Las Palmas,La_Liga,520,2017-2018,3C,Cloudy,08-Dec-17
+97,Getafe,Eibar,La_Liga,521,2017-2018,8C,Cloudy,09-Dec-17
+98,Real Madrid,Sevilla,La_Liga,522,2017-2018,7C,Cloudy,09-Dec-17
+99,Deportivo La Coruña,Leganés,La_Liga,523,2017-2018,15C,Showers,09-Dec-17
+100,Valencia,Celta Vigo,La_Liga,524,2017-2018,11C,Cloudy,09-Dec-17
+101,Real Sociedad,Malaga,La_Liga,525,2017-2018,14C,Cloudy,10-Dec-17
+102,Real Betis,Atletico Madrid,La_Liga,526,2017-2018,12C,Cloudy,10-Dec-17
+103,Levante,Athletic Club,La_Liga,527,2017-2018,15C,Cloudy,10-Dec-17
+104,Villarreal,Barcelona,La_Liga,528,2017-2018,12C,Cloudy,10-Dec-17
+105,Espanyol de Barcelona,Girona,La_Liga,529,2017-2018,15C,Showers,11-Dec-17
+106,Sevilla,Levante,La_Liga,530,2017-2018,13C,Cloudy,15-Dec-17
+107,Athletic Club,Real Sociedad,La_Liga,531,2017-2018,5C,Cloudy,16-Dec-17
+108,Eibar,Valencia,La_Liga,532,2017-2018,3C,Showers,16-Dec-17
+109,Atletico Madrid,Deportivo Alaves,La_Liga,533,2017-2018,5C,Sunny,16-Dec-17
+110,Girona,Getafe,La_Liga,534,2017-2018,10C,Sunny,17-Dec-17
+111,Celta Vigo,Villarreal,La_Liga,535,2017-2018,3C,Cloudy,17-Dec-17
+112,Las Palmas,Espanyol de Barcelona,La_Liga,536,2017-2018,16C,Breezy,17-Dec-17
+113,Barcelona,Deportivo La Coruña,La_Liga,537,2017-2018,4C,Clear,17-Dec-17
+114,Malaga,Real Betis,La_Liga,538,2017-2018,5C,Cloudy,18-Dec-17
+115,Levante,Leganés,La_Liga,539,2017-2018,13C,Cloudy,19-Dec-17
+116,Getafe,Las Palmas,La_Liga,540,2017-2018,11C,Clear,20-Dec-17
+117,Real Sociedad,Sevilla,La_Liga,541,2017-2018,5C,Cloudy,20-Dec-17
+118,Eibar,Girona,La_Liga,542,2017-2018,6C,Cloudy,21-Dec-17
+119,Deportivo Alaves,Malaga,La_Liga,543,2017-2018,5C,Cloudy,21-Dec-17
+120,Real Betis,Athletic Club,La_Liga,544,2017-2018,3C,Clear,22-Dec-17
+121,Espanyol de Barcelona,Atletico Madrid,La_Liga,545,2017-2018,5C,Cloudy,22-Dec-17
+122,Real Madrid,Barcelona,La_Liga,546,2017-2018,2C,Cloudy,23-Dec-17
+123,Valencia,Villarreal,La_Liga,547,2017-2018,4C,Cloudy,23-Dec-17
+124,Deportivo La Coruña,Celta Vigo,La_Liga,548,2017-2018,9C,Cloudy,23-Dec-17
+125,Atletico Madrid,Getafe,La_Liga,549,2017-2018,3C,Showers,06-Jan-18
+126,Valencia,Girona,La_Liga,550,2017-2018,6C,Cloudy,06-Jan-18
+127,Las Palmas,Eibar,La_Liga,551,2017-2018,16C,Breezy,06-Jan-18
+128,Sevilla,Real Betis,La_Liga,552,2017-2018,9C,Cloudy,06-Jan-18
+129,Leganés,Real Sociedad,La_Liga,553,2017-2018,2C,Showers,07-Jan-18
+130,Barcelona,Levante,La_Liga,554,2017-2018,13C,Cloudy,07-Jan-18
+131,Athletic Club,Deportivo Alaves,La_Liga,555,2017-2018,7C,Cloudy,07-Jan-18
+132,Villarreal,Deportivo La Coruña,La_Liga,556,2017-2018,6C,Sunny,07-Jan-18
+133,Celta Vigo,Real Madrid,La_Liga,557,2017-2018,3C,Clear,07-Jan-18
+134,Malaga,Espanyol de Barcelona,La_Liga,558,2017-2018,7C,Cloudy,08-Jan-18
+135,Getafe,Malaga,La_Liga,559,2017-2018,7C,Cloudy,12-Jan-18
+136,Girona,Las Palmas,La_Liga,560,2017-2018,10C,Cloudy,13-Jan-18
+137,Real Madrid,Villarreal,La_Liga,561,2017-2018,1C,Cloudy,13-Jan-18
+138,Eibar,Atletico Madrid,La_Liga,562,2017-2018,5C,Cloudy,13-Jan-18
+139,Deportivo La Coruña,Valencia,La_Liga,563,2017-2018,10C,Cloudy,13-Jan-18
+140,Levante,Celta Vigo,La_Liga,564,2017-2018,9C,Clear,14-Jan-18
+141,Deportivo Alaves,Sevilla,La_Liga,565,2017-2018,6C,Rain,14-Jan-18
+142,Espanyol de Barcelona,Athletic Club,La_Liga,566,2017-2018,6C,Clear,14-Jan-18
+143,Real Sociedad,Barcelona,La_Liga,567,2017-2018,6C,Cloudy,14-Jan-18
+144,Real Betis,Leganés,La_Liga,568,2017-2018,3C,Clear,15-Jan-18
+145,Getafe,Athletic Club,La_Liga,569,2017-2018,1C,Cloudy,19-Jan-18
+146,Espanyol de Barcelona,Sevilla,La_Liga,570,2017-2018,5C,Clear,20-Jan-18
+147,Atletico Madrid,Girona,La_Liga,571,2017-2018,2C,Cloudy,20-Jan-18
+148,Villarreal,Levante,La_Liga,572,2017-2018,13C,Cloudy,20-Jan-18
+149,Las Palmas,Valencia,La_Liga,573,2017-2018,16C,Cloudy,20-Jan-18
+150,Deportivo Alaves,Leganés,La_Liga,574,2017-2018,8C,Cloudy,21-Jan-18
+151,Real Madrid,Deportivo La Coruña,La_Liga,575,2017-2018,5C,Cloudy,21-Jan-18
+152,Real Sociedad,Celta Vigo,La_Liga,576,2017-2018,13C,Windy,21-Jan-18
+153,Real Betis,Barcelona,La_Liga,577,2017-2018,6C,Cloudy,21-Jan-18
+154,Eibar,Malaga,La_Liga,578,2017-2018,7C,Cloudy,22-Jan-18
+155,Athletic Club,Eibar,La_Liga,579,2017-2018,7C,Rain,26-Jan-18
+156,Deportivo La Coruña,Levante,La_Liga,580,2017-2018,10C,Cloudy,27-Jan-18
+157,Valencia,Real Madrid,La_Liga,581,2017-2018,9C,Cloudy,27-Jan-18
+158,Malaga,Girona,La_Liga,582,2017-2018,13C,Cloudy,27-Jan-18
+159,Villarreal,Real Sociedad,La_Liga,583,2017-2018,9C,Cloudy,27-Jan-18
+160,Leganés,Espanyol de Barcelona,La_Liga,584,2017-2018,13C,Cloudy,28-Jan-18
+161,Atletico Madrid,Las Palmas,La_Liga,585,2017-2018,6C,Clear,28-Jan-18
+162,Sevilla,Getafe,La_Liga,586,2017-2018,7C,Cloudy,28-Jan-18
+163,Barcelona,Deportivo Alaves,La_Liga,587,2017-2018,10C,Sunny,28-Jan-18
+164,Celta Vigo,Real Betis,La_Liga,588,2017-2018,10C,Clear,29-Jan-18
+165,Real Sociedad,Deportivo La Coruña,La_Liga,589,2017-2018,2C,Showers,02-Feb-18
+166,Eibar,Sevilla,La_Liga,590,2017-2018,1C,Cloudy,03-Feb-18
+167,Real Betis,Villarreal,La_Liga,591,2017-2018,2C,Sunny,03-Feb-18
+168,Deportivo Alaves,Celta Vigo,La_Liga,592,2017-2018,5C,Rain,03-Feb-18
+169,Levante,Real Madrid,La_Liga,593,2017-2018,3C,Clear,03-Feb-18
+170,Getafe,Leganés,La_Liga,594,2017-2018,1C,Showers,04-Feb-18
+171,Espanyol de Barcelona,Barcelona,La_Liga,595,2017-2018,7C,Cloudy,04-Feb-18
+172,Girona,Athletic Club,La_Liga,596,2017-2018,5C,Showers,04-Feb-18
+173,Atletico Madrid,Valencia,La_Liga,597,2017-2018,5C,Snow,04-Feb-18
+174,Las Palmas,Malaga,La_Liga,598,2017-2018,13C,Showers,05-Feb-18
+175,Athletic Club,Las Palmas,La_Liga,599,2017-2018,0C,Cloudy,09-Feb-18
+176,Villarreal,Deportivo Alaves,La_Liga,600,2017-2018,12C,Sunny,10-Feb-18
+177,Malaga,Atletico Madrid,La_Liga,601,2017-2018,8C,Cloudy,10-Feb-18
+178,Leganés,Eibar,La_Liga,602,2017-2018,8C,Cloudy,10-Feb-18
+179,Real Madrid,Real Sociedad,La_Liga,603,2017-2018,3C,Sunny,10-Feb-18
+180,Sevilla,Girona,La_Liga,604,2017-2018,6C,Sunny,11-Feb-18
+181,Barcelona,Getafe,La_Liga,605,2017-2018,2C,Cloudy,11-Feb-18
+182,Celta Vigo,Espanyol de Barcelona,La_Liga,606,2017-2018,10C,Cloudy,11-Feb-18
+183,Valencia,Levante,La_Liga,607,2017-2018,4C,Cloudy,11-Feb-18
+184,Deportivo La Coruña,Real Betis,La_Liga,608,2017-2018,6C,Cloudy,12-Feb-18
+185,Girona,Leganés,La_Liga,609,2017-2018,5C,Cloudy,16-Feb-18
+186,Las Palmas,Sevilla,La_Liga,610,2017-2018,15C,Cloudy,17-Feb-18
+187,Eibar,Barcelona,La_Liga,611,2017-2018,6C,Showers,17-Feb-18
+188,Deportivo Alaves,Deportivo La Coruña,La_Liga,612,2017-2018,3C,Cloudy,17-Feb-18
+189,Malaga,Valencia,La_Liga,613,2017-2018,10C,Clear,17-Feb-18
+190,Real Sociedad,Levante,La_Liga,614,2017-2018,9C,Cloudy,18-Feb-18
+191,Atletico Madrid,Athletic Club,La_Liga,615,2017-2018,1C,Clear,18-Feb-18
+192,Espanyol de Barcelona,Villarreal,La_Liga,616,2017-2018,11C,Cloudy,18-Feb-18
+193,Real Betis,Real Madrid,La_Liga,617,2017-2018,7C,Cloudy,18-Feb-18
+194,Getafe,Celta Vigo,La_Liga,618,2017-2018,5C,Cloudy,19-Feb-18
+195,Leganés,Real Madrid,La_Liga,619,2017-2018,1C,Sunny,21-Feb-18
+196,Deportivo La Coruña,Espanyol de Barcelona,La_Liga,620,2017-2018,10C,Cloudy,23-Feb-18
+197,Celta Vigo,Eibar,La_Liga,621,2017-2018,4C,Clear,24-Feb-18
+198,Real Madrid,Deportivo Alaves,La_Liga,622,2017-2018,-3C,Sunny,24-Feb-18
+199,Leganés,Las Palmas,La_Liga,623,2017-2018,11C,Sunny,24-Feb-18
+200,Barcelona,Girona,La_Liga,624,2017-2018,2C,Clear,24-Feb-18
+201,Villarreal,Getafe,La_Liga,625,2017-2018,14C,Sunny,25-Feb-18
+202,Athletic Club,Malaga,La_Liga,626,2017-2018,0C,Cloudy,25-Feb-18
+203,Valencia,Real Sociedad,La_Liga,627,2017-2018,2C,Sunny,25-Feb-18
+204,Sevilla,Atletico Madrid,La_Liga,628,2017-2018,11C,Cloudy,25-Feb-18
+205,Levante,Real Betis,La_Liga,629,2017-2018,6C,Clear,26-Feb-18
+206,Espanyol de Barcelona,Real Madrid,La_Liga,630,2017-2018,1C,Cloudy,27-Feb-18
+207,Girona,Celta Vigo,La_Liga,631,2017-2018,2C,Cloudy,27-Feb-18
+208,Athletic Club,Valencia,La_Liga,632,2017-2018,-4C,Showers,28-Feb-18
+209,Getafe,Deportivo La Coruña,La_Liga,633,2017-2018,13C,Cloudy,28-Feb-18
+210,Malaga,Sevilla,La_Liga,634,2017-2018,15C,Cloudy,28-Feb-18
+211,Atletico Madrid,Leganés,La_Liga,635,2017-2018,4C,Rain,28-Feb-18
+212,Eibar,Villarreal,La_Liga,636,2017-2018,-1C,Showers,28-Feb-18
+213,Real Betis,Real Sociedad,La_Liga,637,2017-2018,13C,Showers,01-Mar-18
+214,Las Palmas,Barcelona,La_Liga,638,2017-2018,16C,Cloudy,01-Mar-18
+215,Deportivo Alaves,Levante,La_Liga,639,2017-2018,4C,Cloudy,01-Mar-18
+216,Villarreal,Girona,La_Liga,640,2017-2018,10C,Clear,03-Mar-18
+217,Sevilla,Athletic Club,La_Liga,641,2017-2018,17C,Breezy,03-Mar-18
+218,Deportivo La Coruña,Eibar,La_Liga,642,2017-2018,12C,Cloudy,03-Mar-18
+219,Leganés,Malaga,La_Liga,643,2017-2018,10C,Cloudy,03-Mar-18
+220,Real Madrid,Getafe,La_Liga,644,2017-2018,7C,Cloudy,03-Mar-18
+221,Levante,Espanyol de Barcelona,La_Liga,645,2017-2018,13C,Cloudy,04-Mar-18
+222,Barcelona,Atletico Madrid,La_Liga,646,2017-2018,10C,Cloudy,04-Mar-18
+223,Real Sociedad,Deportivo Alaves,La_Liga,647,2017-2018,13C,Sunny,04-Mar-18
+224,Valencia,Real Betis,La_Liga,648,2017-2018,13C,Cloudy,04-Mar-18
+225,Celta Vigo,Las Palmas,La_Liga,649,2017-2018,7C,Rain,05-Mar-18
+226,Girona,Deportivo La Coruña,La_Liga,650,2017-2018,2C,Clear,09-Mar-18
+227,Eibar,Real Madrid,La_Liga,651,2017-2018,13C,Cloudy,10-Mar-18
+228,Sevilla,Valencia,La_Liga,652,2017-2018,16C,Cloudy,10-Mar-18
+229,Getafe,Levante,La_Liga,653,2017-2018,12C,Cloudy,10-Mar-18
+230,Malaga,Barcelona,La_Liga,654,2017-2018,16C,Cloudy,10-Mar-18
+231,Espanyol de Barcelona,Real Sociedad,La_Liga,655,2017-2018,17C,Cloudy,11-Mar-18
+232,Atletico Madrid,Celta Vigo,La_Liga,656,2017-2018,10C,Showers,11-Mar-18
+233,Las Palmas,Villarreal,La_Liga,657,2017-2018,16C,Cloudy,11-Mar-18
+234,Athletic Club,Leganés,La_Liga,658,2017-2018,13C,Breezy,11-Mar-18
+235,Deportivo Alaves,Real Betis,La_Liga,659,2017-2018,7C,Cloudy,12-Mar-18
+236,Levante,Eibar,La_Liga,660,2017-2018,11C,Clear,16-Mar-18
+237,Deportivo La Coruña,Las Palmas,La_Liga,661,2017-2018,7C,Cloudy,17-Mar-18
+238,Valencia,Deportivo Alaves,La_Liga,662,2017-2018,9C,Cloudy,17-Mar-18
+239,Real Sociedad,Getafe,La_Liga,663,2017-2018,8C,Cloudy,17-Mar-18
+240,Real Betis,Espanyol de Barcelona,La_Liga,664,2017-2018,15C,Rain,17-Mar-18
+241,Leganés,Sevilla,La_Liga,665,2017-2018,7C,Cloudy,18-Mar-18
+242,Barcelona,Athletic Club,La_Liga,666,2017-2018,5C,Cloudy,18-Mar-18
+243,Celta Vigo,Malaga,La_Liga,667,2017-2018,10C,Cloudy,18-Mar-18
+244,Villarreal,Atletico Madrid,La_Liga,668,2017-2018,18C,Cloudy,18-Mar-18
+245,Real Madrid,Girona,La_Liga,669,2017-2018,8C,Cloudy,18-Mar-18
+246,Girona,Levante,La_Liga,670,2017-2018,12C,Cloudy,31-Mar-18
+247,Athletic Club,Celta Vigo,La_Liga,671,2017-2018,7C,Showers,31-Mar-18
+248,Las Palmas,Real Madrid,La_Liga,672,2017-2018,15C,Cloudy,31-Mar-18
+249,Sevilla,Barcelona,La_Liga,673,2017-2018,10C,Cloudy,31-Mar-18
+250,Espanyol de Barcelona,Deportivo Alaves,La_Liga,674,2017-2018,14C,Cloudy,01-Apr-18
+251,Leganés,Valencia,La_Liga,675,2017-2018,4C,Cloudy,01-Apr-18
+252,Eibar,Real Sociedad,La_Liga,676,2017-2018,2C,Cloudy,01-Apr-18
+253,Malaga,Villarreal,La_Liga,677,2017-2018,8C,Cloudy,01-Apr-18
+254,Atletico Madrid,Deportivo La Coruña,La_Liga,678,2017-2018,4C,Cloudy,01-Apr-18
+255,Getafe,Real Betis,La_Liga,679,2017-2018,12C,Cloudy,02-Apr-18
+256,Deportivo La Coruña,Malaga,La_Liga,680,2017-2018,10C,Rain,06-Apr-18
+257,Deportivo Alaves,Getafe,La_Liga,681,2017-2018,10C,Showers,07-Apr-18
+258,Celta Vigo,Sevilla,La_Liga,682,2017-2018,9C,Showers,07-Apr-18
+259,Real Betis,Eibar,La_Liga,683,2017-2018,18C,Breezy,07-Apr-18
+260,Barcelona,Leganés,La_Liga,684,2017-2018,13C,Cloudy,07-Apr-18
+261,Levante,Las Palmas,La_Liga,685,2017-2018,15C,Clear,08-Apr-18
+262,Real Madrid,Atletico Madrid,La_Liga,686,2017-2018,5C,Cloudy,08-Apr-18
+263,Real Sociedad,Girona,La_Liga,687,2017-2018,10C,Rain,08-Apr-18
+264,Valencia,Espanyol de Barcelona,La_Liga,688,2017-2018,12C,Sunny,08-Apr-18
+265,Villarreal,Athletic Club,La_Liga,689,2017-2018,10C,Sunny,09-Apr-18
+266,Girona,Real Betis,La_Liga,690,2017-2018,12C,Cloudy,13-Apr-18
+267,Sevilla,Villarreal,La_Liga,691,2017-2018,16C,Sunny,14-Apr-18
+268,Barcelona,Valencia,La_Liga,692,2017-2018,12C,Cloudy,14-Apr-18
+269,Las Palmas,Real Sociedad,La_Liga,693,2017-2018,17C,Cloudy,14-Apr-18
+270,Leganés,Celta Vigo,La_Liga,694,2017-2018,16C,Cloudy,14-Apr-18
+271,Athletic Club,Deportivo La Coruña,La_Liga,695,2017-2018,17C,Cloudy,14-Apr-18
+272,Eibar,Deportivo Alaves,La_Liga,696,2017-2018,12C,Cloudy,15-Apr-18
+273,Atletico Madrid,Levante,La_Liga,697,2017-2018,16C,Cloudy,15-Apr-18
+274,Getafe,Espanyol de Barcelona,La_Liga,698,2017-2018,15C,Cloudy,15-Apr-18
+275,Malaga,Real Madrid,La_Liga,699,2017-2018,13C,Clear,15-Apr-18
+276,Deportivo La Coruña,Sevilla,La_Liga,700,2017-2018,15C,Cloudy,17-Apr-18
+277,Celta Vigo,Barcelona,La_Liga,701,2017-2018,17C,Cloudy,17-Apr-18
+278,Villarreal,Leganés,La_Liga,702,2017-2018,20C,Sunny,17-Apr-18
+279,Espanyol de Barcelona,Eibar,La_Liga,703,2017-2018,22C,Sunny,18-Apr-18
+280,Valencia,Getafe,La_Liga,704,2017-2018,22C,Cloudy,18-Apr-18
+281,Real Madrid,Athletic Club,La_Liga,705,2017-2018,15C,Cloudy,18-Apr-18
+282,Deportivo Alaves,Girona,La_Liga,706,2017-2018,21C,Sunny,19-Apr-18
+283,Real Sociedad,Atletico Madrid,La_Liga,707,2017-2018,20C,Clear,19-Apr-18
+284,Levante,Malaga,La_Liga,708,2017-2018,16C,Cloudy,19-Apr-18
+285,Real Betis,Las Palmas,La_Liga,709,2017-2018,21C,Cloudy,19-Apr-18
+286,Leganés,Deportivo La Coruña,La_Liga,710,2017-2018,12C,Cloudy,20-Apr-18
+287,Eibar,Getafe,La_Liga,711,2017-2018,20C,Sunny,21-Apr-18
+288,Celta Vigo,Valencia,La_Liga,712,2017-2018,16C,Cloudy,21-Apr-18
+289,Girona,Espanyol de Barcelona,La_Liga,713,2017-2018,15C,Sunny,22-Apr-18
+290,Malaga,Real Sociedad,La_Liga,714,2017-2018,16C,Cloudy,22-Apr-18
+291,Las Palmas,Deportivo Alaves,La_Liga,715,2017-2018,18C,Breezy,22-Apr-18
+292,Atletico Madrid,Real Betis,La_Liga,716,2017-2018,11C,Cloudy,22-Apr-18
+293,Athletic Club,Levante,La_Liga,717,2017-2018,13C,Cloudy,23-Apr-18
+294,Levante,Sevilla,La_Liga,718,2017-2018,.A7471EscuderoRoger70freekick86Geis80BanegaCampaña7776Nolito74Sarabia73Escudero,".A67Coke6666Geistechnique90Banega87J.Navas85Vázquez85NolitoCampaña8483SarabiaheaderCoke8481Mercado76VázquezLuna,",27-Apr-18
+295,Espanyol de Barcelona,Las Palmas,La_Liga,719,2017-2018,20C,Cloudy,28-Apr-18
+296,Real Sociedad,Athletic Club,La_Liga,720,2017-2018,10C,Showers,28-Apr-18
+297,Real Madrid,Leganés,La_Liga,721,2017-2018,17C,Sunny,28-Apr-18
+298,Villarreal,Celta Vigo,La_Liga,722,2017-2018,16C,Cloudy,28-Apr-18
+299,Getafe,Girona,La_Liga,723,2017-2018,6C,Breezy,29-Apr-18
+300,Deportivo Alaves,Atletico Madrid,La_Liga,724,2017-2018,6C,Rain,29-Apr-18
+301,Valencia,Eibar,La_Liga,725,2017-2018,21C,Breezy,29-Apr-18
+302,Deportivo La Coruña,Barcelona,La_Liga,726,2017-2018,9C,Cloudy,29-Apr-18
+303,Real Betis,Malaga,La_Liga,727,2017-2018,17C,Cloudy,30-Apr-18
+304,Sevilla,Real Sociedad,La_Liga,728,2017-2018,13C,Cloudy,04-May-18
+305,Girona,Eibar,La_Liga,729,2017-2018,17C,Cloudy,05-May-18
+306,Athletic Club,Real Betis,La_Liga,730,2017-2018,7C,Cloudy,05-May-18
+307,Celta Vigo,Deportivo La Coruña,La_Liga,731,2017-2018,17C,Sunny,05-May-18
+308,Villarreal,Valencia,La_Liga,732,2017-2018,19C,Cloudy,05-May-18
+309,Malaga,Deportivo Alaves,La_Liga,733,2017-2018,20C,Sunny,06-May-18
+310,Atletico Madrid,Espanyol de Barcelona,La_Liga,734,2017-2018,14C,Cloudy,06-May-18
+311,Atletico Madrid,Espanyol de Barcelona,La_Liga,734,2017-2018,14C,Cloudy,06-May-18
+312,Las Palmas,Getafe,La_Liga,735,2017-2018,17C,Sunny,06-May-18
+313,Barcelona,Real Madrid,La_Liga,736,2017-2018,14C,Cloudy,06-May-18
+314,Leganés,Levante,La_Liga,737,2017-2018,22C,Cloudy,07-May-18
+315,Barcelona,Villarreal,La_Liga,738,2017-2018,15C,Cloudy,09-May-18
+316,Sevilla,Real Madrid,La_Liga,739,2017-2018,17C,Cloudy,09-May-18
+317,Real Sociedad,Leganés,La_Liga,740,2017-2018,11C,Showers,12-May-18
+318,Deportivo Alaves,Athletic Club,La_Liga,741,2017-2018,8C,Cloudy,12-May-18
+319,Deportivo La Coruña,Villarreal,La_Liga,742,2017-2018,12C,Breezy,12-May-18
+320,Eibar,Las Palmas,La_Liga,743,2017-2018,8C,Showers,12-May-18
+321,Getafe,Atletico Madrid,La_Liga,744,2017-2018,16C,Cloudy,12-May-18
+322,Girona,Valencia,La_Liga,745,2017-2018,20C,Breezy,12-May-18
+323,Real Betis,Sevilla,La_Liga,746,2017-2018,24C,Sunny,12-May-18
+324,Real Madrid,Celta Vigo,La_Liga,747,2017-2018,14C,Cloudy,12-May-18
+325,Espanyol de Barcelona,Malaga,La_Liga,748,2017-2018,11C,Cloudy,13-May-18
+326,Levante,Barcelona,La_Liga,749,2017-2018,14C,Clear,13-May-18
+327,Celta Vigo,Levante,La_Liga,750,2017-2018,20C,Sunny,19-May-18
+328,Leganés,Real Betis,La_Liga,751,2017-2018,11C,Cloudy,19-May-18
+329,Las Palmas,Girona,La_Liga,752,2017-2018,17C,Cloudy,19-May-18
+330,Malaga,Getafe,La_Liga,753,2017-2018,20C,Cloudy,19-May-18
+331,Sevilla,Deportivo Alaves,La_Liga,754,2017-2018,26C,Cloudy,19-May-18
+332,Villarreal,Real Madrid,La_Liga,755,2017-2018,23C,Sunny,19-May-18
+333,Valencia,Deportivo La Coruña,La_Liga,756,2017-2018,23C,Cloudy,20-May-18
+334,Athletic Club,Espanyol de Barcelona,La_Liga,757,2017-2018,8C,Cloudy,20-May-18
+335,Atletico Madrid,Eibar,La_Liga,758,2017-2018,21C,Cloudy,20-May-18
+336,Barcelona,Real Sociedad,La_Liga,759,2017-2018,17C,Sunny,20-May-18
