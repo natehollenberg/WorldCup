@@ -1,0 +1,251 @@
+,goals_for,goals_against,team,game_id,date
+0,1,2,Arsenal,0,30Jul
+1,5,2,Arsenal,0,29Jul
+2,1,1,Arsenal,0,19Jul
+3,2,1,Arsenal,0,27May
+4,3,1,Arsenal,0,21May
+5,1,1,Leicester City,0,21May
+6,1,6,Leicester City,0,18May
+7,2,1,Leicester City,0,13May
+8,3,0,Leicester City,0,06May
+9,0,1,Leicester City,0,29Apr
+10,4,3,Watford,1,15May
+11,1,0,Watford,1,12May
+12,3,0,Watford,1,06May
+13,0,1,Watford,1,01May
+14,2,0,Watford,1,22Apr
+15,0,3,Liverpool,1,01Aug
+16,,,Liverpool,1,19Jul
+17,3,0,Liverpool,1,21May
+18,0,4,Liverpool,1,14May
+19,0,0,Liverpool,1,07May
+20,1,2,Chelsea,2,29Jul
+21,2,3,Chelsea,2,25Jul
+22,2,1,Chelsea,2,27May
+23,5,1,Chelsea,2,21May
+24,4,3,Chelsea,2,15May
+25,2,1,Burnley,2,13May
+26,2,2,Burnley,2,06May
+27,0,2,Burnley,2,29Apr
+28,0,2,Burnley,2,23Apr
+29,3,1,Burnley,2,15Apr
+30,2,0,Crystal Palace,3,21May
+31,4,0,Crystal Palace,3,14May
+32,5,0,Crystal Palace,3,06May
+33,0,2,Crystal Palace,3,29Apr
+34,0,1,Crystal Palace,3,26Apr
+35,1,1,Huddersfield Town,3,17May
+36,0,0,Huddersfield Town,3,14May
+37,0,3,Huddersfield Town,3,07May
+38,2,0,Huddersfield Town,3,29Apr
+39,0,1,Huddersfield Town,3,25Apr
+40,1,0,Everton,4,27Jul
+41,3,1,Everton,4,21May
+42,1,0,Everton,4,12May
+43,1,0,Everton,4,06May
+44,0,3,Everton,4,30Apr
+45,1,4,Stoke City,4,13May
+46,2,2,Stoke City,4,06May
+47,0,0,Stoke City,4,29Apr
+48,2,0,Stoke City,4,22Apr
+49,3,1,Stoke City,4,15Apr
+50,0,0,Southampton,5,17May
+51,1,2,Southampton,5,13May
+52,0,2,Southampton,5,10May
+53,0,0,Southampton,5,07May
+54,0,0,Southampton,5,29Apr
+55,0,2,Swansea City,5,13May
+56,1,0,Swansea City,5,06May
+57,1,1,Swansea City,5,30Apr
+58,2,0,Swansea City,5,22Apr
+59,1,0,Swansea City,5,15Apr
+60,2,1,West Bromwich Albion,6,21May
+61,3,1,West Bromwich Albion,6,16May
+62,0,1,West Bromwich Albion,6,12May
+63,2,2,West Bromwich Albion,6,06May
+64,0,1,West Bromwich Albion,6,29Apr
+65,2,1,Bournemouth,6,13May
+66,2,2,Bournemouth,6,06May
+67,0,1,Bournemouth,6,29Apr
+68,4,0,Bournemouth,6,22Apr
+69,4,0,Bournemouth,6,15Apr
+70,0,1,Brighton & Hove Albion,7,29Apr
+71,2,0,Brighton & Hove Albion,7,21Apr
+72,2,1,Brighton & Hove Albion,7,17Apr
+73,0,2,Brighton & Hove Albion,7,14Apr
+74,1,2,Brighton & Hove Albion,7,07Apr
+75,4,1,Manchester City,7,26Jul
+76,2,0,Manchester City,7,20Jul
+77,0,5,Manchester City,7,21May
+78,3,1,Manchester City,7,16May
+79,2,1,Manchester City,7,13May
+80,0,2,Newcastle United,8,28Apr
+81,4,1,Newcastle United,8,24Apr
+82,3,1,Newcastle United,8,17Apr
+83,1,1,Newcastle United,8,14Apr
+84,2,1,Newcastle United,8,08Apr
+85,2,3,Tottenham Hotspur,8,25Jul
+86,2,4,Tottenham Hotspur,8,22Jul
+87,1,7,Tottenham Hotspur,8,21May
+88,1,6,Tottenham Hotspur,8,18May
+89,2,1,Tottenham Hotspur,8,14May
+90,1,0,Manchester United,9,26Jul
+91,1,1,Manchester United,9,23Jul
+92,2,0,Manchester United,9,20Jul
+93,0,2,Manchester United,9,24May
+94,2,0,Manchester United,9,21May
+95,0,4,West Ham United,9,14May
+96,1,0,West Ham United,9,05May
+97,0,0,West Ham United,9,29Apr
+98,0,0,West Ham United,9,22Apr
+99,2,2,West Ham United,9,15Apr
+100,0,0,Swansea City,10,12Aug
+101,2,1,Swansea City,10,21May
+102,0,2,Swansea City,10,13May
+103,1,0,Swansea City,10,06May
+104,1,1,Swansea City,10,30Apr
+105,2,1,Manchester United,10,08Aug
+106,1,0,Manchester United,10,26Jul
+107,1,1,Manchester United,10,23Jul
+108,2,0,Manchester United,10,20Jul
+109,0,2,Manchester United,10,24May
+110,1,1,Bournemouth,11,21May
+111,2,1,Bournemouth,11,13May
+112,2,2,Bournemouth,11,06May
+113,0,1,Bournemouth,11,29Apr
+114,4,0,Bournemouth,11,22Apr
+115,0,5,Watford,11,21May
+116,4,3,Watford,11,15May
+117,1,0,Watford,11,12May
+118,3,0,Watford,11,06May
+119,0,1,Watford,11,01May
+120,1,2,Burnley,12,21May
+121,2,1,Burnley,12,13May
+122,2,2,Burnley,12,06May
+123,0,2,Burnley,12,29Apr
+124,0,2,Burnley,12,23Apr
+125,,,West Bromwich Albion,12,19Jul
+126,2,1,West Bromwich Albion,12,21May
+127,3,1,West Bromwich Albion,12,16May
+128,0,1,West Bromwich Albion,12,12May
+129,2,2,West Bromwich Albion,12,06May
+130,,,Leicester City,13,19Jul
+131,1,1,Leicester City,13,21May
+132,1,6,Leicester City,13,18May
+133,2,1,Leicester City,13,13May
+134,3,0,Leicester City,13,06May
+135,1,1,Brighton & Hove Albion,13,07May
+136,0,1,Brighton & Hove Albion,13,29Apr
+137,2,0,Brighton & Hove Albion,13,21Apr
+138,2,1,Brighton & Hove Albion,13,17Apr
+139,0,2,Brighton & Hove Albion,13,14Apr
+140,3,3,Liverpool,14,12Aug
+141,1,1,Liverpool,14,02Aug
+142,0,3,Liverpool,14,01Aug
+143,,,Liverpool,14,19Jul
+144,3,0,Liverpool,14,21May
+145,,,Crystal Palace,14,19Jul
+146,2,0,Crystal Palace,14,21May
+147,4,0,Crystal Palace,14,14May
+148,5,0,Crystal Palace,14,06May
+149,0,2,Crystal Palace,14,29Apr
+150,0,1,Southampton,15,21May
+151,0,0,Southampton,15,17May
+152,1,2,Southampton,15,13May
+153,0,2,Southampton,15,10May
+154,0,0,Southampton,15,07May
+155,4,0,West Ham United,15,13Aug
+156,1,2,West Ham United,15,21May
+157,0,4,West Ham United,15,14May
+158,1,0,West Ham United,15,05May
+159,0,0,West Ham United,15,29Apr
+160,0,1,Stoke City,16,21May
+161,1,4,Stoke City,16,13May
+162,2,2,Stoke City,16,06May
+163,0,0,Stoke City,16,29Apr
+164,2,0,Stoke City,16,22Apr
+165,1,1,Arsenal,16,06Aug
+166,1,2,Arsenal,16,30Jul
+167,5,2,Arsenal,16,29Jul
+168,1,1,Arsenal,16,19Jul
+169,2,1,Arsenal,16,27May
+170,0,0,Huddersfield Town,17,29May
+171,1,1,Huddersfield Town,17,17May
+172,0,0,Huddersfield Town,17,14May
+173,0,3,Huddersfield Town,17,07May
+174,2,0,Huddersfield Town,17,29Apr
+175,3,0,Newcastle United,17,07May
+176,0,2,Newcastle United,17,28Apr
+177,4,1,Newcastle United,17,24Apr
+178,3,1,Newcastle United,17,17Apr
+179,1,1,Newcastle United,17,14Apr
+180,0,2,Tottenham Hotspur,18,13Aug
+181,3,0,Tottenham Hotspur,18,29Jul
+182,2,3,Tottenham Hotspur,18,25Jul
+183,2,4,Tottenham Hotspur,18,22Jul
+184,1,7,Tottenham Hotspur,18,21May
+185,2,3,Chelsea,18,12Aug
+186,1,1,Chelsea,18,06Aug
+187,1,2,Chelsea,18,29Jul
+188,2,3,Chelsea,18,25Jul
+189,2,1,Chelsea,18,27May
+190,0,2,Manchester City,19,12Aug
+191,3,0,Manchester City,19,29Jul
+192,4,1,Manchester City,19,26Jul
+193,2,0,Manchester City,19,20Jul
+194,0,5,Manchester City,19,21May
+195,2,1,Everton,19,15Aug
+196,1,0,Everton,19,12Aug
+197,0,1,Everton,19,03Aug
+198,1,0,Everton,19,27Jul
+199,3,1,Everton,19,21May
+200,0,2,Bournemouth,20,19Aug
+201,1,0,Bournemouth,20,12Aug
+202,1,1,Bournemouth,20,21May
+203,2,1,Bournemouth,20,13May
+204,2,2,Bournemouth,20,06May
+205,1,1,Manchester City,20,15Aug
+206,0,2,Manchester City,20,12Aug
+207,3,0,Manchester City,20,29Jul
+208,4,1,Manchester City,20,26Jul
+209,2,0,Manchester City,20,20Jul
+210,1,0,Crystal Palace,21,19Aug
+211,0,3,Crystal Palace,21,12Aug
+212,,,Crystal Palace,21,19Jul
+213,2,0,Crystal Palace,21,21May
+214,4,0,Crystal Palace,21,14May
+215,0,4,Swansea City,21,19Aug
+216,1,2,Swansea City,21,15Aug
+217,0,0,Swansea City,21,12Aug
+218,2,1,Swansea City,21,21May
+219,0,2,Swansea City,21,13May
+220,1,0,Huddersfield Town,22,20Aug
+221,0,3,Huddersfield Town,22,12Aug
+222,0,0,Huddersfield Town,22,29May
+223,1,1,Huddersfield Town,22,17May
+224,0,0,Huddersfield Town,22,14May
+225,3,2,Southampton,22,19Aug
+226,0,0,Southampton,22,12Aug
+227,0,1,Southampton,22,21May
+228,0,0,Southampton,22,17May
+229,1,2,Southampton,22,13May
+230,1,0,Newcastle United,23,20Aug
+231,0,2,Newcastle United,23,13Aug
+232,3,0,Newcastle United,23,07May
+233,0,2,Newcastle United,23,28Apr
+234,4,1,Newcastle United,23,24Apr
+235,3,2,West Ham United,23,19Aug
+236,2,3,West Ham United,23,15Aug
+237,4,0,West Ham United,23,13Aug
+238,1,2,West Ham United,23,21May
+239,0,4,West Ham United,23,14May
+240,0,2,Watford,24,19Aug
+241,3,3,Watford,24,12Aug
+242,0,5,Watford,24,21May
+243,4,3,Watford,24,15May
+244,1,0,Watford,24,12May
+245,2,0,Brighton & Hove Albion,24,19Aug
+246,0,2,Brighton & Hove Albion,24,12Aug
+247,1,1,Brighton & Hove Albion,24,07May
+248,0,1,Brighton & Hove Albion,24,29Apr
+249,2,0,Brighton & Hove Albion,24,21Apr

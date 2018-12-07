@@ -1,0 +1,925 @@
+,name,position,team,game_id,player_id
+0,Schmeichel,XX,Leicester City,131,6670
+1,Simpson,DF,Leicester City,131,7776
+2,Morgan,DF,Leicester City,131,25714
+3,Maguire,DF,Leicester City,131,57627
+4,Chilwell,DF,Leicester City,131,104268
+5,Iborra,MF,Leicester City,131,15489
+6,Ndidi,DM,Leicester City,131,80418
+7,Mahrez,FW,Leicester City,131,73506
+8,Okazaki,FW,Leicester City,131,24460
+9,Albrighton,MF,Leicester City,131,32680
+10,Vardy,FW,Leicester City,131,63664
+11,Lloris,XX,Tottenham Hotspur,131,2610
+12,Aurier,DF,Tottenham Hotspur,131,47805
+13,Sánchez,DF,Tottenham Hotspur,131,84584
+14,Vertonghen,DF,Tottenham Hotspur,131,849
+15,Rose,DF,Tottenham Hotspur,131,11147
+16,Dier,DM,Tottenham Hotspur,131,55465
+17,Dembélé,MF,Tottenham Hotspur,131,2323
+18,Sissoko,MF,Tottenham Hotspur,131,11229
+19,Alli,AM,Tottenham Hotspur,131,74303
+20,Eriksen,AM,Tottenham Hotspur,131,44435
+21,Kane,FW,Tottenham Hotspur,131,41936
+22,Heurelho Gomes,XX,Watford,132,1118
+23,Kiko Femenía,DF,Watford,132,44241
+24,Mariappa,DF,Watford,132,1887
+25,Prödl,DF,Watford,132,13359
+26,Kabasele,DF,Watford,132,50762
+27,Zeegelaar,DF,Watford,132,38901
+28,Hughes,MF,Watford,132,66806
+29,Doucoure,MF,Watford,132,75703
+30,Cleverley,MF,Watford,132,39422
+31,Gray,FW,Watford,132,47270
+32,Richarlison,FW,Watford,132,108947
+33,De Gea,XX,Manchester United,132,41206
+34,Lindelöf,DF,Manchester United,132,74233
+35,Smalling,DF,Manchester United,132,35134
+36,Rojo,DF,Manchester United,132,31237
+37,Valencia,DF,Manchester United,132,1820
+38,Matić,DM,Manchester United,132,31740
+39,Pogba,MF,Manchester United,132,56805
+40,Young,DF,Manchester United,132,1896
+41,Lingard,AM,Manchester United,132,71489
+42,Martial,FW,Manchester United,132,76346
+43,Lukaku,FW,Manchester United,132,38757
+44,Foster,XX,West Bromwich Albion,133,1885
+45,Nyom,DF,West Bromwich Albion,133,53041
+46,Hegazy,DF,West Bromwich Albion,133,40854
+47,Evans,DF,West Bromwich Albion,133,7777
+48,Gibbs,DF,West Bromwich Albion,133,13484
+49,Phillips,FW,West Bromwich Albion,133,28838
+50,Livermore,DM,West Bromwich Albion,133,40010
+51,Barry,DM,West Bromwich Albion,133,786
+52,Field,MF,West Bromwich Albion,133,108812
+53,Robson Kanu,FW,West Bromwich Albion,133,25682
+54,Rondón,FW,West Bromwich Albion,133,35222
+55,Darlow,XX,Newcastle United,133,51244
+56,Yedlin,DF,Newcastle United,133,76976
+57,Lejeune,DF,Newcastle United,133,46638
+58,Clark,DF,Newcastle United,133,39242
+59,Mbemba,DF,Newcastle United,133,77277
+60,Hayden,DM,Newcastle United,133,83862
+61,Merino,DM,Newcastle United,133,94022
+62,Ritchie,MF,Newcastle United,133,39240
+63,Ayoze Perez,AM,Newcastle United,133,84116
+64,Murphy,FW,Newcastle United,133,86163
+65,Joselu,FW,Newcastle United,133,40193
+66,Cech,XX,Arsenal,134,114
+67,Koscielny,DF,Arsenal,134,23147
+68,Mustafi,DF,Arsenal,134,34535
+69,Monreal,DF,Arsenal,134,2892
+70,Bellerín,DF,Arsenal,134,71533
+71,Ramsey,MF,Arsenal,134,14113
+72,Xhaka,DM,Arsenal,134,49774
+73,Kolašinac,DF,Arsenal,134,67934
+74,Özil,AM,Arsenal,134,2070
+75,Sanchez,FW,Arsenal,134,7165
+76,Lacazette,FW,Arsenal,134,46410
+77,Lössl,XX,Huddersfield Town,134,19553
+78,Zanka,DF,Huddersfield Town,134,10741
+79,Schindler,DF,Huddersfield Town,134,53718
+80,Cranie,DF,Huddersfield Town,134,7732
+81,Hadergjonaj,DF,Huddersfield Town,134,84003
+82,Mooy,MF,Huddersfield Town,134,41166
+83,Hogg,DM,Huddersfield Town,134,52049
+84,Löwe,DF,Huddersfield Town,134,51480
+85,Quaner,FW,Huddersfield Town,134,51744
+86,Kachunga,FW,Huddersfield Town,134,51868
+87,Mounié,FW,Huddersfield Town,134,82272
+88,Begović,XX,Bournemouth,135,21972
+89,Francis,DF,Bournemouth,135,9732
+90,Cook,DF,Bournemouth,135,30461
+91,Aké,DF,Bournemouth,135,71946
+92,Daniels,DF,Bournemouth,135,46020
+93,Surman,MF,Bournemouth,135,7742
+94,Arter,MF,Bournemouth,135,13884
+95,Ibe,MF,Bournemouth,135,62695
+96,King,FW,Bournemouth,135,40835
+97,Pugh,MF,Bournemouth,135,43020
+98,Wilson,FW,Bournemouth,135,42854
+99,Pope,XX,Burnley,135,67170
+100,Bardsley,DF,Burnley,135,503
+101,Tarkowski,DF,Burnley,135,55365
+102,Mee,DF,Burnley,135,40793
+103,Ward,DF,Burnley,135,8614
+104,Defour,MF,Burnley,135,9295
+105,Cork,DM,Burnley,135,12857
+106,Guðmundsson,FW,Burnley,135,49182
+107,Hendrick,MF,Burnley,135,47298
+108,Brady,MF,Burnley,135,53118
+109,Wood,FW,Burnley,135,34201
+110,Courtois,XX,Chelsea,136,34241
+111,Rüdiger,DF,Chelsea,136,61115
+112,Christensen,DF,Chelsea,136,79602
+113,Cahill,DF,Chelsea,136,4194
+114,Zappacosta,DF,Chelsea,136,64508
+115,Fàbregas,AM,Chelsea,136,239
+116,Kanté,DM,Chelsea,136,73549
+117,Marcos Alonso,DF,Chelsea,136,46166
+118,Willian,FW,Chelsea,136,10229
+119,Pedro,FW,Chelsea,136,15486
+120,Morata,FW,Chelsea,136,54733
+121,Fabiański,XX,Swansea City,136,347
+122,Naughton,DF,Swansea City,136,16232
+123,van der Hoorn,DF,Swansea City,136,59053
+124,Mawson,DF,Swansea City,136,82782
+125,Olsson,DF,Swansea City,136,11655
+126,Roque Mesa,MF,Swansea City,136,70555
+127,SY Ki,DM,Swansea City,136,24485
+128,Carroll,MF,Swansea City,136,55735
+129,Renato Sanches,MF,Swansea City,136,100242
+130,Bony,FW,Swansea City,136,24905
+131,Ayew,FW,Swansea City,136,43399
+132,Pickford,XX,Everton,137,67696
+133,Kenny,DF,Everton,137,97240
+134,Holgate,DF,Everton,137,97008
+135,Williams,DF,Everton,137,25653
+136,Martina,DF,Everton,137,30280
+137,Gueye,DM,Everton,137,44582
+138,Lennon,MF,Everton,137,596
+139,Davies,MF,Everton,137,109026
+140,Rooney,FW,Everton,137,57
+141,Sigurðsson,AM,Everton,137,25685
+142,Calvert-Lewin,FW,Everton,137,100563
+143,Hart,XX,West Ham United,137,3184
+144,Zabaleta,DF,West Ham United,137,1613
+145,Reid,DF,West Ham United,137,6211
+146,Ogbonna,DF,West Ham United,137,6063
+147,Cresswell,DF,West Ham United,137,44073
+148,Obiang,MF,West Ham United,137,53286
+149,Arnautovic,FW,West Ham United,137,7579
+150,Kouyaté,DM,West Ham United,137,15881
+151,Lanzini,AM,West Ham United,137,50921
+152,Masuaku,DF,West Ham United,137,63786
+153,Ayew,FW,West Ham United,137,12078
+154,Ederson Moraes,XX,Manchester City,138,74330
+155,Walker,DF,Manchester City,138,37666
+156,Kompany,DF,Manchester City,138,1170
+157,Otamendi,DF,Manchester City,138,21163
+158,Delph,MF,Manchester City,138,25974
+159,Fernandinho,DM,Manchester City,138,6084
+160,Sterling,FW,Manchester City,138,69315
+161,De Bruyne,AM,Manchester City,138,34705
+162,Gündogan,MF,Manchester City,138,32167
+163,Gabriel Jesus,FW,Manchester City,138,100929
+164,Agüero,FW,Manchester City,138,874
+165,Forster,XX,Southampton,138,13876
+166,Cédric,DF,Southampton,138,46131
+167,Yoshida,DF,Southampton,138,24453
+168,van Dijk,DF,Southampton,138,58755
+169,Hoedt,DF,Southampton,138,85663
+170,Bertrand,DF,Southampton,138,20621
+171,Højbjerg,MF,Southampton,138,79297
+172,Romeu,DM,Southampton,138,40786
+173,Lemina,MF,Southampton,138,76999
+174,Redmond,FW,Southampton,138,52548
+175,Long,FW,Southampton,138,1903
+176,Grant,XX,Stoke City,139,9772
+177,Zouma,DF,Stoke City,139,62935
+178,Shawcross,DF,Stoke City,139,11889
+179,Martins Indi,DF,Stoke City,139,52257
+180,Diouf,FW,Stoke City,139,18699
+181,Fletcher,MF,Stoke City,139,54
+182,Allen,MF,Stoke City,139,22845
+183,Pieters,DF,Stoke City,139,2302
+184,Shaqiri,FW,Stoke City,139,36861
+185,Choupo Moting,FW,Stoke City,139,11127
+186,Crouch,FW,Stoke City,139,105
+187,Mignolet,XX,Liverpool,139,14326
+188,Gomez,DF,Liverpool,139,93605
+189,Matip,DF,Liverpool,139,42117
+190,Lovren,DF,Liverpool,139,24024
+191,Alberto,DF,Liverpool,139,69609
+192,Wijnaldum,MF,Liverpool,139,7404
+193,Can,DM,Liverpool,139,67096
+194,Oxlade Chamberlain,MF,Liverpool,139,46038
+195,Roberto Firmino,FW,Liverpool,139,54804
+196,Mané,FW,Liverpool,139,72713
+197,Solanke,FW,Liverpool,139,95401
+198,Courtois,XX,Chelsea,140,34241
+199,Moses,MF,Chelsea,140,19680
+200,Azpilicueta,DF,Chelsea,140,6743
+201,Christensen,DF,Chelsea,140,79602
+202,Rüdiger,DF,Chelsea,140,61115
+203,Marcos Alonso,DF,Chelsea,140,46166
+204,Fàbregas,AM,Chelsea,140,239
+205,Kanté,DM,Chelsea,140,73549
+206,Drinkwater,MF,Chelsea,140,44068
+207,Hazard,FW,Chelsea,140,14903
+208,Morata,FW,Chelsea,140,54733
+209,Darlow,XX,Newcastle United,140,51244
+210,Mbemba,DF,Newcastle United,140,77277
+211,Lejeune,DF,Newcastle United,140,46638
+212,Clark,DF,Newcastle United,140,39242
+213,Javi Manquillo,DF,Newcastle United,140,70244
+214,Diamé,MF,Newcastle United,140,39492
+215,Merino,DM,Newcastle United,140,94022
+216,Ritchie,MF,Newcastle United,140,39240
+217,Murphy,FW,Newcastle United,140,86163
+218,Ayoze Perez,AM,Newcastle United,140,84116
+219,Gayle,FW,Newcastle United,140,63475
+220,Ryan,XX,Brighton & Hove Albion,141,41314
+221,Bruno,DF,Brighton & Hove Albion,141,11646
+222,Duffy,DF,Brighton & Hove Albion,141,35497
+223,Dunk,DF,Brighton & Hove Albion,141,47238
+224,Bong,DF,Brighton & Hove Albion,141,14353
+225,Knockaert,MF,Brighton & Hove Albion,141,50870
+226,Stephens,MF,Brighton & Hove Albion,141,20617
+227,Propper,MF,Brighton & Hove Albion,141,39059
+228,Brown,FW,Brighton & Hove Albion,141,79153
+229,Groß,AM,Brighton & Hove Albion,141,34541
+230,Murray,FW,Brighton & Hove Albion,141,26133
+231,Mignolet,XX,Liverpool,141,14326
+232,Can,DM,Liverpool,141,67096
+233,Lovren,DF,Liverpool,141,24024
+234,Wijnaldum,MF,Liverpool,141,7404
+235,Arnold,DF,Liverpool,141,110457
+236,Milner,MF,Liverpool,141,493
+237,Henderson,MF,Liverpool,141,30627
+238,Philippe Coutinho,FW,Liverpool,141,43859
+239,Robertson,DF,Liverpool,141,81563
+240,Salah,FW,Liverpool,141,71707
+241,Roberto Firmino,FW,Liverpool,141,54804
+242,Pickford,XX,Everton,142,67696
+243,Kenny,DF,Everton,142,97240
+244,Holgate,DF,Everton,142,97008
+245,Williams,DF,Everton,142,25653
+246,Martina,DF,Everton,142,30280
+247,Gueye,DM,Everton,142,44582
+248,Lennon,MF,Everton,142,596
+249,Davies,MF,Everton,142,109026
+250,Rooney,FW,Everton,142,57
+251,Sigurðsson,AM,Everton,142,25685
+252,Calvert-Lewin,FW,Everton,142,100563
+253,Lössl,XX,Huddersfield Town,142,19553
+254,Smith,DF,Huddersfield Town,142,82894
+255,Zanka,DF,Huddersfield Town,142,10741
+256,Schindler,DF,Huddersfield Town,142,53718
+257,Malone,DF,Huddersfield Town,142,45923
+258,Mooy,MF,Huddersfield Town,142,41166
+259,Williams,DM,Huddersfield Town,142,44496
+260,Quaner,FW,Huddersfield Town,142,51744
+261,Ince,MF,Huddersfield Town,142,50793
+262,Kachunga,FW,Huddersfield Town,142,51868
+263,Depoitre,FW,Huddersfield Town,142,83353
+264,Schmeichel,XX,Leicester City,143,6670
+265,Simpson,DF,Leicester City,143,7776
+266,Morgan,DF,Leicester City,143,25714
+267,Maguire,DF,Leicester City,143,57627
+268,Chilwell,DF,Leicester City,143,104268
+269,Ndidi,DM,Leicester City,143,80418
+270,Iborra,MF,Leicester City,143,15489
+271,Mahrez,FW,Leicester City,143,73506
+272,Gray,FW,Leicester City,143,84046
+273,Albrighton,MF,Leicester City,143,32680
+274,Vardy,FW,Leicester City,143,63664
+275,Pope,XX,Burnley,143,67170
+276,Bardsley,DF,Burnley,143,503
+277,Tarkowski,DF,Burnley,143,55365
+278,Mee,DF,Burnley,143,40793
+279,Ward,DF,Burnley,143,8614
+280,Defour,MF,Burnley,143,9295
+281,Cork,DM,Burnley,143,12857
+282,Guðmundsson,FW,Burnley,143,49182
+283,Hendrick,MF,Burnley,143,47298
+284,Brady,MF,Burnley,143,53118
+285,Wood,FW,Burnley,143,34201
+286,Butland,XX,Stoke City,144,61705
+287,Zouma,DF,Stoke City,144,62935
+288,Shawcross,DF,Stoke City,144,11889
+289,Martins Indi,DF,Stoke City,144,52257
+290,Diouf,FW,Stoke City,144,18699
+291,Allen,MF,Stoke City,144,22845
+292,Fletcher,MF,Stoke City,144,54
+293,Pieters,DF,Stoke City,144,2302
+294,Shaqiri,FW,Stoke City,144,36861
+295,Choupo Moting,FW,Stoke City,144,11127
+296,Crouch,FW,Stoke City,144,105
+297,Fabiański,XX,Swansea City,144,347
+298,Naughton,DF,Swansea City,144,16232
+299,van der Hoorn,DF,Swansea City,144,59053
+300,Mawson,DF,Swansea City,144,82782
+301,Olsson,DF,Swansea City,144,11655
+302,Fer,MF,Swansea City,144,15022
+303,SY Ki,DM,Swansea City,144,24485
+304,Clucas,MF,Swansea City,144,48117
+305,Ayew,FW,Swansea City,144,43399
+306,Abraham,FW,Swansea City,144,97303
+307,Bony,FW,Swansea City,144,24905
+308,Heurelho Gomes,XX,Watford,145,1118
+309,Mariappa,DF,Watford,145,1887
+310,Prödl,DF,Watford,145,13359
+311,Kabasele,DF,Watford,145,50762
+312,Kiko Femenía,DF,Watford,145,44241
+313,Doucoure,MF,Watford,145,75703
+314,Cleverley,MF,Watford,145,39422
+315,Zeegelaar,DF,Watford,145,38901
+316,Pereyra,AM,Watford,145,34826
+317,Richarlison,FW,Watford,145,108947
+318,Deeney,FW,Watford,145,27585
+319,Lloris,XX,Tottenham Hotspur,145,2610
+320,Trippier,DF,Tottenham Hotspur,145,40791
+321,Sánchez,DF,Tottenham Hotspur,145,84584
+322,Vertonghen,DF,Tottenham Hotspur,145,849
+323,Davies,DF,Tottenham Hotspur,145,74374
+324,Dier,DM,Tottenham Hotspur,145,55465
+325,Dembélé,MF,Tottenham Hotspur,145,2323
+326,Eriksen,AM,Tottenham Hotspur,145,44435
+327,Alli,AM,Tottenham Hotspur,145,74303
+328,Heung-Min Son,FW,Tottenham Hotspur,145,48353
+329,Kane,FW,Tottenham Hotspur,145,41936
+330,Foster,XX,West Bromwich Albion,146,1885
+331,Nyom,DF,West Bromwich Albion,146,53041
+332,Hegazy,DF,West Bromwich Albion,146,40854
+333,Evans,DF,West Bromwich Albion,146,7777
+334,Gibbs,DF,West Bromwich Albion,146,13484
+335,Livermore,DM,West Bromwich Albion,146,40010
+336,Barry,DM,West Bromwich Albion,146,786
+337,Field,MF,West Bromwich Albion,146,108812
+338,Robson Kanu,FW,West Bromwich Albion,146,25682
+339,Rondón,FW,West Bromwich Albion,146,35222
+340,Rodriguez,FW,West Bromwich Albion,146,25205
+341,Speroni,XX,Crystal Palace,146,12577
+342,Ward,DF,Crystal Palace,146,27074
+343,Kelly,DF,Crystal Palace,146,31246
+344,Sakho,DF,Crystal Palace,146,6221
+345,Schlupp,DF,Crystal Palace,146,57386
+346,Loftus-Cheek,MF,Crystal Palace,146,97151
+347,Milivojević,DM,Crystal Palace,146,61174
+348,McArthur,MF,Crystal Palace,146,21554
+349,Townsend,FW,Crystal Palace,146,45908
+350,Zaha,FW,Crystal Palace,146,48792
+351,Benteke,FW,Crystal Palace,146,16811
+352,Cech,XX,Arsenal,147,114
+353,Koscielny,DF,Arsenal,147,23147
+354,Mustafi,DF,Arsenal,147,34535
+355,Monreal,DF,Arsenal,147,2892
+356,Bellerín,DF,Arsenal,147,71533
+357,Ramsey,MF,Arsenal,147,14113
+358,Xhaka,DM,Arsenal,147,49774
+359,Kolašinac,DF,Arsenal,147,67934
+360,Özil,AM,Arsenal,147,2070
+361,Sanchez,FW,Arsenal,147,7165
+362,Lacazette,FW,Arsenal,147,46410
+363,De Gea,XX,Manchester United,147,41206
+364,Lindelöf,DF,Manchester United,147,74233
+365,Smalling,DF,Manchester United,147,35134
+366,Rojo,DF,Manchester United,147,31237
+367,Valencia,DF,Manchester United,147,1820
+368,Pogba,MF,Manchester United,147,56805
+369,Matić,DM,Manchester United,147,31740
+370,Young,DF,Manchester United,147,1896
+371,Lingard,AM,Manchester United,147,71489
+372,Lukaku,FW,Manchester United,147,38757
+373,Martial,FW,Manchester United,147,76346
+374,Begović,XX,Bournemouth,148,21972
+375,Smith,DF,Bournemouth,148,43394
+376,Francis,DF,Bournemouth,148,9732
+377,Aké,DF,Bournemouth,148,71946
+378,Daniels,DF,Bournemouth,148,46020
+379,Cook,MF,Bournemouth,148,93194
+380,Surman,MF,Bournemouth,148,7742
+381,Stanislas,FW,Bournemouth,148,31538
+382,King,FW,Bournemouth,148,40835
+383,Fraser,MF,Bournemouth,148,54000
+384,Defoe,FW,Bournemouth,148,588
+385,Forster,XX,Southampton,148,13876
+386,Pied,DF,Southampton,148,25255
+387,van Dijk,DF,Southampton,148,58755
+388,Hoedt,DF,Southampton,148,85663
+389,Bertrand,DF,Southampton,148,20621
+390,Romeu,DM,Southampton,148,40786
+391,Davis,MF,Southampton,148,791
+392,Ward-Prowse,MF,Southampton,148,65842
+393,Tadic,FW,Southampton,148,25134
+394,Boufal,MF,Southampton,148,97253
+395,Austin,FW,Southampton,148,45996
+396,Ederson Moraes,XX,Manchester City,149,74330
+397,Walker,DF,Manchester City,149,37666
+398,Otamendi,DF,Manchester City,149,21163
+399,Mangala,DF,Manchester City,149,30568
+400,Danilo,DF,Manchester City,149,50348
+401,Delph,MF,Manchester City,149,25974
+402,Sterling,FW,Manchester City,149,69315
+403,De Bruyne,AM,Manchester City,149,34705
+404,Silva,AM,Manchester City,149,861
+405,Sane,FW,Manchester City,149,88874
+406,Agüero,FW,Manchester City,149,874
+407,Adrián,XX,West Ham United,149,64753
+408,Zabaleta,DF,West Ham United,149,1613
+409,Rice,DF,West Ham United,149,114525
+410,Ogbonna,DF,West Ham United,149,6063
+411,Cresswell,DF,West Ham United,149,44073
+412,Masuaku,DF,West Ham United,149,63786
+413,Kouyaté,DM,West Ham United,149,15881
+414,Fernandes,AM,West Ham United,149,80039
+415,Obiang,MF,West Ham United,149,53286
+416,Antonio,MF,West Ham United,149,40028
+417,Lanzini,AM,West Ham United,149,50921
+418,Adrián,XX,West Ham United,150,64753
+419,Reid,DF,West Ham United,150,6211
+420,Ogbonna,DF,West Ham United,150,6063
+421,Cresswell,DF,West Ham United,150,44073
+422,Zabaleta,DF,West Ham United,150,1613
+423,Obiang,MF,West Ham United,150,53286
+424,Noble,MF,West Ham United,150,4112
+425,Masuaku,DF,West Ham United,150,63786
+426,Lanzini,AM,West Ham United,150,50921
+427,Arnautovic,FW,West Ham United,150,7579
+428,Antonio,MF,West Ham United,150,40028
+429,Courtois,XX,Chelsea,150,34241
+430,Azpilicueta,DF,Chelsea,150,6743
+431,Christensen,DF,Chelsea,150,79602
+432,Cahill,DF,Chelsea,150,4194
+433,Zappacosta,DF,Chelsea,150,64508
+434,Kanté,DM,Chelsea,150,73549
+435,Bakayoko,DM,Chelsea,150,82228
+436,Marcos Alonso,DF,Chelsea,150,46166
+437,Fàbregas,AM,Chelsea,150,239
+438,Hazard,FW,Chelsea,150,14903
+439,Morata,FW,Chelsea,150,54733
+440,Pope,XX,Burnley,151,67170
+441,Bardsley,DF,Burnley,151,503
+442,Long,DF,Burnley,151,43823
+443,Tarkowski,DF,Burnley,151,55365
+444,Ward,DF,Burnley,151,8614
+445,Defour,MF,Burnley,151,9295
+446,Cork,DM,Burnley,151,12857
+447,Guðmundsson,FW,Burnley,151,49182
+448,Hendrick,MF,Burnley,151,47298
+449,Arfield,MF,Burnley,151,11480
+450,Wood,FW,Burnley,151,34201
+451,Heurelho Gomes,XX,Watford,151,1118
+452,Janmaat,DF,Watford,151,27779
+453,Mariappa,DF,Watford,151,1887
+454,Kabasele,DF,Watford,151,50762
+455,Zeegelaar,DF,Watford,151,38901
+456,Cleverley,MF,Watford,151,39422
+457,Doucoure,MF,Watford,151,75703
+458,Carrillo,FW,Watford,151,55420
+459,Pereyra,AM,Watford,151,34826
+460,Richarlison,FW,Watford,151,108947
+461,Deeney,FW,Watford,151,27585
+462,Speroni,XX,Crystal Palace,152,12577
+463,Fosu-Mensah,DF,Crystal Palace,152,105224
+464,Tomkins,DF,Crystal Palace,152,18303
+465,Sakho,DF,Crystal Palace,152,6221
+466,Schlupp,DF,Crystal Palace,152,57386
+467,Townsend,FW,Crystal Palace,152,45908
+468,Cabaye,MF,Crystal Palace,152,2776
+469,Milivojević,DM,Crystal Palace,152,61174
+470,Loftus-Cheek,MF,Crystal Palace,152,97151
+471,Zaha,FW,Crystal Palace,152,48792
+472,Benteke,FW,Crystal Palace,152,16811
+473,Begović,XX,Bournemouth,152,21972
+474,Francis,DF,Bournemouth,152,9732
+475,Cook,DF,Bournemouth,152,30461
+476,Aké,DF,Bournemouth,152,71946
+477,Daniels,DF,Bournemouth,152,46020
+478,Cook,MF,Bournemouth,152,93194
+479,Surman,MF,Bournemouth,152,7742
+480,Stanislas,FW,Bournemouth,152,31538
+481,King,FW,Bournemouth,152,40835
+482,Fraser,MF,Bournemouth,152,54000
+483,Defoe,FW,Bournemouth,152,588
+484,Lössl,XX,Huddersfield Town,153,19553
+485,Smith,DF,Huddersfield Town,153,82894
+486,Zanka,DF,Huddersfield Town,153,10741
+487,Schindler,DF,Huddersfield Town,153,53718
+488,Löwe,DF,Huddersfield Town,153,51480
+489,Mooy,MF,Huddersfield Town,153,41166
+490,Hogg,DM,Huddersfield Town,153,52049
+491,Kachunga,FW,Huddersfield Town,153,51868
+492,Ince,MF,Huddersfield Town,153,50793
+493,Quaner,FW,Huddersfield Town,153,51744
+494,Mounié,FW,Huddersfield Town,153,82272
+495,Ryan,XX,Brighton & Hove Albion,153,41314
+496,Bruno,DF,Brighton & Hove Albion,153,11646
+497,Duffy,DF,Brighton & Hove Albion,153,35497
+498,Dunk,DF,Brighton & Hove Albion,153,47238
+499,Suttner,DF,Brighton & Hove Albion,153,23019
+500,Schelotto,DF,Brighton & Hove Albion,153,39873
+501,Stephens,MF,Brighton & Hove Albion,153,20617
+502,Propper,MF,Brighton & Hove Albion,153,39059
+503,Brown,FW,Brighton & Hove Albion,153,79153
+504,Groß,AM,Brighton & Hove Albion,153,34541
+505,Murray,FW,Brighton & Hove Albion,153,26133
+506,Fabiański,XX,Swansea City,154,347
+507,Naughton,DF,Swansea City,154,16232
+508,van der Hoorn,DF,Swansea City,154,59053
+509,Mawson,DF,Swansea City,154,82782
+510,Olsson,DF,Swansea City,154,11655
+511,Roque Mesa,MF,Swansea City,154,70555
+512,Routledge,MF,Swansea City,154,586
+513,SY Ki,DM,Swansea City,154,24485
+514,Carroll,MF,Swansea City,154,55735
+515,Dyer,MF,Swansea City,154,7734
+516,Bony,FW,Swansea City,154,24905
+517,Foster,XX,West Bromwich Albion,154,1885
+518,Nyom,DF,West Bromwich Albion,154,53041
+519,Hegazy,DF,West Bromwich Albion,154,40854
+520,Evans,DF,West Bromwich Albion,154,7777
+521,Gibbs,DF,West Bromwich Albion,154,13484
+522,Livermore,DM,West Bromwich Albion,154,40010
+523,Yacob,DM,West Bromwich Albion,154,5781
+524,Field,MF,West Bromwich Albion,154,108812
+525,Robson Kanu,FW,West Bromwich Albion,154,25682
+526,Rondón,FW,West Bromwich Albion,154,35222
+527,Rodriguez,FW,West Bromwich Albion,154,25205
+528,Lloris,XX,Tottenham Hotspur,155,2610
+529,Trippier,DF,Tottenham Hotspur,155,40791
+530,Dier,DM,Tottenham Hotspur,155,55465
+531,Vertonghen,DF,Tottenham Hotspur,155,849
+532,Davies,DF,Tottenham Hotspur,155,74374
+533,Dembélé,MF,Tottenham Hotspur,155,2323
+534,Winks,MF,Tottenham Hotspur,155,88884
+535,Eriksen,AM,Tottenham Hotspur,155,44435
+536,Alli,AM,Tottenham Hotspur,155,74303
+537,Heung-Min Son,FW,Tottenham Hotspur,155,48353
+538,Kane,FW,Tottenham Hotspur,155,41936
+539,Butland,XX,Stoke City,155,61705
+540,Zouma,DF,Stoke City,155,62935
+541,Shawcross,DF,Stoke City,155,11889
+542,Wimmer,DF,Stoke City,155,58971
+543,Edwards,DF,Stoke City,155,114693
+544,Allen,MF,Stoke City,155,22845
+545,Fletcher,MF,Stoke City,155,54
+546,Pieters,DF,Stoke City,155,2302
+547,Shaqiri,FW,Stoke City,155,36861
+548,Choupo Moting,FW,Stoke City,155,11127
+549,Diouf,FW,Stoke City,155,18699
+550,Darlow,XX,Newcastle United,156,51244
+551,Yedlin,DF,Newcastle United,156,76976
+552,Lejeune,DF,Newcastle United,156,46638
+553,Clark,DF,Newcastle United,156,39242
+554,Javi Manquillo,DF,Newcastle United,156,70244
+555,Hayden,DM,Newcastle United,156,83862
+556,Merino,DM,Newcastle United,156,94022
+557,Ritchie,MF,Newcastle United,156,39240
+558,Joselu,FW,Newcastle United,156,40193
+559,Murphy,FW,Newcastle United,156,86163
+560,Gayle,FW,Newcastle United,156,63475
+561,Schmeichel,XX,Leicester City,156,6670
+562,Simpson,DF,Leicester City,156,7776
+563,Morgan,DF,Leicester City,156,25714
+564,Maguire,DF,Leicester City,156,57627
+565,Chilwell,DF,Leicester City,156,104268
+566,Ndidi,DM,Leicester City,156,80418
+567,Iborra,MF,Leicester City,156,15489
+568,Mahrez,FW,Leicester City,156,73506
+569,Gray,FW,Leicester City,156,84046
+570,Albrighton,MF,Leicester City,156,32680
+571,Vardy,FW,Leicester City,156,63664
+572,Forster,XX,Southampton,157,13876
+573,Stephens,DF,Southampton,157,53396
+574,Yoshida,DF,Southampton,157,24453
+575,van Dijk,DF,Southampton,157,58755
+576,Bertrand,DF,Southampton,157,20621
+577,Romeu,DM,Southampton,157,40786
+578,Højbjerg,MF,Southampton,157,79297
+579,Ward-Prowse,MF,Southampton,157,65842
+580,Tadic,FW,Southampton,157,25134
+581,Redmond,FW,Southampton,157,52548
+582,Austin,FW,Southampton,157,45996
+583,Cech,XX,Arsenal,157,114
+584,Koscielny,DF,Arsenal,157,23147
+585,Mertesacker,DF,Arsenal,157,1304
+586,Monreal,DF,Arsenal,157,2892
+587,Bellerín,DF,Arsenal,157,71533
+588,Ramsey,MF,Arsenal,157,14113
+589,Xhaka,DM,Arsenal,157,49774
+590,Kolašinac,DF,Arsenal,157,67934
+591,Özil,AM,Arsenal,157,2070
+592,Sanchez,FW,Arsenal,157,7165
+593,Lacazette,FW,Arsenal,157,46410
+594,Mignolet,XX,Liverpool,158,14326
+595,Gomez,DF,Liverpool,158,93605
+596,Lovren,DF,Liverpool,158,24024
+597,Klavan,DF,Liverpool,158,2440
+598,Robertson,DF,Liverpool,158,81563
+599,Oxlade Chamberlain,MF,Liverpool,158,46038
+600,Henderson,MF,Liverpool,158,30627
+601,Milner,MF,Liverpool,158,493
+602,Salah,FW,Liverpool,158,71707
+603,Solanke,FW,Liverpool,158,95401
+604,Mané,FW,Liverpool,158,72713
+605,Pickford,XX,Everton,158,67696
+606,Kenny,DF,Everton,158,97240
+607,Holgate,DF,Everton,158,97008
+608,Williams,DF,Everton,158,25653
+609,Martina,DF,Everton,158,30280
+610,Gueye,DM,Everton,158,44582
+611,Calvert-Lewin,FW,Everton,158,100563
+612,Rooney,FW,Everton,158,57
+613,Davies,MF,Everton,158,109026
+614,Sigurðsson,AM,Everton,158,25685
+615,Niasse,FW,Everton,158,23784
+616,De Gea,XX,Manchester United,159,41206
+617,Valencia,DF,Manchester United,159,1820
+618,Smalling,DF,Manchester United,159,35134
+619,Rojo,DF,Manchester United,159,31237
+620,Young,DF,Manchester United,159,1896
+621,Herrera,MF,Manchester United,159,40043
+622,Matić,DM,Manchester United,159,31740
+623,Martial,FW,Manchester United,159,76346
+624,Lingard,AM,Manchester United,159,71489
+625,Rashford,FW,Manchester United,159,105232
+626,Lukaku,FW,Manchester United,159,38757
+627,Ederson Moraes,XX,Manchester City,159,74330
+628,Walker,DF,Manchester City,159,37666
+629,Kompany,DF,Manchester City,159,1170
+630,Otamendi,DF,Manchester City,159,21163
+631,Delph,MF,Manchester City,159,25974
+632,Fernandinho,DM,Manchester City,159,6084
+633,Sterling,FW,Manchester City,159,69315
+634,De Bruyne,AM,Manchester City,159,34705
+635,Silva,AM,Manchester City,159,861
+636,Sane,FW,Manchester City,159,88874
+637,Gabriel Jesus,FW,Manchester City,159,100929
+638,Pope,XX,Burnley,160,67170
+639,Bardsley,DF,Burnley,160,503
+640,Long,DF,Burnley,160,43823
+641,Tarkowski,DF,Burnley,160,55365
+642,Ward,DF,Burnley,160,8614
+643,Defour,MF,Burnley,160,9295
+644,Cork,DM,Burnley,160,12857
+645,Arfield,MF,Burnley,160,11480
+646,Hendrick,MF,Burnley,160,47298
+647,Guðmundsson,FW,Burnley,160,49182
+648,Wood,FW,Burnley,160,34201
+649,Butland,XX,Stoke City,160,61705
+650,Cameron,DF,Stoke City,160,18217
+651,Shawcross,DF,Stoke City,160,11889
+652,Zouma,DF,Stoke City,160,62935
+653,Pieters,DF,Stoke City,160,2302
+654,Fletcher,MF,Stoke City,160,54
+655,Allen,MF,Stoke City,160,22845
+656,Diouf,FW,Stoke City,160,18699
+657,Shaqiri,FW,Stoke City,160,36861
+658,Sobhi,MF,Stoke City,160,110401
+659,Crouch,FW,Stoke City,160,105
+660,Lössl,XX,Huddersfield Town,161,19553
+661,Smith,DF,Huddersfield Town,161,82894
+662,Zanka,DF,Huddersfield Town,161,10741
+663,Schindler,DF,Huddersfield Town,161,53718
+664,Löwe,DF,Huddersfield Town,161,51480
+665,Williams,DM,Huddersfield Town,161,44496
+666,Hogg,DM,Huddersfield Town,161,52049
+667,Kachunga,FW,Huddersfield Town,161,51868
+668,Mooy,MF,Huddersfield Town,161,41166
+669,Ince,MF,Huddersfield Town,161,50793
+670,Mounié,FW,Huddersfield Town,161,82272
+671,Courtois,XX,Chelsea,161,34241
+672,Azpilicueta,DF,Chelsea,161,6743
+673,Christensen,DF,Chelsea,161,79602
+674,Rüdiger,DF,Chelsea,161,61115
+675,Moses,MF,Chelsea,161,19680
+676,Kanté,DM,Chelsea,161,73549
+677,Bakayoko,DM,Chelsea,161,82228
+678,Marcos Alonso,DF,Chelsea,161,46166
+679,Willian,FW,Chelsea,161,10229
+680,Pedro,FW,Chelsea,161,15486
+681,Hazard,FW,Chelsea,161,14903
+682,Speroni,XX,Crystal Palace,162,12577
+683,Fosu-Mensah,DF,Crystal Palace,162,105224
+684,Tomkins,DF,Crystal Palace,162,18303
+685,Dann,DF,Crystal Palace,162,25680
+686,Schlupp,DF,Crystal Palace,162,57386
+687,Loftus-Cheek,MF,Crystal Palace,162,97151
+688,Milivojević,DM,Crystal Palace,162,61174
+689,Cabaye,MF,Crystal Palace,162,2776
+690,Townsend,FW,Crystal Palace,162,45908
+691,Zaha,FW,Crystal Palace,162,48792
+692,Benteke,FW,Crystal Palace,162,16811
+693,Heurelho Gomes,XX,Watford,162,1118
+694,Mariappa,DF,Watford,162,1887
+695,Prödl,DF,Watford,162,13359
+696,Kabasele,DF,Watford,162,50762
+697,Janmaat,DF,Watford,162,27779
+698,Cleverley,MF,Watford,162,39422
+699,Doucoure,MF,Watford,162,75703
+700,Holebas,DF,Watford,162,13199
+701,Carrillo,FW,Watford,162,55420
+702,Richarlison,FW,Watford,162,108947
+703,Deeney,FW,Watford,162,27585
+704,Fabiański,XX,Swansea City,163,347
+705,Naughton,DF,Swansea City,163,16232
+706,van der Hoorn,DF,Swansea City,163,59053
+707,Mawson,DF,Swansea City,163,82782
+708,Olsson,DF,Swansea City,163,11655
+709,SY Ki,DM,Swansea City,163,24485
+710,Roque Mesa,MF,Swansea City,163,70555
+711,Carroll,MF,Swansea City,163,55735
+712,Ayew,FW,Swansea City,163,43399
+713,Dyer,MF,Swansea City,163,7734
+714,Bony,FW,Swansea City,163,24905
+715,Ederson Moraes,XX,Manchester City,163,74330
+716,Danilo,DF,Manchester City,163,50348
+717,Otamendi,DF,Manchester City,163,21163
+718,Mangala,DF,Manchester City,163,30568
+719,Delph,MF,Manchester City,163,25974
+720,Fernandinho,DM,Manchester City,163,6084
+721,Bernardo Silva,FW,Manchester City,163,85349
+722,De Bruyne,AM,Manchester City,163,34705
+723,Silva,AM,Manchester City,163,861
+724,Sterling,FW,Manchester City,163,69315
+725,Agüero,FW,Manchester City,163,874
+726,Darlow,XX,Newcastle United,164,51244
+727,Yedlin,DF,Newcastle United,164,76976
+728,Lascelles,DF,Newcastle United,164,67932
+729,Lejeune,DF,Newcastle United,164,46638
+730,Javi Manquillo,DF,Newcastle United,164,70244
+731,Merino,DM,Newcastle United,164,94022
+732,Shelvey,MF,Newcastle United,164,25212
+733,Atsu,MF,Newcastle United,164,59028
+734,Diamé,MF,Newcastle United,164,39492
+735,Ritchie,MF,Newcastle United,164,39240
+736,Gayle,FW,Newcastle United,164,63475
+737,Pickford,XX,Everton,164,67696
+738,Kenny,DF,Everton,164,97240
+739,Holgate,DF,Everton,164,97008
+740,Williams,DF,Everton,164,25653
+741,Martina,DF,Everton,164,30280
+742,Schneiderlin,DM,Everton,164,11225
+743,Gueye,DM,Everton,164,44582
+744,Lennon,MF,Everton,164,596
+745,Rooney,FW,Everton,164,57
+746,Sigurðsson,AM,Everton,164,25685
+747,Calvert-Lewin,FW,Everton,164,100563
+748,Forster,XX,Southampton,165,13876
+749,Cédric,DF,Southampton,165,46131
+750,van Dijk,DF,Southampton,165,58755
+751,Yoshida,DF,Southampton,165,24453
+752,Bertrand,DF,Southampton,165,20621
+753,Romeu,DM,Southampton,165,40786
+754,Lemina,MF,Southampton,165,76999
+755,Tadic,FW,Southampton,165,25134
+756,Davis,MF,Southampton,165,791
+757,Boufal,MF,Southampton,165,97253
+758,Austin,FW,Southampton,165,45996
+759,Schmeichel,XX,Leicester City,165,6670
+760,Simpson,DF,Leicester City,165,7776
+761,Morgan,DF,Leicester City,165,25714
+762,Maguire,DF,Leicester City,165,57627
+763,Fuchs,DF,Leicester City,165,13361
+764,Ndidi,DM,Leicester City,165,80418
+765,King,MF,Leicester City,165,14000
+766,Mahrez,FW,Leicester City,165,73506
+767,Okazaki,FW,Leicester City,165,24460
+768,Chilwell,DF,Leicester City,165,104268
+769,Vardy,FW,Leicester City,165,63664
+770,Adrián,XX,West Ham United,166,64753
+771,Zabaleta,DF,West Ham United,166,1613
+772,Reid,DF,West Ham United,166,6211
+773,Ogbonna,DF,West Ham United,166,6063
+774,Cresswell,DF,West Ham United,166,44073
+775,Masuaku,DF,West Ham United,166,63786
+776,Noble,MF,West Ham United,166,4112
+777,Obiang,MF,West Ham United,166,53286
+778,Lanzini,AM,West Ham United,166,50921
+779,Antonio,MF,West Ham United,166,40028
+780,Arnautovic,FW,West Ham United,166,7579
+781,Cech,XX,Arsenal,166,114
+782,Bellerín,DF,Arsenal,166,71533
+783,Koscielny,DF,Arsenal,166,23147
+784,Monreal,DF,Arsenal,166,2892
+785,Maitland-Niles,MF,Arsenal,166,95052
+786,Wilshere,MF,Arsenal,166,24978
+787,Xhaka,DM,Arsenal,166,49774
+788,Özil,AM,Arsenal,166,2070
+789,Iwobi,FW,Arsenal,166,95055
+790,Giroud,FW,Arsenal,166,27591
+791,Sanchez,FW,Arsenal,166,7165
+792,De Gea,XX,Manchester United,167,41206
+793,Valencia,DF,Manchester United,167,1820
+794,Jones,DF,Manchester United,167,40780
+795,Smalling,DF,Manchester United,167,35134
+796,Shaw,DF,Manchester United,167,65926
+797,McTominay,MF,Manchester United,167,105264
+798,Matić,DM,Manchester United,167,31740
+799,Mata,AM,Manchester United,167,10723
+800,Lingard,AM,Manchester United,167,71489
+801,Martial,FW,Manchester United,167,76346
+802,Lukaku,FW,Manchester United,167,38757
+803,Begović,XX,Bournemouth,167,21972
+804,Smith,DF,Bournemouth,167,43394
+805,Francis,DF,Bournemouth,167,9732
+806,Aké,DF,Bournemouth,167,71946
+807,Daniels,DF,Bournemouth,167,46020
+808,Gosling,MF,Bournemouth,167,13449
+809,Arter,MF,Bournemouth,167,13884
+810,Stanislas,FW,Bournemouth,167,31538
+811,King,FW,Bournemouth,167,40835
+812,Fraser,MF,Bournemouth,167,54000
+813,Wilson,FW,Bournemouth,167,42854
+814,Karius,XX,Liverpool,168,74182
+815,Arnold,DF,Liverpool,168,110457
+816,Lovren,DF,Liverpool,168,24024
+817,Klavan,DF,Liverpool,168,2440
+818,Robertson,DF,Liverpool,168,81563
+819,Mané,FW,Liverpool,168,72713
+820,Wijnaldum,MF,Liverpool,168,7404
+821,Can,DM,Liverpool,168,67096
+822,Philippe Coutinho,FW,Liverpool,168,43859
+823,Roberto Firmino,FW,Liverpool,168,54804
+824,Salah,FW,Liverpool,168,71707
+825,Foster,XX,West Bromwich Albion,168,1885
+826,Nyom,DF,West Bromwich Albion,168,53041
+827,Evans,DF,West Bromwich Albion,168,7777
+828,Hegazy,DF,West Bromwich Albion,168,40854
+829,Gibbs,DF,West Bromwich Albion,168,13484
+830,Robson Kanu,FW,West Bromwich Albion,168,25682
+831,Livermore,DM,West Bromwich Albion,168,40010
+832,Yacob,DM,West Bromwich Albion,168,5781
+833,Krychowiak,DM,West Bromwich Albion,168,10589
+834,McClean,MF,West Bromwich Albion,168,48962
+835,Rondón,FW,West Bromwich Albion,168,35222
+836,Lloris,XX,Tottenham Hotspur,169,2610
+837,Aurier,DF,Tottenham Hotspur,169,47805
+838,Dier,DM,Tottenham Hotspur,169,55465
+839,Vertonghen,DF,Tottenham Hotspur,169,849
+840,Rose,DF,Tottenham Hotspur,169,11147
+841,Sissoko,MF,Tottenham Hotspur,169,11229
+842,Winks,MF,Tottenham Hotspur,169,88884
+843,Lamela,MF,Tottenham Hotspur,169,35535
+844,Eriksen,AM,Tottenham Hotspur,169,44435
+845,Heung-Min Son,FW,Tottenham Hotspur,169,48353
+846,Kane,FW,Tottenham Hotspur,169,41936
+847,Ryan,XX,Brighton & Hove Albion,169,41314
+848,Schelotto,DF,Brighton & Hove Albion,169,39873
+849,Duffy,DF,Brighton & Hove Albion,169,35497
+850,Dunk,DF,Brighton & Hove Albion,169,47238
+851,Bong,DF,Brighton & Hove Albion,169,14353
+852,Knockaert,MF,Brighton & Hove Albion,169,50870
+853,Kayal,DM,Brighton & Hove Albion,169,27997
+854,Stephens,MF,Brighton & Hove Albion,169,20617
+855,Propper,MF,Brighton & Hove Albion,169,39059
+856,Izquierdo,FW,Brighton & Hove Albion,169,47635
+857,Hemed,FW,Brighton & Hove Albion,169,6487
+858,Schmeichel,XX,Leicester City,170,6670
+859,Simpson,DF,Leicester City,170,7776
+860,Morgan,DF,Leicester City,170,25714
+861,Maguire,DF,Leicester City,170,57627
+862,Chilwell,DF,Leicester City,170,104268
+863,Ndidi,DM,Leicester City,170,80418
+864,Iborra,MF,Leicester City,170,15489
+865,Mahrez,FW,Leicester City,170,73506
+866,Gray,FW,Leicester City,170,84046
+867,Albrighton,MF,Leicester City,170,32680
+868,Vardy,FW,Leicester City,170,63664
+869,Speroni,XX,Crystal Palace,170,12577
+870,Kelly,DF,Crystal Palace,170,31246
+871,Tomkins,DF,Crystal Palace,170,18303
+872,Dann,DF,Crystal Palace,170,25680
+873,Schlupp,DF,Crystal Palace,170,57386
+874,Townsend,FW,Crystal Palace,170,45908
+875,Cabaye,MF,Crystal Palace,170,2776
+876,McArthur,MF,Crystal Palace,170,21554
+877,Loftus-Cheek,MF,Crystal Palace,170,97151
+878,Benteke,FW,Crystal Palace,170,16811
+879,Zaha,FW,Crystal Palace,170,48792
+880,Cech,XX,Arsenal,171,114
+881,Bellerín,DF,Arsenal,171,71533
+882,Koscielny,DF,Arsenal,171,23147
+883,Monreal,DF,Arsenal,171,2892
+884,Maitland-Niles,MF,Arsenal,171,95052
+885,Özil,AM,Arsenal,171,2070
+886,Xhaka,DM,Arsenal,171,49774
+887,Wilshere,MF,Arsenal,171,24978
+888,Iwobi,FW,Arsenal,171,95055
+889,Lacazette,FW,Arsenal,171,46410
+890,Sanchez,FW,Arsenal,171,7165
+891,Elliot,XX,Newcastle United,171,25215
+892,Yedlin,DF,Newcastle United,171,76976
+893,Lascelles,DF,Newcastle United,171,67932
+894,Lejeune,DF,Newcastle United,171,46638
+895,Javi Manquillo,DF,Newcastle United,171,70244
+896,Murphy,FW,Newcastle United,171,86163
+897,Merino,DM,Newcastle United,171,94022
+898,Hayden,DM,Newcastle United,171,83862
+899,Atsu,MF,Newcastle United,171,59028
+900,Joselu,FW,Newcastle United,171,40193
+901,Ayoze Perez,AM,Newcastle United,171,84116
+902,Ryan,XX,Brighton & Hove Albion,172,41314
+903,Bruno,DF,Brighton & Hove Albion,172,11646
+904,Duffy,DF,Brighton & Hove Albion,172,35497
+905,Dunk,DF,Brighton & Hove Albion,172,47238
+906,Bong,DF,Brighton & Hove Albion,172,14353
+907,Propper,MF,Brighton & Hove Albion,172,39059
+908,Stephens,MF,Brighton & Hove Albion,172,20617
+909,Knockaert,MF,Brighton & Hove Albion,172,50870
+910,Groß,AM,Brighton & Hove Albion,172,34541
+911,March,MF,Brighton & Hove Albion,172,76485
+912,Murray,FW,Brighton & Hove Albion,172,26133
+913,Pope,XX,Burnley,172,67170
+914,Bardsley,DF,Burnley,172,503
+915,Tarkowski,DF,Burnley,172,55365
+916,Mee,DF,Burnley,172,40793
+917,Taylor,DF,Burnley,172,62671
+918,Cork,DM,Burnley,172,12857
+919,Defour,MF,Burnley,172,9295
+920,Guðmundsson,FW,Burnley,172,49182
+921,Hendrick,MF,Burnley,172,47298
+922,Arfield,MF,Burnley,172,11480
+923,Wood,FW,Burnley,172,34201

@@ -1,0 +1,26 @@
+,home,away,league,game_id,season,temp,weather_desc,date
+0,Arsenal,Leicester City,FA_Premier_League,0,2017-2018,11C,Clear,11-Aug-17
+1,Watford,Liverpool,FA_Premier_League,1,2017-2018,16C,Cloudy,12-Aug-17
+2,Chelsea,Burnley,FA_Premier_League,2,2017-2018,17C,Cloudy,12-Aug-17
+3,Crystal Palace,Huddersfield Town,FA_Premier_League,3,2017-2018,21C,Cloudy,12-Aug-17
+4,Everton,Stoke City,FA_Premier_League,4,2017-2018,15C,Cloudy,12-Aug-17
+5,Southampton,Swansea City,FA_Premier_League,5,2017-2018,16C,Cloudy,12-Aug-17
+6,West Bromwich Albion,Bournemouth,FA_Premier_League,6,2017-2018,14C,Cloudy,12-Aug-17
+7,Brighton & Hove Albion,Manchester City,FA_Premier_League,7,2017-2018,16C,Cloudy,12-Aug-17
+8,Newcastle United,Tottenham Hotspur,FA_Premier_League,8,2017-2018,9C,Clear,13-Aug-17
+9,Manchester United,West Ham United,FA_Premier_League,9,2017-2018,10C,Cloudy,13-Aug-17
+10,Swansea City,Manchester United,FA_Premier_League,10,2017-2018,12C,Cloudy,19-Aug-17
+11,Bournemouth,Watford,FA_Premier_League,11,2017-2018,14C,Breezy,19-Aug-17
+12,Burnley,West Bromwich Albion,FA_Premier_League,12,2017-2018,11C,Showers,19-Aug-17
+13,Leicester City,Brighton & Hove Albion,FA_Premier_League,13,2017-2018,12C,Cloudy,19-Aug-17
+14,Liverpool,Crystal Palace,FA_Premier_League,14,2017-2018,13C,Cloudy,19-Aug-17
+15,Southampton,West Ham United,FA_Premier_League,15,2017-2018,14C,Sunny,19-Aug-17
+16,Stoke City,Arsenal,FA_Premier_League,16,2017-2018,11C,Showers,19-Aug-17
+17,Huddersfield Town,Newcastle United,FA_Premier_League,17,2017-2018,9C,Cloudy,20-Aug-17
+18,Tottenham Hotspur,Chelsea,FA_Premier_League,18,2017-2018,10C,Cloudy,20-Aug-17
+19,Manchester City,Everton,FA_Premier_League,19,2017-2018,13C,Cloudy,21-Aug-17
+20,Bournemouth,Manchester City,FA_Premier_League,20,2017-2018,13C,Cloudy,26-Aug-17
+21,Crystal Palace,Swansea City,FA_Premier_League,21,2017-2018,16C,Cloudy,26-Aug-17
+22,Huddersfield Town,Southampton,FA_Premier_League,22,2017-2018,11C,Clear,26-Aug-17
+23,Newcastle United,West Ham United,FA_Premier_League,23,2017-2018,13C,Cloudy,26-Aug-17
+24,Watford,Brighton & Hove Albion,FA_Premier_League,24,2017-2018,12C,Cloudy,26-Aug-17

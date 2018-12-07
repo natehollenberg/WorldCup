@@ -1,0 +1,189 @@
+,home,away,league,game_id,season,temp,weather_desc,date
+0,Dijon FCO,Toulouse FC,Ligue_1,133,2017-2018,3C,Cloudy,25-Nov-17
+1,FC Metz,Amiens SCF,Ligue_1,134,2017-2018,2C,Showers,25-Nov-17
+2,Montpellier-HSC,Lille OSC,Ligue_1,135,2017-2018,8C,Breezy,25-Nov-17
+3,ES Troyes AC,Angers SCO,Ligue_1,136,2017-2018,2C,Cloudy,25-Nov-17
+4,OGC Nice,Olympique Lyonnais,Ligue_1,137,2017-2018,8C,Cloudy,26-Nov-17
+5,Olympique de Marseille,EA Guingamp,Ligue_1,138,2017-2018,7C,Breezy,26-Nov-17
+6,AS Monaco,Paris Saint-Germain FC,Ligue_1,139,2017-2018,12C,Rain,26-Nov-17
+7,Amiens SCF,Dijon FCO,Ligue_1,140,2017-2018,6C,Cloudy,28-Nov-17
+8,RC Strasbourg,Stade Malherbe Caen,Ligue_1,141,2017-2018,4C,Showers,28-Nov-17
+9,FC Girondins de Bordeaux,AS Saint-Etienne,Ligue_1,142,2017-2018,6C,Cloudy,28-Nov-17
+10,Angers SCO,Stade Rennais FC,Ligue_1,143,2017-2018,1C,Cloudy,29-Nov-17
+11,EA Guingamp,Montpellier-HSC,Ligue_1,144,2017-2018,3C,Cloudy,29-Nov-17
+12,Olympique Lyonnais,Lille OSC,Ligue_1,145,2017-2018,4C,Cloudy,29-Nov-17
+13,FC Metz,Olympique de Marseille,Ligue_1,146,2017-2018,1C,Cloudy,29-Nov-17
+14,FC Nantes,AS Monaco,Ligue_1,147,2017-2018,-1C,Cloudy,29-Nov-17
+15,Toulouse FC,OGC Nice,Ligue_1,148,2017-2018,5C,Cloudy,29-Nov-17
+16,Paris Saint-Germain FC,ES Troyes AC,Ligue_1,149,2017-2018,0C,Cloudy,29-Nov-17
+17,Dijon FCO,FC Girondins de Bordeaux,Ligue_1,150,2017-2018,-1C,Cloudy,01-Dec-17
+18,RC Strasbourg,Paris Saint-Germain FC,Ligue_1,151,2017-2018,-1C,Cloudy,02-Dec-17
+19,Lille OSC,Toulouse FC,Ligue_1,152,2017-2018,-1C,Cloudy,02-Dec-17
+20,AS Monaco,Angers SCO,Ligue_1,153,2017-2018,8C,Breezy,02-Dec-17
+21,OGC Nice,FC Metz,Ligue_1,154,2017-2018,7C,Cloudy,02-Dec-17
+22,Stade Rennais FC,Amiens SCF,Ligue_1,155,2017-2018,6C,Cloudy,02-Dec-17
+23,ES Troyes AC,EA Guingamp,Ligue_1,156,2017-2018,1C,Cloudy,02-Dec-17
+24,AS Saint-Etienne,FC Nantes,Ligue_1,157,2017-2018,-3C,Cloudy,03-Dec-17
+25,Stade Malherbe Caen,Olympique Lyonnais,Ligue_1,158,2017-2018,8C,Cloudy,03-Dec-17
+26,Montpellier-HSC,Olympique de Marseille,Ligue_1,159,2017-2018,1C,Sunny,03-Dec-17
+27,FC Girondins de Bordeaux,RC Strasbourg,Ligue_1,160,2017-2018,6C,Showers,08-Dec-17
+28,Paris Saint-Germain FC,Lille OSC,Ligue_1,161,2017-2018,3C,Cloudy,09-Dec-17
+29,Angers SCO,Montpellier-HSC,Ligue_1,162,2017-2018,6C,Cloudy,09-Dec-17
+30,EA Guingamp,Dijon FCO,Ligue_1,163,2017-2018,4C,Showers,09-Dec-17
+31,FC Metz,Stade Rennais FC,Ligue_1,164,2017-2018,0C,Cloudy,09-Dec-17
+32,AS Monaco,ES Troyes AC,Ligue_1,165,2017-2018,7C,Clear,09-Dec-17
+33,Toulouse FC,Stade Malherbe Caen,Ligue_1,166,2017-2018,7C,Cloudy,09-Dec-17
+34,Amiens SCF,Olympique Lyonnais,Ligue_1,167,2017-2018,10C,Breezy,10-Dec-17
+35,FC Nantes,OGC Nice,Ligue_1,168,2017-2018,11C,Rain,10-Dec-17
+36,Olympique de Marseille,AS Saint-Etienne,Ligue_1,169,2017-2018,10C,Cloudy,10-Dec-17
+37,AS Saint-Etienne,AS Monaco,Ligue_1,170,2017-2018,1C,Cloudy,15-Dec-17
+38,Stade Rennais FC,Paris Saint-Germain FC,Ligue_1,171,2017-2018,5C,Cloudy,16-Dec-17
+39,Stade Malherbe Caen,EA Guingamp,Ligue_1,172,2017-2018,5C,Cloudy,16-Dec-17
+40,Dijon FCO,Lille OSC,Ligue_1,173,2017-2018,2C,Cloudy,16-Dec-17
+41,Montpellier-HSC,FC Metz,Ligue_1,174,2017-2018,7C,Sunny,16-Dec-17
+42,RC Strasbourg,Toulouse FC,Ligue_1,175,2017-2018,3C,Snow,16-Dec-17
+43,ES Troyes AC,Amiens SCF,Ligue_1,176,2017-2018,0C,Cloudy,16-Dec-17
+44,FC Nantes,Angers SCO,Ligue_1,177,2017-2018,8C,Cloudy,17-Dec-17
+45,OGC Nice,FC Girondins de Bordeaux,Ligue_1,178,2017-2018,12C,Sunny,17-Dec-17
+46,Olympique Lyonnais,Olympique de Marseille,Ligue_1,179,2017-2018,1C,Cloudy,17-Dec-17
+47,Amiens SCF,FC Nantes,Ligue_1,180,2017-2018,8C,Cloudy,20-Dec-17
+48,Angers SCO,Dijon FCO,Ligue_1,181,2017-2018,7C,Cloudy,20-Dec-17
+49,FC Girondins de Bordeaux,Montpellier-HSC,Ligue_1,182,2017-2018,7C,Cloudy,20-Dec-17
+50,EA Guingamp,AS Saint-Etienne,Ligue_1,183,2017-2018,5C,Cloudy,20-Dec-17
+51,Lille OSC,OGC Nice,Ligue_1,184,2017-2018,7C,Cloudy,20-Dec-17
+52,Olympique de Marseille,ES Troyes AC,Ligue_1,185,2017-2018,7C,Cloudy,20-Dec-17
+53,FC Metz,RC Strasbourg,Ligue_1,186,2017-2018,5C,Cloudy,20-Dec-17
+54,AS Monaco,Stade Rennais FC,Ligue_1,187,2017-2018,5C,Cloudy,20-Dec-17
+55,Paris Saint-Germain FC,Stade Malherbe Caen,Ligue_1,188,2017-2018,5C,Cloudy,20-Dec-17
+56,Toulouse FC,Olympique Lyonnais,Ligue_1,189,2017-2018,3C,Cloudy,20-Dec-17
+57,RC Strasbourg,EA Guingamp,Ligue_1,190,2017-2018,ptsWDWWDLDLDLWDLWLWLLW,pts9Rennes25,12-Jan-18
+58,Stade Rennais FC,Olympique de Marseille,Ligue_1,191,2017-2018,4C,Cloudy,13-Jan-18
+59,Stade Malherbe Caen,Lille OSC,Ligue_1,192,2017-2018,5C,Cloudy,13-Jan-18
+60,Dijon FCO,FC Metz,Ligue_1,193,2017-2018,4C,Cloudy,13-Jan-18
+61,Montpellier-HSC,AS Monaco,Ligue_1,194,2017-2018,3C,Cloudy,13-Jan-18
+62,OGC Nice,Amiens SCF,Ligue_1,195,2017-2018,10C,Clear,13-Jan-18
+63,ES Troyes AC,FC Girondins de Bordeaux,Ligue_1,196,2017-2018,2C,Cloudy,13-Jan-18
+64,AS Saint-Etienne,Toulouse FC,Ligue_1,197,2017-2018,3C,Showers,14-Jan-18
+65,Olympique Lyonnais,Angers SCO,Ligue_1,198,2017-2018,7C,Cloudy,14-Jan-18
+66,FC Nantes,Paris Saint-Germain FC,Ligue_1,199,2017-2018,8C,Cloudy,14-Jan-18
+67,FC Girondins de Bordeaux,Stade Malherbe Caen,Ligue_1,200,2017-2018,12C,Cloudy,16-Jan-18
+68,Olympique de Marseille,RC Strasbourg,Ligue_1,201,2017-2018,13C,Breezy,16-Jan-18
+69,AS Monaco,OGC Nice,Ligue_1,202,2017-2018,8C,Clear,16-Jan-18
+70,Amiens SCF,Montpellier-HSC,Ligue_1,203,2017-2018,6C,Showers,17-Jan-18
+71,Angers SCO,ES Troyes AC,Ligue_1,204,2017-2018,8C,Showers,17-Jan-18
+72,EA Guingamp,Olympique Lyonnais,Ligue_1,205,2017-2018,4C,Showers,17-Jan-18
+73,Lille OSC,Stade Rennais FC,Ligue_1,206,2017-2018,5C,Cloudy,17-Jan-18
+74,FC Metz,AS Saint-Etienne,Ligue_1,207,2017-2018,2C,Breezy,17-Jan-18
+75,Toulouse FC,FC Nantes,Ligue_1,208,2017-2018,8C,Cloudy,17-Jan-18
+76,Paris Saint-Germain FC,Dijon FCO,Ligue_1,209,2017-2018,2C,Showers,17-Jan-18
+77,Stade Malherbe Caen,Olympique de Marseille,Ligue_1,210,2017-2018,5C,Rain,19-Jan-18
+78,FC Nantes,FC Girondins de Bordeaux,Ligue_1,211,2017-2018,12C,Breezy,20-Jan-18
+79,Amiens SCF,EA Guingamp,Ligue_1,212,2017-2018,6C,Cloudy,20-Jan-18
+80,Montpellier-HSC,Toulouse FC,Ligue_1,213,2017-2018,11C,Cloudy,20-Jan-18
+81,Stade Rennais FC,Angers SCO,Ligue_1,214,2017-2018,12C,Cloudy,20-Jan-18
+82,RC Strasbourg,Dijon FCO,Ligue_1,215,2017-2018,5C,Rain,20-Jan-18
+83,ES Troyes AC,Lille OSC,Ligue_1,216,2017-2018,9C,Cloudy,20-Jan-18
+84,OGC Nice,AS Saint-Etienne,Ligue_1,217,2017-2018,14C,Cloudy,21-Jan-18
+85,AS Monaco,FC Metz,Ligue_1,218,2017-2018,10C,Cloudy,21-Jan-18
+86,Olympique Lyonnais,Paris Saint-Germain FC,Ligue_1,219,2017-2018,8C,Cloudy,21-Jan-18
+87,Dijon FCO,Stade Rennais FC,Ligue_1,220,2017-2018,5C,Rain,26-Jan-18
+88,Paris Saint-Germain FC,Montpellier-HSC,Ligue_1,221,2017-2018,3C,Cloudy,27-Jan-18
+89,Angers SCO,Amiens SCF,Ligue_1,222,2017-2018,7C,Cloudy,27-Jan-18
+90,EA Guingamp,FC Nantes,Ligue_1,223,2017-2018,9C,Cloudy,27-Jan-18
+91,FC Metz,OGC Nice,Ligue_1,224,2017-2018,3C,Cloudy,27-Jan-18
+92,AS Saint-Etienne,Stade Malherbe Caen,Ligue_1,225,2017-2018,2C,Cloudy,27-Jan-18
+93,Toulouse FC,ES Troyes AC,Ligue_1,226,2017-2018,6C,Cloudy,27-Jan-18
+94,Lille OSC,RC Strasbourg,Ligue_1,227,2017-2018,11C,Cloudy,28-Jan-18
+95,FC Girondins de Bordeaux,Olympique Lyonnais,Ligue_1,228,2017-2018,0C,Cloudy,28-Jan-18
+96,Olympique de Marseille,AS Monaco,Ligue_1,229,2017-2018,7C,Clear,28-Jan-18
+97,Olympique de Marseille,FC Metz,Ligue_1,230,2017-2018,3C,Cloudy,02-Feb-18
+98,Lille OSC,Paris Saint-Germain FC,Ligue_1,231,2017-2018,3C,Showers,03-Feb-18
+99,Amiens SCF,AS Saint-Etienne,Ligue_1,232,2017-2018,3C,Showers,03-Feb-18
+100,Montpellier-HSC,Angers SCO,Ligue_1,233,2017-2018,7C,Cloudy,03-Feb-18
+101,OGC Nice,Toulouse FC,Ligue_1,234,2017-2018,10C,Clear,03-Feb-18
+102,RC Strasbourg,FC Girondins de Bordeaux,Ligue_1,235,2017-2018,3C,Cloudy,03-Feb-18
+103,Stade Rennais FC,EA Guingamp,Ligue_1,236,2017-2018,5C,Cloudy,04-Feb-18
+104,Stade Malherbe Caen,FC Nantes,Ligue_1,237,2017-2018,4C,Cloudy,04-Feb-18
+105,AS Monaco,Olympique Lyonnais,Ligue_1,238,2017-2018,5C,Cloudy,04-Feb-18
+106,AS Saint-Etienne,Olympique de Marseille,Ligue_1,239,2017-2018,0C,Showers,09-Feb-18
+107,Toulouse FC,Paris Saint-Germain FC,Ligue_1,240,2017-2018,0C,Cloudy,10-Feb-18
+108,Angers SCO,AS Monaco,Ligue_1,241,2017-2018,6C,Showers,10-Feb-18
+109,FC Girondins de Bordeaux,Amiens SCF,Ligue_1,242,2017-2018,8C,Cloudy,10-Feb-18
+110,Dijon FCO,OGC Nice,Ligue_1,243,2017-2018,2C,Cloudy,10-Feb-18
+111,EA Guingamp,Stade Malherbe Caen,Ligue_1,244,2017-2018,9C,Breezy,10-Feb-18
+112,FC Metz,Montpellier-HSC,Ligue_1,245,2017-2018,1C,Cloudy,10-Feb-18
+113,RC Strasbourg,ES Troyes AC,Ligue_1,246,2017-2018,5C,Cloudy,11-Feb-18
+114,FC Nantes,Lille OSC,Ligue_1,247,2017-2018,7C,Cloudy,11-Feb-18
+115,Olympique Lyonnais,Stade Rennais FC,Ligue_1,248,2017-2018,1C,Showers,11-Feb-18
+116,AS Monaco,Dijon FCO,Ligue_1,249,2017-2018,8C,Cloudy,16-Feb-18
+117,Paris Saint-Germain FC,RC Strasbourg,Ligue_1,250,2017-2018,7C,Clear,17-Feb-18
+118,Amiens SCF,Toulouse FC,Ligue_1,251,2017-2018,5C,Clear,17-Feb-18
+119,Angers SCO,AS Saint-Etienne,Ligue_1,252,2017-2018,4C,Rain,17-Feb-18
+120,Stade Malherbe Caen,Stade Rennais FC,Ligue_1,253,2017-2018,9C,Sunny,17-Feb-18
+121,Montpellier-HSC,EA Guingamp,Ligue_1,254,2017-2018,12C,Cloudy,17-Feb-18
+122,ES Troyes AC,FC Metz,Ligue_1,255,2017-2018,4C,Cloudy,17-Feb-18
+123,OGC Nice,FC Nantes,Ligue_1,256,2017-2018,13C,Sunny,18-Feb-18
+124,Lille OSC,Olympique Lyonnais,Ligue_1,257,2017-2018,-2C,Cloudy,18-Feb-18
+125,Olympique de Marseille,FC Girondins de Bordeaux,Ligue_1,258,2017-2018,10C,Sunny,18-Feb-18
+126,ES Troyes AC,Dijon FCO,Ligue_1,259,2017-2018,3C,Cloudy,20-Feb-18
+127,RC Strasbourg,Montpellier-HSC,Ligue_1,260,2017-2018,0C,Cloudy,23-Feb-18
+128,Toulouse FC,AS Monaco,Ligue_1,261,2017-2018,5C,Cloudy,24-Feb-18
+129,Dijon FCO,Stade Malherbe Caen,Ligue_1,262,2017-2018,3C,Cloudy,24-Feb-18
+130,EA Guingamp,FC Metz,Ligue_1,263,2017-2018,4C,Sunny,24-Feb-18
+131,Lille OSC,Angers SCO,Ligue_1,264,2017-2018,3C,Cloudy,24-Feb-18
+132,FC Nantes,Amiens SCF,Ligue_1,265,2017-2018,5C,Sunny,24-Feb-18
+133,Stade Rennais FC,ES Troyes AC,Ligue_1,266,2017-2018,6C,Sunny,24-Feb-18
+134,FC Girondins de Bordeaux,OGC Nice,Ligue_1,267,2017-2018,9C,Sunny,25-Feb-18
+135,Olympique Lyonnais,AS Saint-Etienne,Ligue_1,268,2017-2018,2C,Cloudy,25-Feb-18
+136,Paris Saint-Germain FC,Olympique de Marseille,Ligue_1,269,2017-2018,-1C,Clear,25-Feb-18
+137,OGC Nice,Lille OSC,Ligue_1,270,2017-2018,10C,Sunny,02-Mar-18
+138,AS Monaco,FC Girondins de Bordeaux,Ligue_1,271,2017-2018,5C,Rain,02-Mar-18
+139,ES Troyes AC,Paris Saint-Germain FC,Ligue_1,272,2017-2018,8C,Cloudy,03-Mar-18
+140,Amiens SCF,Stade Rennais FC,Ligue_1,273,2017-2018,5C,Cloudy,03-Mar-18
+141,Angers SCO,EA Guingamp,Ligue_1,274,2017-2018,7C,Cloudy,03-Mar-18
+142,FC Metz,Toulouse FC,Ligue_1,275,2017-2018,1C,Rain,03-Mar-18
+143,AS Saint-Etienne,Dijon FCO,Ligue_1,276,2017-2018,8C,Cloudy,03-Mar-18
+144,Stade Malherbe Caen,RC Strasbourg,Ligue_1,277,2017-2018,12C,Cloudy,04-Mar-18
+145,Montpellier-HSC,Olympique Lyonnais,Ligue_1,278,2017-2018,11C,Showers,04-Mar-18
+146,Olympique de Marseille,FC Nantes,Ligue_1,279,2017-2018,8C,Cloudy,04-Mar-18
+147,RC Strasbourg,AS Monaco,Ligue_1,280,2017-2018,4C,Cloudy,09-Mar-18
+148,Paris Saint-Germain FC,FC Metz,Ligue_1,281,2017-2018,17C,Cloudy,10-Mar-18
+149,FC Girondins de Bordeaux,Angers SCO,Ligue_1,282,2017-2018,12C,Cloudy,10-Mar-18
+150,Dijon FCO,Amiens SCF,Ligue_1,283,2017-2018,15C,Cloudy,10-Mar-18
+151,Lille OSC,Montpellier-HSC,Ligue_1,284,2017-2018,12C,Cloudy,10-Mar-18
+152,FC Nantes,ES Troyes AC,Ligue_1,285,2017-2018,13C,Rain,10-Mar-18
+153,Stade Rennais FC,AS Saint-Etienne,Ligue_1,286,2017-2018,15C,Cloudy,10-Mar-18
+154,EA Guingamp,OGC Nice,Ligue_1,287,2017-2018,12C,Breezy,11-Mar-18
+155,Olympique Lyonnais,Stade Malherbe Caen,Ligue_1,288,2017-2018,18C,Cloudy,11-Mar-18
+156,Toulouse FC,Olympique de Marseille,Ligue_1,289,2017-2018,14C,Cloudy,11-Mar-18
+157,Paris Saint-Germain FC,Angers SCO,Ligue_1,290,2017-2018,4C,Cloudy,14-Mar-18
+158,AS Monaco,Lille OSC,Ligue_1,291,2017-2018,7C,Cloudy,16-Mar-18
+159,FC Girondins de Bordeaux,Stade Rennais FC,Ligue_1,292,2017-2018,10C,Showers,17-Mar-18
+160,Amiens SCF,ES Troyes AC,Ligue_1,293,2017-2018,-1C,Cloudy,17-Mar-18
+161,Angers SCO,Stade Malherbe Caen,Ligue_1,294,2017-2018,7C,Cloudy,17-Mar-18
+162,Montpellier-HSC,Dijon FCO,Ligue_1,295,2017-2018,14C,Cloudy,17-Mar-18
+163,Toulouse FC,RC Strasbourg,Ligue_1,296,2017-2018,8C,Rain,17-Mar-18
+164,OGC Nice,Paris Saint-Germain FC,Ligue_1,297,2017-2018,7C,Showers,18-Mar-18
+165,FC Metz,FC Nantes,Ligue_1,298,2017-2018,-1C,Cloudy,18-Mar-18
+166,AS Saint-Etienne,EA Guingamp,Ligue_1,299,2017-2018,3C,Cloudy,18-Mar-18
+167,Olympique de Marseille,Olympique Lyonnais,Ligue_1,300,2017-2018,11C,Cloudy,18-Mar-18
+168,Dijon FCO,Olympique de Marseille,Ligue_1,301,2017-2018,7C,Rain,31-Mar-18
+169,EA Guingamp,FC Girondins de Bordeaux,Ligue_1,302,2017-2018,8C,Cloudy,01-Apr-18
+170,Stade Malherbe Caen,Montpellier-HSC,Ligue_1,303,2017-2018,8C,Cloudy,01-Apr-18
+171,Lille OSC,Amiens SCF,Ligue_1,304,2017-2018,7C,Cloudy,01-Apr-18
+172,FC Nantes,AS Saint-Etienne,Ligue_1,305,2017-2018,11C,Cloudy,01-Apr-18
+173,RC Strasbourg,FC Metz,Ligue_1,306,2017-2018,9C,Cloudy,01-Apr-18
+174,ES Troyes AC,OGC Nice,Ligue_1,307,2017-2018,9C,Cloudy,01-Apr-18
+175,Olympique Lyonnais,Toulouse FC,Ligue_1,308,2017-2018,6C,Showers,01-Apr-18
+176,Stade Rennais FC,AS Monaco,Ligue_1,309,2017-2018,10C,Showers,04-Apr-18
+177,AS Saint-Etienne,Paris Saint-Germain FC,Ligue_1,310,2017-2018,20C,Sunny,06-Apr-18
+178,AS Monaco,FC Nantes,Ligue_1,311,2017-2018,16C,Breezy,07-Apr-18
+179,Amiens SCF,Stade Malherbe Caen,Ligue_1,312,2017-2018,18C,Cloudy,07-Apr-18
+180,Angers SCO,RC Strasbourg,Ligue_1,313,2017-2018,12C,Rain,07-Apr-18
+181,FC Girondins de Bordeaux,Lille OSC,Ligue_1,314,2017-2018,14C,Rain,07-Apr-18
+182,EA Guingamp,ES Troyes AC,Ligue_1,315,2017-2018,11C,Cloudy,07-Apr-18
+183,Toulouse FC,Dijon FCO,Ligue_1,316,2017-2018,17C,Windy,07-Apr-18
+184,OGC Nice,Stade Rennais FC,Ligue_1,317,2017-2018,15C,Showers,08-Apr-18
+185,FC Metz,Olympique Lyonnais,Ligue_1,318,2017-2018,18C,Cloudy,08-Apr-18
+186,Olympique de Marseille,Montpellier-HSC,Ligue_1,319,2017-2018,18C,Cloudy,08-Apr-18
+187,Angers SCO,OGC Nice,Ligue_1,320,2017-2018,13C,Cloudy,13-Apr-18

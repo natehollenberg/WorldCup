@@ -1,0 +1,4137 @@
+,name,position,team,game_id,player_id
+0,Reynet,XX,Dijon FCO,133,62178
+1,Chafik,DF,Dijon FCO,133,73531
+2,Yambere,DF,Dijon FCO,133,95738
+3,Djilobodji,DF,Dijon FCO,133,50930
+4,Haddadi,DF,Dijon FCO,133,100107
+5,CH Kwon,AM,Dijon FCO,133,80447
+6,Amalfitano,MF,Dijon FCO,133,50897
+7,Xeka,MF,Dijon FCO,133,114145
+8,Sammaritano,FW,Dijon FCO,133,27814
+9,Saïd,FW,Dijon FCO,133,79468
+10,Tavares,FW,Dijon FCO,133,73518
+11,Lafont,XX,Toulouse FC,133,107060
+12,Yago,DF,Toulouse FC,133,63773
+13,Diop,DF,Toulouse FC,133,106946
+14,Jullien,DF,Toulouse FC,133,69598
+15,Amian,DF,Toulouse FC,133,105292
+16,Jean,FW,Toulouse FC,133,73964
+17,Cahuzac,DM,Toulouse FC,133,22360
+18,Blin,DM,Toulouse FC,133,97259
+19,Gradel,FW,Toulouse FC,133,26373
+20,Sanogo,FW,Toulouse FC,133,34528
+21,Toivonen,FW,Toulouse FC,133,5798
+22,Didillon,XX,FC Metz,134,103893
+23,Rivierez,DF,FC Metz,134,44581
+24,Philipps,DM,FC Metz,134,71035
+25,Niakhaté,DF,FC Metz,134,103642
+26,Assou Ekotto,DF,FC Metz,134,778
+27,Dossevi,FW,FC Metz,134,25039
+28,Cohade,MF,FC Metz,134,11220
+29,Cafú,DM,FC Metz,134,74719
+30,Nguette,FW,FC Metz,134,73715
+31,Roux,FW,FC Metz,134,28351
+32,Niane,FW,FC Metz,134,118018
+33,Gurtner,XX,Amiens SCF,134,46337
+34,El Hajjam,DF,Amiens SCF,134,81749
+35,Gouano,DF,Amiens SCF,134,61030
+36,Adenon,DF,Amiens SCF,134,15498
+37,Dibassy,DF,Amiens SCF,134,110734
+38,Zungu,MF,Amiens SCF,134,87916
+39,Monconduit,DM,Amiens SCF,134,58347
+40,Bourgaud,MF,Amiens SCF,134,22399
+41,Kakuta,FW,Amiens SCF,134,31873
+42,Manzala,FW,Amiens SCF,134,103730
+43,Konaté,FW,Amiens SCF,134,63904
+44,Lecomte,XX,Montpellier-HSC,135,51234
+45,Mukiele,DF,Montpellier-HSC,135,106875
+46,Hilton,DF,Montpellier-HSC,135,2765
+47,Pedro Mendes,DF,Montpellier-HSC,135,66639
+48,Aguilar,DF,Montpellier-HSC,135,103583
+49,Skhiri,DM,Montpellier-HSC,135,93851
+50,Lasne,MF,Montpellier-HSC,135,38560
+51,Roussillon,DF,Montpellier-HSC,135,55616
+52,Sessegnon,AM,Montpellier-HSC,135,2844
+53,Sio,FW,Montpellier-HSC,135,44772
+54,Ninga,FW,Montpellier-HSC,135,106298
+55,Maignan,XX,Lille OSC,135,81994
+56,Malcuit,DF,Lille OSC,135,47300
+57,Edgar Ié,DF,Lille OSC,135,75774
+58,Soumaoro,DF,Lille OSC,135,62184
+59,Alonso,DF,Lille OSC,135,77052
+60,Thiago Maia,DM,Lille OSC,135,95761
+61,Amadou,DM,Lille OSC,135,74398
+62,Luiz Araújo,FW,Lille OSC,135,108919
+63,Benzia,AM,Lille OSC,135,70642
+64,El-Ghazi,FW,Lille OSC,135,92965
+65,Pepe,FW,Lille OSC,135,110880
+66,Samassa,XX,ES Troyes AC,136,50868
+67,Deplagne,DF,ES Troyes AC,136,53701
+68,Giraudon,DF,ES Troyes AC,136,110714
+69,Hérelle,DF,ES Troyes AC,136,68900
+70,Traoré,DF,ES Troyes AC,136,107537
+71,Azamoum,MF,ES Troyes AC,136,103914
+72,Dingomé,MF,ES Troyes AC,136,73554
+73,Grandsir,FW,ES Troyes AC,136,108740
+74,Khaoui,AM,ES Troyes AC,136,103944
+75,Darbion,MF,ES Troyes AC,136,22467
+76,Suk,FW,ES Troyes AC,136,44749
+77,Michel,XX,Angers SCO,136,60995
+78,Bamba,DF,Angers SCO,136,51123
+79,Pavlović,DF,Angers SCO,136,61304
+80,Thomas,DF,Angers SCO,136,22488
+81,Manceau,DF,Angers SCO,136,51109
+82,Santamaria,FW,Angers SCO,136,103910
+83,Ketkeophomphone,FW,Angers SCO,136,50861
+84,Coulibaly,MF,Angers SCO,136,103920
+85,Mangani,DM,Angers SCO,136,559
+86,Toko Ekambi,FW,Angers SCO,136,103713
+87,Crivelli,FW,Angers SCO,136,86701
+88,Benítez,XX,OGC Nice,137,64701
+89,Marlon,DF,OGC Nice,137,90081
+90,Dante,DF,OGC Nice,137,9099
+91,Le Marchand,DF,OGC Nice,137,41029
+92,Souquet,DF,OGC Nice,137,41303
+93,Mendy,DM,OGC Nice,137,51181
+94,Seri,MF,OGC Nice,137,83642
+95,Jallet,DF,OGC Nice,137,2623
+96,Tameze Aoutsa,DM,OGC Nice,137,77757
+97,Balotelli,FW,OGC Nice,137,15257
+98,Pléa,FW,OGC Nice,137,65937
+99,Lopes,XX,Olympique Lyonnais,137,51203
+100,Tete,DF,Olympique Lyonnais,137,92966
+101,Marcelo,DF,Olympique Lyonnais,137,17121
+102,Diakhaby,DF,Olympique Lyonnais,137,105648
+103,Marçal,DF,Olympique Lyonnais,137,67469
+104,Ndombèlé Alvaro,MF,Olympique Lyonnais,137,110596
+105,Tousart,DM,Olympique Lyonnais,137,103639
+106,Aouar,MF,Olympique Lyonnais,137,105657
+107,Cornet,FW,Olympique Lyonnais,137,81769
+108,Mariano,FW,Olympique Lyonnais,137,89032
+109,Depay,FW,Olympique Lyonnais,137,68281
+110,Mandanda,XX,Olympique de Marseille,138,11353
+111,Sarr,MF,Olympique de Marseille,138,73522
+112,Rami,DF,Olympique de Marseille,138,8882
+113,Abdennour,DF,Olympique de Marseille,138,43997
+114,Amavi,DF,Olympique de Marseille,138,82028
+115,López,MF,Olympique de Marseille,138,106713
+116,Luiz Gustavo,DM,Olympique de Marseille,138,13486
+117,Thauvin,FW,Olympique de Marseille,138,73628
+118,Sanson,MF,Olympique de Marseille,138,73514
+119,Payet,FW,Olympique de Marseille,138,2589
+120,Mitroglou,FW,Olympique de Marseille,138,13172
+121,Johnsson,XX,EA Guingamp,138,27032
+122,Martins Pereira,DF,EA Guingamp,138,11191
+123,Kerbrat,DF,EA Guingamp,138,61035
+124,Sorbon,DF,EA Guingamp,138,11153
+125,Tabanou,MF,EA Guingamp,138,25253
+126,Blas,MF,EA Guingamp,138,106708
+127,Eboa Eboa,DF,EA Guingamp,138,105271
+128,Didot,MF,EA Guingamp,138,2658
+129,Salibur,FW,EA Guingamp,138,38607
+130,Briand,FW,EA Guingamp,138,2663
+131,Camara,FW,EA Guingamp,138,35129
+132,Subašić,XX,AS Monaco,139,39386
+133,Touré,DF,AS Monaco,139,99056
+134,Glik,DF,AS Monaco,139,31005
+135,Jemerson,DF,AS Monaco,139,80756
+136,Raggi,DF,AS Monaco,139,1468
+137,Tielemans,MF,AS Monaco,139,83341
+138,Fabinho,DM,AS Monaco,139,73889
+139,Jorge,DF,AS Monaco,139,95762
+140,João Moutinho,MF,AS Monaco,139,1159
+141,Baldé,FW,AS Monaco,139,82895
+142,Falcao,FW,AS Monaco,139,4985
+143,Aréola,XX,Paris Saint-Germain FC,139,51211
+144,Daniel Alves,DF,Paris Saint-Germain FC,139,941
+145,Marquinhos,DF,Paris Saint-Germain FC,139,70255
+146,Thiago Silva,DF,Paris Saint-Germain FC,139,16839
+147,Kurzawa,DF,Paris Saint-Germain FC,139,53511
+148,Verratti,MF,Paris Saint-Germain FC,139,44932
+149,Rabiot,MF,Paris Saint-Germain FC,139,73635
+150,Draxler,FW,Paris Saint-Germain FC,139,55354
+151,Mbappé,FW,Paris Saint-Germain FC,139,107095
+152,Cavani,FW,Paris Saint-Germain FC,139,6737
+153,Neymar,FW,Paris Saint-Germain FC,139,34907
+154,Gurtner,XX,Amiens SCF,140,46337
+155,Cissokho,DF,Amiens SCF,140,61024
+156,Gouano,DF,Amiens SCF,140,61030
+157,Dibassy,DF,Amiens SCF,140,110734
+158,Avelar,DF,Amiens SCF,140,50273
+159,Cornette,FW,Amiens SCF,140,98741
+160,Monconduit,DM,Amiens SCF,140,58347
+161,Zungu,MF,Amiens SCF,140,87916
+162,Gakpe,FW,Amiens SCF,140,552
+163,Kakuta,FW,Amiens SCF,140,31873
+164,Traore,FW,Amiens SCF,140,34108
+165,Reynet,XX,Dijon FCO,140,62178
+166,Rosier,DF,Dijon FCO,140,116905
+167,Yambere,DF,Dijon FCO,140,95738
+168,Djilobodji,DF,Dijon FCO,140,50930
+169,Haddadi,DF,Dijon FCO,140,100107
+170,Xeka,MF,Dijon FCO,140,114145
+171,Abeid,MF,Dijon FCO,140,59330
+172,Balmont,MF,Dijon FCO,140,2615
+173,CH Kwon,AM,Dijon FCO,140,80447
+174,Tavares,FW,Dijon FCO,140,73518
+175,Sammaritano,FW,Dijon FCO,140,27814
+176,Kamara,XX,RC Strasbourg,141,103904
+177,Lala,DF,RC Strasbourg,141,62191
+178,Mangane,DF,RC Strasbourg,141,12283
+179,Kone,DF,RC Strasbourg,141,15203
+180,Seka,DF,RC Strasbourg,141,82736
+181,Gonçalves,MF,RC Strasbourg,141,41211
+182,Aholou,DM,RC Strasbourg,141,85538
+183,Liénard,MF,RC Strasbourg,141,111346
+184,Martin,MF,RC Strasbourg,141,51194
+185,Da Costa,FW,RC Strasbourg,141,104478
+186,Terrier,FW,RC Strasbourg,141,113059
+187,Vercoutre,XX,Stade Malherbe Caen,141,1264
+188,Guilbert,DF,Stade Malherbe Caen,141,98543
+189,Genevois,DF,Stade Malherbe Caen,141,15397
+190,Djiku,DF,Stade Malherbe Caen,141,75891
+191,Mbengue,DF,Stade Malherbe Caen,141,79695
+192,Nkololo,AM,Stade Malherbe Caen,141,81784
+193,Sankoh,DM,Stade Malherbe Caen,141,63723
+194,Feret,AM,Stade Malherbe Caen,141,15387
+195,Avounou,MF,Stade Malherbe Caen,141,117368
+196,Rodelin,FW,Stade Malherbe Caen,141,32238
+197,Santini,FW,Stade Malherbe Caen,141,33266
+198,Costil,XX,FC Girondins de Bordeaux,142,11144
+199,Gajić,DF,FC Girondins de Bordeaux,142,92859
+200,Jovanović,DF,FC Girondins de Bordeaux,142,101649
+201,Toulalan,DM,FC Girondins de Bordeaux,142,1117
+202,Sabaly,DF,FC Girondins de Bordeaux,142,80337
+203,Otavio,DM,FC Girondins de Bordeaux,142,87169
+204,Lerager,MF,FC Girondins de Bordeaux,142,80963
+205,Malcom,FW,FC Girondins de Bordeaux,142,89633
+206,Vada,MF,FC Girondins de Bordeaux,142,107096
+207,Jonathan Cafu,FW,FC Girondins de Bordeaux,142,99140
+208,Mendy,FW,FC Girondins de Bordeaux,142,103919
+209,Ruffier,XX,AS Saint-Etienne,142,11267
+210,Théophile-Catherine,DF,AS Saint-Etienne,142,29589
+211,Perrin,DF,AS Saint-Etienne,142,6789
+212,Pogba,DF,AS Saint-Etienne,142,51118
+213,Dabo,DM,AS Saint-Etienne,142,47559
+214,Diousse,DM,AS Saint-Etienne,142,96852
+215,Pajot,DM,AS Saint-Etienne,142,50929
+216,Janko,DF,AS Saint-Etienne,142,93883
+217,Hernani,MF,AS Saint-Etienne,142,94465
+218,Diony,FW,AS Saint-Etienne,142,103599
+219,Bamba,FW,AS Saint-Etienne,142,96869
+220,Letellier,XX,Angers SCO,143,51107
+221,Manceau,DF,Angers SCO,143,51109
+222,Traore,DF,Angers SCO,143,14906
+223,Thomas,DF,Angers SCO,143,22488
+224,Andreu,DF,Angers SCO,143,30880
+225,Santamaria,FW,Angers SCO,143,103910
+226,Fulgini,MF,Angers SCO,143,103638
+227,Capelle,MF,Angers SCO,143,73537
+228,Mangani,DM,Angers SCO,143,559
+229,Tait,MF,Angers SCO,143,81759
+230,Toko Ekambi,FW,Angers SCO,143,103713
+231,Koubek,XX,Stade Rennais FC,143,58527
+232,Traoré,DF,Stade Rennais FC,143,88262
+233,Gelin,DF,Stade Rennais FC,143,105662
+234,Mexer,DF,Stade Rennais FC,143,43846
+235,Zeffane,DF,Stade Rennais FC,143,67283
+236,Hunou,AM,Stade Rennais FC,143,79522
+237,Lea Siliki,MF,Stade Rennais FC,143,114520
+238,André,MF,Stade Rennais FC,143,28214
+239,Maouassa,FW,Stade Rennais FC,143,103902
+240,Bourigeaud,MF,Stade Rennais FC,143,90571
+241,Khazri,FW,Stade Rennais FC,143,41118
+242,Johnsson,XX,EA Guingamp,144,27032
+243,Martins Pereira,DF,EA Guingamp,144,11191
+244,Kerbrat,DF,EA Guingamp,144,61035
+245,Sorbon,DF,EA Guingamp,144,11153
+246,Ikoko,DF,EA Guingamp,144,82743
+247,Camara,FW,EA Guingamp,144,35129
+248,Diallo,DM,EA Guingamp,144,37789
+249,Déaux,DM,EA Guingamp,144,22343
+250,Benezet,FW,EA Guingamp,144,53478
+251,Briand,FW,EA Guingamp,144,2663
+252,Thuram,FW,EA Guingamp,144,104062
+253,Lecomte,XX,Montpellier-HSC,144,51234
+254,Mukiele,DF,Montpellier-HSC,144,106875
+255,Pedro Mendes,DF,Montpellier-HSC,144,66639
+256,Congré,DF,Montpellier-HSC,144,5791
+257,Aguilar,DF,Montpellier-HSC,144,103583
+258,Skhiri,DM,Montpellier-HSC,144,93851
+259,Sambia,MF,Montpellier-HSC,144,103634
+260,Lasne,MF,Montpellier-HSC,144,38560
+261,Roussillon,DF,Montpellier-HSC,144,55616
+262,Sio,FW,Montpellier-HSC,144,44772
+263,Ninga,FW,Montpellier-HSC,144,106298
+264,Lopes,XX,Olympique Lyonnais,145,51203
+265,Rafael,DF,Olympique Lyonnais,145,25647
+266,Marcelo,DF,Olympique Lyonnais,145,17121
+267,Diakhaby,DF,Olympique Lyonnais,145,105648
+268,Mendy,DF,Olympique Lyonnais,145,103732
+269,Ndombèlé Alvaro,MF,Olympique Lyonnais,145,110596
+270,Tousart,DM,Olympique Lyonnais,145,103639
+271,Aouar,MF,Olympique Lyonnais,145,105657
+272,Fekir,AM,Olympique Lyonnais,145,82010
+273,Depay,FW,Olympique Lyonnais,145,68281
+274,Mariano,FW,Olympique Lyonnais,145,89032
+275,Maignan,XX,Lille OSC,145,81994
+276,Edgar Ié,DF,Lille OSC,145,75774
+277,Soumaoro,DF,Lille OSC,145,62184
+278,Alonso,DF,Lille OSC,145,77052
+279,Ballo-Toure,DF,Lille OSC,145,105273
+280,Amadou,DM,Lille OSC,145,74398
+281,Malcuit,DF,Lille OSC,145,47300
+282,Thiago Mendes,MF,Lille OSC,145,79916
+283,Thiago Maia,DM,Lille OSC,145,95761
+284,Benzia,AM,Lille OSC,145,70642
+285,Ponce,FW,Lille OSC,145,84153
+286,Kawashima,XX,FC Metz,146,17507
+287,Rivierez,DF,FC Metz,146,44581
+288,Diagne,DF,FC Metz,146,28322
+289,Niakhaté,DF,FC Metz,146,103642
+290,Basin,DF,FC Metz,146,111004
+291,Balliu,DF,FC Metz,146,63988
+292,Dossevi,FW,FC Metz,146,25039
+293,Poblete,MF,FC Metz,146,62314
+294,Cohade,MF,FC Metz,146,11220
+295,Nguette,FW,FC Metz,146,73715
+296,Rivière,FW,FC Metz,146,25306
+297,Mandanda,XX,Olympique de Marseille,146,11353
+298,Sakai,DF,Olympique de Marseille,146,27859
+299,Rami,DF,Olympique de Marseille,146,8882
+300,Rolando,DF,Olympique de Marseille,146,3623
+301,Amavi,DF,Olympique de Marseille,146,82028
+302,Zambo Anguissa,DM,Olympique de Marseille,146,98555
+303,Luiz Gustavo,DM,Olympique de Marseille,146,13486
+304,Thauvin,FW,Olympique de Marseille,146,73628
+305,Payet,FW,Olympique de Marseille,146,2589
+306,Ocampos,FW,Olympique de Marseille,146,63120
+307,Mitroglou,FW,Olympique de Marseille,146,13172
+308,Tătăruşanu,XX,FC Nantes,147,19829
+309,Dubois,DF,FC Nantes,147,89668
+310,Awaziem,DF,FC Nantes,147,106954
+311,Diego Carlos,DF,FC Nantes,147,104102
+312,Djidji,DF,FC Nantes,147,73529
+313,Touré,DM,FC Nantes,147,82029
+314,El Ghanassy,FW,FC Nantes,147,30567
+315,Rongier,DM,FC Nantes,147,93214
+316,Thomasson,MF,FC Nantes,147,70193
+317,Bammou,FW,FC Nantes,147,93215
+318,Sala,FW,FC Nantes,147,62170
+319,Subašić,XX,AS Monaco,147,39386
+320,Sidibe,DF,AS Monaco,147,63254
+321,Glik,DF,AS Monaco,147,31005
+322,Jemerson,DF,AS Monaco,147,80756
+323,Jorge,DF,AS Monaco,147,95762
+324,Fabinho,DM,AS Monaco,147,73889
+325,N Doram,DM,AS Monaco,147,106390
+326,Ghezzal,FW,AS Monaco,147,51208
+327,João Moutinho,MF,AS Monaco,147,1159
+328,Lopes,FW,AS Monaco,147,76765
+329,Falcao,FW,AS Monaco,147,4985
+330,Lafont,XX,Toulouse FC,148,107060
+331,Amian,DF,Toulouse FC,148,105292
+332,Diop,DF,Toulouse FC,148,106946
+333,Jullien,DF,Toulouse FC,148,69598
+334,Moubandje,DF,Toulouse FC,148,60636
+335,Jean,FW,Toulouse FC,148,73964
+336,Blin,DM,Toulouse FC,148,97259
+337,Bodiger,DM,Toulouse FC,148,93219
+338,Durmaz,FW,Toulouse FC,148,23606
+339,Gradel,FW,Toulouse FC,148,26373
+340,Delort,FW,Toulouse FC,148,41327
+341,Benítez,XX,OGC Nice,148,64701
+342,Souquet,DF,OGC Nice,148,41303
+343,Dante,DF,OGC Nice,148,9099
+344,Le Marchand,DF,OGC Nice,148,41029
+345,Jallet,DF,OGC Nice,148,2623
+346,Tameze Aoutsa,DM,OGC Nice,148,77757
+347,Seri,MF,OGC Nice,148,83642
+348,Walter,DM,OGC Nice,148,77898
+349,Koziello,MF,OGC Nice,148,93852
+350,Lees-Melou,MF,OGC Nice,148,103598
+351,Balotelli,FW,OGC Nice,148,15257
+352,Trapp,XX,Paris Saint-Germain FC,149,26803
+353,Meunier,DF,Paris Saint-Germain FC,149,62078
+354,Thiago Silva,DF,Paris Saint-Germain FC,149,16839
+355,Kimpembe,DF,Paris Saint-Germain FC,149,92924
+356,Kurzawa,DF,Paris Saint-Germain FC,149,53511
+357,Verratti,MF,Paris Saint-Germain FC,149,44932
+358,Lo Celso,AM,Paris Saint-Germain FC,149,97036
+359,Pastore,AM,Paris Saint-Germain FC,149,21660
+360,Di Maria,FW,Paris Saint-Germain FC,149,5016
+361,Cavani,FW,Paris Saint-Germain FC,149,6737
+362,Neymar,FW,Paris Saint-Germain FC,149,34907
+363,Samassa,XX,ES Troyes AC,149,50868
+364,Deplagne,DF,ES Troyes AC,149,53701
+365,Giraudon,DF,ES Troyes AC,149,110714
+366,Hérelle,DF,ES Troyes AC,149,68900
+367,Traoré,DF,ES Troyes AC,149,107537
+368,Bellugou,DM,ES Troyes AC,149,23394
+369,Grandsir,FW,ES Troyes AC,149,108740
+370,Azamoum,MF,ES Troyes AC,149,103914
+371,Khaoui,AM,ES Troyes AC,149,103944
+372,Darbion,MF,ES Troyes AC,149,22467
+373,Niané,FW,ES Troyes AC,149,80384
+374,Reynet,XX,Dijon FCO,150,62178
+375,Chafik,DF,Dijon FCO,150,73531
+376,Yambere,DF,Dijon FCO,150,95738
+377,Djilobodji,DF,Dijon FCO,150,50930
+378,Haddadi,DF,Dijon FCO,150,100107
+379,CH Kwon,AM,Dijon FCO,150,80447
+380,Amalfitano,MF,Dijon FCO,150,50897
+381,Xeka,MF,Dijon FCO,150,114145
+382,Jeannot,FW,Dijon FCO,150,56457
+383,Saïd,FW,Dijon FCO,150,79468
+384,Tavares,FW,Dijon FCO,150,73518
+385,Costil,XX,FC Girondins de Bordeaux,150,11144
+386,Gajić,DF,FC Girondins de Bordeaux,150,92859
+387,Jovanović,DF,FC Girondins de Bordeaux,150,101649
+388,Toulalan,DM,FC Girondins de Bordeaux,150,1117
+389,Sabaly,DF,FC Girondins de Bordeaux,150,80337
+390,Otavio,DM,FC Girondins de Bordeaux,150,87169
+391,Lerager,MF,FC Girondins de Bordeaux,150,80963
+392,Malcom,FW,FC Girondins de Bordeaux,150,89633
+393,Vada,MF,FC Girondins de Bordeaux,150,107096
+394,Jonathan Cafu,FW,FC Girondins de Bordeaux,150,99140
+395,Mendy,FW,FC Girondins de Bordeaux,150,103919
+396,Kamara,XX,RC Strasbourg,151,103904
+397,Lala,DF,RC Strasbourg,151,62191
+398,Mangane,DF,RC Strasbourg,151,12283
+399,Kone,DF,RC Strasbourg,151,15203
+400,Seka,DF,RC Strasbourg,151,82736
+401,Martin,MF,RC Strasbourg,151,51194
+402,Aholou,DM,RC Strasbourg,151,85538
+403,Liénard,MF,RC Strasbourg,151,111346
+404,Da Costa,FW,RC Strasbourg,151,104478
+405,Bahoken,FW,RC Strasbourg,151,59411
+406,Terrier,FW,RC Strasbourg,151,113059
+407,Aréola,XX,Paris Saint-Germain FC,151,51211
+408,Daniel Alves,DF,Paris Saint-Germain FC,151,941
+409,Marquinhos,DF,Paris Saint-Germain FC,151,70255
+410,Kimpembe,DF,Paris Saint-Germain FC,151,92924
+411,Yuri,DF,Paris Saint-Germain FC,151,40247
+412,Pastore,AM,Paris Saint-Germain FC,151,21660
+413,Rabiot,MF,Paris Saint-Germain FC,151,73635
+414,Draxler,FW,Paris Saint-Germain FC,151,55354
+415,Di Maria,FW,Paris Saint-Germain FC,151,5016
+416,Mbappé,FW,Paris Saint-Germain FC,151,107095
+417,Neymar,FW,Paris Saint-Germain FC,151,34907
+418,Maignan,XX,Lille OSC,152,81994
+419,Edgar Ié,DF,Lille OSC,152,75774
+420,Soumaoro,DF,Lille OSC,152,62184
+421,Alonso,DF,Lille OSC,152,77052
+422,Ballo-Toure,DF,Lille OSC,152,105273
+423,Thiago Mendes,MF,Lille OSC,152,79916
+424,Amadou,DM,Lille OSC,152,74398
+425,Thiago Maia,DM,Lille OSC,152,95761
+426,Pepe,FW,Lille OSC,152,110880
+427,Ponce,FW,Lille OSC,152,84153
+428,Benzia,AM,Lille OSC,152,70642
+429,Lafont,XX,Toulouse FC,152,107060
+430,Yago,DF,Toulouse FC,152,63773
+431,Diop,DF,Toulouse FC,152,106946
+432,Jullien,DF,Toulouse FC,152,69598
+433,Michelin,DF,Toulouse FC,152,110218
+434,Blin,DM,Toulouse FC,152,97259
+435,Imbula,DM,Toulouse FC,152,44580
+436,Jean,FW,Toulouse FC,152,73964
+437,Boisgard,MF,Toulouse FC,152,110856
+438,Sylla,MF,Toulouse FC,152,76048
+439,Delort,FW,Toulouse FC,152,41327
+440,Subašić,XX,AS Monaco,153,39386
+441,Sidibe,DF,AS Monaco,153,63254
+442,Glik,DF,AS Monaco,153,31005
+443,Jemerson,DF,AS Monaco,153,80756
+444,Kongolo,DF,AS Monaco,153,66615
+445,Fabinho,DM,AS Monaco,153,73889
+446,N Doram,DM,AS Monaco,153,106390
+447,Baldé,FW,AS Monaco,153,82895
+448,João Moutinho,MF,AS Monaco,153,1159
+449,Diakhaby,FW,AS Monaco,153,111039
+450,Falcao,FW,AS Monaco,153,4985
+451,Letellier,XX,Angers SCO,153,51107
+452,Manceau,DF,Angers SCO,153,51109
+453,Traore,DF,Angers SCO,153,14906
+454,Thomas,DF,Angers SCO,153,22488
+455,Andreu,DF,Angers SCO,153,30880
+456,Tahrat,DM,Angers SCO,153,103755
+457,Crivelli,FW,Angers SCO,153,86701
+458,Ketkeophomphone,FW,Angers SCO,153,50861
+459,Mangani,DM,Angers SCO,153,559
+460,Ciss,DF,Angers SCO,153,46328
+461,Toko Ekambi,FW,Angers SCO,153,103713
+462,Benítez,XX,OGC Nice,154,64701
+463,Souquet,DF,OGC Nice,154,41303
+464,Marlon,DF,OGC Nice,154,90081
+465,Le Marchand,DF,OGC Nice,154,41029
+466,Jallet,DF,OGC Nice,154,2623
+467,Saint-Maximin,FW,OGC Nice,154,82829
+468,Seri,MF,OGC Nice,154,83642
+469,Tameze Aoutsa,DM,OGC Nice,154,77757
+470,Lees-Melou,MF,OGC Nice,154,103598
+471,Balotelli,FW,OGC Nice,154,15257
+472,Pléa,FW,OGC Nice,154,65937
+473,Kawashima,XX,FC Metz,154,17507
+474,Balliu,DF,FC Metz,154,63988
+475,Rivierez,DF,FC Metz,154,44581
+476,Niakhaté,DF,FC Metz,154,103642
+477,Assou Ekotto,DF,FC Metz,154,778
+478,Dossevi,FW,FC Metz,154,25039
+479,Cohade,MF,FC Metz,154,11220
+480,Diagne,DF,FC Metz,154,28322
+481,Philipps,DM,FC Metz,154,71035
+482,Niane,FW,FC Metz,154,118018
+483,Roux,FW,FC Metz,154,28351
+484,Koubek,XX,Stade Rennais FC,155,58527
+485,Traoré,DF,Stade Rennais FC,155,88262
+486,Gelin,DF,Stade Rennais FC,155,105662
+487,Mexer,DF,Stade Rennais FC,155,43846
+488,Zeffane,DF,Stade Rennais FC,155,67283
+489,Lea Siliki,MF,Stade Rennais FC,155,114520
+490,André,MF,Stade Rennais FC,155,28214
+491,Bourigeaud,MF,Stade Rennais FC,155,90571
+492,Gourcuff,AM,Stade Rennais FC,155,832
+493,Hunou,AM,Stade Rennais FC,155,79522
+494,Khazri,FW,Stade Rennais FC,155,41118
+495,Gurtner,XX,Amiens SCF,155,46337
+496,Cissokho,DF,Amiens SCF,155,61024
+497,Gouano,DF,Amiens SCF,155,61030
+498,Adenon,DF,Amiens SCF,155,15498
+499,Avelar,DF,Amiens SCF,155,50273
+500,Zungu,MF,Amiens SCF,155,87916
+501,Monconduit,DM,Amiens SCF,155,58347
+502,Cornette,FW,Amiens SCF,155,98741
+503,Kakuta,FW,Amiens SCF,155,31873
+504,Gakpe,FW,Amiens SCF,155,552
+505,Konaté,FW,Amiens SCF,155,63904
+506,Samassa,XX,ES Troyes AC,156,50868
+507,Deplagne,DF,ES Troyes AC,156,53701
+508,Giraudon,DF,ES Troyes AC,156,110714
+509,Hérelle,DF,ES Troyes AC,156,68900
+510,Traoré,DF,ES Troyes AC,156,107537
+511,Bellugou,DM,ES Troyes AC,156,23394
+512,Grandsir,FW,ES Troyes AC,156,108740
+513,Khaoui,AM,ES Troyes AC,156,103944
+514,Nivet,AM,ES Troyes AC,156,2712
+515,Darbion,MF,ES Troyes AC,156,22467
+516,Suk,FW,ES Troyes AC,156,44749
+517,Johnsson,XX,EA Guingamp,156,27032
+518,Martins Pereira,DF,EA Guingamp,156,11191
+519,Kerbrat,DF,EA Guingamp,156,61035
+520,Sorbon,DF,EA Guingamp,156,11153
+521,Rebocho,DF,EA Guingamp,156,101269
+522,Phiri,DM,EA Guingamp,156,78818
+523,Déaux,DM,EA Guingamp,156,22343
+524,Salibur,FW,EA Guingamp,156,38607
+525,Blas,MF,EA Guingamp,156,106708
+526,Briand,FW,EA Guingamp,156,2663
+527,Thuram,FW,EA Guingamp,156,104062
+528,Ruffier,XX,AS Saint-Etienne,157,11267
+529,Janko,DF,AS Saint-Etienne,157,93883
+530,Théophile-Catherine,DF,AS Saint-Etienne,157,29589
+531,Perrin,DF,AS Saint-Etienne,157,6789
+532,M Bengue,DF,AS Saint-Etienne,157,13479
+533,Dabo,DM,AS Saint-Etienne,157,47559
+534,Selnæs,DM,AS Saint-Etienne,157,60538
+535,Pajot,DM,AS Saint-Etienne,157,50929
+536,Bamba,FW,AS Saint-Etienne,157,96869
+537,Diony,FW,AS Saint-Etienne,157,103599
+538,Monnet-Paquet,FW,AS Saint-Etienne,157,2899
+539,Tătăruşanu,XX,FC Nantes,157,19829
+540,Dubois,DF,FC Nantes,157,89668
+541,Awaziem,DF,FC Nantes,157,106954
+542,Diego Carlos,DF,FC Nantes,157,104102
+543,Djidji,DF,FC Nantes,157,73529
+544,Touré,DM,FC Nantes,157,82029
+545,El Ghanassy,FW,FC Nantes,157,30567
+546,Rongier,DM,FC Nantes,157,93214
+547,Thomasson,MF,FC Nantes,157,70193
+548,Bammou,FW,FC Nantes,157,93215
+549,Sala,FW,FC Nantes,157,62170
+550,Vercoutre,XX,Stade Malherbe Caen,158,1264
+551,Guilbert,DF,Stade Malherbe Caen,158,98543
+552,Da Silva,DF,Stade Malherbe Caen,158,21684
+553,Djiku,DF,Stade Malherbe Caen,158,75891
+554,Mbengue,DF,Stade Malherbe Caen,158,79695
+555,Aït Bennasser,DM,Stade Malherbe Caen,158,103901
+556,Sankoh,DM,Stade Malherbe Caen,158,63723
+557,Feret,AM,Stade Malherbe Caen,158,15387
+558,Kouakou,FW,Stade Malherbe Caen,158,73502
+559,Santini,FW,Stade Malherbe Caen,158,33266
+560,Rodelin,FW,Stade Malherbe Caen,158,32238
+561,Lopes,XX,Olympique Lyonnais,158,51203
+562,Tete,DF,Olympique Lyonnais,158,92966
+563,Marcelo,DF,Olympique Lyonnais,158,17121
+564,Diakhaby,DF,Olympique Lyonnais,158,105648
+565,Marçal,DF,Olympique Lyonnais,158,67469
+566,Tousart,DM,Olympique Lyonnais,158,103639
+567,Aouar,MF,Olympique Lyonnais,158,105657
+568,Cornet,FW,Olympique Lyonnais,158,81769
+569,Fekir,AM,Olympique Lyonnais,158,82010
+570,Depay,FW,Olympique Lyonnais,158,68281
+571,Mariano,FW,Olympique Lyonnais,158,89032
+572,Lecomte,XX,Montpellier-HSC,159,51234
+573,Aguilar,DF,Montpellier-HSC,159,103583
+574,Mukiele,DF,Montpellier-HSC,159,106875
+575,Hilton,DF,Montpellier-HSC,159,2765
+576,Pedro Mendes,DF,Montpellier-HSC,159,66639
+577,Roussillon,DF,Montpellier-HSC,159,55616
+578,Skhiri,DM,Montpellier-HSC,159,93851
+579,Sessegnon,AM,Montpellier-HSC,159,2844
+580,Lasne,MF,Montpellier-HSC,159,38560
+581,Sio,FW,Montpellier-HSC,159,44772
+582,Mbenza,FW,Montpellier-HSC,159,103641
+583,Mandanda,XX,Olympique de Marseille,159,11353
+584,Sakai,DF,Olympique de Marseille,159,27859
+585,Rami,DF,Olympique de Marseille,159,8882
+586,Abdennour,DF,Olympique de Marseille,159,43997
+587,Amavi,DF,Olympique de Marseille,159,82028
+588,Zambo Anguissa,DM,Olympique de Marseille,159,98555
+589,Luiz Gustavo,DM,Olympique de Marseille,159,13486
+590,Thauvin,FW,Olympique de Marseille,159,73628
+591,Sanson,MF,Olympique de Marseille,159,73514
+592,Payet,FW,Olympique de Marseille,159,2589
+593,Germain,FW,Olympique de Marseille,159,54508
+594,Costil,XX,FC Girondins de Bordeaux,160,11144
+595,Carrique,DF,FC Girondins de Bordeaux,160,122804
+596,Jovanović,DF,FC Girondins de Bordeaux,160,101649
+597,Toulalan,DM,FC Girondins de Bordeaux,160,1117
+598,Sabaly,DF,FC Girondins de Bordeaux,160,80337
+599,Otavio,DM,FC Girondins de Bordeaux,160,87169
+600,Lerager,MF,FC Girondins de Bordeaux,160,80963
+601,Jonathan Cafu,FW,FC Girondins de Bordeaux,160,99140
+602,Vada,MF,FC Girondins de Bordeaux,160,107096
+603,De Préville,FW,FC Girondins de Bordeaux,160,41128
+604,Mendy,FW,FC Girondins de Bordeaux,160,103919
+605,Oukidja,XX,RC Strasbourg,160,25036
+606,Lala,DF,RC Strasbourg,160,62191
+607,Mangane,DF,RC Strasbourg,160,12283
+608,Kone,DF,RC Strasbourg,160,15203
+609,Seka,DF,RC Strasbourg,160,82736
+610,Aholou,DM,RC Strasbourg,160,85538
+611,Grimm,MF,RC Strasbourg,160,110490
+612,Da Costa,FW,RC Strasbourg,160,104478
+613,Liénard,MF,RC Strasbourg,160,111346
+614,Terrier,FW,RC Strasbourg,160,113059
+615,Bahoken,FW,RC Strasbourg,160,59411
+616,Aréola,XX,Paris Saint-Germain FC,161,51211
+617,Daniel Alves,DF,Paris Saint-Germain FC,161,941
+618,Marquinhos,DF,Paris Saint-Germain FC,161,70255
+619,Kimpembe,DF,Paris Saint-Germain FC,161,92924
+620,Yuri,DF,Paris Saint-Germain FC,161,40247
+621,Verratti,MF,Paris Saint-Germain FC,161,44932
+622,Rabiot,MF,Paris Saint-Germain FC,161,73635
+623,Pastore,AM,Paris Saint-Germain FC,161,21660
+624,Mbappé,FW,Paris Saint-Germain FC,161,107095
+625,Cavani,FW,Paris Saint-Germain FC,161,6737
+626,Di Maria,FW,Paris Saint-Germain FC,161,5016
+627,Maignan,XX,Lille OSC,161,81994
+628,Malcuit,DF,Lille OSC,161,47300
+629,Soumaoro,DF,Lille OSC,161,62184
+630,Alonso,DF,Lille OSC,161,77052
+631,Edgar Ié,DF,Lille OSC,161,75774
+632,Amadou,DM,Lille OSC,161,74398
+633,Pepe,FW,Lille OSC,161,110880
+634,Thiago Mendes,MF,Lille OSC,161,79916
+635,Thiago Maia,DM,Lille OSC,161,95761
+636,Benzia,AM,Lille OSC,161,70642
+637,Ponce,FW,Lille OSC,161,84153
+638,Letellier,XX,Angers SCO,162,51107
+639,Manceau,DF,Angers SCO,162,51109
+640,Traore,DF,Angers SCO,162,14906
+641,Pavlović,DF,Angers SCO,162,61304
+642,Andreu,DF,Angers SCO,162,30880
+643,Tait,MF,Angers SCO,162,81759
+644,Thomas,DF,Angers SCO,162,22488
+645,Capelle,MF,Angers SCO,162,73537
+646,Ketkeophomphone,FW,Angers SCO,162,50861
+647,Toko Ekambi,FW,Angers SCO,162,103713
+648,Guillaume,FW,Angers SCO,162,93218
+649,Lecomte,XX,Montpellier-HSC,162,51234
+650,Mukiele,DF,Montpellier-HSC,162,106875
+651,Hilton,DF,Montpellier-HSC,162,2765
+652,Pedro Mendes,DF,Montpellier-HSC,162,66639
+653,Aguilar,DF,Montpellier-HSC,162,103583
+654,Sambia,MF,Montpellier-HSC,162,103634
+655,Skhiri,DM,Montpellier-HSC,162,93851
+656,Lasne,MF,Montpellier-HSC,162,38560
+657,Roussillon,DF,Montpellier-HSC,162,55616
+658,Mbenza,FW,Montpellier-HSC,162,103641
+659,Ninga,FW,Montpellier-HSC,162,106298
+660,Johnsson,XX,EA Guingamp,163,27032
+661,Martins Pereira,DF,EA Guingamp,163,11191
+662,Kerbrat,DF,EA Guingamp,163,61035
+663,Sorbon,DF,EA Guingamp,163,11153
+664,Rebocho,DF,EA Guingamp,163,101269
+665,Déaux,DM,EA Guingamp,163,22343
+666,Diallo,DM,EA Guingamp,163,37789
+667,Salibur,FW,EA Guingamp,163,38607
+668,Benezet,FW,EA Guingamp,163,53478
+669,Coco,FW,EA Guingamp,163,98346
+670,Briand,FW,EA Guingamp,163,2663
+671,Reynet,XX,Dijon FCO,163,62178
+672,Chafik,DF,Dijon FCO,163,73531
+673,Yambere,DF,Dijon FCO,163,95738
+674,Djilobodji,DF,Dijon FCO,163,50930
+675,Haddadi,DF,Dijon FCO,163,100107
+676,CH Kwon,AM,Dijon FCO,163,80447
+677,Abeid,MF,Dijon FCO,163,59330
+678,Amalfitano,MF,Dijon FCO,163,50897
+679,Sammaritano,FW,Dijon FCO,163,27814
+680,Saïd,FW,Dijon FCO,163,79468
+681,Tavares,FW,Dijon FCO,163,73518
+682,Kawashima,XX,FC Metz,164,17507
+683,Rivierez,DF,FC Metz,164,44581
+684,Diagne,DF,FC Metz,164,28322
+685,Niakhaté,DF,FC Metz,164,103642
+686,Assou Ekotto,DF,FC Metz,164,778
+687,Philipps,DM,FC Metz,164,71035
+688,Poblete,MF,FC Metz,164,62314
+689,Cohade,MF,FC Metz,164,11220
+690,Mollet,AM,FC Metz,164,70643
+691,Rivière,FW,FC Metz,164,25306
+692,Palmieri,DF,FC Metz,164,8820
+693,Koubek,XX,Stade Rennais FC,164,58527
+694,Traoré,DF,Stade Rennais FC,164,88262
+695,Gelin,DF,Stade Rennais FC,164,105662
+696,Mexer,DF,Stade Rennais FC,164,43846
+697,Zeffane,DF,Stade Rennais FC,164,67283
+698,André,MF,Stade Rennais FC,164,28214
+699,Lea Siliki,MF,Stade Rennais FC,164,114520
+700,Hunou,AM,Stade Rennais FC,164,79522
+701,Amalfitano,MF,Stade Rennais FC,164,2796
+702,Bourigeaud,MF,Stade Rennais FC,164,90571
+703,Brandon,FW,Stade Rennais FC,164,75911
+704,Subašić,XX,AS Monaco,165,39386
+705,Sidibe,DF,AS Monaco,165,63254
+706,Glik,DF,AS Monaco,165,31005
+707,Jemerson,DF,AS Monaco,165,80756
+708,Jorge,DF,AS Monaco,165,95762
+709,Lopes,FW,AS Monaco,165,76765
+710,João Moutinho,MF,AS Monaco,165,1159
+711,Fabinho,DM,AS Monaco,165,73889
+712,Lemar,MF,AS Monaco,165,81768
+713,Falcao,FW,AS Monaco,165,4985
+714,Baldé,FW,AS Monaco,165,82895
+715,Samassa,XX,ES Troyes AC,165,50868
+716,Deplagne,DF,ES Troyes AC,165,53701
+717,Giraudon,DF,ES Troyes AC,165,110714
+718,Hérelle,DF,ES Troyes AC,165,68900
+719,Traoré,DF,ES Troyes AC,165,107537
+720,Confais,DF,ES Troyes AC,165,106677
+721,Azamoum,MF,ES Troyes AC,165,103914
+722,Khaoui,AM,ES Troyes AC,165,103944
+723,Nivet,AM,ES Troyes AC,165,2712
+724,Darbion,MF,ES Troyes AC,165,22467
+725,Suk,FW,ES Troyes AC,165,44749
+726,Lafont,XX,Toulouse FC,166,107060
+727,Yago,DF,Toulouse FC,166,63773
+728,Diop,DF,Toulouse FC,166,106946
+729,Jullien,DF,Toulouse FC,166,69598
+730,Amian,DF,Toulouse FC,166,105292
+731,Somália,MF,Toulouse FC,166,61209
+732,Blin,DM,Toulouse FC,166,97259
+733,Imbula,DM,Toulouse FC,166,44580
+734,Gradel,FW,Toulouse FC,166,26373
+735,Toivonen,FW,Toulouse FC,166,5798
+736,Delort,FW,Toulouse FC,166,41327
+737,Vercoutre,XX,Stade Malherbe Caen,166,1264
+738,Genevois,DF,Stade Malherbe Caen,166,15397
+739,Da Silva,DF,Stade Malherbe Caen,166,21684
+740,Djiku,DF,Stade Malherbe Caen,166,75891
+741,Guilbert,DF,Stade Malherbe Caen,166,98543
+742,Nkololo,AM,Stade Malherbe Caen,166,81784
+743,Aït Bennasser,DM,Stade Malherbe Caen,166,103901
+744,Feret,AM,Stade Malherbe Caen,166,15387
+745,Repas,AM,Stade Malherbe Caen,166,105988
+746,Santini,FW,Stade Malherbe Caen,166,33266
+747,Rodelin,FW,Stade Malherbe Caen,166,32238
+748,Gurtner,XX,Amiens SCF,167,46337
+749,El Hajjam,DF,Amiens SCF,167,81749
+750,Gouano,DF,Amiens SCF,167,61030
+751,Dibassy,DF,Amiens SCF,167,110734
+752,Avelar,DF,Amiens SCF,167,50273
+753,Zungu,MF,Amiens SCF,167,87916
+754,Monconduit,DM,Amiens SCF,167,58347
+755,Gakpe,FW,Amiens SCF,167,552
+756,Kakuta,FW,Amiens SCF,167,31873
+757,Manzala,FW,Amiens SCF,167,103730
+758,Konaté,FW,Amiens SCF,167,63904
+759,Lopes,XX,Olympique Lyonnais,167,51203
+760,Tete,DF,Olympique Lyonnais,167,92966
+761,Marcelo,DF,Olympique Lyonnais,167,17121
+762,Morel,DF,Olympique Lyonnais,167,2625
+763,Marçal,DF,Olympique Lyonnais,167,67469
+764,Tousart,DM,Olympique Lyonnais,167,103639
+765,Aouar,MF,Olympique Lyonnais,167,105657
+766,Cornet,FW,Olympique Lyonnais,167,81769
+767,Fekir,AM,Olympique Lyonnais,167,82010
+768,Depay,FW,Olympique Lyonnais,167,68281
+769,Mariano,FW,Olympique Lyonnais,167,89032
+770,Tătăruşanu,XX,FC Nantes,168,19829
+771,Dubois,DF,FC Nantes,168,89668
+772,Pallois,DF,FC Nantes,168,51219
+773,Diego Carlos,DF,FC Nantes,168,104102
+774,Djidji,DF,FC Nantes,168,73529
+775,Touré,DM,FC Nantes,168,82029
+776,N Gom,FW,FC Nantes,168,123527
+777,Rongier,DM,FC Nantes,168,93214
+778,Thomasson,MF,FC Nantes,168,70193
+779,Bammou,FW,FC Nantes,168,93215
+780,Sala,FW,FC Nantes,168,62170
+781,Benítez,XX,OGC Nice,168,64701
+782,Souquet,DF,OGC Nice,168,41303
+783,Marlon,DF,OGC Nice,168,90081
+784,Sarr,DF,OGC Nice,168,111035
+785,Le Marchand,DF,OGC Nice,168,41029
+786,Lees-Melou,MF,OGC Nice,168,103598
+787,Tameze Aoutsa,DM,OGC Nice,168,77757
+788,Seri,MF,OGC Nice,168,83642
+789,Saint-Maximin,FW,OGC Nice,168,82829
+790,Balotelli,FW,OGC Nice,168,15257
+791,Pléa,FW,OGC Nice,168,65937
+792,Mandanda,XX,Olympique de Marseille,169,11353
+793,Sarr,MF,Olympique de Marseille,169,73522
+794,Rami,DF,Olympique de Marseille,169,8882
+795,Abdennour,DF,Olympique de Marseille,169,43997
+796,Amavi,DF,Olympique de Marseille,169,82028
+797,López,MF,Olympique de Marseille,169,106713
+798,Luiz Gustavo,DM,Olympique de Marseille,169,13486
+799,Thauvin,FW,Olympique de Marseille,169,73628
+800,Sanson,MF,Olympique de Marseille,169,73514
+801,Payet,FW,Olympique de Marseille,169,2589
+802,Germain,FW,Olympique de Marseille,169,54508
+803,Ruffier,XX,AS Saint-Etienne,169,11267
+804,Janko,DF,AS Saint-Etienne,169,93883
+805,Théophile-Catherine,DF,AS Saint-Etienne,169,29589
+806,Pogba,DF,AS Saint-Etienne,169,51118
+807,Pierre-Gabriel,DF,AS Saint-Etienne,169,107063
+808,Dabo,DM,AS Saint-Etienne,169,47559
+809,Selnæs,DM,AS Saint-Etienne,169,60538
+810,Pajot,DM,AS Saint-Etienne,169,50929
+811,Bamba,FW,AS Saint-Etienne,169,96869
+812,Diony,FW,AS Saint-Etienne,169,103599
+813,Monnet-Paquet,FW,AS Saint-Etienne,169,2899
+814,Ruffier,XX,AS Saint-Etienne,170,11267
+815,Maiga,DM,AS Saint-Etienne,170,111287
+816,Théophile-Catherine,DF,AS Saint-Etienne,170,29589
+817,M Bengue,DF,AS Saint-Etienne,170,13479
+818,Gabriel Silva,DF,AS Saint-Etienne,170,48104
+819,Hernani,MF,AS Saint-Etienne,170,94465
+820,Pajot,DM,AS Saint-Etienne,170,50929
+821,Vagner,FW,AS Saint-Etienne,170,123952
+822,Cabella,AM,AS Saint-Etienne,170,38629
+823,Monnet-Paquet,FW,AS Saint-Etienne,170,2899
+824,Diony,FW,AS Saint-Etienne,170,103599
+825,Subašić,XX,AS Monaco,170,39386
+826,Sidibe,DF,AS Monaco,170,63254
+827,Glik,DF,AS Monaco,170,31005
+828,Jemerson,DF,AS Monaco,170,80756
+829,Jorge,DF,AS Monaco,170,95762
+830,João Moutinho,MF,AS Monaco,170,1159
+831,Fabinho,DM,AS Monaco,170,73889
+832,Lopes,FW,AS Monaco,170,76765
+833,Lemar,MF,AS Monaco,170,81768
+834,Baldé,FW,AS Monaco,170,82895
+835,Falcao,FW,AS Monaco,170,4985
+836,Koubek,XX,Stade Rennais FC,171,58527
+837,Traoré,DF,Stade Rennais FC,171,88262
+838,Mexer,DF,Stade Rennais FC,171,43846
+839,Gnagnon,DF,Stade Rennais FC,171,106299
+840,Bensebaini,DF,Stade Rennais FC,171,95735
+841,Danzé,DF,Stade Rennais FC,171,3375
+842,Bourigeaud,MF,Stade Rennais FC,171,90571
+843,André,MF,Stade Rennais FC,171,28214
+844,Lea Siliki,MF,Stade Rennais FC,171,114520
+845,Amalfitano,MF,Stade Rennais FC,171,2796
+846,Mubele,FW,Stade Rennais FC,171,98243
+847,Aréola,XX,Paris Saint-Germain FC,171,51211
+848,Daniel Alves,DF,Paris Saint-Germain FC,171,941
+849,Marquinhos,DF,Paris Saint-Germain FC,171,70255
+850,Kimpembe,DF,Paris Saint-Germain FC,171,92924
+851,Yuri,DF,Paris Saint-Germain FC,171,40247
+852,Verratti,MF,Paris Saint-Germain FC,171,44932
+853,Lo Celso,AM,Paris Saint-Germain FC,171,97036
+854,Draxler,FW,Paris Saint-Germain FC,171,55354
+855,Mbappé,FW,Paris Saint-Germain FC,171,107095
+856,Cavani,FW,Paris Saint-Germain FC,171,6737
+857,Neymar,FW,Paris Saint-Germain FC,171,34907
+858,Vercoutre,XX,Stade Malherbe Caen,172,1264
+859,Guilbert,DF,Stade Malherbe Caen,172,98543
+860,Da Silva,DF,Stade Malherbe Caen,172,21684
+861,Djiku,DF,Stade Malherbe Caen,172,75891
+862,Mbengue,DF,Stade Malherbe Caen,172,79695
+863,Nkololo,AM,Stade Malherbe Caen,172,81784
+864,Feret,AM,Stade Malherbe Caen,172,15387
+865,Aït Bennasser,DM,Stade Malherbe Caen,172,103901
+866,Repas,AM,Stade Malherbe Caen,172,105988
+867,Rodelin,FW,Stade Malherbe Caen,172,32238
+868,Santini,FW,Stade Malherbe Caen,172,33266
+869,Johnsson,XX,EA Guingamp,172,27032
+870,Martins Pereira,DF,EA Guingamp,172,11191
+871,Kerbrat,DF,EA Guingamp,172,61035
+872,Sorbon,DF,EA Guingamp,172,11153
+873,Rebocho,DF,EA Guingamp,172,101269
+874,Diallo,DM,EA Guingamp,172,37789
+875,Déaux,DM,EA Guingamp,172,22343
+876,Salibur,FW,EA Guingamp,172,38607
+877,Benezet,FW,EA Guingamp,172,53478
+878,Coco,FW,EA Guingamp,172,98346
+879,Briand,FW,EA Guingamp,172,2663
+880,Reynet,XX,Dijon FCO,173,62178
+881,Chafik,DF,Dijon FCO,173,73531
+882,Yambere,DF,Dijon FCO,173,95738
+883,Djilobodji,DF,Dijon FCO,173,50930
+884,Rosier,DF,Dijon FCO,173,116905
+885,CH Kwon,AM,Dijon FCO,173,80447
+886,Abeid,MF,Dijon FCO,173,59330
+887,Amalfitano,MF,Dijon FCO,173,50897
+888,Sammaritano,FW,Dijon FCO,173,27814
+889,Saïd,FW,Dijon FCO,173,79468
+890,Jeannot,FW,Dijon FCO,173,56457
+891,Maignan,XX,Lille OSC,173,81994
+892,Edgar Ié,DF,Lille OSC,173,75774
+893,Soumaoro,DF,Lille OSC,173,62184
+894,Alonso,DF,Lille OSC,173,77052
+895,Ballo-Toure,DF,Lille OSC,173,105273
+896,Malcuit,DF,Lille OSC,173,47300
+897,Thiago Mendes,MF,Lille OSC,173,79916
+898,Amadou,DM,Lille OSC,173,74398
+899,Benzia,AM,Lille OSC,173,70642
+900,Pepe,FW,Lille OSC,173,110880
+901,Ponce,FW,Lille OSC,173,84153
+902,Lecomte,XX,Montpellier-HSC,174,51234
+903,Mukiele,DF,Montpellier-HSC,174,106875
+904,Hilton,DF,Montpellier-HSC,174,2765
+905,Pedro Mendes,DF,Montpellier-HSC,174,66639
+906,Aguilar,DF,Montpellier-HSC,174,103583
+907,Skhiri,DM,Montpellier-HSC,174,93851
+908,Sessegnon,AM,Montpellier-HSC,174,2844
+909,Lasne,MF,Montpellier-HSC,174,38560
+910,Roussillon,DF,Montpellier-HSC,174,55616
+911,Mbenza,FW,Montpellier-HSC,174,103641
+912,Camara,FW,Montpellier-HSC,174,2621
+913,Kawashima,XX,FC Metz,174,17507
+914,Rivierez,DF,FC Metz,174,44581
+915,Selimovic,DF,FC Metz,174,111008
+916,Diagne,DF,FC Metz,174,28322
+917,Niakhaté,DF,FC Metz,174,103642
+918,Assou Ekotto,DF,FC Metz,174,778
+919,Dossevi,FW,FC Metz,174,25039
+920,Cohade,MF,FC Metz,174,11220
+921,Mollet,AM,FC Metz,174,70643
+922,Roux,FW,FC Metz,174,28351
+923,Rivière,FW,FC Metz,174,25306
+924,Bonnefoi,XX,RC Strasbourg,175,22056
+925,Lala,DF,RC Strasbourg,175,62191
+926,Mangane,DF,RC Strasbourg,175,12283
+927,Kone,DF,RC Strasbourg,175,15203
+928,Seka,DF,RC Strasbourg,175,82736
+929,Gonçalves,MF,RC Strasbourg,175,41211
+930,Aholou,DM,RC Strasbourg,175,85538
+931,Liénard,MF,RC Strasbourg,175,111346
+932,Martin,MF,RC Strasbourg,175,51194
+933,Blayac,FW,RC Strasbourg,175,27593
+934,Da Costa,FW,RC Strasbourg,175,104478
+935,Lafont,XX,Toulouse FC,175,107060
+936,Yago,DF,Toulouse FC,175,63773
+937,Diop,DF,Toulouse FC,175,106946
+938,Jullien,DF,Toulouse FC,175,69598
+939,Amian,DF,Toulouse FC,175,105292
+940,Blin,DM,Toulouse FC,175,97259
+941,Cahuzac,DM,Toulouse FC,175,22360
+942,Imbula,DM,Toulouse FC,175,44580
+943,Somália,MF,Toulouse FC,175,61209
+944,Delort,FW,Toulouse FC,175,41327
+945,Gradel,FW,Toulouse FC,175,26373
+946,Samassa,XX,ES Troyes AC,176,50868
+947,Deplagne,DF,ES Troyes AC,176,53701
+948,Giraudon,DF,ES Troyes AC,176,110714
+949,Vizcarrondo,DF,ES Troyes AC,176,10495
+950,Traoré,DF,ES Troyes AC,176,107537
+951,Azamoum,MF,ES Troyes AC,176,103914
+952,Bellugou,DM,ES Troyes AC,176,23394
+953,Grandsir,FW,ES Troyes AC,176,108740
+954,Khaoui,AM,ES Troyes AC,176,103944
+955,Pelé,MF,ES Troyes AC,176,82008
+956,Suk,FW,ES Troyes AC,176,44749
+957,Gurtner,XX,Amiens SCF,176,46337
+958,El Hajjam,DF,Amiens SCF,176,81749
+959,Gouano,DF,Amiens SCF,176,61030
+960,Adenon,DF,Amiens SCF,176,15498
+961,Dibassy,DF,Amiens SCF,176,110734
+962,Zungu,MF,Amiens SCF,176,87916
+963,Monconduit,DM,Amiens SCF,176,58347
+964,Gakpe,FW,Amiens SCF,176,552
+965,Kakuta,FW,Amiens SCF,176,31873
+966,Manzala,FW,Amiens SCF,176,103730
+967,Konaté,FW,Amiens SCF,176,63904
+968,Tătăruşanu,XX,FC Nantes,177,19829
+969,Dubois,DF,FC Nantes,177,89668
+970,Diego Carlos,DF,FC Nantes,177,104102
+971,Pallois,DF,FC Nantes,177,51219
+972,Lima,DF,FC Nantes,177,73439
+973,Iloki,FW,FC Nantes,177,95741
+974,Andrei Girotto,DM,FC Nantes,177,100930
+975,Touré,DM,FC Nantes,177,82029
+976,Bammou,FW,FC Nantes,177,93215
+977,N Gom,FW,FC Nantes,177,123527
+978,Sala,FW,FC Nantes,177,62170
+979,Letellier,XX,Angers SCO,177,51107
+980,Bamba,DF,Angers SCO,177,51123
+981,Traore,DF,Angers SCO,177,14906
+982,Pavlović,DF,Angers SCO,177,61304
+983,Andreu,DF,Angers SCO,177,30880
+984,Tait,MF,Angers SCO,177,81759
+985,Thomas,DF,Angers SCO,177,22488
+986,Capelle,MF,Angers SCO,177,73537
+987,Fulgini,MF,Angers SCO,177,103638
+988,Crivelli,FW,Angers SCO,177,86701
+989,Toko Ekambi,FW,Angers SCO,177,103713
+990,Benítez,XX,OGC Nice,178,64701
+991,Souquet,DF,OGC Nice,178,41303
+992,Dante,DF,OGC Nice,178,9099
+993,Sarr,DF,OGC Nice,178,111035
+994,Le Marchand,DF,OGC Nice,178,41029
+995,Lees-Melou,MF,OGC Nice,178,103598
+996,Tameze Aoutsa,DM,OGC Nice,178,77757
+997,Seri,MF,OGC Nice,178,83642
+998,Saint-Maximin,FW,OGC Nice,178,82829
+999,Balotelli,FW,OGC Nice,178,15257
+1000,Pléa,FW,OGC Nice,178,65937
+1001,Prior,XX,FC Girondins de Bordeaux,178,88813
+1002,Sabaly,DF,FC Girondins de Bordeaux,178,80337
+1003,Jovanović,DF,FC Girondins de Bordeaux,178,101649
+1004,Toulalan,DM,FC Girondins de Bordeaux,178,1117
+1005,Pellenard,DF,FC Girondins de Bordeaux,178,85644
+1006,Poundjé,DF,FC Girondins de Bordeaux,178,73630
+1007,Lerager,MF,FC Girondins de Bordeaux,178,80963
+1008,Otavio,DM,FC Girondins de Bordeaux,178,87169
+1009,Plašil,MF,FC Girondins de Bordeaux,178,550
+1010,De Préville,FW,FC Girondins de Bordeaux,178,41128
+1011,Kamano,FW,FC Girondins de Bordeaux,178,93209
+1012,Lopes,XX,Olympique Lyonnais,179,51203
+1013,Tete,DF,Olympique Lyonnais,179,92966
+1014,Marcelo,DF,Olympique Lyonnais,179,17121
+1015,Morel,DF,Olympique Lyonnais,179,2625
+1016,Marçal,DF,Olympique Lyonnais,179,67469
+1017,Tousart,DM,Olympique Lyonnais,179,103639
+1018,Ndombèlé Alvaro,MF,Olympique Lyonnais,179,110596
+1019,Cornet,FW,Olympique Lyonnais,179,81769
+1020,Fekir,AM,Olympique Lyonnais,179,82010
+1021,Aouar,MF,Olympique Lyonnais,179,105657
+1022,Mariano,FW,Olympique Lyonnais,179,89032
+1023,Mandanda,XX,Olympique de Marseille,179,11353
+1024,Sakai,DF,Olympique de Marseille,179,27859
+1025,Rami,DF,Olympique de Marseille,179,8882
+1026,Rolando,DF,Olympique de Marseille,179,3623
+1027,Amavi,DF,Olympique de Marseille,179,82028
+1028,Zambo Anguissa,DM,Olympique de Marseille,179,98555
+1029,Luiz Gustavo,DM,Olympique de Marseille,179,13486
+1030,Thauvin,FW,Olympique de Marseille,179,73628
+1031,Payet,FW,Olympique de Marseille,179,2589
+1032,Ocampos,FW,Olympique de Marseille,179,63120
+1033,Germain,FW,Olympique de Marseille,179,54508
+1034,Gurtner,XX,Amiens SCF,180,46337
+1035,El Hajjam,DF,Amiens SCF,180,81749
+1036,Gouano,DF,Amiens SCF,180,61030
+1037,Dibassy,DF,Amiens SCF,180,110734
+1038,Avelar,DF,Amiens SCF,180,50273
+1039,Zungu,MF,Amiens SCF,180,87916
+1040,Monconduit,DM,Amiens SCF,180,58347
+1041,Gakpe,FW,Amiens SCF,180,552
+1042,Kakuta,FW,Amiens SCF,180,31873
+1043,Manzala,FW,Amiens SCF,180,103730
+1044,Konaté,FW,Amiens SCF,180,63904
+1045,Tătăruşanu,XX,FC Nantes,180,19829
+1046,Dubois,DF,FC Nantes,180,89668
+1047,Djidji,DF,FC Nantes,180,73529
+1048,Pallois,DF,FC Nantes,180,51219
+1049,Lima,DF,FC Nantes,180,73439
+1050,Andrei Girotto,DM,FC Nantes,180,100930
+1051,Touré,DM,FC Nantes,180,82029
+1052,Rongier,DM,FC Nantes,180,93214
+1053,N Gom,FW,FC Nantes,180,123527
+1054,Sala,FW,FC Nantes,180,62170
+1055,Thomasson,MF,FC Nantes,180,70193
+1056,Letellier,XX,Angers SCO,181,51107
+1057,Manceau,DF,Angers SCO,181,51109
+1058,Traore,DF,Angers SCO,181,14906
+1059,Thomas,DF,Angers SCO,181,22488
+1060,Andreu,DF,Angers SCO,181,30880
+1061,Capelle,MF,Angers SCO,181,73537
+1062,Tahrat,DM,Angers SCO,181,103755
+1063,Mangani,DM,Angers SCO,181,559
+1064,Fulgini,MF,Angers SCO,181,103638
+1065,Toko Ekambi,FW,Angers SCO,181,103713
+1066,Crivelli,FW,Angers SCO,181,86701
+1067,Reynet,XX,Dijon FCO,181,62178
+1068,Rosier,DF,Dijon FCO,181,116905
+1069,Lang,DF,Dijon FCO,181,73107
+1070,Djilobodji,DF,Dijon FCO,181,50930
+1071,Bouka Moutou,MF,Dijon FCO,181,73528
+1072,Sammaritano,FW,Dijon FCO,181,27814
+1073,Xeka,MF,Dijon FCO,181,114145
+1074,Abeid,MF,Dijon FCO,181,59330
+1075,Sliti,FW,Dijon FCO,181,62655
+1076,Saïd,FW,Dijon FCO,181,79468
+1077,Jeannot,FW,Dijon FCO,181,56457
+1078,Prior,XX,FC Girondins de Bordeaux,182,88813
+1079,Sabaly,DF,FC Girondins de Bordeaux,182,80337
+1080,Toulalan,DM,FC Girondins de Bordeaux,182,1117
+1081,Pellenard,DF,FC Girondins de Bordeaux,182,85644
+1082,Poundjé,DF,FC Girondins de Bordeaux,182,73630
+1083,Lerager,MF,FC Girondins de Bordeaux,182,80963
+1084,Otavio,DM,FC Girondins de Bordeaux,182,87169
+1085,Malcom,FW,FC Girondins de Bordeaux,182,89633
+1086,Vada,MF,FC Girondins de Bordeaux,182,107096
+1087,Kamano,FW,FC Girondins de Bordeaux,182,93209
+1088,De Préville,FW,FC Girondins de Bordeaux,182,41128
+1089,Lecomte,XX,Montpellier-HSC,182,51234
+1090,Mukiele,DF,Montpellier-HSC,182,106875
+1091,Pedro Mendes,DF,Montpellier-HSC,182,66639
+1092,Congré,DF,Montpellier-HSC,182,5791
+1093,Aguilar,DF,Montpellier-HSC,182,103583
+1094,Skhiri,DM,Montpellier-HSC,182,93851
+1095,Píriz,DM,Montpellier-HSC,182,32028
+1096,Roussillon,DF,Montpellier-HSC,182,55616
+1097,Ikoné,FW,Montpellier-HSC,182,105274
+1098,Sambia,MF,Montpellier-HSC,182,103634
+1099,Sio,FW,Montpellier-HSC,182,44772
+1100,Johnsson,XX,EA Guingamp,183,27032
+1101,Martins Pereira,DF,EA Guingamp,183,11191
+1102,Kerbrat,DF,EA Guingamp,183,61035
+1103,Sorbon,DF,EA Guingamp,183,11153
+1104,Tabanou,MF,EA Guingamp,183,25253
+1105,Diallo,DM,EA Guingamp,183,37789
+1106,Déaux,DM,EA Guingamp,183,22343
+1107,Salibur,FW,EA Guingamp,183,38607
+1108,Blas,MF,EA Guingamp,183,106708
+1109,Coco,FW,EA Guingamp,183,98346
+1110,Briand,FW,EA Guingamp,183,2663
+1111,Moulin,XX,AS Saint-Etienne,183,11233
+1112,Gabriel Silva,DF,AS Saint-Etienne,183,48104
+1113,Lacroix,DF,AS Saint-Etienne,183,47579
+1114,Théophile-Catherine,DF,AS Saint-Etienne,183,29589
+1115,M Bengue,DF,AS Saint-Etienne,183,13479
+1116,Dabo,DM,AS Saint-Etienne,183,47559
+1117,Pajot,DM,AS Saint-Etienne,183,50929
+1118,Diousse,DM,AS Saint-Etienne,183,96852
+1119,Diony,FW,AS Saint-Etienne,183,103599
+1120,Søderlund,FW,AS Saint-Etienne,183,37196
+1121,Cabella,AM,AS Saint-Etienne,183,38629
+1122,Maignan,XX,Lille OSC,184,81994
+1123,Malcuit,DF,Lille OSC,184,47300
+1124,Edgar Ié,DF,Lille OSC,184,75774
+1125,Soumaoro,DF,Lille OSC,184,62184
+1126,Mendyl,DF,Lille OSC,184,114521
+1127,Thiago Maia,DM,Lille OSC,184,95761
+1128,Luiz Araújo,FW,Lille OSC,184,108919
+1129,Soumaré,DM,Lille OSC,184,106434
+1130,Thiago Mendes,MF,Lille OSC,184,79916
+1131,El-Ghazi,FW,Lille OSC,184,92965
+1132,Benzia,AM,Lille OSC,184,70642
+1133,Benítez,XX,OGC Nice,184,64701
+1134,Souquet,DF,OGC Nice,184,41303
+1135,Marlon,DF,OGC Nice,184,90081
+1136,Dante,DF,OGC Nice,184,9099
+1137,Le Marchand,DF,OGC Nice,184,41029
+1138,Lees-Melou,MF,OGC Nice,184,103598
+1139,Mendy,DM,OGC Nice,184,51181
+1140,Seri,MF,OGC Nice,184,83642
+1141,Srarfi,FW,OGC Nice,184,115537
+1142,Pléa,FW,OGC Nice,184,65937
+1143,Saint-Maximin,FW,OGC Nice,184,82829
+1144,Mandanda,XX,Olympique de Marseille,185,11353
+1145,Sarr,MF,Olympique de Marseille,185,73522
+1146,Rolando,DF,Olympique de Marseille,185,3623
+1147,Rami,DF,Olympique de Marseille,185,8882
+1148,Amavi,DF,Olympique de Marseille,185,82028
+1149,Luiz Gustavo,DM,Olympique de Marseille,185,13486
+1150,López,MF,Olympique de Marseille,185,106713
+1151,Thauvin,FW,Olympique de Marseille,185,73628
+1152,Sanson,MF,Olympique de Marseille,185,73514
+1153,Payet,FW,Olympique de Marseille,185,2589
+1154,Germain,FW,Olympique de Marseille,185,54508
+1155,Samassa,XX,ES Troyes AC,185,50868
+1156,Deplagne,DF,ES Troyes AC,185,53701
+1157,Giraudon,DF,ES Troyes AC,185,110714
+1158,Hérelle,DF,ES Troyes AC,185,68900
+1159,Traoré,DF,ES Troyes AC,185,107537
+1160,Azamoum,MF,ES Troyes AC,185,103914
+1161,Bellugou,DM,ES Troyes AC,185,23394
+1162,Pelé,MF,ES Troyes AC,185,82008
+1163,Khaoui,AM,ES Troyes AC,185,103944
+1164,Darbion,MF,ES Troyes AC,185,22467
+1165,Suk,FW,ES Troyes AC,185,44749
+1166,Kawashima,XX,FC Metz,186,17507
+1167,Rivierez,DF,FC Metz,186,44581
+1168,Selimovic,DF,FC Metz,186,111008
+1169,Niakhaté,DF,FC Metz,186,103642
+1170,Assou Ekotto,DF,FC Metz,186,778
+1171,Diagne,DF,FC Metz,186,28322
+1172,Dossevi,FW,FC Metz,186,25039
+1173,Cohade,MF,FC Metz,186,11220
+1174,Mollet,AM,FC Metz,186,70643
+1175,Roux,FW,FC Metz,186,28351
+1176,Rivière,FW,FC Metz,186,25306
+1177,Bonnefoi,XX,RC Strasbourg,186,22056
+1178,Lala,DF,RC Strasbourg,186,62191
+1179,Mangane,DF,RC Strasbourg,186,12283
+1180,Kone,DF,RC Strasbourg,186,15203
+1181,Martínez,DF,RC Strasbourg,186,81774
+1182,Aholou,DM,RC Strasbourg,186,85538
+1183,Da Costa,FW,RC Strasbourg,186,104478
+1184,Martin,MF,RC Strasbourg,186,51194
+1185,Liénard,MF,RC Strasbourg,186,111346
+1186,Terrier,FW,RC Strasbourg,186,113059
+1187,Bahoken,FW,RC Strasbourg,186,59411
+1188,Subašić,XX,AS Monaco,187,39386
+1189,Sidibe,DF,AS Monaco,187,63254
+1190,Glik,DF,AS Monaco,187,31005
+1191,Jemerson,DF,AS Monaco,187,80756
+1192,Kongolo,DF,AS Monaco,187,66615
+1193,João Moutinho,MF,AS Monaco,187,1159
+1194,Fabinho,DM,AS Monaco,187,73889
+1195,Baldé,FW,AS Monaco,187,82895
+1196,Lemar,MF,AS Monaco,187,81768
+1197,Lopes,FW,AS Monaco,187,76765
+1198,Falcao,FW,AS Monaco,187,4985
+1199,Koubek,XX,Stade Rennais FC,187,58527
+1200,Traoré,DF,Stade Rennais FC,187,88262
+1201,Gnagnon,DF,Stade Rennais FC,187,106299
+1202,Mexer,DF,Stade Rennais FC,187,43846
+1203,Zeffane,DF,Stade Rennais FC,187,67283
+1204,Gelin,DF,Stade Rennais FC,187,105662
+1205,Bourigeaud,MF,Stade Rennais FC,187,90571
+1206,Amalfitano,MF,Stade Rennais FC,187,2796
+1207,Lea Siliki,MF,Stade Rennais FC,187,114520
+1208,Hunou,AM,Stade Rennais FC,187,79522
+1209,Khazri,FW,Stade Rennais FC,187,41118
+1210,Trapp,XX,Paris Saint-Germain FC,188,26803
+1211,Meunier,DF,Paris Saint-Germain FC,188,62078
+1212,Marquinhos,DF,Paris Saint-Germain FC,188,70255
+1213,Thiago Silva,DF,Paris Saint-Germain FC,188,16839
+1214,Yuri,DF,Paris Saint-Germain FC,188,40247
+1215,Lo Celso,AM,Paris Saint-Germain FC,188,97036
+1216,Thiago Motta,DM,Paris Saint-Germain FC,188,295
+1217,Pastore,AM,Paris Saint-Germain FC,188,21660
+1218,Mbappé,FW,Paris Saint-Germain FC,188,107095
+1219,Cavani,FW,Paris Saint-Germain FC,188,6737
+1220,Neymar,FW,Paris Saint-Germain FC,188,34907
+1221,Vercoutre,XX,Stade Malherbe Caen,188,1264
+1222,Sankoh,DM,Stade Malherbe Caen,188,63723
+1223,Diomandé,DM,Stade Malherbe Caen,188,58876
+1224,Da Silva,DF,Stade Malherbe Caen,188,21684
+1225,Guilbert,DF,Stade Malherbe Caen,188,98543
+1226,Delaplace,MF,Stade Malherbe Caen,188,48879
+1227,Aït Bennasser,DM,Stade Malherbe Caen,188,103901
+1228,Peeters,MF,Stade Malherbe Caen,188,66406
+1229,Mbengue,DF,Stade Malherbe Caen,188,79695
+1230,Rodelin,FW,Stade Malherbe Caen,188,32238
+1231,Santini,FW,Stade Malherbe Caen,188,33266
+1232,Lafont,XX,Toulouse FC,189,107060
+1233,Yago,DF,Toulouse FC,189,63773
+1234,Diop,DF,Toulouse FC,189,106946
+1235,Jullien,DF,Toulouse FC,189,69598
+1236,Amian,DF,Toulouse FC,189,105292
+1237,Somália,MF,Toulouse FC,189,61209
+1238,Imbula,DM,Toulouse FC,189,44580
+1239,Blin,DM,Toulouse FC,189,97259
+1240,Sylla,MF,Toulouse FC,189,76048
+1241,Delort,FW,Toulouse FC,189,41327
+1242,Gradel,FW,Toulouse FC,189,26373
+1243,Lopes,XX,Olympique Lyonnais,189,51203
+1244,Tete,DF,Olympique Lyonnais,189,92966
+1245,Marcelo,DF,Olympique Lyonnais,189,17121
+1246,Morel,DF,Olympique Lyonnais,189,2625
+1247,Marçal,DF,Olympique Lyonnais,189,67469
+1248,Ndombèlé Alvaro,MF,Olympique Lyonnais,189,110596
+1249,Tousart,DM,Olympique Lyonnais,189,103639
+1250,Aouar,MF,Olympique Lyonnais,189,105657
+1251,Fekir,AM,Olympique Lyonnais,189,82010
+1252,Mariano,FW,Olympique Lyonnais,189,89032
+1253,Depay,FW,Olympique Lyonnais,189,68281
+1254,Oukidja,XX,RC Strasbourg,190,25036
+1255,Lala,DF,RC Strasbourg,190,62191
+1256,Mangane,DF,RC Strasbourg,190,12283
+1257,Kone,DF,RC Strasbourg,190,15203
+1258,Seka,DF,RC Strasbourg,190,82736
+1259,Gonçalves,MF,RC Strasbourg,190,41211
+1260,Grimm,MF,RC Strasbourg,190,110490
+1261,Martin,MF,RC Strasbourg,190,51194
+1262,Sacko,FW,RC Strasbourg,190,110492
+1263,Da Costa,FW,RC Strasbourg,190,104478
+1264,Bahoken,FW,RC Strasbourg,190,59411
+1265,Johnsson,XX,EA Guingamp,190,27032
+1266,Eboa Eboa,DF,EA Guingamp,190,105271
+1267,Kerbrat,DF,EA Guingamp,190,61035
+1268,Sorbon,DF,EA Guingamp,190,11153
+1269,Rebocho,DF,EA Guingamp,190,101269
+1270,Diallo,DM,EA Guingamp,190,37789
+1271,Déaux,DM,EA Guingamp,190,22343
+1272,Salibur,FW,EA Guingamp,190,38607
+1273,Benezet,FW,EA Guingamp,190,53478
+1274,Coco,FW,EA Guingamp,190,98346
+1275,Briand,FW,EA Guingamp,190,2663
+1276,Koubek,XX,Stade Rennais FC,191,58527
+1277,Traoré,DF,Stade Rennais FC,191,88262
+1278,Gelin,DF,Stade Rennais FC,191,105662
+1279,Mexer,DF,Stade Rennais FC,191,43846
+1280,Bensebaini,DF,Stade Rennais FC,191,95735
+1281,Bourigeaud,MF,Stade Rennais FC,191,90571
+1282,Lea Siliki,MF,Stade Rennais FC,191,114520
+1283,André,MF,Stade Rennais FC,191,28214
+1284,Sarr,FW,Stade Rennais FC,191,111005
+1285,Khazri,FW,Stade Rennais FC,191,41118
+1286,Hunou,AM,Stade Rennais FC,191,79522
+1287,Mandanda,XX,Olympique de Marseille,191,11353
+1288,Sarr,MF,Olympique de Marseille,191,73522
+1289,Rami,DF,Olympique de Marseille,191,8882
+1290,Rolando,DF,Olympique de Marseille,191,3623
+1291,Sakai,DF,Olympique de Marseille,191,27859
+1292,Sanson,MF,Olympique de Marseille,191,73514
+1293,Luiz Gustavo,DM,Olympique de Marseille,191,13486
+1294,Thauvin,FW,Olympique de Marseille,191,73628
+1295,Payet,FW,Olympique de Marseille,191,2589
+1296,Ocampos,FW,Olympique de Marseille,191,63120
+1297,Germain,FW,Olympique de Marseille,191,54508
+1298,Vercoutre,XX,Stade Malherbe Caen,192,1264
+1299,Guilbert,DF,Stade Malherbe Caen,192,98543
+1300,Da Silva,DF,Stade Malherbe Caen,192,21684
+1301,Djiku,DF,Stade Malherbe Caen,192,75891
+1302,Mbengue,DF,Stade Malherbe Caen,192,79695
+1303,Kouakou,FW,Stade Malherbe Caen,192,73502
+1304,Aït Bennasser,DM,Stade Malherbe Caen,192,103901
+1305,Feret,AM,Stade Malherbe Caen,192,15387
+1306,Bessat,MF,Stade Malherbe Caen,192,11245
+1307,Rodelin,FW,Stade Malherbe Caen,192,32238
+1308,Santini,FW,Stade Malherbe Caen,192,33266
+1309,Maignan,XX,Lille OSC,192,81994
+1310,Edgar Ié,DF,Lille OSC,192,75774
+1311,Soumaoro,DF,Lille OSC,192,62184
+1312,Alonso,DF,Lille OSC,192,77052
+1313,Ballo-Toure,DF,Lille OSC,192,105273
+1314,Amadou,DM,Lille OSC,192,74398
+1315,Thiago Maia,DM,Lille OSC,192,95761
+1316,Pepe,FW,Lille OSC,192,110880
+1317,Benzia,AM,Lille OSC,192,70642
+1318,Thiago Mendes,MF,Lille OSC,192,79916
+1319,Ponce,FW,Lille OSC,192,84153
+1320,Reynet,XX,Dijon FCO,193,62178
+1321,Rosier,DF,Dijon FCO,193,116905
+1322,Yambere,DF,Dijon FCO,193,95738
+1323,Djilobodji,DF,Dijon FCO,193,50930
+1324,Haddadi,DF,Dijon FCO,193,100107
+1325,Balmont,MF,Dijon FCO,193,2615
+1326,Abeid,MF,Dijon FCO,193,59330
+1327,Jeannot,FW,Dijon FCO,193,56457
+1328,Sliti,FW,Dijon FCO,193,62655
+1329,Sammaritano,FW,Dijon FCO,193,27814
+1330,Tavares,FW,Dijon FCO,193,73518
+1331,Kawashima,XX,FC Metz,193,17507
+1332,Rivierez,DF,FC Metz,193,44581
+1333,Selimovic,DF,FC Metz,193,111008
+1334,Biševac,DF,FC Metz,193,5961
+1335,Niakhaté,DF,FC Metz,193,103642
+1336,Palmieri,DF,FC Metz,193,8820
+1337,Dossevi,FW,FC Metz,193,25039
+1338,Diagne,DF,FC Metz,193,28322
+1339,Cohade,MF,FC Metz,193,11220
+1340,Niane,FW,FC Metz,193,118018
+1341,Rivière,FW,FC Metz,193,25306
+1342,Lecomte,XX,Montpellier-HSC,194,51234
+1343,Aguilar,DF,Montpellier-HSC,194,103583
+1344,Mukiele,DF,Montpellier-HSC,194,106875
+1345,Hilton,DF,Montpellier-HSC,194,2765
+1346,Pedro Mendes,DF,Montpellier-HSC,194,66639
+1347,Roussillon,DF,Montpellier-HSC,194,55616
+1348,Ikoné,FW,Montpellier-HSC,194,105274
+1349,Skhiri,DM,Montpellier-HSC,194,93851
+1350,Píriz,DM,Montpellier-HSC,194,32028
+1351,Sambia,MF,Montpellier-HSC,194,103634
+1352,Sio,FW,Montpellier-HSC,194,44772
+1353,Subašić,XX,AS Monaco,194,39386
+1354,Touré,DF,AS Monaco,194,99056
+1355,Glik,DF,AS Monaco,194,31005
+1356,Jemerson,DF,AS Monaco,194,80756
+1357,Jorge,DF,AS Monaco,194,95762
+1358,Fabinho,DM,AS Monaco,194,73889
+1359,N Doram,DM,AS Monaco,194,106390
+1360,Ghezzal,FW,AS Monaco,194,51208
+1361,Lemar,MF,AS Monaco,194,81768
+1362,Lopes,FW,AS Monaco,194,76765
+1363,Baldé,FW,AS Monaco,194,82895
+1364,Benítez,XX,OGC Nice,195,64701
+1365,Burner,MF,OGC Nice,195,113134
+1366,Marlon,DF,OGC Nice,195,90081
+1367,Sarr,DF,OGC Nice,195,111035
+1368,Le Marchand,DF,OGC Nice,195,41029
+1369,Lees-Melou,MF,OGC Nice,195,103598
+1370,Tameze Aoutsa,DM,OGC Nice,195,77757
+1371,Seri,MF,OGC Nice,195,83642
+1372,Srarfi,FW,OGC Nice,195,115537
+1373,Pléa,FW,OGC Nice,195,65937
+1374,Saint-Maximin,FW,OGC Nice,195,82829
+1375,Bouet,XX,Amiens SCF,195,120259
+1376,El Hajjam,DF,Amiens SCF,195,81749
+1377,Gouano,DF,Amiens SCF,195,61030
+1378,Adenon,DF,Amiens SCF,195,15498
+1379,Cissokho,DF,Amiens SCF,195,61024
+1380,Fofana,MF,Amiens SCF,195,110592
+1381,Zungu,MF,Amiens SCF,195,87916
+1382,Bourgaud,MF,Amiens SCF,195,22399
+1383,Kakuta,FW,Amiens SCF,195,31873
+1384,Gakpe,FW,Amiens SCF,195,552
+1385,Konaté,FW,Amiens SCF,195,63904
+1386,Samassa,XX,ES Troyes AC,196,50868
+1387,Deplagne,DF,ES Troyes AC,196,53701
+1388,Giraudon,DF,ES Troyes AC,196,110714
+1389,Hérelle,DF,ES Troyes AC,196,68900
+1390,Traoré,DF,ES Troyes AC,196,107537
+1391,Azamoum,MF,ES Troyes AC,196,103914
+1392,Bellugou,DM,ES Troyes AC,196,23394
+1393,Khaoui,AM,ES Troyes AC,196,103944
+1394,Nivet,AM,ES Troyes AC,196,2712
+1395,Darbion,MF,ES Troyes AC,196,22467
+1396,Suk,FW,ES Troyes AC,196,44749
+1397,Costil,XX,FC Girondins de Bordeaux,196,11144
+1398,Gajić,DF,FC Girondins de Bordeaux,196,92859
+1399,Koundé,DF,FC Girondins de Bordeaux,196,122801
+1400,Baysse,DF,FC Girondins de Bordeaux,196,1308
+1401,Poundjé,DF,FC Girondins de Bordeaux,196,73630
+1402,Meité,DM,FC Girondins de Bordeaux,196,62164
+1403,Toulalan,DM,FC Girondins de Bordeaux,196,1117
+1404,Lerager,MF,FC Girondins de Bordeaux,196,80963
+1405,Malcom,FW,FC Girondins de Bordeaux,196,89633
+1406,Laborde,FW,FC Girondins de Bordeaux,196,90570
+1407,Sankharé,MF,FC Girondins de Bordeaux,196,11617
+1408,Moulin,XX,AS Saint-Etienne,197,11233
+1409,Théophile-Catherine,DF,AS Saint-Etienne,197,29589
+1410,Lacroix,DF,AS Saint-Etienne,197,47579
+1411,Perrin,DF,AS Saint-Etienne,197,6789
+1412,Gabriel Silva,DF,AS Saint-Etienne,197,48104
+1413,Dabo,DM,AS Saint-Etienne,197,47559
+1414,Pajot,DM,AS Saint-Etienne,197,50929
+1415,Bamba,FW,AS Saint-Etienne,197,96869
+1416,Cabella,AM,AS Saint-Etienne,197,38629
+1417,Hamouma,FW,AS Saint-Etienne,197,41212
+1418,Berič,FW,AS Saint-Etienne,197,52204
+1419,Lafont,XX,Toulouse FC,197,107060
+1420,Amian,DF,Toulouse FC,197,105292
+1421,Diop,DF,Toulouse FC,197,106946
+1422,Jullien,DF,Toulouse FC,197,69598
+1423,Sylla,MF,Toulouse FC,197,76048
+1424,Sangaré,MF,Toulouse FC,197,112348
+1425,Blin,DM,Toulouse FC,197,97259
+1426,Imbula,DM,Toulouse FC,197,44580
+1427,Somália,MF,Toulouse FC,197,61209
+1428,Delort,FW,Toulouse FC,197,41327
+1429,Gradel,FW,Toulouse FC,197,26373
+1430,Lopes,XX,Olympique Lyonnais,198,51203
+1431,Rafael,DF,Olympique Lyonnais,198,25647
+1432,Marcelo,DF,Olympique Lyonnais,198,17121
+1433,Morel,DF,Olympique Lyonnais,198,2625
+1434,Marçal,DF,Olympique Lyonnais,198,67469
+1435,Tousart,DM,Olympique Lyonnais,198,103639
+1436,Aouar,MF,Olympique Lyonnais,198,105657
+1437,Cornet,FW,Olympique Lyonnais,198,81769
+1438,Fekir,AM,Olympique Lyonnais,198,82010
+1439,Depay,FW,Olympique Lyonnais,198,68281
+1440,Maolida,FW,Olympique Lyonnais,198,112791
+1441,Butelle,XX,Angers SCO,198,862
+1442,Manceau,DF,Angers SCO,198,51109
+1443,Traore,DF,Angers SCO,198,14906
+1444,Thomas,DF,Angers SCO,198,22488
+1445,Bamba,DF,Angers SCO,198,51123
+1446,Santamaria,FW,Angers SCO,198,103910
+1447,Fulgini,MF,Angers SCO,198,103638
+1448,Tait,MF,Angers SCO,198,81759
+1449,Mangani,DM,Angers SCO,198,559
+1450,Capelle,MF,Angers SCO,198,73537
+1451,Toko Ekambi,FW,Angers SCO,198,103713
+1452,Tătăruşanu,XX,FC Nantes,199,19829
+1453,Awaziem,DF,FC Nantes,199,106954
+1454,Diego Carlos,DF,FC Nantes,199,104102
+1455,Pallois,DF,FC Nantes,199,51219
+1456,Lima,DF,FC Nantes,199,73439
+1457,Dubois,DF,FC Nantes,199,89668
+1458,Touré,DM,FC Nantes,199,82029
+1459,Andrei Girotto,DM,FC Nantes,199,100930
+1460,Bammou,FW,FC Nantes,199,93215
+1461,Rongier,DM,FC Nantes,199,93214
+1462,Sala,FW,FC Nantes,199,62170
+1463,Aréola,XX,Paris Saint-Germain FC,199,51211
+1464,Daniel Alves,DF,Paris Saint-Germain FC,199,941
+1465,Marquinhos,DF,Paris Saint-Germain FC,199,70255
+1466,Kimpembe,DF,Paris Saint-Germain FC,199,92924
+1467,Kurzawa,DF,Paris Saint-Germain FC,199,53511
+1468,Verratti,MF,Paris Saint-Germain FC,199,44932
+1469,Lo Celso,AM,Paris Saint-Germain FC,199,97036
+1470,Rabiot,MF,Paris Saint-Germain FC,199,73635
+1471,Mbappé,FW,Paris Saint-Germain FC,199,107095
+1472,Cavani,FW,Paris Saint-Germain FC,199,6737
+1473,Di Maria,FW,Paris Saint-Germain FC,199,5016
+1474,Costil,XX,FC Girondins de Bordeaux,200,11144
+1475,Sabaly,DF,FC Girondins de Bordeaux,200,80337
+1476,Koundé,DF,FC Girondins de Bordeaux,200,122801
+1477,Baysse,DF,FC Girondins de Bordeaux,200,1308
+1478,Poundjé,DF,FC Girondins de Bordeaux,200,73630
+1479,Lerager,MF,FC Girondins de Bordeaux,200,80963
+1480,Toulalan,DM,FC Girondins de Bordeaux,200,1117
+1481,Meité,DM,FC Girondins de Bordeaux,200,62164
+1482,Malcom,FW,FC Girondins de Bordeaux,200,89633
+1483,Laborde,FW,FC Girondins de Bordeaux,200,90570
+1484,De Préville,FW,FC Girondins de Bordeaux,200,41128
+1485,Samba,XX,Stade Malherbe Caen,200,62658
+1486,Guilbert,DF,Stade Malherbe Caen,200,98543
+1487,Da Silva,DF,Stade Malherbe Caen,200,21684
+1488,Djiku,DF,Stade Malherbe Caen,200,75891
+1489,Bessat,MF,Stade Malherbe Caen,200,11245
+1490,Aït Bennasser,DM,Stade Malherbe Caen,200,103901
+1491,Sankoh,DM,Stade Malherbe Caen,200,63723
+1492,Feret,AM,Stade Malherbe Caen,200,15387
+1493,Rodelin,FW,Stade Malherbe Caen,200,32238
+1494,Santini,FW,Stade Malherbe Caen,200,33266
+1495,Stavitski,FW,Stade Malherbe Caen,200,113259
+1496,Mandanda,XX,Olympique de Marseille,201,11353
+1497,Sarr,MF,Olympique de Marseille,201,73522
+1498,Rami,DF,Olympique de Marseille,201,8882
+1499,Abdennour,DF,Olympique de Marseille,201,43997
+1500,Sakai,DF,Olympique de Marseille,201,27859
+1501,Zambo Anguissa,DM,Olympique de Marseille,201,98555
+1502,Luiz Gustavo,DM,Olympique de Marseille,201,13486
+1503,Thauvin,FW,Olympique de Marseille,201,73628
+1504,Sanson,MF,Olympique de Marseille,201,73514
+1505,Ocampos,FW,Olympique de Marseille,201,63120
+1506,Germain,FW,Olympique de Marseille,201,54508
+1507,Oukidja,XX,RC Strasbourg,201,25036
+1508,Foulquier,DF,RC Strasbourg,201,58602
+1509,Kone,DF,RC Strasbourg,201,15203
+1510,Martínez,DF,RC Strasbourg,201,81774
+1511,Lala,DF,RC Strasbourg,201,62191
+1512,Aholou,DM,RC Strasbourg,201,85538
+1513,Da Costa,FW,RC Strasbourg,201,104478
+1514,Gonçalves,MF,RC Strasbourg,201,41211
+1515,Martin,MF,RC Strasbourg,201,51194
+1516,Sacko,FW,RC Strasbourg,201,110492
+1517,Bahoken,FW,RC Strasbourg,201,59411
+1518,Subašić,XX,AS Monaco,202,39386
+1519,Sidibe,DF,AS Monaco,202,63254
+1520,Glik,DF,AS Monaco,202,31005
+1521,Raggi,DF,AS Monaco,202,1468
+1522,Jorge,DF,AS Monaco,202,95762
+1523,João Moutinho,MF,AS Monaco,202,1159
+1524,N Doram,DM,AS Monaco,202,106390
+1525,Baldé,FW,AS Monaco,202,82895
+1526,Lemar,MF,AS Monaco,202,81768
+1527,Diakhaby,FW,AS Monaco,202,111039
+1528,Falcao,FW,AS Monaco,202,4985
+1529,Benítez,XX,OGC Nice,202,64701
+1530,Burner,MF,OGC Nice,202,113134
+1531,Marlon,DF,OGC Nice,202,90081
+1532,Dante,DF,OGC Nice,202,9099
+1533,Le Marchand,DF,OGC Nice,202,41029
+1534,Lees-Melou,MF,OGC Nice,202,103598
+1535,Cyprien,MF,OGC Nice,202,81865
+1536,Seri,MF,OGC Nice,202,83642
+1537,Saint-Maximin,FW,OGC Nice,202,82829
+1538,Balotelli,FW,OGC Nice,202,15257
+1539,Pléa,FW,OGC Nice,202,65937
+1540,Gurtner,XX,Amiens SCF,203,46337
+1541,El Hajjam,DF,Amiens SCF,203,81749
+1542,Gouano,DF,Amiens SCF,203,61030
+1543,Adenon,DF,Amiens SCF,203,15498
+1544,Cissokho,DF,Amiens SCF,203,61024
+1545,Ngosso,DF,Amiens SCF,203,104223
+1546,Monconduit,DM,Amiens SCF,203,58347
+1547,Gakpe,FW,Amiens SCF,203,552
+1548,Kakuta,FW,Amiens SCF,203,31873
+1549,Mendoza,FW,Amiens SCF,203,47745
+1550,Konaté,FW,Amiens SCF,203,63904
+1551,Lecomte,XX,Montpellier-HSC,203,51234
+1552,Mukiele,DF,Montpellier-HSC,203,106875
+1553,Hilton,DF,Montpellier-HSC,203,2765
+1554,Congré,DF,Montpellier-HSC,203,5791
+1555,Aguilar,DF,Montpellier-HSC,203,103583
+1556,Skhiri,DM,Montpellier-HSC,203,93851
+1557,Lasne,MF,Montpellier-HSC,203,38560
+1558,Roussillon,DF,Montpellier-HSC,203,55616
+1559,Mbenza,FW,Montpellier-HSC,203,103641
+1560,Dolly,FW,Montpellier-HSC,203,110659
+1561,Camara,FW,Montpellier-HSC,203,2621
+1562,Butelle,XX,Angers SCO,204,862
+1563,Manceau,DF,Angers SCO,204,51109
+1564,Traore,DF,Angers SCO,204,14906
+1565,Thomas,DF,Angers SCO,204,22488
+1566,Bamba,DF,Angers SCO,204,51123
+1567,Santamaria,FW,Angers SCO,204,103910
+1568,Fulgini,MF,Angers SCO,204,103638
+1569,Oniangue,MF,Angers SCO,204,25045
+1570,Mangani,DM,Angers SCO,204,559
+1571,Capelle,MF,Angers SCO,204,73537
+1572,Toko Ekambi,FW,Angers SCO,204,103713
+1573,Samassa,XX,ES Troyes AC,204,50868
+1574,Deplagne,DF,ES Troyes AC,204,53701
+1575,Giraudon,DF,ES Troyes AC,204,110714
+1576,Vizcarrondo,DF,ES Troyes AC,204,10495
+1577,Traoré,DF,ES Troyes AC,204,107537
+1578,Bellugou,DM,ES Troyes AC,204,23394
+1579,Grandsir,FW,ES Troyes AC,204,108740
+1580,Khaoui,AM,ES Troyes AC,204,103944
+1581,Azamoum,MF,ES Troyes AC,204,103914
+1582,Pelé,MF,ES Troyes AC,204,82008
+1583,Niané,FW,ES Troyes AC,204,80384
+1584,Johnsson,XX,EA Guingamp,205,27032
+1585,Ikoko,DF,EA Guingamp,205,82743
+1586,Kerbrat,DF,EA Guingamp,205,61035
+1587,Sorbon,DF,EA Guingamp,205,11153
+1588,Tabanou,MF,EA Guingamp,205,25253
+1589,Diallo,DM,EA Guingamp,205,37789
+1590,Blas,MF,EA Guingamp,205,106708
+1591,Salibur,FW,EA Guingamp,205,38607
+1592,Benezet,FW,EA Guingamp,205,53478
+1593,Briand,FW,EA Guingamp,205,2663
+1594,Thuram,FW,EA Guingamp,205,104062
+1595,Lopes,XX,Olympique Lyonnais,205,51203
+1596,Rafael,DF,Olympique Lyonnais,205,25647
+1597,Marcelo,DF,Olympique Lyonnais,205,17121
+1598,Morel,DF,Olympique Lyonnais,205,2625
+1599,Mendy,DF,Olympique Lyonnais,205,103732
+1600,Tousart,DM,Olympique Lyonnais,205,103639
+1601,Ndombèlé Alvaro,MF,Olympique Lyonnais,205,110596
+1602,Cornet,FW,Olympique Lyonnais,205,81769
+1603,Fekir,AM,Olympique Lyonnais,205,82010
+1604,Aouar,MF,Olympique Lyonnais,205,105657
+1605,Mariano,FW,Olympique Lyonnais,205,89032
+1606,Maignan,XX,Lille OSC,206,81994
+1607,Edgar Ié,DF,Lille OSC,206,75774
+1608,Amadou,DM,Lille OSC,206,74398
+1609,Alonso,DF,Lille OSC,206,77052
+1610,Mendyl,DF,Lille OSC,206,114521
+1611,Soumaré,DM,Lille OSC,206,106434
+1612,Pepe,FW,Lille OSC,206,110880
+1613,Benzia,AM,Lille OSC,206,70642
+1614,Thiago Maia,DM,Lille OSC,206,95761
+1615,Thiago Mendes,MF,Lille OSC,206,79916
+1616,El-Ghazi,FW,Lille OSC,206,92965
+1617,Koubek,XX,Stade Rennais FC,206,58527
+1618,Traoré,DF,Stade Rennais FC,206,88262
+1619,Gnagnon,DF,Stade Rennais FC,206,106299
+1620,Mexer,DF,Stade Rennais FC,206,43846
+1621,Zeffane,DF,Stade Rennais FC,206,67283
+1622,Bourigeaud,MF,Stade Rennais FC,206,90571
+1623,Gelin,DF,Stade Rennais FC,206,105662
+1624,André,MF,Stade Rennais FC,206,28214
+1625,Hunou,AM,Stade Rennais FC,206,79522
+1626,Gourcuff,AM,Stade Rennais FC,206,832
+1627,Sarr,FW,Stade Rennais FC,206,111005
+1628,Kawashima,XX,FC Metz,207,17507
+1629,Rivierez,DF,FC Metz,207,44581
+1630,Diagne,DF,FC Metz,207,28322
+1631,Niakhaté,DF,FC Metz,207,103642
+1632,Palmieri,DF,FC Metz,207,8820
+1633,Mandjeck,DM,FC Metz,207,11385
+1634,Dossevi,FW,FC Metz,207,25039
+1635,Cohade,MF,FC Metz,207,11220
+1636,Miličević,AM,FC Metz,207,32061
+1637,Roux,FW,FC Metz,207,28351
+1638,Rivière,FW,FC Metz,207,25306
+1639,Moulin,XX,AS Saint-Etienne,207,11233
+1640,Pierre-Gabriel,DF,AS Saint-Etienne,207,107063
+1641,Théophile-Catherine,DF,AS Saint-Etienne,207,29589
+1642,Perrin,DF,AS Saint-Etienne,207,6789
+1643,M Bengue,DF,AS Saint-Etienne,207,13479
+1644,Dabo,DM,AS Saint-Etienne,207,47559
+1645,M Vila,DM,AS Saint-Etienne,207,25046
+1646,Diousse,DM,AS Saint-Etienne,207,96852
+1647,Bamba,FW,AS Saint-Etienne,207,96869
+1648,Hamouma,FW,AS Saint-Etienne,207,41212
+1649,Cabella,AM,AS Saint-Etienne,207,38629
+1650,Lafont,XX,Toulouse FC,208,107060
+1651,Amian,DF,Toulouse FC,208,105292
+1652,Diop,DF,Toulouse FC,208,106946
+1653,Jullien,DF,Toulouse FC,208,69598
+1654,Sylla,MF,Toulouse FC,208,76048
+1655,Durmaz,FW,Toulouse FC,208,23606
+1656,Sangaré,MF,Toulouse FC,208,112348
+1657,Somália,MF,Toulouse FC,208,61209
+1658,Imbula,DM,Toulouse FC,208,44580
+1659,Gradel,FW,Toulouse FC,208,26373
+1660,Jean,FW,Toulouse FC,208,73964
+1661,Tătăruşanu,XX,FC Nantes,208,19829
+1662,Awaziem,DF,FC Nantes,208,106954
+1663,Diego Carlos,DF,FC Nantes,208,104102
+1664,Pallois,DF,FC Nantes,208,51219
+1665,Lima,DF,FC Nantes,208,73439
+1666,Iloki,FW,FC Nantes,208,95741
+1667,Touré,DM,FC Nantes,208,82029
+1668,Krhin,DM,FC Nantes,208,40392
+1669,Thomasson,MF,FC Nantes,208,70193
+1670,Nakoulma,FW,FC Nantes,208,41703
+1671,Sala,FW,FC Nantes,208,62170
+1672,Aréola,XX,Paris Saint-Germain FC,209,51211
+1673,Meunier,DF,Paris Saint-Germain FC,209,62078
+1674,Thiago Silva,DF,Paris Saint-Germain FC,209,16839
+1675,Kimpembe,DF,Paris Saint-Germain FC,209,92924
+1676,Yuri,DF,Paris Saint-Germain FC,209,40247
+1677,Verratti,MF,Paris Saint-Germain FC,209,44932
+1678,Lo Celso,AM,Paris Saint-Germain FC,209,97036
+1679,Draxler,FW,Paris Saint-Germain FC,209,55354
+1680,Di Maria,FW,Paris Saint-Germain FC,209,5016
+1681,Cavani,FW,Paris Saint-Germain FC,209,6737
+1682,Neymar,FW,Paris Saint-Germain FC,209,34907
+1683,Reynet,XX,Dijon FCO,209,62178
+1684,Rosier,DF,Dijon FCO,209,116905
+1685,Varrault,DF,Dijon FCO,209,2614
+1686,Yambere,DF,Dijon FCO,209,95738
+1687,Chafik,DF,Dijon FCO,209,73531
+1688,Abeid,MF,Dijon FCO,209,59330
+1689,CH Kwon,AM,Dijon FCO,209,80447
+1690,Marié,DM,Dijon FCO,209,81786
+1691,Xeka,MF,Dijon FCO,209,114145
+1692,Saïd,FW,Dijon FCO,209,79468
+1693,Jeannot,FW,Dijon FCO,209,56457
+1694,Vercoutre,XX,Stade Malherbe Caen,210,1264
+1695,Guilbert,DF,Stade Malherbe Caen,210,98543
+1696,Da Silva,DF,Stade Malherbe Caen,210,21684
+1697,Djiku,DF,Stade Malherbe Caen,210,75891
+1698,Bessat,MF,Stade Malherbe Caen,210,11245
+1699,Sankoh,DM,Stade Malherbe Caen,210,63723
+1700,Stavitski,FW,Stade Malherbe Caen,210,113259
+1701,Delaplace,MF,Stade Malherbe Caen,210,48879
+1702,Feret,AM,Stade Malherbe Caen,210,15387
+1703,Rodelin,FW,Stade Malherbe Caen,210,32238
+1704,Santini,FW,Stade Malherbe Caen,210,33266
+1705,Mandanda,XX,Olympique de Marseille,210,11353
+1706,Sarr,MF,Olympique de Marseille,210,73522
+1707,Rami,DF,Olympique de Marseille,210,8882
+1708,Rolando,DF,Olympique de Marseille,210,3623
+1709,Sakai,DF,Olympique de Marseille,210,27859
+1710,Zambo Anguissa,DM,Olympique de Marseille,210,98555
+1711,Luiz Gustavo,DM,Olympique de Marseille,210,13486
+1712,Thauvin,FW,Olympique de Marseille,210,73628
+1713,Payet,FW,Olympique de Marseille,210,2589
+1714,López,MF,Olympique de Marseille,210,106713
+1715,N Jie,FW,Olympique de Marseille,210,76047
+1716,Tătăruşanu,XX,FC Nantes,211,19829
+1717,Dubois,DF,FC Nantes,211,89668
+1718,Diego Carlos,DF,FC Nantes,211,104102
+1719,Pallois,DF,FC Nantes,211,51219
+1720,Djidji,DF,FC Nantes,211,73529
+1721,Andrei Girotto,DM,FC Nantes,211,100930
+1722,Krhin,DM,FC Nantes,211,40392
+1723,Kačaniklić,MF,FC Nantes,211,64670
+1724,Rongier,DM,FC Nantes,211,93214
+1725,Thomasson,MF,FC Nantes,211,70193
+1726,Sala,FW,FC Nantes,211,62170
+1727,Costil,XX,FC Girondins de Bordeaux,211,11144
+1728,Sabaly,DF,FC Girondins de Bordeaux,211,80337
+1729,Koundé,DF,FC Girondins de Bordeaux,211,122801
+1730,Pablo,DF,FC Girondins de Bordeaux,211,53184
+1731,Poundjé,DF,FC Girondins de Bordeaux,211,73630
+1732,Lerager,MF,FC Girondins de Bordeaux,211,80963
+1733,Meité,DM,FC Girondins de Bordeaux,211,62164
+1734,Youssouf,FW,FC Girondins de Bordeaux,211,114143
+1735,Malcom,FW,FC Girondins de Bordeaux,211,89633
+1736,De Préville,FW,FC Girondins de Bordeaux,211,41128
+1737,Laborde,FW,FC Girondins de Bordeaux,211,90570
+1738,Gurtner,XX,Amiens SCF,212,46337
+1739,El Hajjam,DF,Amiens SCF,212,81749
+1740,Gouano,DF,Amiens SCF,212,61030
+1741,Adenon,DF,Amiens SCF,212,15498
+1742,Dibassy,DF,Amiens SCF,212,110734
+1743,Zungu,MF,Amiens SCF,212,87916
+1744,Monconduit,DM,Amiens SCF,212,58347
+1745,Gakpe,FW,Amiens SCF,212,552
+1746,Kakuta,FW,Amiens SCF,212,31873
+1747,Mendoza,FW,Amiens SCF,212,47745
+1748,Konaté,FW,Amiens SCF,212,63904
+1749,Johnsson,XX,EA Guingamp,212,27032
+1750,Ikoko,DF,EA Guingamp,212,82743
+1751,Kerbrat,DF,EA Guingamp,212,61035
+1752,Sorbon,DF,EA Guingamp,212,11153
+1753,Rebocho,DF,EA Guingamp,212,101269
+1754,Diallo,DM,EA Guingamp,212,37789
+1755,Déaux,DM,EA Guingamp,212,22343
+1756,Salibur,FW,EA Guingamp,212,38607
+1757,Benezet,FW,EA Guingamp,212,53478
+1758,Coco,FW,EA Guingamp,212,98346
+1759,Briand,FW,EA Guingamp,212,2663
+1760,Lecomte,XX,Montpellier-HSC,213,51234
+1761,Pedro Mendes,DF,Montpellier-HSC,213,66639
+1762,Hilton,DF,Montpellier-HSC,213,2765
+1763,Congré,DF,Montpellier-HSC,213,5791
+1764,Aguilar,DF,Montpellier-HSC,213,103583
+1765,Skhiri,DM,Montpellier-HSC,213,93851
+1766,Lasne,MF,Montpellier-HSC,213,38560
+1767,Roussillon,DF,Montpellier-HSC,213,55616
+1768,Ikoné,FW,Montpellier-HSC,213,105274
+1769,Sambia,MF,Montpellier-HSC,213,103634
+1770,Sio,FW,Montpellier-HSC,213,44772
+1771,Lafont,XX,Toulouse FC,213,107060
+1772,Yago,DF,Toulouse FC,213,63773
+1773,Diop,DF,Toulouse FC,213,106946
+1774,Jullien,DF,Toulouse FC,213,69598
+1775,Sylla,MF,Toulouse FC,213,76048
+1776,Sangaré,MF,Toulouse FC,213,112348
+1777,Blin,DM,Toulouse FC,213,97259
+1778,Imbula,DM,Toulouse FC,213,44580
+1779,Somália,MF,Toulouse FC,213,61209
+1780,Sanogo,FW,Toulouse FC,213,34528
+1781,Gradel,FW,Toulouse FC,213,26373
+1782,Koubek,XX,Stade Rennais FC,214,58527
+1783,Traoré,DF,Stade Rennais FC,214,88262
+1784,Gnagnon,DF,Stade Rennais FC,214,106299
+1785,Bensebaini,DF,Stade Rennais FC,214,95735
+1786,Baal,DF,Stade Rennais FC,214,11183
+1787,Bourigeaud,MF,Stade Rennais FC,214,90571
+1788,Gelin,DF,Stade Rennais FC,214,105662
+1789,André,MF,Stade Rennais FC,214,28214
+1790,Sarr,FW,Stade Rennais FC,214,111005
+1791,Hunou,AM,Stade Rennais FC,214,79522
+1792,Mubele,FW,Stade Rennais FC,214,98243
+1793,Butelle,XX,Angers SCO,214,862
+1794,Bamba,DF,Angers SCO,214,51123
+1795,Traore,DF,Angers SCO,214,14906
+1796,Pavlović,DF,Angers SCO,214,61304
+1797,Andreu,DF,Angers SCO,214,30880
+1798,Santamaria,FW,Angers SCO,214,103910
+1799,Tait,MF,Angers SCO,214,81759
+1800,Oniangue,MF,Angers SCO,214,25045
+1801,Mangani,DM,Angers SCO,214,559
+1802,Capelle,MF,Angers SCO,214,73537
+1803,Sunu,FW,Angers SCO,214,40755
+1804,Bonnefoi,XX,RC Strasbourg,215,22056
+1805,Lala,DF,RC Strasbourg,215,62191
+1806,Mangane,DF,RC Strasbourg,215,12283
+1807,Martínez,DF,RC Strasbourg,215,81774
+1808,Seka,DF,RC Strasbourg,215,82736
+1809,Gonçalves,MF,RC Strasbourg,215,41211
+1810,Aholou,DM,RC Strasbourg,215,85538
+1811,Liénard,MF,RC Strasbourg,215,111346
+1812,Martin,MF,RC Strasbourg,215,51194
+1813,Terrier,FW,RC Strasbourg,215,113059
+1814,Blayac,FW,RC Strasbourg,215,27593
+1815,Reynet,XX,Dijon FCO,215,62178
+1816,Chafik,DF,Dijon FCO,215,73531
+1817,Yambere,DF,Dijon FCO,215,95738
+1818,Haddadi,DF,Dijon FCO,215,100107
+1819,Rosier,DF,Dijon FCO,215,116905
+1820,Balmont,MF,Dijon FCO,215,2615
+1821,Abeid,MF,Dijon FCO,215,59330
+1822,Xeka,MF,Dijon FCO,215,114145
+1823,Sammaritano,FW,Dijon FCO,215,27814
+1824,Tavares,FW,Dijon FCO,215,73518
+1825,Sliti,FW,Dijon FCO,215,62655
+1826,Zelazny,XX,ES Troyes AC,216,43062
+1827,Deplagne,DF,ES Troyes AC,216,53701
+1828,Vizcarrondo,DF,ES Troyes AC,216,10495
+1829,Giraudon,DF,ES Troyes AC,216,110714
+1830,Traoré,DF,ES Troyes AC,216,107537
+1831,Azamoum,MF,ES Troyes AC,216,103914
+1832,Walter,DM,ES Troyes AC,216,77898
+1833,Pelé,MF,ES Troyes AC,216,82008
+1834,Khaoui,AM,ES Troyes AC,216,103944
+1835,Darbion,MF,ES Troyes AC,216,22467
+1836,Niané,FW,ES Troyes AC,216,80384
+1837,Maignan,XX,Lille OSC,216,81994
+1838,Edgar Ié,DF,Lille OSC,216,75774
+1839,Amadou,DM,Lille OSC,216,74398
+1840,Alonso,DF,Lille OSC,216,77052
+1841,Ballo-Toure,DF,Lille OSC,216,105273
+1842,Soumaré,DM,Lille OSC,216,106434
+1843,Pepe,FW,Lille OSC,216,110880
+1844,Thiago Mendes,MF,Lille OSC,216,79916
+1845,Thiago Maia,DM,Lille OSC,216,95761
+1846,Benzia,AM,Lille OSC,216,70642
+1847,Ponce,FW,Lille OSC,216,84153
+1848,Benítez,XX,OGC Nice,217,64701
+1849,Burner,MF,OGC Nice,217,113134
+1850,Dante,DF,OGC Nice,217,9099
+1851,Sarr,DF,OGC Nice,217,111035
+1852,Racine,DF,OGC Nice,217,89880
+1853,Lees-Melou,MF,OGC Nice,217,103598
+1854,Cyprien,MF,OGC Nice,217,81865
+1855,Seri,MF,OGC Nice,217,83642
+1856,Srarfi,FW,OGC Nice,217,115537
+1857,Balotelli,FW,OGC Nice,217,15257
+1858,Saint-Maximin,FW,OGC Nice,217,82829
+1859,Ruffier,XX,AS Saint-Etienne,217,11267
+1860,Janko,DF,AS Saint-Etienne,217,93883
+1861,Lacroix,DF,AS Saint-Etienne,217,47579
+1862,Perrin,DF,AS Saint-Etienne,217,6789
+1863,Gabriel Silva,DF,AS Saint-Etienne,217,48104
+1864,M Vila,DM,AS Saint-Etienne,217,25046
+1865,Diousse,DM,AS Saint-Etienne,217,96852
+1866,Monnet-Paquet,FW,AS Saint-Etienne,217,2899
+1867,Cabella,AM,AS Saint-Etienne,217,38629
+1868,Ntep,FW,AS Saint-Etienne,217,53943
+1869,Berič,FW,AS Saint-Etienne,217,52204
+1870,Subašić,XX,AS Monaco,218,39386
+1871,Sidibe,DF,AS Monaco,218,63254
+1872,Glik,DF,AS Monaco,218,31005
+1873,Raggi,DF,AS Monaco,218,1468
+1874,Jorge,DF,AS Monaco,218,95762
+1875,João Moutinho,MF,AS Monaco,218,1159
+1876,Fabinho,DM,AS Monaco,218,73889
+1877,Lemar,MF,AS Monaco,218,81768
+1878,Ghezzal,FW,AS Monaco,218,51208
+1879,Falcao,FW,AS Monaco,218,4985
+1880,Diakhaby,FW,AS Monaco,218,111039
+1881,Kawashima,XX,FC Metz,218,17507
+1882,Rivierez,DF,FC Metz,218,44581
+1883,Selimovic,DF,FC Metz,218,111008
+1884,Diagne,DF,FC Metz,218,28322
+1885,Niakhaté,DF,FC Metz,218,103642
+1886,Palmieri,DF,FC Metz,218,8820
+1887,Dossevi,FW,FC Metz,218,25039
+1888,Poblete,MF,FC Metz,218,62314
+1889,Cohade,MF,FC Metz,218,11220
+1890,Roux,FW,FC Metz,218,28351
+1891,Rivière,FW,FC Metz,218,25306
+1892,Lopes,XX,Olympique Lyonnais,219,51203
+1893,Rafael,DF,Olympique Lyonnais,219,25647
+1894,Marcelo,DF,Olympique Lyonnais,219,17121
+1895,Morel,DF,Olympique Lyonnais,219,2625
+1896,Mendy,DF,Olympique Lyonnais,219,103732
+1897,Fekir,AM,Olympique Lyonnais,219,82010
+1898,Tousart,DM,Olympique Lyonnais,219,103639
+1899,Ndombèlé Alvaro,MF,Olympique Lyonnais,219,110596
+1900,Cornet,FW,Olympique Lyonnais,219,81769
+1901,Mariano,FW,Olympique Lyonnais,219,89032
+1902,Aouar,MF,Olympique Lyonnais,219,105657
+1903,Aréola,XX,Paris Saint-Germain FC,219,51211
+1904,Daniel Alves,DF,Paris Saint-Germain FC,219,941
+1905,Marquinhos,DF,Paris Saint-Germain FC,219,70255
+1906,Thiago Silva,DF,Paris Saint-Germain FC,219,16839
+1907,Kurzawa,DF,Paris Saint-Germain FC,219,53511
+1908,Verratti,MF,Paris Saint-Germain FC,219,44932
+1909,Lo Celso,AM,Paris Saint-Germain FC,219,97036
+1910,Rabiot,MF,Paris Saint-Germain FC,219,73635
+1911,Mbappé,FW,Paris Saint-Germain FC,219,107095
+1912,Cavani,FW,Paris Saint-Germain FC,219,6737
+1913,Di Maria,FW,Paris Saint-Germain FC,219,5016
+1914,Reynet,XX,Dijon FCO,220,62178
+1915,Rosier,DF,Dijon FCO,220,116905
+1916,Yambere,DF,Dijon FCO,220,95738
+1917,Lautoa,DF,Dijon FCO,220,50917
+1918,Haddadi,DF,Dijon FCO,220,100107
+1919,Xeka,MF,Dijon FCO,220,114145
+1920,Abeid,MF,Dijon FCO,220,59330
+1921,Balmont,MF,Dijon FCO,220,2615
+1922,Sammaritano,FW,Dijon FCO,220,27814
+1923,Tavares,FW,Dijon FCO,220,73518
+1924,Sliti,FW,Dijon FCO,220,62655
+1925,Koubek,XX,Stade Rennais FC,220,58527
+1926,Traoré,DF,Stade Rennais FC,220,88262
+1927,Gnagnon,DF,Stade Rennais FC,220,106299
+1928,Bensebaini,DF,Stade Rennais FC,220,95735
+1929,Baal,DF,Stade Rennais FC,220,11183
+1930,Bourigeaud,MF,Stade Rennais FC,220,90571
+1931,André,MF,Stade Rennais FC,220,28214
+1932,Gelin,DF,Stade Rennais FC,220,105662
+1933,Sarr,FW,Stade Rennais FC,220,111005
+1934,Hunou,AM,Stade Rennais FC,220,79522
+1935,Khazri,FW,Stade Rennais FC,220,41118
+1936,Aréola,XX,Paris Saint-Germain FC,221,51211
+1937,Meunier,DF,Paris Saint-Germain FC,221,62078
+1938,Thiago Silva,DF,Paris Saint-Germain FC,221,16839
+1939,Kimpembe,DF,Paris Saint-Germain FC,221,92924
+1940,Kurzawa,DF,Paris Saint-Germain FC,221,53511
+1941,Draxler,FW,Paris Saint-Germain FC,221,55354
+1942,Lo Celso,AM,Paris Saint-Germain FC,221,97036
+1943,Rabiot,MF,Paris Saint-Germain FC,221,73635
+1944,Di Maria,FW,Paris Saint-Germain FC,221,5016
+1945,Cavani,FW,Paris Saint-Germain FC,221,6737
+1946,Neymar,FW,Paris Saint-Germain FC,221,34907
+1947,Lecomte,XX,Montpellier-HSC,221,51234
+1948,Pedro Mendes,DF,Montpellier-HSC,221,66639
+1949,Hilton,DF,Montpellier-HSC,221,2765
+1950,Congré,DF,Montpellier-HSC,221,5791
+1951,Mukiele,DF,Montpellier-HSC,221,106875
+1952,Sambia,MF,Montpellier-HSC,221,103634
+1953,Skhiri,DM,Montpellier-HSC,221,93851
+1954,Lasne,MF,Montpellier-HSC,221,38560
+1955,Cozza,DF,Montpellier-HSC,221,120288
+1956,Sio,FW,Montpellier-HSC,221,44772
+1957,Mbenza,FW,Montpellier-HSC,221,103641
+1958,Butelle,XX,Angers SCO,222,862
+1959,Manceau,DF,Angers SCO,222,51109
+1960,Traore,DF,Angers SCO,222,14906
+1961,Pavlović,DF,Angers SCO,222,61304
+1962,Andreu,DF,Angers SCO,222,30880
+1963,Santamaria,FW,Angers SCO,222,103910
+1964,Ketkeophomphone,FW,Angers SCO,222,50861
+1965,Tait,MF,Angers SCO,222,81759
+1966,Mangani,DM,Angers SCO,222,559
+1967,Capelle,MF,Angers SCO,222,73537
+1968,Toko Ekambi,FW,Angers SCO,222,103713
+1969,Gurtner,XX,Amiens SCF,222,46337
+1970,Cissokho,DF,Amiens SCF,222,61024
+1971,Gouano,DF,Amiens SCF,222,61030
+1972,Adenon,DF,Amiens SCF,222,15498
+1973,Dibassy,DF,Amiens SCF,222,110734
+1974,Zungu,MF,Amiens SCF,222,87916
+1975,Monconduit,DM,Amiens SCF,222,58347
+1976,Gakpe,FW,Amiens SCF,222,552
+1977,Kakuta,FW,Amiens SCF,222,31873
+1978,Mendoza,FW,Amiens SCF,222,47745
+1979,Konaté,FW,Amiens SCF,222,63904
+1980,Johnsson,XX,EA Guingamp,223,27032
+1981,Ikoko,DF,EA Guingamp,223,82743
+1982,Kerbrat,DF,EA Guingamp,223,61035
+1983,Sorbon,DF,EA Guingamp,223,11153
+1984,Tabanou,MF,EA Guingamp,223,25253
+1985,Diallo,DM,EA Guingamp,223,37789
+1986,Déaux,DM,EA Guingamp,223,22343
+1987,Salibur,FW,EA Guingamp,223,38607
+1988,Ngbakoto,FW,EA Guingamp,223,44034
+1989,Coco,FW,EA Guingamp,223,98346
+1990,Briand,FW,EA Guingamp,223,2663
+1991,Tătăruşanu,XX,FC Nantes,223,19829
+1992,Dubois,DF,FC Nantes,223,89668
+1993,Diego Carlos,DF,FC Nantes,223,104102
+1994,Pallois,DF,FC Nantes,223,51219
+1995,Djidji,DF,FC Nantes,223,73529
+1996,Andrei Girotto,DM,FC Nantes,223,100930
+1997,Krhin,DM,FC Nantes,223,40392
+1998,Bammou,FW,FC Nantes,223,93215
+1999,Rongier,DM,FC Nantes,223,93214
+2000,Thomasson,MF,FC Nantes,223,70193
+2001,Sala,FW,FC Nantes,223,62170
+2002,Kawashima,XX,FC Metz,224,17507
+2003,Rivierez,DF,FC Metz,224,44581
+2004,Diagne,DF,FC Metz,224,28322
+2005,Niakhaté,DF,FC Metz,224,103642
+2006,Palmieri,DF,FC Metz,224,8820
+2007,Cohade,MF,FC Metz,224,11220
+2008,Mandjeck,DM,FC Metz,224,11385
+2009,Mollet,AM,FC Metz,224,70643
+2010,Miličević,AM,FC Metz,224,32061
+2011,Roux,FW,FC Metz,224,28351
+2012,Rivière,FW,FC Metz,224,25306
+2013,Benítez,XX,OGC Nice,224,64701
+2014,Burner,MF,OGC Nice,224,113134
+2015,Dante,DF,OGC Nice,224,9099
+2016,Sarr,DF,OGC Nice,224,111035
+2017,Racine,DF,OGC Nice,224,89880
+2018,Lees-Melou,MF,OGC Nice,224,103598
+2019,Mendy,DM,OGC Nice,224,51181
+2020,Seri,MF,OGC Nice,224,83642
+2021,Srarfi,FW,OGC Nice,224,115537
+2022,Balotelli,FW,OGC Nice,224,15257
+2023,Pléa,FW,OGC Nice,224,65937
+2024,Ruffier,XX,AS Saint-Etienne,225,11267
+2025,Janko,DF,AS Saint-Etienne,225,93883
+2026,Subotić,DF,AS Saint-Etienne,225,8857
+2027,Perrin,DF,AS Saint-Etienne,225,6789
+2028,Gabriel Silva,DF,AS Saint-Etienne,225,48104
+2029,M Vila,DM,AS Saint-Etienne,225,25046
+2030,Diousse,DM,AS Saint-Etienne,225,96852
+2031,Monnet-Paquet,FW,AS Saint-Etienne,225,2899
+2032,Cabella,AM,AS Saint-Etienne,225,38629
+2033,Ntep,FW,AS Saint-Etienne,225,53943
+2034,Berič,FW,AS Saint-Etienne,225,52204
+2035,Vercoutre,XX,Stade Malherbe Caen,225,1264
+2036,Guilbert,DF,Stade Malherbe Caen,225,98543
+2037,Genevois,DF,Stade Malherbe Caen,225,15397
+2038,Da Silva,DF,Stade Malherbe Caen,225,21684
+2039,Djiku,DF,Stade Malherbe Caen,225,75891
+2040,Bessat,MF,Stade Malherbe Caen,225,11245
+2041,Feret,AM,Stade Malherbe Caen,225,15387
+2042,Sankoh,DM,Stade Malherbe Caen,225,63723
+2043,Peeters,MF,Stade Malherbe Caen,225,66406
+2044,Rodelin,FW,Stade Malherbe Caen,225,32238
+2045,Santini,FW,Stade Malherbe Caen,225,33266
+2046,Lafont,XX,Toulouse FC,226,107060
+2047,Yago,DF,Toulouse FC,226,63773
+2048,Diop,DF,Toulouse FC,226,106946
+2049,Amian,DF,Toulouse FC,226,105292
+2050,Sylla,MF,Toulouse FC,226,76048
+2051,Cahuzac,DM,Toulouse FC,226,22360
+2052,Jean,FW,Toulouse FC,226,73964
+2053,Sangaré,MF,Toulouse FC,226,112348
+2054,Imbula,DM,Toulouse FC,226,44580
+2055,Durmaz,FW,Toulouse FC,226,23606
+2056,Sanogo,FW,Toulouse FC,226,34528
+2057,Zelazny,XX,ES Troyes AC,226,43062
+2058,Deplagne,DF,ES Troyes AC,226,53701
+2059,Vizcarrondo,DF,ES Troyes AC,226,10495
+2060,Giraudon,DF,ES Troyes AC,226,110714
+2061,Traoré,DF,ES Troyes AC,226,107537
+2062,Confais,DF,ES Troyes AC,226,106677
+2063,Azamoum,MF,ES Troyes AC,226,103914
+2064,Pelé,MF,ES Troyes AC,226,82008
+2065,Khaoui,AM,ES Troyes AC,226,103944
+2066,Darbion,MF,ES Troyes AC,226,22467
+2067,Niané,FW,ES Troyes AC,226,80384
+2068,Maignan,XX,Lille OSC,227,81994
+2069,Edgar Ié,DF,Lille OSC,227,75774
+2070,Alonso,DF,Lille OSC,227,77052
+2071,Dabila,DF,Lille OSC,227,121073
+2072,Faraj,MF,Lille OSC,227,120301
+2073,Bissouma,MF,Lille OSC,227,110460
+2074,Amadou,DM,Lille OSC,227,74398
+2075,Thiago Mendes,MF,Lille OSC,227,79916
+2076,Ballo-Toure,DF,Lille OSC,227,105273
+2077,Pepe,FW,Lille OSC,227,110880
+2078,Ponce,FW,Lille OSC,227,84153
+2079,Kamara,XX,RC Strasbourg,227,103904
+2080,Foulquier,DF,RC Strasbourg,227,58602
+2081,Mangane,DF,RC Strasbourg,227,12283
+2082,Martínez,DF,RC Strasbourg,227,81774
+2083,Lala,DF,RC Strasbourg,227,62191
+2084,Gonçalves,MF,RC Strasbourg,227,41211
+2085,Aholou,DM,RC Strasbourg,227,85538
+2086,Liénard,MF,RC Strasbourg,227,111346
+2087,Martin,MF,RC Strasbourg,227,51194
+2088,Da Costa,FW,RC Strasbourg,227,104478
+2089,Terrier,FW,RC Strasbourg,227,113059
+2090,Costil,XX,FC Girondins de Bordeaux,228,11144
+2091,Sabaly,DF,FC Girondins de Bordeaux,228,80337
+2092,Koundé,DF,FC Girondins de Bordeaux,228,122801
+2093,Pablo,DF,FC Girondins de Bordeaux,228,53184
+2094,Poundjé,DF,FC Girondins de Bordeaux,228,73630
+2095,Lerager,MF,FC Girondins de Bordeaux,228,80963
+2096,Otavio,DM,FC Girondins de Bordeaux,228,87169
+2097,Meité,DM,FC Girondins de Bordeaux,228,62164
+2098,Malcom,FW,FC Girondins de Bordeaux,228,89633
+2099,Laborde,FW,FC Girondins de Bordeaux,228,90570
+2100,De Préville,FW,FC Girondins de Bordeaux,228,41128
+2101,Lopes,XX,Olympique Lyonnais,228,51203
+2102,Rafael,DF,Olympique Lyonnais,228,25647
+2103,Marcelo,DF,Olympique Lyonnais,228,17121
+2104,Morel,DF,Olympique Lyonnais,228,2625
+2105,Mendy,DF,Olympique Lyonnais,228,103732
+2106,Tousart,DM,Olympique Lyonnais,228,103639
+2107,Ndombèlé Alvaro,MF,Olympique Lyonnais,228,110596
+2108,Cornet,FW,Olympique Lyonnais,228,81769
+2109,Fekir,AM,Olympique Lyonnais,228,82010
+2110,Aouar,MF,Olympique Lyonnais,228,105657
+2111,Mariano,FW,Olympique Lyonnais,228,89032
+2112,Mandanda,XX,Olympique de Marseille,229,11353
+2113,Sarr,MF,Olympique de Marseille,229,73522
+2114,Rami,DF,Olympique de Marseille,229,8882
+2115,Rolando,DF,Olympique de Marseille,229,3623
+2116,Sakai,DF,Olympique de Marseille,229,27859
+2117,Sanson,MF,Olympique de Marseille,229,73514
+2118,Luiz Gustavo,DM,Olympique de Marseille,229,13486
+2119,Thauvin,FW,Olympique de Marseille,229,73628
+2120,Payet,FW,Olympique de Marseille,229,2589
+2121,Ocampos,FW,Olympique de Marseille,229,63120
+2122,Germain,FW,Olympique de Marseille,229,54508
+2123,Subašić,XX,AS Monaco,229,39386
+2124,Touré,DF,AS Monaco,229,99056
+2125,Glik,DF,AS Monaco,229,31005
+2126,Jemerson,DF,AS Monaco,229,80756
+2127,Sidibe,DF,AS Monaco,229,63254
+2128,Tielemans,MF,AS Monaco,229,83341
+2129,Fabinho,DM,AS Monaco,229,73889
+2130,Ghezzal,FW,AS Monaco,229,51208
+2131,João Moutinho,MF,AS Monaco,229,1159
+2132,Baldé,FW,AS Monaco,229,82895
+2133,Falcao,FW,AS Monaco,229,4985
+2134,Mandanda,XX,Olympique de Marseille,230,11353
+2135,Sarr,MF,Olympique de Marseille,230,73522
+2136,Rami,DF,Olympique de Marseille,230,8882
+2137,Rolando,DF,Olympique de Marseille,230,3623
+2138,Sakai,DF,Olympique de Marseille,230,27859
+2139,Zambo Anguissa,DM,Olympique de Marseille,230,98555
+2140,Luiz Gustavo,DM,Olympique de Marseille,230,13486
+2141,Thauvin,FW,Olympique de Marseille,230,73628
+2142,Sanson,MF,Olympique de Marseille,230,73514
+2143,Payet,FW,Olympique de Marseille,230,2589
+2144,Germain,FW,Olympique de Marseille,230,54508
+2145,Kawashima,XX,FC Metz,230,17507
+2146,Rivierez,DF,FC Metz,230,44581
+2147,Diagne,DF,FC Metz,230,28322
+2148,Niakhaté,DF,FC Metz,230,103642
+2149,Palmieri,DF,FC Metz,230,8820
+2150,Cohade,MF,FC Metz,230,11220
+2151,Mandjeck,DM,FC Metz,230,11385
+2152,Mollet,AM,FC Metz,230,70643
+2153,Miličević,AM,FC Metz,230,32061
+2154,Roux,FW,FC Metz,230,28351
+2155,Rivière,FW,FC Metz,230,25306
+2156,Maignan,XX,Lille OSC,231,81994
+2157,Edgar Ié,DF,Lille OSC,231,75774
+2158,Dabila,DF,Lille OSC,231,121073
+2159,Alonso,DF,Lille OSC,231,77052
+2160,Ballo-Toure,DF,Lille OSC,231,105273
+2161,Amadou,DM,Lille OSC,231,74398
+2162,El-Ghazi,FW,Lille OSC,231,92965
+2163,Bissouma,MF,Lille OSC,231,110460
+2164,Thiago Mendes,MF,Lille OSC,231,79916
+2165,Mendyl,DF,Lille OSC,231,114521
+2166,Ponce,FW,Lille OSC,231,84153
+2167,Aréola,XX,Paris Saint-Germain FC,231,51211
+2168,Daniel Alves,DF,Paris Saint-Germain FC,231,941
+2169,Marquinhos,DF,Paris Saint-Germain FC,231,70255
+2170,Thiago Silva,DF,Paris Saint-Germain FC,231,16839
+2171,Yuri,DF,Paris Saint-Germain FC,231,40247
+2172,Verratti,MF,Paris Saint-Germain FC,231,44932
+2173,Lo Celso,AM,Paris Saint-Germain FC,231,97036
+2174,Pastore,AM,Paris Saint-Germain FC,231,21660
+2175,Di Maria,FW,Paris Saint-Germain FC,231,5016
+2176,Cavani,FW,Paris Saint-Germain FC,231,6737
+2177,Neymar,FW,Paris Saint-Germain FC,231,34907
+2178,Gurtner,XX,Amiens SCF,232,46337
+2179,El Hajjam,DF,Amiens SCF,232,81749
+2180,Gouano,DF,Amiens SCF,232,61030
+2181,Adenon,DF,Amiens SCF,232,15498
+2182,Dibassy,DF,Amiens SCF,232,110734
+2183,Monconduit,DM,Amiens SCF,232,58347
+2184,Fofana,MF,Amiens SCF,232,110592
+2185,Manzala,FW,Amiens SCF,232,103730
+2186,Kakuta,FW,Amiens SCF,232,31873
+2187,Mendoza,FW,Amiens SCF,232,47745
+2188,Konaté,FW,Amiens SCF,232,63904
+2189,Ruffier,XX,AS Saint-Etienne,232,11267
+2190,Debuchy,DF,AS Saint-Etienne,232,3166
+2191,Subotić,DF,AS Saint-Etienne,232,8857
+2192,Perrin,DF,AS Saint-Etienne,232,6789
+2193,Gabriel Silva,DF,AS Saint-Etienne,232,48104
+2194,Selnæs,DM,AS Saint-Etienne,232,60538
+2195,M Vila,DM,AS Saint-Etienne,232,25046
+2196,Bamba,FW,AS Saint-Etienne,232,96869
+2197,Cabella,AM,AS Saint-Etienne,232,38629
+2198,Monnet-Paquet,FW,AS Saint-Etienne,232,2899
+2199,Berič,FW,AS Saint-Etienne,232,52204
+2200,Lecomte,XX,Montpellier-HSC,233,51234
+2201,Mukiele,DF,Montpellier-HSC,233,106875
+2202,Pedro Mendes,DF,Montpellier-HSC,233,66639
+2203,Congré,DF,Montpellier-HSC,233,5791
+2204,Aguilar,DF,Montpellier-HSC,233,103583
+2205,Skhiri,DM,Montpellier-HSC,233,93851
+2206,Lasne,MF,Montpellier-HSC,233,38560
+2207,Cozza,DF,Montpellier-HSC,233,120288
+2208,Ikoné,FW,Montpellier-HSC,233,105274
+2209,Dolly,FW,Montpellier-HSC,233,110659
+2210,Camara,FW,Montpellier-HSC,233,2621
+2211,Butelle,XX,Angers SCO,233,862
+2212,Manceau,DF,Angers SCO,233,51109
+2213,Traore,DF,Angers SCO,233,14906
+2214,Thomas,DF,Angers SCO,233,22488
+2215,Bamba,DF,Angers SCO,233,51123
+2216,Oniangue,MF,Angers SCO,233,25045
+2217,Tait,MF,Angers SCO,233,81759
+2218,Santamaria,FW,Angers SCO,233,103910
+2219,Mangani,DM,Angers SCO,233,559
+2220,Capelle,MF,Angers SCO,233,73537
+2221,Toko Ekambi,FW,Angers SCO,233,103713
+2222,Benítez,XX,OGC Nice,234,64701
+2223,Burner,MF,OGC Nice,234,113134
+2224,Dante,DF,OGC Nice,234,9099
+2225,Sarr,DF,OGC Nice,234,111035
+2226,Racine,DF,OGC Nice,234,89880
+2227,Tameze Aoutsa,DM,OGC Nice,234,77757
+2228,Mendy,DM,OGC Nice,234,51181
+2229,Seri,MF,OGC Nice,234,83642
+2230,Srarfi,FW,OGC Nice,234,115537
+2231,Pléa,FW,OGC Nice,234,65937
+2232,Makengo,MF,OGC Nice,234,107064
+2233,Lafont,XX,Toulouse FC,234,107060
+2234,Michelin,DF,Toulouse FC,234,110218
+2235,Yago,DF,Toulouse FC,234,63773
+2236,Amian,DF,Toulouse FC,234,105292
+2237,Moubandje,DF,Toulouse FC,234,60636
+2238,Sangaré,MF,Toulouse FC,234,112348
+2239,Cahuzac,DM,Toulouse FC,234,22360
+2240,Imbula,DM,Toulouse FC,234,44580
+2241,Jean,FW,Toulouse FC,234,73964
+2242,Sanogo,FW,Toulouse FC,234,34528
+2243,Gradel,FW,Toulouse FC,234,26373
+2244,Kamara,XX,RC Strasbourg,235,103904
+2245,Foulquier,DF,RC Strasbourg,235,58602
+2246,Mangane,DF,RC Strasbourg,235,12283
+2247,Martínez,DF,RC Strasbourg,235,81774
+2248,Lala,DF,RC Strasbourg,235,62191
+2249,Aholou,DM,RC Strasbourg,235,85538
+2250,Grimm,MF,RC Strasbourg,235,110490
+2251,Martin,MF,RC Strasbourg,235,51194
+2252,Da Costa,FW,RC Strasbourg,235,104478
+2253,Saadi,FW,RC Strasbourg,235,46170
+2254,Terrier,FW,RC Strasbourg,235,113059
+2255,Costil,XX,FC Girondins de Bordeaux,235,11144
+2256,Sabaly,DF,FC Girondins de Bordeaux,235,80337
+2257,Koundé,DF,FC Girondins de Bordeaux,235,122801
+2258,Pablo,DF,FC Girondins de Bordeaux,235,53184
+2259,Poundjé,DF,FC Girondins de Bordeaux,235,73630
+2260,Meité,DM,FC Girondins de Bordeaux,235,62164
+2261,Lerager,MF,FC Girondins de Bordeaux,235,80963
+2262,Sankharé,MF,FC Girondins de Bordeaux,235,11617
+2263,Malcom,FW,FC Girondins de Bordeaux,235,89633
+2264,Laborde,FW,FC Girondins de Bordeaux,235,90570
+2265,De Préville,FW,FC Girondins de Bordeaux,235,41128
+2266,Koubek,XX,Stade Rennais FC,236,58527
+2267,Traoré,DF,Stade Rennais FC,236,88262
+2268,Gelin,DF,Stade Rennais FC,236,105662
+2269,Gnagnon,DF,Stade Rennais FC,236,106299
+2270,Baal,DF,Stade Rennais FC,236,11183
+2271,Bourigeaud,MF,Stade Rennais FC,236,90571
+2272,André,MF,Stade Rennais FC,236,28214
+2273,Prcić,MF,Stade Rennais FC,236,64461
+2274,Sarr,FW,Stade Rennais FC,236,111005
+2275,Khazri,FW,Stade Rennais FC,236,41118
+2276,Sakho,FW,Stade Rennais FC,236,44033
+2277,Johnsson,XX,EA Guingamp,236,27032
+2278,Ikoko,DF,EA Guingamp,236,82743
+2279,Kerbrat,DF,EA Guingamp,236,61035
+2280,Eboa Eboa,DF,EA Guingamp,236,105271
+2281,Rebocho,DF,EA Guingamp,236,101269
+2282,Didot,MF,EA Guingamp,236,2658
+2283,Phiri,DM,EA Guingamp,236,78818
+2284,Coco,FW,EA Guingamp,236,98346
+2285,Blas,MF,EA Guingamp,236,106708
+2286,Benezet,FW,EA Guingamp,236,53478
+2287,Briand,FW,EA Guingamp,236,2663
+2288,Vercoutre,XX,Stade Malherbe Caen,237,1264
+2289,Genevois,DF,Stade Malherbe Caen,237,15397
+2290,Da Silva,DF,Stade Malherbe Caen,237,21684
+2291,Djiku,DF,Stade Malherbe Caen,237,75891
+2292,Bessat,MF,Stade Malherbe Caen,237,11245
+2293,Feret,AM,Stade Malherbe Caen,237,15387
+2294,Aït Bennasser,DM,Stade Malherbe Caen,237,103901
+2295,Peeters,MF,Stade Malherbe Caen,237,66406
+2296,Rodelin,FW,Stade Malherbe Caen,237,32238
+2297,Crivelli,FW,Stade Malherbe Caen,237,86701
+2298,Santini,FW,Stade Malherbe Caen,237,33266
+2299,Tătăruşanu,XX,FC Nantes,237,19829
+2300,Dubois,DF,FC Nantes,237,89668
+2301,Diego Carlos,DF,FC Nantes,237,104102
+2302,Pallois,DF,FC Nantes,237,51219
+2303,Djidji,DF,FC Nantes,237,73529
+2304,Andrei Girotto,DM,FC Nantes,237,100930
+2305,Krhin,DM,FC Nantes,237,40392
+2306,Bammou,FW,FC Nantes,237,93215
+2307,Rongier,DM,FC Nantes,237,93214
+2308,Thomasson,MF,FC Nantes,237,70193
+2309,Sala,FW,FC Nantes,237,62170
+2310,Subašić,XX,AS Monaco,238,39386
+2311,Touré,DF,AS Monaco,238,99056
+2312,Glik,DF,AS Monaco,238,31005
+2313,Jemerson,DF,AS Monaco,238,80756
+2314,Raggi,DF,AS Monaco,238,1468
+2315,Tielemans,MF,AS Monaco,238,83341
+2316,Fabinho,DM,AS Monaco,238,73889
+2317,Baldé,FW,AS Monaco,238,82895
+2318,João Moutinho,MF,AS Monaco,238,1159
+2319,Lopes,FW,AS Monaco,238,76765
+2320,Falcao,FW,AS Monaco,238,4985
+2321,Lopes,XX,Olympique Lyonnais,238,51203
+2322,Tete,DF,Olympique Lyonnais,238,92966
+2323,Marcelo,DF,Olympique Lyonnais,238,17121
+2324,Morel,DF,Olympique Lyonnais,238,2625
+2325,Mendy,DF,Olympique Lyonnais,238,103732
+2326,Ndombèlé Alvaro,MF,Olympique Lyonnais,238,110596
+2327,Aouar,MF,Olympique Lyonnais,238,105657
+2328,Traore,FW,Olympique Lyonnais,238,67484
+2329,Fekir,AM,Olympique Lyonnais,238,82010
+2330,Depay,FW,Olympique Lyonnais,238,68281
+2331,Mariano,FW,Olympique Lyonnais,238,89032
+2332,Ruffier,XX,AS Saint-Etienne,239,11267
+2333,Debuchy,DF,AS Saint-Etienne,239,3166
+2334,Subotić,DF,AS Saint-Etienne,239,8857
+2335,Perrin,DF,AS Saint-Etienne,239,6789
+2336,Gabriel Silva,DF,AS Saint-Etienne,239,48104
+2337,Monnet-Paquet,FW,AS Saint-Etienne,239,2899
+2338,Pajot,DM,AS Saint-Etienne,239,50929
+2339,Selnæs,DM,AS Saint-Etienne,239,60538
+2340,Diousse,DM,AS Saint-Etienne,239,96852
+2341,Hamouma,FW,AS Saint-Etienne,239,41212
+2342,Bamba,FW,AS Saint-Etienne,239,96869
+2343,Mandanda,XX,Olympique de Marseille,239,11353
+2344,Sarr,MF,Olympique de Marseille,239,73522
+2345,Rami,DF,Olympique de Marseille,239,8882
+2346,Rolando,DF,Olympique de Marseille,239,3623
+2347,Sakai,DF,Olympique de Marseille,239,27859
+2348,Zambo Anguissa,DM,Olympique de Marseille,239,98555
+2349,Luiz Gustavo,DM,Olympique de Marseille,239,13486
+2350,Thauvin,FW,Olympique de Marseille,239,73628
+2351,Sanson,MF,Olympique de Marseille,239,73514
+2352,Payet,FW,Olympique de Marseille,239,2589
+2353,Germain,FW,Olympique de Marseille,239,54508
+2354,Lafont,XX,Toulouse FC,240,107060
+2355,Yago,DF,Toulouse FC,240,63773
+2356,Diop,DF,Toulouse FC,240,106946
+2357,Amian,DF,Toulouse FC,240,105292
+2358,Sylla,MF,Toulouse FC,240,76048
+2359,Jean,FW,Toulouse FC,240,73964
+2360,Blin,DM,Toulouse FC,240,97259
+2361,Cahuzac,DM,Toulouse FC,240,22360
+2362,Imbula,DM,Toulouse FC,240,44580
+2363,Gradel,FW,Toulouse FC,240,26373
+2364,Sanogo,FW,Toulouse FC,240,34528
+2365,Aréola,XX,Paris Saint-Germain FC,240,51211
+2366,Daniel Alves,DF,Paris Saint-Germain FC,240,941
+2367,Marquinhos,DF,Paris Saint-Germain FC,240,70255
+2368,Kimpembe,DF,Paris Saint-Germain FC,240,92924
+2369,Yuri,DF,Paris Saint-Germain FC,240,40247
+2370,Lo Celso,AM,Paris Saint-Germain FC,240,97036
+2371,Diarra,DM,Paris Saint-Germain FC,240,532
+2372,Rabiot,MF,Paris Saint-Germain FC,240,73635
+2373,Di Maria,FW,Paris Saint-Germain FC,240,5016
+2374,Mbappé,FW,Paris Saint-Germain FC,240,107095
+2375,Neymar,FW,Paris Saint-Germain FC,240,34907
+2376,Butelle,XX,Angers SCO,241,862
+2377,Bamba,DF,Angers SCO,241,51123
+2378,Traore,DF,Angers SCO,241,14906
+2379,Thomas,DF,Angers SCO,241,22488
+2380,Andreu,DF,Angers SCO,241,30880
+2381,Santamaria,FW,Angers SCO,241,103910
+2382,Fulgini,MF,Angers SCO,241,103638
+2383,Oniangue,MF,Angers SCO,241,25045
+2384,Mangani,DM,Angers SCO,241,559
+2385,Capelle,MF,Angers SCO,241,73537
+2386,Toko Ekambi,FW,Angers SCO,241,103713
+2387,Sy,XX,AS Monaco,241,101642
+2388,Sidibe,DF,AS Monaco,241,63254
+2389,Glik,DF,AS Monaco,241,31005
+2390,Jemerson,DF,AS Monaco,241,80756
+2391,Raggi,DF,AS Monaco,241,1468
+2392,Tielemans,MF,AS Monaco,241,83341
+2393,Fabinho,DM,AS Monaco,241,73889
+2394,Lopes,FW,AS Monaco,241,76765
+2395,João Moutinho,MF,AS Monaco,241,1159
+2396,Diakhaby,FW,AS Monaco,241,111039
+2397,Jovetić,FW,AS Monaco,241,11031
+2398,Costil,XX,FC Girondins de Bordeaux,242,11144
+2399,Sabaly,DF,FC Girondins de Bordeaux,242,80337
+2400,Koundé,DF,FC Girondins de Bordeaux,242,122801
+2401,Pablo,DF,FC Girondins de Bordeaux,242,53184
+2402,Poundjé,DF,FC Girondins de Bordeaux,242,73630
+2403,Lerager,MF,FC Girondins de Bordeaux,242,80963
+2404,Otavio,DM,FC Girondins de Bordeaux,242,87169
+2405,Meité,DM,FC Girondins de Bordeaux,242,62164
+2406,Malcom,FW,FC Girondins de Bordeaux,242,89633
+2407,Laborde,FW,FC Girondins de Bordeaux,242,90570
+2408,Braithwaite,FW,FC Girondins de Bordeaux,242,36105
+2409,Gurtner,XX,Amiens SCF,242,46337
+2410,El Hajjam,DF,Amiens SCF,242,81749
+2411,Gouano,DF,Amiens SCF,242,61030
+2412,Adenon,DF,Amiens SCF,242,15498
+2413,Dibassy,DF,Amiens SCF,242,110734
+2414,Avelar,DF,Amiens SCF,242,50273
+2415,Fofana,MF,Amiens SCF,242,110592
+2416,Ngosso,DF,Amiens SCF,242,104223
+2417,Monconduit,DM,Amiens SCF,242,58347
+2418,Kakuta,FW,Amiens SCF,242,31873
+2419,Mendoza,FW,Amiens SCF,242,47745
+2420,Reynet,XX,Dijon FCO,243,62178
+2421,Rosier,DF,Dijon FCO,243,116905
+2422,Yambere,DF,Dijon FCO,243,95738
+2423,Djilobodji,DF,Dijon FCO,243,50930
+2424,Haddadi,DF,Dijon FCO,243,100107
+2425,Balmont,MF,Dijon FCO,243,2615
+2426,Abeid,MF,Dijon FCO,243,59330
+2427,Amalfitano,MF,Dijon FCO,243,50897
+2428,Saïd,FW,Dijon FCO,243,79468
+2429,Tavares,FW,Dijon FCO,243,73518
+2430,Sliti,FW,Dijon FCO,243,62655
+2431,Benítez,XX,OGC Nice,243,64701
+2432,Marlon,DF,OGC Nice,243,90081
+2433,Dante,DF,OGC Nice,243,9099
+2434,Sarr,DF,OGC Nice,243,111035
+2435,Racine,DF,OGC Nice,243,89880
+2436,Lees-Melou,MF,OGC Nice,243,103598
+2437,Tameze Aoutsa,DM,OGC Nice,243,77757
+2438,Seri,MF,OGC Nice,243,83642
+2439,Srarfi,FW,OGC Nice,243,115537
+2440,Balotelli,FW,OGC Nice,243,15257
+2441,Pléa,FW,OGC Nice,243,65937
+2442,Johnsson,XX,EA Guingamp,244,27032
+2443,Ikoko,DF,EA Guingamp,244,82743
+2444,Kerbrat,DF,EA Guingamp,244,61035
+2445,Eboa Eboa,DF,EA Guingamp,244,105271
+2446,Rebocho,DF,EA Guingamp,244,101269
+2447,Phiri,DM,EA Guingamp,244,78818
+2448,Blas,MF,EA Guingamp,244,106708
+2449,Coco,FW,EA Guingamp,244,98346
+2450,Grenier,AM,EA Guingamp,244,38653
+2451,Benezet,FW,EA Guingamp,244,53478
+2452,Briand,FW,EA Guingamp,244,2663
+2453,Vercoutre,XX,Stade Malherbe Caen,244,1264
+2454,Genevois,DF,Stade Malherbe Caen,244,15397
+2455,Da Silva,DF,Stade Malherbe Caen,244,21684
+2456,Djiku,DF,Stade Malherbe Caen,244,75891
+2457,Guilbert,DF,Stade Malherbe Caen,244,98543
+2458,Feret,AM,Stade Malherbe Caen,244,15387
+2459,Aït Bennasser,DM,Stade Malherbe Caen,244,103901
+2460,Peeters,MF,Stade Malherbe Caen,244,66406
+2461,Avounou,MF,Stade Malherbe Caen,244,117368
+2462,Rodelin,FW,Stade Malherbe Caen,244,32238
+2463,Crivelli,FW,Stade Malherbe Caen,244,86701
+2464,Kawashima,XX,FC Metz,245,17507
+2465,Balliu,DF,FC Metz,245,63988
+2466,Selimovic,DF,FC Metz,245,111008
+2467,Diagne,DF,FC Metz,245,28322
+2468,Niakhaté,DF,FC Metz,245,103642
+2469,Palmieri,DF,FC Metz,245,8820
+2470,Mollet,AM,FC Metz,245,70643
+2471,Mandjeck,DM,FC Metz,245,11385
+2472,Cohade,MF,FC Metz,245,11220
+2473,Roux,FW,FC Metz,245,28351
+2474,Rivière,FW,FC Metz,245,25306
+2475,Lecomte,XX,Montpellier-HSC,245,51234
+2476,Mukiele,DF,Montpellier-HSC,245,106875
+2477,Pedro Mendes,DF,Montpellier-HSC,245,66639
+2478,Hilton,DF,Montpellier-HSC,245,2765
+2479,Congré,DF,Montpellier-HSC,245,5791
+2480,Aguilar,DF,Montpellier-HSC,245,103583
+2481,Mbenza,FW,Montpellier-HSC,245,103641
+2482,Skhiri,DM,Montpellier-HSC,245,93851
+2483,Lasne,MF,Montpellier-HSC,245,38560
+2484,Dolly,FW,Montpellier-HSC,245,110659
+2485,Sio,FW,Montpellier-HSC,245,44772
+2486,Oukidja,XX,RC Strasbourg,246,25036
+2487,Foulquier,DF,RC Strasbourg,246,58602
+2488,Mangane,DF,RC Strasbourg,246,12283
+2489,Martínez,DF,RC Strasbourg,246,81774
+2490,Lala,DF,RC Strasbourg,246,62191
+2491,Gonçalves,MF,RC Strasbourg,246,41211
+2492,Aholou,DM,RC Strasbourg,246,85538
+2493,Liénard,MF,RC Strasbourg,246,111346
+2494,Martin,MF,RC Strasbourg,246,51194
+2495,Da Costa,FW,RC Strasbourg,246,104478
+2496,Terrier,FW,RC Strasbourg,246,113059
+2497,Zelazny,XX,ES Troyes AC,246,43062
+2498,Deplagne,DF,ES Troyes AC,246,53701
+2499,Giraudon,DF,ES Troyes AC,246,110714
+2500,Hérelle,DF,ES Troyes AC,246,68900
+2501,Traoré,DF,ES Troyes AC,246,107537
+2502,Walter,DM,ES Troyes AC,246,77898
+2503,Bellugou,DM,ES Troyes AC,246,23394
+2504,Khaoui,AM,ES Troyes AC,246,103944
+2505,Nivet,AM,ES Troyes AC,246,2712
+2506,Grandsir,FW,ES Troyes AC,246,108740
+2507,Niané,FW,ES Troyes AC,246,80384
+2508,Tătăruşanu,XX,FC Nantes,247,19829
+2509,Dubois,DF,FC Nantes,247,89668
+2510,Djidji,DF,FC Nantes,247,73529
+2511,Alcibiade,DF,FC Nantes,247,120589
+2512,Lima,DF,FC Nantes,247,73439
+2513,Andrei Girotto,DM,FC Nantes,247,100930
+2514,Touré,DM,FC Nantes,247,82029
+2515,Iloki,FW,FC Nantes,247,95741
+2516,Rongier,DM,FC Nantes,247,93214
+2517,Thomasson,MF,FC Nantes,247,70193
+2518,Sala,FW,FC Nantes,247,62170
+2519,Maignan,XX,Lille OSC,247,81994
+2520,Edgar Ié,DF,Lille OSC,247,75774
+2521,Dabila,DF,Lille OSC,247,121073
+2522,Alonso,DF,Lille OSC,247,77052
+2523,Ballo-Toure,DF,Lille OSC,247,105273
+2524,Amadou,DM,Lille OSC,247,74398
+2525,Thiago Maia,DM,Lille OSC,247,95761
+2526,El-Ghazi,FW,Lille OSC,247,92965
+2527,Benzia,AM,Lille OSC,247,70642
+2528,Thiago Mendes,MF,Lille OSC,247,79916
+2529,Mothiba,FW,Lille OSC,247,110661
+2530,Lopes,XX,Olympique Lyonnais,248,51203
+2531,Tete,DF,Olympique Lyonnais,248,92966
+2532,Marcelo,DF,Olympique Lyonnais,248,17121
+2533,Morel,DF,Olympique Lyonnais,248,2625
+2534,Mendy,DF,Olympique Lyonnais,248,103732
+2535,Tousart,DM,Olympique Lyonnais,248,103639
+2536,Ndombèlé Alvaro,MF,Olympique Lyonnais,248,110596
+2537,Traore,FW,Olympique Lyonnais,248,67484
+2538,Fekir,AM,Olympique Lyonnais,248,82010
+2539,Cornet,FW,Olympique Lyonnais,248,81769
+2540,Mariano,FW,Olympique Lyonnais,248,89032
+2541,Koubek,XX,Stade Rennais FC,248,58527
+2542,Traoré,DF,Stade Rennais FC,248,88262
+2543,Gelin,DF,Stade Rennais FC,248,105662
+2544,Gnagnon,DF,Stade Rennais FC,248,106299
+2545,Bensebaini,DF,Stade Rennais FC,248,95735
+2546,Sarr,FW,Stade Rennais FC,248,111005
+2547,Prcić,MF,Stade Rennais FC,248,64461
+2548,Lea Siliki,MF,Stade Rennais FC,248,114520
+2549,Bourigeaud,MF,Stade Rennais FC,248,90571
+2550,Khazri,FW,Stade Rennais FC,248,41118
+2551,Sakho,FW,Stade Rennais FC,248,44033
+2552,Subašić,XX,AS Monaco,249,39386
+2553,Sidibe,DF,AS Monaco,249,63254
+2554,Glik,DF,AS Monaco,249,31005
+2555,Jemerson,DF,AS Monaco,249,80756
+2556,Raggi,DF,AS Monaco,249,1468
+2557,Tielemans,MF,AS Monaco,249,83341
+2558,Fabinho,DM,AS Monaco,249,73889
+2559,Lemar,MF,AS Monaco,249,81768
+2560,João Moutinho,MF,AS Monaco,249,1159
+2561,Diakhaby,FW,AS Monaco,249,111039
+2562,Baldé,FW,AS Monaco,249,82895
+2563,Reynet,XX,Dijon FCO,249,62178
+2564,Rosier,DF,Dijon FCO,249,116905
+2565,Yambere,DF,Dijon FCO,249,95738
+2566,Djilobodji,DF,Dijon FCO,249,50930
+2567,Haddadi,DF,Dijon FCO,249,100107
+2568,Amalfitano,MF,Dijon FCO,249,50897
+2569,Abeid,MF,Dijon FCO,249,59330
+2570,Balmont,MF,Dijon FCO,249,2615
+2571,CH Kwon,AM,Dijon FCO,249,80447
+2572,Tavares,FW,Dijon FCO,249,73518
+2573,Sliti,FW,Dijon FCO,249,62655
+2574,Aréola,XX,Paris Saint-Germain FC,250,51211
+2575,Daniel Alves,DF,Paris Saint-Germain FC,250,941
+2576,Thiago Silva,DF,Paris Saint-Germain FC,250,16839
+2577,Kimpembe,DF,Paris Saint-Germain FC,250,92924
+2578,Kurzawa,DF,Paris Saint-Germain FC,250,53511
+2579,Lo Celso,AM,Paris Saint-Germain FC,250,97036
+2580,Diarra,DM,Paris Saint-Germain FC,250,532
+2581,Draxler,FW,Paris Saint-Germain FC,250,55354
+2582,Di Maria,FW,Paris Saint-Germain FC,250,5016
+2583,Cavani,FW,Paris Saint-Germain FC,250,6737
+2584,Neymar,FW,Paris Saint-Germain FC,250,34907
+2585,Oukidja,XX,RC Strasbourg,250,25036
+2586,Foulquier,DF,RC Strasbourg,250,58602
+2587,Kone,DF,RC Strasbourg,250,15203
+2588,Martínez,DF,RC Strasbourg,250,81774
+2589,Seka,DF,RC Strasbourg,250,82736
+2590,Lala,DF,RC Strasbourg,250,62191
+2591,Martin,MF,RC Strasbourg,250,51194
+2592,Aholou,DM,RC Strasbourg,250,85538
+2593,Liénard,MF,RC Strasbourg,250,111346
+2594,Da Costa,FW,RC Strasbourg,250,104478
+2595,Bahoken,FW,RC Strasbourg,250,59411
+2596,Gurtner,XX,Amiens SCF,251,46337
+2597,Cissokho,DF,Amiens SCF,251,61024
+2598,Gouano,DF,Amiens SCF,251,61030
+2599,Dibassy,DF,Amiens SCF,251,110734
+2600,Avelar,DF,Amiens SCF,251,50273
+2601,Fofana,MF,Amiens SCF,251,110592
+2602,Monconduit,DM,Amiens SCF,251,58347
+2603,Gakpe,FW,Amiens SCF,251,552
+2604,Kakuta,FW,Amiens SCF,251,31873
+2605,Mendoza,FW,Amiens SCF,251,47745
+2606,Traore,FW,Amiens SCF,251,34108
+2607,Lafont,XX,Toulouse FC,251,107060
+2608,Yago,DF,Toulouse FC,251,63773
+2609,Diop,DF,Toulouse FC,251,106946
+2610,Amian,DF,Toulouse FC,251,105292
+2611,Sylla,MF,Toulouse FC,251,76048
+2612,Sangaré,MF,Toulouse FC,251,112348
+2613,Cahuzac,DM,Toulouse FC,251,22360
+2614,Imbula,DM,Toulouse FC,251,44580
+2615,Mubele,FW,Toulouse FC,251,98243
+2616,Sanogo,FW,Toulouse FC,251,34528
+2617,Gradel,FW,Toulouse FC,251,26373
+2618,Butelle,XX,Angers SCO,252,862
+2619,Manceau,DF,Angers SCO,252,51109
+2620,Traore,DF,Angers SCO,252,14906
+2621,Pavlović,DF,Angers SCO,252,61304
+2622,Andreu,DF,Angers SCO,252,30880
+2623,Santamaria,FW,Angers SCO,252,103910
+2624,Tait,MF,Angers SCO,252,81759
+2625,Oniangue,MF,Angers SCO,252,25045
+2626,Mangani,DM,Angers SCO,252,559
+2627,Capelle,MF,Angers SCO,252,73537
+2628,Toko Ekambi,FW,Angers SCO,252,103713
+2629,Ruffier,XX,AS Saint-Etienne,252,11267
+2630,Debuchy,DF,AS Saint-Etienne,252,3166
+2631,Subotić,DF,AS Saint-Etienne,252,8857
+2632,Perrin,DF,AS Saint-Etienne,252,6789
+2633,Gabriel Silva,DF,AS Saint-Etienne,252,48104
+2634,Selnæs,DM,AS Saint-Etienne,252,60538
+2635,M Vila,DM,AS Saint-Etienne,252,25046
+2636,Hamouma,FW,AS Saint-Etienne,252,41212
+2637,Cabella,AM,AS Saint-Etienne,252,38629
+2638,Ntep,FW,AS Saint-Etienne,252,53943
+2639,Berič,FW,AS Saint-Etienne,252,52204
+2640,Vercoutre,XX,Stade Malherbe Caen,253,1264
+2641,Guilbert,DF,Stade Malherbe Caen,253,98543
+2642,Genevois,DF,Stade Malherbe Caen,253,15397
+2643,Diomandé,DM,Stade Malherbe Caen,253,58876
+2644,Da Silva,DF,Stade Malherbe Caen,253,21684
+2645,Avounou,MF,Stade Malherbe Caen,253,117368
+2646,Feret,AM,Stade Malherbe Caen,253,15387
+2647,Sankoh,DM,Stade Malherbe Caen,253,63723
+2648,Peeters,MF,Stade Malherbe Caen,253,66406
+2649,Rodelin,FW,Stade Malherbe Caen,253,32238
+2650,Crivelli,FW,Stade Malherbe Caen,253,86701
+2651,Koubek,XX,Stade Rennais FC,253,58527
+2652,Danzé,DF,Stade Rennais FC,253,3375
+2653,Gelin,DF,Stade Rennais FC,253,105662
+2654,Gnagnon,DF,Stade Rennais FC,253,106299
+2655,Bensebaini,DF,Stade Rennais FC,253,95735
+2656,André,MF,Stade Rennais FC,253,28214
+2657,Prcić,MF,Stade Rennais FC,253,64461
+2658,Lea Siliki,MF,Stade Rennais FC,253,114520
+2659,Bourigeaud,MF,Stade Rennais FC,253,90571
+2660,Sakho,FW,Stade Rennais FC,253,44033
+2661,Sarr,FW,Stade Rennais FC,253,111005
+2662,Lecomte,XX,Montpellier-HSC,254,51234
+2663,Mukiele,DF,Montpellier-HSC,254,106875
+2664,Hilton,DF,Montpellier-HSC,254,2765
+2665,Congré,DF,Montpellier-HSC,254,5791
+2666,Aguilar,DF,Montpellier-HSC,254,103583
+2667,Skhiri,DM,Montpellier-HSC,254,93851
+2668,Sambia,MF,Montpellier-HSC,254,103634
+2669,Lasne,MF,Montpellier-HSC,254,38560
+2670,Mbenza,FW,Montpellier-HSC,254,103641
+2671,Ikoné,FW,Montpellier-HSC,254,105274
+2672,Sio,FW,Montpellier-HSC,254,44772
+2673,Johnsson,XX,EA Guingamp,254,27032
+2674,Ikoko,DF,EA Guingamp,254,82743
+2675,Kerbrat,DF,EA Guingamp,254,61035
+2676,Eboa Eboa,DF,EA Guingamp,254,105271
+2677,Tabanou,MF,EA Guingamp,254,25253
+2678,Déaux,DM,EA Guingamp,254,22343
+2679,Didot,MF,EA Guingamp,254,2658
+2680,Ngbakoto,FW,EA Guingamp,254,44034
+2681,Grenier,AM,EA Guingamp,254,38653
+2682,Briand,FW,EA Guingamp,254,2663
+2683,Thuram,FW,EA Guingamp,254,104062
+2684,Zelazny,XX,ES Troyes AC,255,43062
+2685,Deplagne,DF,ES Troyes AC,255,53701
+2686,Giraudon,DF,ES Troyes AC,255,110714
+2687,Hérelle,DF,ES Troyes AC,255,68900
+2688,Traoré,DF,ES Troyes AC,255,107537
+2689,Walter,DM,ES Troyes AC,255,77898
+2690,Bellugou,DM,ES Troyes AC,255,23394
+2691,Grandsir,FW,ES Troyes AC,255,108740
+2692,Khaoui,AM,ES Troyes AC,255,103944
+2693,Pelé,MF,ES Troyes AC,255,82008
+2694,Niané,FW,ES Troyes AC,255,80384
+2695,Kawashima,XX,FC Metz,255,17507
+2696,Rivierez,DF,FC Metz,255,44581
+2697,Diagne,DF,FC Metz,255,28322
+2698,Niakhaté,DF,FC Metz,255,103642
+2699,Palmieri,DF,FC Metz,255,8820
+2700,Cohade,MF,FC Metz,255,11220
+2701,Mollet,AM,FC Metz,255,70643
+2702,Dossevi,FW,FC Metz,255,25039
+2703,Miličević,AM,FC Metz,255,32061
+2704,Rivière,FW,FC Metz,255,25306
+2705,Roux,FW,FC Metz,255,28351
+2706,Benítez,XX,OGC Nice,256,64701
+2707,Burner,MF,OGC Nice,256,113134
+2708,Dante,DF,OGC Nice,256,9099
+2709,Sarr,DF,OGC Nice,256,111035
+2710,Racine,DF,OGC Nice,256,89880
+2711,Lees-Melou,MF,OGC Nice,256,103598
+2712,Tameze Aoutsa,DM,OGC Nice,256,77757
+2713,Seri,MF,OGC Nice,256,83642
+2714,Saint-Maximin,FW,OGC Nice,256,82829
+2715,Balotelli,FW,OGC Nice,256,15257
+2716,Pléa,FW,OGC Nice,256,65937
+2717,Tătăruşanu,XX,FC Nantes,256,19829
+2718,Dubois,DF,FC Nantes,256,89668
+2719,Djidji,DF,FC Nantes,256,73529
+2720,Pallois,DF,FC Nantes,256,51219
+2721,Lima,DF,FC Nantes,256,73439
+2722,Andrei Girotto,DM,FC Nantes,256,100930
+2723,Touré,DM,FC Nantes,256,82029
+2724,Iloki,FW,FC Nantes,256,95741
+2725,Rongier,DM,FC Nantes,256,93214
+2726,Thomasson,MF,FC Nantes,256,70193
+2727,Sala,FW,FC Nantes,256,62170
+2728,Maignan,XX,Lille OSC,257,81994
+2729,Edgar Ié,DF,Lille OSC,257,75774
+2730,Soumaoro,DF,Lille OSC,257,62184
+2731,Alonso,DF,Lille OSC,257,77052
+2732,Ballo-Toure,DF,Lille OSC,257,105273
+2733,Thiago Mendes,MF,Lille OSC,257,79916
+2734,Amadou,DM,Lille OSC,257,74398
+2735,Thiago Maia,DM,Lille OSC,257,95761
+2736,Pepe,FW,Lille OSC,257,110880
+2737,Mothiba,FW,Lille OSC,257,110661
+2738,El-Ghazi,FW,Lille OSC,257,92965
+2739,Lopes,XX,Olympique Lyonnais,257,51203
+2740,Rafael,DF,Olympique Lyonnais,257,25647
+2741,Diakhaby,DF,Olympique Lyonnais,257,105648
+2742,Morel,DF,Olympique Lyonnais,257,2625
+2743,Marçal,DF,Olympique Lyonnais,257,67469
+2744,Ferri,MF,Olympique Lyonnais,257,65590
+2745,Tousart,DM,Olympique Lyonnais,257,103639
+2746,Ndombèlé Alvaro,MF,Olympique Lyonnais,257,110596
+2747,Traore,FW,Olympique Lyonnais,257,67484
+2748,Mariano,FW,Olympique Lyonnais,257,89032
+2749,Depay,FW,Olympique Lyonnais,257,68281
+2750,Pelé,XX,Olympique de Marseille,258,2734
+2751,Sakai,DF,Olympique de Marseille,258,27859
+2752,Rami,DF,Olympique de Marseille,258,8882
+2753,Rolando,DF,Olympique de Marseille,258,3623
+2754,Amavi,DF,Olympique de Marseille,258,82028
+2755,Zambo Anguissa,DM,Olympique de Marseille,258,98555
+2756,Luiz Gustavo,DM,Olympique de Marseille,258,13486
+2757,Thauvin,FW,Olympique de Marseille,258,73628
+2758,Sanson,MF,Olympique de Marseille,258,73514
+2759,Payet,FW,Olympique de Marseille,258,2589
+2760,Germain,FW,Olympique de Marseille,258,54508
+2761,Costil,XX,FC Girondins de Bordeaux,258,11144
+2762,Sabaly,DF,FC Girondins de Bordeaux,258,80337
+2763,Koundé,DF,FC Girondins de Bordeaux,258,122801
+2764,Pablo,DF,FC Girondins de Bordeaux,258,53184
+2765,Pellenard,DF,FC Girondins de Bordeaux,258,85644
+2766,Lerager,MF,FC Girondins de Bordeaux,258,80963
+2767,Otavio,DM,FC Girondins de Bordeaux,258,87169
+2768,Meité,DM,FC Girondins de Bordeaux,258,62164
+2769,Malcom,FW,FC Girondins de Bordeaux,258,89633
+2770,Laborde,FW,FC Girondins de Bordeaux,258,90570
+2771,De Préville,FW,FC Girondins de Bordeaux,258,41128
+2772,Zelazny,XX,ES Troyes AC,259,43062
+2773,Deplagne,DF,ES Troyes AC,259,53701
+2774,Vizcarrondo,DF,ES Troyes AC,259,10495
+2775,Hérelle,DF,ES Troyes AC,259,68900
+2776,Obiang,DF,ES Troyes AC,259,81760
+2777,Azamoum,MF,ES Troyes AC,259,103914
+2778,Walter,DM,ES Troyes AC,259,77898
+2779,Grandsir,FW,ES Troyes AC,259,108740
+2780,Khaoui,AM,ES Troyes AC,259,103944
+2781,Pelé,MF,ES Troyes AC,259,82008
+2782,Niané,FW,ES Troyes AC,259,80384
+2783,Reynet,XX,Dijon FCO,259,62178
+2784,Chafik,DF,Dijon FCO,259,73531
+2785,Yambere,DF,Dijon FCO,259,95738
+2786,Djilobodji,DF,Dijon FCO,259,50930
+2787,Rosier,DF,Dijon FCO,259,116905
+2788,Abeid,MF,Dijon FCO,259,59330
+2789,Lautoa,DF,Dijon FCO,259,50917
+2790,Amalfitano,MF,Dijon FCO,259,50897
+2791,CH Kwon,AM,Dijon FCO,259,80447
+2792,Tavares,FW,Dijon FCO,259,73518
+2793,Sliti,FW,Dijon FCO,259,62655
+2794,Oukidja,XX,RC Strasbourg,260,25036
+2795,Foulquier,DF,RC Strasbourg,260,58602
+2796,Kone,DF,RC Strasbourg,260,15203
+2797,Martínez,DF,RC Strasbourg,260,81774
+2798,Lala,DF,RC Strasbourg,260,62191
+2799,Martin,MF,RC Strasbourg,260,51194
+2800,Aholou,DM,RC Strasbourg,260,85538
+2801,Liénard,MF,RC Strasbourg,260,111346
+2802,Terrier,FW,RC Strasbourg,260,113059
+2803,Bahoken,FW,RC Strasbourg,260,59411
+2804,Blayac,FW,RC Strasbourg,260,27593
+2805,Lecomte,XX,Montpellier-HSC,260,51234
+2806,Mukiele,DF,Montpellier-HSC,260,106875
+2807,Hilton,DF,Montpellier-HSC,260,2765
+2808,Pedro Mendes,DF,Montpellier-HSC,260,66639
+2809,Aguilar,DF,Montpellier-HSC,260,103583
+2810,Skhiri,DM,Montpellier-HSC,260,93851
+2811,Lasne,MF,Montpellier-HSC,260,38560
+2812,Congré,DF,Montpellier-HSC,260,5791
+2813,Sambia,MF,Montpellier-HSC,260,103634
+2814,Mbenza,FW,Montpellier-HSC,260,103641
+2815,Sio,FW,Montpellier-HSC,260,44772
+2816,Lafont,XX,Toulouse FC,261,107060
+2817,Yago,DF,Toulouse FC,261,63773
+2818,Diop,DF,Toulouse FC,261,106946
+2819,Amian,DF,Toulouse FC,261,105292
+2820,Moubandje,DF,Toulouse FC,261,60636
+2821,Sangaré,MF,Toulouse FC,261,112348
+2822,Cahuzac,DM,Toulouse FC,261,22360
+2823,Imbula,DM,Toulouse FC,261,44580
+2824,Mubele,FW,Toulouse FC,261,98243
+2825,Sanogo,FW,Toulouse FC,261,34528
+2826,Sylla,MF,Toulouse FC,261,76048
+2827,Subašić,XX,AS Monaco,261,39386
+2828,Sidibe,DF,AS Monaco,261,63254
+2829,Glik,DF,AS Monaco,261,31005
+2830,Jemerson,DF,AS Monaco,261,80756
+2831,Raggi,DF,AS Monaco,261,1468
+2832,João Moutinho,MF,AS Monaco,261,1159
+2833,Fabinho,DM,AS Monaco,261,73889
+2834,Tielemans,MF,AS Monaco,261,83341
+2835,Lemar,MF,AS Monaco,261,81768
+2836,Lopes,FW,AS Monaco,261,76765
+2837,Baldé,FW,AS Monaco,261,82895
+2838,Reynet,XX,Dijon FCO,262,62178
+2839,Rosier,DF,Dijon FCO,262,116905
+2840,Yambere,DF,Dijon FCO,262,95738
+2841,Djilobodji,DF,Dijon FCO,262,50930
+2842,Lautoa,DF,Dijon FCO,262,50917
+2843,Haddadi,DF,Dijon FCO,262,100107
+2844,Balmont,MF,Dijon FCO,262,2615
+2845,Abeid,MF,Dijon FCO,262,59330
+2846,Amalfitano,MF,Dijon FCO,262,50897
+2847,Saïd,FW,Dijon FCO,262,79468
+2848,Tavares,FW,Dijon FCO,262,73518
+2849,Vercoutre,XX,Stade Malherbe Caen,262,1264
+2850,Genevois,DF,Stade Malherbe Caen,262,15397
+2851,Da Silva,DF,Stade Malherbe Caen,262,21684
+2852,Djiku,DF,Stade Malherbe Caen,262,75891
+2853,Guilbert,DF,Stade Malherbe Caen,262,98543
+2854,Feret,AM,Stade Malherbe Caen,262,15387
+2855,Peeters,MF,Stade Malherbe Caen,262,66406
+2856,Armougom,DF,Stade Malherbe Caen,262,123309
+2857,Rodelin,FW,Stade Malherbe Caen,262,32238
+2858,Santini,FW,Stade Malherbe Caen,262,33266
+2859,Crivelli,FW,Stade Malherbe Caen,262,86701
+2860,Johnsson,XX,EA Guingamp,263,27032
+2861,Ikoko,DF,EA Guingamp,263,82743
+2862,Kerbrat,DF,EA Guingamp,263,61035
+2863,Eboa Eboa,DF,EA Guingamp,263,105271
+2864,Rebocho,DF,EA Guingamp,263,101269
+2865,Déaux,DM,EA Guingamp,263,22343
+2866,Phiri,DM,EA Guingamp,263,78818
+2867,Salibur,FW,EA Guingamp,263,38607
+2868,Grenier,AM,EA Guingamp,263,38653
+2869,Ngbakoto,FW,EA Guingamp,263,44034
+2870,Thuram,FW,EA Guingamp,263,104062
+2871,Kawashima,XX,FC Metz,263,17507
+2872,Balliu,DF,FC Metz,263,63988
+2873,Selimovic,DF,FC Metz,263,111008
+2874,Niakhaté,DF,FC Metz,263,103642
+2875,Lempereur,DF,FC Metz,263,125108
+2876,Mandjeck,DM,FC Metz,263,11385
+2877,Cohade,MF,FC Metz,263,11220
+2878,Dossevi,FW,FC Metz,263,25039
+2879,Miličević,AM,FC Metz,263,32061
+2880,Mollet,AM,FC Metz,263,70643
+2881,Roux,FW,FC Metz,263,28351
+2882,Maignan,XX,Lille OSC,264,81994
+2883,Dabila,DF,Lille OSC,264,121073
+2884,Soumaoro,DF,Lille OSC,264,62184
+2885,Alonso,DF,Lille OSC,264,77052
+2886,Ballo-Toure,DF,Lille OSC,264,105273
+2887,Amadou,DM,Lille OSC,264,74398
+2888,Thiago Maia,DM,Lille OSC,264,95761
+2889,Pepe,FW,Lille OSC,264,110880
+2890,Thiago Mendes,MF,Lille OSC,264,79916
+2891,Luiz Araújo,FW,Lille OSC,264,108919
+2892,Mothiba,FW,Lille OSC,264,110661
+2893,Butelle,XX,Angers SCO,264,862
+2894,Manceau,DF,Angers SCO,264,51109
+2895,Traore,DF,Angers SCO,264,14906
+2896,Pavlović,DF,Angers SCO,264,61304
+2897,Andreu,DF,Angers SCO,264,30880
+2898,Santamaria,FW,Angers SCO,264,103910
+2899,Reine-Adelaide,MF,Angers SCO,264,100525
+2900,Oniangue,MF,Angers SCO,264,25045
+2901,Mangani,DM,Angers SCO,264,559
+2902,Tait,MF,Angers SCO,264,81759
+2903,Toko Ekambi,FW,Angers SCO,264,103713
+2904,Tătăruşanu,XX,FC Nantes,265,19829
+2905,Dubois,DF,FC Nantes,265,89668
+2906,Diego Carlos,DF,FC Nantes,265,104102
+2907,Pallois,DF,FC Nantes,265,51219
+2908,Lima,DF,FC Nantes,265,73439
+2909,Touré,DM,FC Nantes,265,82029
+2910,Andrei Girotto,DM,FC Nantes,265,100930
+2911,N Gom,FW,FC Nantes,265,123527
+2912,Rongier,DM,FC Nantes,265,93214
+2913,Thomasson,MF,FC Nantes,265,70193
+2914,Sala,FW,FC Nantes,265,62170
+2915,Gurtner,XX,Amiens SCF,265,46337
+2916,Cissokho,DF,Amiens SCF,265,61024
+2917,Gouano,DF,Amiens SCF,265,61030
+2918,Adenon,DF,Amiens SCF,265,15498
+2919,Dibassy,DF,Amiens SCF,265,110734
+2920,Monconduit,DM,Amiens SCF,265,58347
+2921,Ielsch,DF,Amiens SCF,265,22345
+2922,Kakuta,FW,Amiens SCF,265,31873
+2923,Mendoza,FW,Amiens SCF,265,47745
+2924,Gakpe,FW,Amiens SCF,265,552
+2925,Traore,FW,Amiens SCF,265,34108
+2926,Koubek,XX,Stade Rennais FC,266,58527
+2927,Traoré,DF,Stade Rennais FC,266,88262
+2928,Gelin,DF,Stade Rennais FC,266,105662
+2929,Gnagnon,DF,Stade Rennais FC,266,106299
+2930,Danzé,DF,Stade Rennais FC,266,3375
+2931,André,MF,Stade Rennais FC,266,28214
+2932,Prcić,MF,Stade Rennais FC,266,64461
+2933,Hunou,AM,Stade Rennais FC,266,79522
+2934,Gourcuff,AM,Stade Rennais FC,266,832
+2935,Sarr,FW,Stade Rennais FC,266,111005
+2936,Khazri,FW,Stade Rennais FC,266,41118
+2937,Zelazny,XX,ES Troyes AC,266,43062
+2938,Deplagne,DF,ES Troyes AC,266,53701
+2939,Giraudon,DF,ES Troyes AC,266,110714
+2940,Hérelle,DF,ES Troyes AC,266,68900
+2941,Traoré,DF,ES Troyes AC,266,107537
+2942,Bellugou,DM,ES Troyes AC,266,23394
+2943,Grandsir,FW,ES Troyes AC,266,108740
+2944,Azamoum,MF,ES Troyes AC,266,103914
+2945,Walter,DM,ES Troyes AC,266,77898
+2946,Pelé,MF,ES Troyes AC,266,82008
+2947,Suk,FW,ES Troyes AC,266,44749
+2948,Costil,XX,FC Girondins de Bordeaux,267,11144
+2949,Sabaly,DF,FC Girondins de Bordeaux,267,80337
+2950,Baysse,DF,FC Girondins de Bordeaux,267,1308
+2951,Pablo,DF,FC Girondins de Bordeaux,267,53184
+2952,Poundjé,DF,FC Girondins de Bordeaux,267,73630
+2953,Lerager,MF,FC Girondins de Bordeaux,267,80963
+2954,Plašil,MF,FC Girondins de Bordeaux,267,550
+2955,Meité,DM,FC Girondins de Bordeaux,267,62164
+2956,Kamano,FW,FC Girondins de Bordeaux,267,93209
+2957,Braithwaite,FW,FC Girondins de Bordeaux,267,36105
+2958,De Préville,FW,FC Girondins de Bordeaux,267,41128
+2959,Benítez,XX,OGC Nice,267,64701
+2960,Burner,MF,OGC Nice,267,113134
+2961,Marlon,DF,OGC Nice,267,90081
+2962,Sarr,DF,OGC Nice,267,111035
+2963,Racine,DF,OGC Nice,267,89880
+2964,Tameze Aoutsa,DM,OGC Nice,267,77757
+2965,Mendy,DM,OGC Nice,267,51181
+2966,Lees-Melou,MF,OGC Nice,267,103598
+2967,Sacko,FW,OGC Nice,267,110492
+2968,Pléa,FW,OGC Nice,267,65937
+2969,Makengo,MF,OGC Nice,267,107064
+2970,Gorgelin,XX,Olympique Lyonnais,268,51204
+2971,Rafael,DF,Olympique Lyonnais,268,25647
+2972,Marcelo,DF,Olympique Lyonnais,268,17121
+2973,Morel,DF,Olympique Lyonnais,268,2625
+2974,Mendy,DF,Olympique Lyonnais,268,103732
+2975,Tousart,DM,Olympique Lyonnais,268,103639
+2976,Ndombèlé Alvaro,MF,Olympique Lyonnais,268,110596
+2977,Traore,FW,Olympique Lyonnais,268,67484
+2978,Fekir,AM,Olympique Lyonnais,268,82010
+2979,Depay,FW,Olympique Lyonnais,268,68281
+2980,Mariano,FW,Olympique Lyonnais,268,89032
+2981,Ruffier,XX,AS Saint-Etienne,268,11267
+2982,Debuchy,DF,AS Saint-Etienne,268,3166
+2983,Subotić,DF,AS Saint-Etienne,268,8857
+2984,Perrin,DF,AS Saint-Etienne,268,6789
+2985,Gabriel Silva,DF,AS Saint-Etienne,268,48104
+2986,M Vila,DM,AS Saint-Etienne,268,25046
+2987,Selnæs,DM,AS Saint-Etienne,268,60538
+2988,Bamba,FW,AS Saint-Etienne,268,96869
+2989,Cabella,AM,AS Saint-Etienne,268,38629
+2990,Monnet-Paquet,FW,AS Saint-Etienne,268,2899
+2991,Berič,FW,AS Saint-Etienne,268,52204
+2992,Aréola,XX,Paris Saint-Germain FC,269,51211
+2993,Daniel Alves,DF,Paris Saint-Germain FC,269,941
+2994,Marquinhos,DF,Paris Saint-Germain FC,269,70255
+2995,Thiago Silva,DF,Paris Saint-Germain FC,269,16839
+2996,Kurzawa,DF,Paris Saint-Germain FC,269,53511
+2997,Lo Celso,AM,Paris Saint-Germain FC,269,97036
+2998,Diarra,DM,Paris Saint-Germain FC,269,532
+2999,Rabiot,MF,Paris Saint-Germain FC,269,73635
+3000,Mbappé,FW,Paris Saint-Germain FC,269,107095
+3001,Cavani,FW,Paris Saint-Germain FC,269,6737
+3002,Neymar,FW,Paris Saint-Germain FC,269,34907
+3003,Pelé,XX,Olympique de Marseille,269,2734
+3004,Sakai,DF,Olympique de Marseille,269,27859
+3005,Rami,DF,Olympique de Marseille,269,8882
+3006,Rolando,DF,Olympique de Marseille,269,3623
+3007,Amavi,DF,Olympique de Marseille,269,82028
+3008,Zambo Anguissa,DM,Olympique de Marseille,269,98555
+3009,Luiz Gustavo,DM,Olympique de Marseille,269,13486
+3010,Thauvin,FW,Olympique de Marseille,269,73628
+3011,Payet,FW,Olympique de Marseille,269,2589
+3012,Ocampos,FW,Olympique de Marseille,269,63120
+3013,Germain,FW,Olympique de Marseille,269,54508
+3014,Benítez,XX,OGC Nice,270,64701
+3015,Burner,MF,OGC Nice,270,113134
+3016,Marlon,DF,OGC Nice,270,90081
+3017,Dante,DF,OGC Nice,270,9099
+3018,Racine,DF,OGC Nice,270,89880
+3019,Cyprien,MF,OGC Nice,270,81865
+3020,Seri,MF,OGC Nice,270,83642
+3021,Tameze Aoutsa,DM,OGC Nice,270,77757
+3022,Saint-Maximin,FW,OGC Nice,270,82829
+3023,Balotelli,FW,OGC Nice,270,15257
+3024,Pléa,FW,OGC Nice,270,65937
+3025,Maignan,XX,Lille OSC,270,81994
+3026,Edgar Ié,DF,Lille OSC,270,75774
+3027,Soumaoro,DF,Lille OSC,270,62184
+3028,Alonso,DF,Lille OSC,270,77052
+3029,Ballo-Toure,DF,Lille OSC,270,105273
+3030,Amadou,DM,Lille OSC,270,74398
+3031,Thiago Maia,DM,Lille OSC,270,95761
+3032,Pepe,FW,Lille OSC,270,110880
+3033,Benzia,AM,Lille OSC,270,70642
+3034,Luiz Araújo,FW,Lille OSC,270,108919
+3035,Mothiba,FW,Lille OSC,270,110661
+3036,Subašić,XX,AS Monaco,271,39386
+3037,Sidibe,DF,AS Monaco,271,63254
+3038,Raggi,DF,AS Monaco,271,1468
+3039,Jemerson,DF,AS Monaco,271,80756
+3040,Jorge,DF,AS Monaco,271,95762
+3041,João Moutinho,MF,AS Monaco,271,1159
+3042,Fabinho,DM,AS Monaco,271,73889
+3043,Ghezzal,FW,AS Monaco,271,51208
+3044,Lemar,MF,AS Monaco,271,81768
+3045,Lopes,FW,AS Monaco,271,76765
+3046,Jovetić,FW,AS Monaco,271,11031
+3047,Costil,XX,FC Girondins de Bordeaux,271,11144
+3048,Sabaly,DF,FC Girondins de Bordeaux,271,80337
+3049,Baysse,DF,FC Girondins de Bordeaux,271,1308
+3050,Pablo,DF,FC Girondins de Bordeaux,271,53184
+3051,Poundjé,DF,FC Girondins de Bordeaux,271,73630
+3052,Lerager,MF,FC Girondins de Bordeaux,271,80963
+3053,Plašil,MF,FC Girondins de Bordeaux,271,550
+3054,Vada,MF,FC Girondins de Bordeaux,271,107096
+3055,Kamano,FW,FC Girondins de Bordeaux,271,93209
+3056,Braithwaite,FW,FC Girondins de Bordeaux,271,36105
+3057,De Préville,FW,FC Girondins de Bordeaux,271,41128
+3058,Zelazny,XX,ES Troyes AC,272,43062
+3059,Cordoval,DF,ES Troyes AC,272,41321
+3060,Vizcarrondo,DF,ES Troyes AC,272,10495
+3061,Hérelle,DF,ES Troyes AC,272,68900
+3062,Obiang,DF,ES Troyes AC,272,81760
+3063,Bellugou,DM,ES Troyes AC,272,23394
+3064,Grandsir,FW,ES Troyes AC,272,108740
+3065,Azamoum,MF,ES Troyes AC,272,103914
+3066,Walter,DM,ES Troyes AC,272,77898
+3067,Pelé,MF,ES Troyes AC,272,82008
+3068,Suk,FW,ES Troyes AC,272,44749
+3069,Aréola,XX,Paris Saint-Germain FC,272,51211
+3070,Meunier,DF,Paris Saint-Germain FC,272,62078
+3071,Thiago Silva,DF,Paris Saint-Germain FC,272,16839
+3072,Kimpembe,DF,Paris Saint-Germain FC,272,92924
+3073,Kurzawa,DF,Paris Saint-Germain FC,272,53511
+3074,Lo Celso,AM,Paris Saint-Germain FC,272,97036
+3075,Diarra,DM,Paris Saint-Germain FC,272,532
+3076,Rabiot,MF,Paris Saint-Germain FC,272,73635
+3077,Di Maria,FW,Paris Saint-Germain FC,272,5016
+3078,Draxler,FW,Paris Saint-Germain FC,272,55354
+3079,Nkunku,AM,Paris Saint-Germain FC,272,103174
+3080,Gurtner,XX,Amiens SCF,273,46337
+3081,Cissokho,DF,Amiens SCF,273,61024
+3082,Gouano,DF,Amiens SCF,273,61030
+3083,Adenon,DF,Amiens SCF,273,15498
+3084,Dibassy,DF,Amiens SCF,273,110734
+3085,Monconduit,DM,Amiens SCF,273,58347
+3086,Ielsch,DF,Amiens SCF,273,22345
+3087,Gakpe,FW,Amiens SCF,273,552
+3088,Mendoza,FW,Amiens SCF,273,47745
+3089,Manzala,FW,Amiens SCF,273,103730
+3090,Traore,FW,Amiens SCF,273,34108
+3091,Koubek,XX,Stade Rennais FC,273,58527
+3092,Traoré,DF,Stade Rennais FC,273,88262
+3093,Mexer,DF,Stade Rennais FC,273,43846
+3094,Gnagnon,DF,Stade Rennais FC,273,106299
+3095,Bensebaini,DF,Stade Rennais FC,273,95735
+3096,André,MF,Stade Rennais FC,273,28214
+3097,Gelin,DF,Stade Rennais FC,273,105662
+3098,Lea Siliki,MF,Stade Rennais FC,273,114520
+3099,Hunou,AM,Stade Rennais FC,273,79522
+3100,Sakho,FW,Stade Rennais FC,273,44033
+3101,Khazri,FW,Stade Rennais FC,273,41118
+3102,Butelle,XX,Angers SCO,274,862
+3103,Manceau,DF,Angers SCO,274,51109
+3104,Traore,DF,Angers SCO,274,14906
+3105,Pavlović,DF,Angers SCO,274,61304
+3106,Andreu,DF,Angers SCO,274,30880
+3107,Santamaria,FW,Angers SCO,274,103910
+3108,Capelle,MF,Angers SCO,274,73537
+3109,Reine-Adelaide,MF,Angers SCO,274,100525
+3110,Mangani,DM,Angers SCO,274,559
+3111,Tait,MF,Angers SCO,274,81759
+3112,Toko Ekambi,FW,Angers SCO,274,103713
+3113,Johnsson,XX,EA Guingamp,274,27032
+3114,Ikoko,DF,EA Guingamp,274,82743
+3115,Kerbrat,DF,EA Guingamp,274,61035
+3116,Eboa Eboa,DF,EA Guingamp,274,105271
+3117,Rebocho,DF,EA Guingamp,274,101269
+3118,Déaux,DM,EA Guingamp,274,22343
+3119,Didot,MF,EA Guingamp,274,2658
+3120,Salibur,FW,EA Guingamp,274,38607
+3121,Grenier,AM,EA Guingamp,274,38653
+3122,Coco,FW,EA Guingamp,274,98346
+3123,Briand,FW,EA Guingamp,274,2663
+3124,Kawashima,XX,FC Metz,275,17507
+3125,Balliu,DF,FC Metz,275,63988
+3126,Rivierez,DF,FC Metz,275,44581
+3127,Niakhaté,DF,FC Metz,275,103642
+3128,Palmieri,DF,FC Metz,275,8820
+3129,Poblete,MF,FC Metz,275,62314
+3130,Cohade,MF,FC Metz,275,11220
+3131,Dossevi,FW,FC Metz,275,25039
+3132,Miličević,AM,FC Metz,275,32061
+3133,Roux,FW,FC Metz,275,28351
+3134,Rivière,FW,FC Metz,275,25306
+3135,Lafont,XX,Toulouse FC,275,107060
+3136,Amian,DF,Toulouse FC,275,105292
+3137,Diop,DF,Toulouse FC,275,106946
+3138,Jullien,DF,Toulouse FC,275,69598
+3139,Moubandje,DF,Toulouse FC,275,60636
+3140,Sangaré,MF,Toulouse FC,275,112348
+3141,Cahuzac,DM,Toulouse FC,275,22360
+3142,Blin,DM,Toulouse FC,275,97259
+3143,Jean,FW,Toulouse FC,275,73964
+3144,Delort,FW,Toulouse FC,275,41327
+3145,Gradel,FW,Toulouse FC,275,26373
+3146,Ruffier,XX,AS Saint-Etienne,276,11267
+3147,Debuchy,DF,AS Saint-Etienne,276,3166
+3148,Subotić,DF,AS Saint-Etienne,276,8857
+3149,Perrin,DF,AS Saint-Etienne,276,6789
+3150,Gabriel Silva,DF,AS Saint-Etienne,276,48104
+3151,Selnæs,DM,AS Saint-Etienne,276,60538
+3152,M Vila,DM,AS Saint-Etienne,276,25046
+3153,Hamouma,FW,AS Saint-Etienne,276,41212
+3154,Cabella,AM,AS Saint-Etienne,276,38629
+3155,Bamba,FW,AS Saint-Etienne,276,96869
+3156,Berič,FW,AS Saint-Etienne,276,52204
+3157,Reynet,XX,Dijon FCO,276,62178
+3158,Rosier,DF,Dijon FCO,276,116905
+3159,Yambere,DF,Dijon FCO,276,95738
+3160,Djilobodji,DF,Dijon FCO,276,50930
+3161,Lautoa,DF,Dijon FCO,276,50917
+3162,Haddadi,DF,Dijon FCO,276,100107
+3163,Saïd,FW,Dijon FCO,276,79468
+3164,Abeid,MF,Dijon FCO,276,59330
+3165,Amalfitano,MF,Dijon FCO,276,50897
+3166,Sliti,FW,Dijon FCO,276,62655
+3167,Tavares,FW,Dijon FCO,276,73518
+3168,Vercoutre,XX,Stade Malherbe Caen,277,1264
+3169,Genevois,DF,Stade Malherbe Caen,277,15397
+3170,Diomandé,DM,Stade Malherbe Caen,277,58876
+3171,Djiku,DF,Stade Malherbe Caen,277,75891
+3172,Guilbert,DF,Stade Malherbe Caen,277,98543
+3173,Aït Bennasser,DM,Stade Malherbe Caen,277,103901
+3174,Sankoh,DM,Stade Malherbe Caen,277,63723
+3175,Peeters,MF,Stade Malherbe Caen,277,66406
+3176,Avounou,MF,Stade Malherbe Caen,277,117368
+3177,Crivelli,FW,Stade Malherbe Caen,277,86701
+3178,Rodelin,FW,Stade Malherbe Caen,277,32238
+3179,Oukidja,XX,RC Strasbourg,277,25036
+3180,Foulquier,DF,RC Strasbourg,277,58602
+3181,Salmier,DF,RC Strasbourg,277,110491
+3182,Kone,DF,RC Strasbourg,277,15203
+3183,Martínez,DF,RC Strasbourg,277,81774
+3184,Lala,DF,RC Strasbourg,277,62191
+3185,Martin,MF,RC Strasbourg,277,51194
+3186,Aholou,DM,RC Strasbourg,277,85538
+3187,Liénard,MF,RC Strasbourg,277,111346
+3188,Bahoken,FW,RC Strasbourg,277,59411
+3189,Terrier,FW,RC Strasbourg,277,113059
+3190,Lecomte,XX,Montpellier-HSC,278,51234
+3191,Mukiele,DF,Montpellier-HSC,278,106875
+3192,Hilton,DF,Montpellier-HSC,278,2765
+3193,Congré,DF,Montpellier-HSC,278,5791
+3194,Aguilar,DF,Montpellier-HSC,278,103583
+3195,Skhiri,DM,Montpellier-HSC,278,93851
+3196,Lasne,MF,Montpellier-HSC,278,38560
+3197,Roussillon,DF,Montpellier-HSC,278,55616
+3198,Ikoné,FW,Montpellier-HSC,278,105274
+3199,Mbenza,FW,Montpellier-HSC,278,103641
+3200,Sio,FW,Montpellier-HSC,278,44772
+3201,Lopes,XX,Olympique Lyonnais,278,51203
+3202,Tete,DF,Olympique Lyonnais,278,92966
+3203,Marcelo,DF,Olympique Lyonnais,278,17121
+3204,Morel,DF,Olympique Lyonnais,278,2625
+3205,Mendy,DF,Olympique Lyonnais,278,103732
+3206,Ndombèlé Alvaro,MF,Olympique Lyonnais,278,110596
+3207,Tousart,DM,Olympique Lyonnais,278,103639
+3208,Aouar,MF,Olympique Lyonnais,278,105657
+3209,Traore,FW,Olympique Lyonnais,278,67484
+3210,Mariano,FW,Olympique Lyonnais,278,89032
+3211,Depay,FW,Olympique Lyonnais,278,68281
+3212,Mandanda,XX,Olympique de Marseille,279,11353
+3213,Sarr,MF,Olympique de Marseille,279,73522
+3214,Rami,DF,Olympique de Marseille,279,8882
+3215,Rolando,DF,Olympique de Marseille,279,3623
+3216,Amavi,DF,Olympique de Marseille,279,82028
+3217,Zambo Anguissa,DM,Olympique de Marseille,279,98555
+3218,Luiz Gustavo,DM,Olympique de Marseille,279,13486
+3219,Thauvin,FW,Olympique de Marseille,279,73628
+3220,Sanson,MF,Olympique de Marseille,279,73514
+3221,Payet,FW,Olympique de Marseille,279,2589
+3222,Germain,FW,Olympique de Marseille,279,54508
+3223,Tătăruşanu,XX,FC Nantes,279,19829
+3224,Dubois,DF,FC Nantes,279,89668
+3225,Diego Carlos,DF,FC Nantes,279,104102
+3226,Pallois,DF,FC Nantes,279,51219
+3227,Awaziem,DF,FC Nantes,279,106954
+3228,Krhin,DM,FC Nantes,279,40392
+3229,Andrei Girotto,DM,FC Nantes,279,100930
+3230,Kayambe,MF,FC Nantes,279,90152
+3231,Rongier,DM,FC Nantes,279,93214
+3232,Lima,DF,FC Nantes,279,73439
+3233,Sala,FW,FC Nantes,279,62170
+3234,Oukidja,XX,RC Strasbourg,280,25036
+3235,Lala,DF,RC Strasbourg,280,62191
+3236,Kone,DF,RC Strasbourg,280,15203
+3237,Martínez,DF,RC Strasbourg,280,81774
+3238,Seka,DF,RC Strasbourg,280,82736
+3239,Martin,MF,RC Strasbourg,280,51194
+3240,Aholou,DM,RC Strasbourg,280,85538
+3241,Liénard,MF,RC Strasbourg,280,111346
+3242,Bahoken,FW,RC Strasbourg,280,59411
+3243,Blayac,FW,RC Strasbourg,280,27593
+3244,Terrier,FW,RC Strasbourg,280,113059
+3245,Subašić,XX,AS Monaco,280,39386
+3246,Sidibe,DF,AS Monaco,280,63254
+3247,Glik,DF,AS Monaco,280,31005
+3248,Jemerson,DF,AS Monaco,280,80756
+3249,Raggi,DF,AS Monaco,280,1468
+3250,João Moutinho,MF,AS Monaco,280,1159
+3251,Fabinho,DM,AS Monaco,280,73889
+3252,Baldé,FW,AS Monaco,280,82895
+3253,Lemar,MF,AS Monaco,280,81768
+3254,Lopes,FW,AS Monaco,280,76765
+3255,Jovetić,FW,AS Monaco,280,11031
+3256,Aréola,XX,Paris Saint-Germain FC,281,51211
+3257,Meunier,DF,Paris Saint-Germain FC,281,62078
+3258,Thiago Silva,DF,Paris Saint-Germain FC,281,16839
+3259,Kimpembe,DF,Paris Saint-Germain FC,281,92924
+3260,Yuri,DF,Paris Saint-Germain FC,281,40247
+3261,Verratti,MF,Paris Saint-Germain FC,281,44932
+3262,Diarra,DM,Paris Saint-Germain FC,281,532
+3263,Draxler,FW,Paris Saint-Germain FC,281,55354
+3264,Di Maria,FW,Paris Saint-Germain FC,281,5016
+3265,Mbappé,FW,Paris Saint-Germain FC,281,107095
+3266,Nkunku,AM,Paris Saint-Germain FC,281,103174
+3267,Kawashima,XX,FC Metz,281,17507
+3268,Balliu,DF,FC Metz,281,63988
+3269,Selimovic,DF,FC Metz,281,111008
+3270,Niakhaté,DF,FC Metz,281,103642
+3271,Rivierez,DF,FC Metz,281,44581
+3272,Cohade,MF,FC Metz,281,11220
+3273,Diagne,DF,FC Metz,281,28322
+3274,Dossevi,FW,FC Metz,281,25039
+3275,Poblete,MF,FC Metz,281,62314
+3276,Miličević,AM,FC Metz,281,32061
+3277,Roux,FW,FC Metz,281,28351
+3278,Costil,XX,FC Girondins de Bordeaux,282,11144
+3279,Sabaly,DF,FC Girondins de Bordeaux,282,80337
+3280,Koundé,DF,FC Girondins de Bordeaux,282,122801
+3281,Baysse,DF,FC Girondins de Bordeaux,282,1308
+3282,Poundjé,DF,FC Girondins de Bordeaux,282,73630
+3283,Lerager,MF,FC Girondins de Bordeaux,282,80963
+3284,Plašil,MF,FC Girondins de Bordeaux,282,550
+3285,Meité,DM,FC Girondins de Bordeaux,282,62164
+3286,Malcom,FW,FC Girondins de Bordeaux,282,89633
+3287,Laborde,FW,FC Girondins de Bordeaux,282,90570
+3288,De Préville,FW,FC Girondins de Bordeaux,282,41128
+3289,Butelle,XX,Angers SCO,282,862
+3290,Manceau,DF,Angers SCO,282,51109
+3291,Traore,DF,Angers SCO,282,14906
+3292,Pavlović,DF,Angers SCO,282,61304
+3293,Andreu,DF,Angers SCO,282,30880
+3294,Santamaria,FW,Angers SCO,282,103910
+3295,Reine-Adelaide,MF,Angers SCO,282,100525
+3296,Oniangue,MF,Angers SCO,282,25045
+3297,Tait,MF,Angers SCO,282,81759
+3298,Fulgini,MF,Angers SCO,282,103638
+3299,Toko Ekambi,FW,Angers SCO,282,103713
+3300,Reynet,XX,Dijon FCO,283,62178
+3301,Rosier,DF,Dijon FCO,283,116905
+3302,Yambere,DF,Dijon FCO,283,95738
+3303,Djilobodji,DF,Dijon FCO,283,50930
+3304,Bouka Moutou,MF,Dijon FCO,283,73528
+3305,CH Kwon,AM,Dijon FCO,283,80447
+3306,Lautoa,DF,Dijon FCO,283,50917
+3307,Amalfitano,MF,Dijon FCO,283,50897
+3308,Sammaritano,FW,Dijon FCO,283,27814
+3309,Saïd,FW,Dijon FCO,283,79468
+3310,Tavares,FW,Dijon FCO,283,73518
+3311,Gurtner,XX,Amiens SCF,283,46337
+3312,El Hajjam,DF,Amiens SCF,283,81749
+3313,Gouano,DF,Amiens SCF,283,61030
+3314,Adenon,DF,Amiens SCF,283,15498
+3315,Dibassy,DF,Amiens SCF,283,110734
+3316,Monconduit,DM,Amiens SCF,283,58347
+3317,Zungu,MF,Amiens SCF,283,87916
+3318,Kakuta,FW,Amiens SCF,283,31873
+3319,Mendoza,FW,Amiens SCF,283,47745
+3320,Avelar,DF,Amiens SCF,283,50273
+3321,Konaté,FW,Amiens SCF,283,63904
+3322,Maignan,XX,Lille OSC,284,81994
+3323,Dabila,DF,Lille OSC,284,121073
+3324,Soumaoro,DF,Lille OSC,284,62184
+3325,Amadou,DM,Lille OSC,284,74398
+3326,Alonso,DF,Lille OSC,284,77052
+3327,Ballo-Toure,DF,Lille OSC,284,105273
+3328,Pepe,FW,Lille OSC,284,110880
+3329,Benzia,AM,Lille OSC,284,70642
+3330,Thiago Maia,DM,Lille OSC,284,95761
+3331,Luiz Araújo,FW,Lille OSC,284,108919
+3332,Mothiba,FW,Lille OSC,284,110661
+3333,Lecomte,XX,Montpellier-HSC,284,51234
+3334,Pedro Mendes,DF,Montpellier-HSC,284,66639
+3335,Hilton,DF,Montpellier-HSC,284,2765
+3336,Congré,DF,Montpellier-HSC,284,5791
+3337,Aguilar,DF,Montpellier-HSC,284,103583
+3338,Skhiri,DM,Montpellier-HSC,284,93851
+3339,Lasne,MF,Montpellier-HSC,284,38560
+3340,Roussillon,DF,Montpellier-HSC,284,55616
+3341,Ikoné,FW,Montpellier-HSC,284,105274
+3342,Mbenza,FW,Montpellier-HSC,284,103641
+3343,Camara,FW,Montpellier-HSC,284,2621
+3344,Tătăruşanu,XX,FC Nantes,285,19829
+3345,Dubois,DF,FC Nantes,285,89668
+3346,Awaziem,DF,FC Nantes,285,106954
+3347,Diego Carlos,DF,FC Nantes,285,104102
+3348,Lima,DF,FC Nantes,285,73439
+3349,Krhin,DM,FC Nantes,285,40392
+3350,Andrei Girotto,DM,FC Nantes,285,100930
+3351,Bammou,FW,FC Nantes,285,93215
+3352,Rongier,DM,FC Nantes,285,93214
+3353,Thomasson,MF,FC Nantes,285,70193
+3354,Sala,FW,FC Nantes,285,62170
+3355,Zelazny,XX,ES Troyes AC,285,43062
+3356,Deplagne,DF,ES Troyes AC,285,53701
+3357,Vizcarrondo,DF,ES Troyes AC,285,10495
+3358,Hérelle,DF,ES Troyes AC,285,68900
+3359,Obiang,DF,ES Troyes AC,285,81760
+3360,Pelé,MF,ES Troyes AC,285,82008
+3361,Bellugou,DM,ES Troyes AC,285,23394
+3362,Walter,DM,ES Troyes AC,285,77898
+3363,Grandsir,FW,ES Troyes AC,285,108740
+3364,Nivet,AM,ES Troyes AC,285,2712
+3365,Niané,FW,ES Troyes AC,285,80384
+3366,Koubek,XX,Stade Rennais FC,286,58527
+3367,Traoré,DF,Stade Rennais FC,286,88262
+3368,Gelin,DF,Stade Rennais FC,286,105662
+3369,Gnagnon,DF,Stade Rennais FC,286,106299
+3370,Bensebaini,DF,Stade Rennais FC,286,95735
+3371,André,MF,Stade Rennais FC,286,28214
+3372,Prcić,MF,Stade Rennais FC,286,64461
+3373,Sarr,FW,Stade Rennais FC,286,111005
+3374,Khazri,FW,Stade Rennais FC,286,41118
+3375,Bourigeaud,MF,Stade Rennais FC,286,90571
+3376,Sakho,FW,Stade Rennais FC,286,44033
+3377,Ruffier,XX,AS Saint-Etienne,286,11267
+3378,Debuchy,DF,AS Saint-Etienne,286,3166
+3379,Perrin,DF,AS Saint-Etienne,286,6789
+3380,Subotić,DF,AS Saint-Etienne,286,8857
+3381,Gabriel Silva,DF,AS Saint-Etienne,286,48104
+3382,Selnæs,DM,AS Saint-Etienne,286,60538
+3383,M Vila,DM,AS Saint-Etienne,286,25046
+3384,Hamouma,FW,AS Saint-Etienne,286,41212
+3385,Cabella,AM,AS Saint-Etienne,286,38629
+3386,Monnet-Paquet,FW,AS Saint-Etienne,286,2899
+3387,Bamba,FW,AS Saint-Etienne,286,96869
+3388,Johnsson,XX,EA Guingamp,287,27032
+3389,Martins Pereira,DF,EA Guingamp,287,11191
+3390,Kerbrat,DF,EA Guingamp,287,61035
+3391,Eboa Eboa,DF,EA Guingamp,287,105271
+3392,Tabanou,MF,EA Guingamp,287,25253
+3393,Didot,MF,EA Guingamp,287,2658
+3394,Déaux,DM,EA Guingamp,287,22343
+3395,Coco,FW,EA Guingamp,287,98346
+3396,Grenier,AM,EA Guingamp,287,38653
+3397,Briand,FW,EA Guingamp,287,2663
+3398,Thuram,FW,EA Guingamp,287,104062
+3399,Benítez,XX,OGC Nice,287,64701
+3400,Burner,MF,OGC Nice,287,113134
+3401,Marlon,DF,OGC Nice,287,90081
+3402,Dante,DF,OGC Nice,287,9099
+3403,Le Marchand,DF,OGC Nice,287,41029
+3404,Lees-Melou,MF,OGC Nice,287,103598
+3405,Cyprien,MF,OGC Nice,287,81865
+3406,Seri,MF,OGC Nice,287,83642
+3407,Sacko,FW,OGC Nice,287,110492
+3408,Pléa,FW,OGC Nice,287,65937
+3409,Saint-Maximin,FW,OGC Nice,287,82829
+3410,Lopes,XX,Olympique Lyonnais,288,51203
+3411,Rafael,DF,Olympique Lyonnais,288,25647
+3412,Marcelo,DF,Olympique Lyonnais,288,17121
+3413,Morel,DF,Olympique Lyonnais,288,2625
+3414,Mendy,DF,Olympique Lyonnais,288,103732
+3415,Ferri,MF,Olympique Lyonnais,288,65590
+3416,Tousart,DM,Olympique Lyonnais,288,103639
+3417,Ndombèlé Alvaro,MF,Olympique Lyonnais,288,110596
+3418,Traore,FW,Olympique Lyonnais,288,67484
+3419,Mariano,FW,Olympique Lyonnais,288,89032
+3420,Maolida,FW,Olympique Lyonnais,288,112791
+3421,Vercoutre,XX,Stade Malherbe Caen,288,1264
+3422,Guilbert,DF,Stade Malherbe Caen,288,98543
+3423,Genevois,DF,Stade Malherbe Caen,288,15397
+3424,Diomandé,DM,Stade Malherbe Caen,288,58876
+3425,Djiku,DF,Stade Malherbe Caen,288,75891
+3426,Bessat,MF,Stade Malherbe Caen,288,11245
+3427,Feret,AM,Stade Malherbe Caen,288,15387
+3428,Aït Bennasser,DM,Stade Malherbe Caen,288,103901
+3429,Peeters,MF,Stade Malherbe Caen,288,66406
+3430,Crivelli,FW,Stade Malherbe Caen,288,86701
+3431,Rodelin,FW,Stade Malherbe Caen,288,32238
+3432,Lafont,XX,Toulouse FC,289,107060
+3433,Amian,DF,Toulouse FC,289,105292
+3434,Diop,DF,Toulouse FC,289,106946
+3435,Jullien,DF,Toulouse FC,289,69598
+3436,Sylla,MF,Toulouse FC,289,76048
+3437,Somália,MF,Toulouse FC,289,61209
+3438,Cahuzac,DM,Toulouse FC,289,22360
+3439,Imbula,DM,Toulouse FC,289,44580
+3440,Mubele,FW,Toulouse FC,289,98243
+3441,Sanogo,FW,Toulouse FC,289,34528
+3442,Gradel,FW,Toulouse FC,289,26373
+3443,Mandanda,XX,Olympique de Marseille,289,11353
+3444,Sarr,MF,Olympique de Marseille,289,73522
+3445,Rami,DF,Olympique de Marseille,289,8882
+3446,Rolando,DF,Olympique de Marseille,289,3623
+3447,Sakai,DF,Olympique de Marseille,289,27859
+3448,Zambo Anguissa,DM,Olympique de Marseille,289,98555
+3449,Luiz Gustavo,DM,Olympique de Marseille,289,13486
+3450,López,MF,Olympique de Marseille,289,106713
+3451,Sanson,MF,Olympique de Marseille,289,73514
+3452,Ocampos,FW,Olympique de Marseille,289,63120
+3453,Germain,FW,Olympique de Marseille,289,54508
+3454,Trapp,XX,Paris Saint-Germain FC,290,26803
+3455,Daniel Alves,DF,Paris Saint-Germain FC,290,941
+3456,Thiago Silva,DF,Paris Saint-Germain FC,290,16839
+3457,Kimpembe,DF,Paris Saint-Germain FC,290,92924
+3458,Kurzawa,DF,Paris Saint-Germain FC,290,53511
+3459,Verratti,MF,Paris Saint-Germain FC,290,44932
+3460,Thiago Motta,DM,Paris Saint-Germain FC,290,295
+3461,Draxler,FW,Paris Saint-Germain FC,290,55354
+3462,Mbappé,FW,Paris Saint-Germain FC,290,107095
+3463,Cavani,FW,Paris Saint-Germain FC,290,6737
+3464,Di Maria,FW,Paris Saint-Germain FC,290,5016
+3465,Butelle,XX,Angers SCO,290,862
+3466,Manceau,DF,Angers SCO,290,51109
+3467,Pavlović,DF,Angers SCO,290,61304
+3468,Thomas,DF,Angers SCO,290,22488
+3469,Bamba,DF,Angers SCO,290,51123
+3470,Santamaria,FW,Angers SCO,290,103910
+3471,Ketkeophomphone,FW,Angers SCO,290,50861
+3472,Coulibaly,MF,Angers SCO,290,103920
+3473,Mangani,DM,Angers SCO,290,559
+3474,Tait,MF,Angers SCO,290,81759
+3475,Kanga,FW,Angers SCO,290,105281
+3476,Subašić,XX,AS Monaco,291,39386
+3477,Sidibe,DF,AS Monaco,291,63254
+3478,Glik,DF,AS Monaco,291,31005
+3479,Jemerson,DF,AS Monaco,291,80756
+3480,Raggi,DF,AS Monaco,291,1468
+3481,Tielemans,MF,AS Monaco,291,83341
+3482,João Moutinho,MF,AS Monaco,291,1159
+3483,Baldé,FW,AS Monaco,291,82895
+3484,Lemar,MF,AS Monaco,291,81768
+3485,Lopes,FW,AS Monaco,291,76765
+3486,Falcao,FW,AS Monaco,291,4985
+3487,Maignan,XX,Lille OSC,291,81994
+3488,Edgar Ié,DF,Lille OSC,291,75774
+3489,Soumaoro,DF,Lille OSC,291,62184
+3490,Alonso,DF,Lille OSC,291,77052
+3491,Ballo-Toure,DF,Lille OSC,291,105273
+3492,Thiago Mendes,MF,Lille OSC,291,79916
+3493,Amadou,DM,Lille OSC,291,74398
+3494,Thiago Maia,DM,Lille OSC,291,95761
+3495,Benzia,AM,Lille OSC,291,70642
+3496,Pepe,FW,Lille OSC,291,110880
+3497,Mothiba,FW,Lille OSC,291,110661
+3498,Costil,XX,FC Girondins de Bordeaux,292,11144
+3499,Sabaly,DF,FC Girondins de Bordeaux,292,80337
+3500,Koundé,DF,FC Girondins de Bordeaux,292,122801
+3501,Pablo,DF,FC Girondins de Bordeaux,292,53184
+3502,Poundjé,DF,FC Girondins de Bordeaux,292,73630
+3503,Lerager,MF,FC Girondins de Bordeaux,292,80963
+3504,Plašil,MF,FC Girondins de Bordeaux,292,550
+3505,Meité,DM,FC Girondins de Bordeaux,292,62164
+3506,Malcom,FW,FC Girondins de Bordeaux,292,89633
+3507,Laborde,FW,FC Girondins de Bordeaux,292,90570
+3508,Braithwaite,FW,FC Girondins de Bordeaux,292,36105
+3509,Koubek,XX,Stade Rennais FC,292,58527
+3510,Danzé,DF,Stade Rennais FC,292,3375
+3511,Gelin,DF,Stade Rennais FC,292,105662
+3512,Gnagnon,DF,Stade Rennais FC,292,106299
+3513,Bensebaini,DF,Stade Rennais FC,292,95735
+3514,André,MF,Stade Rennais FC,292,28214
+3515,Prcić,MF,Stade Rennais FC,292,64461
+3516,Bourigeaud,MF,Stade Rennais FC,292,90571
+3517,Khazri,FW,Stade Rennais FC,292,41118
+3518,Sarr,FW,Stade Rennais FC,292,111005
+3519,Sakho,FW,Stade Rennais FC,292,44033
+3520,Gurtner,XX,Amiens SCF,293,46337
+3521,El Hajjam,DF,Amiens SCF,293,81749
+3522,Adenon,DF,Amiens SCF,293,15498
+3523,Dibassy,DF,Amiens SCF,293,110734
+3524,Avelar,DF,Amiens SCF,293,50273
+3525,Zungu,MF,Amiens SCF,293,87916
+3526,Monconduit,DM,Amiens SCF,293,58347
+3527,Kakuta,FW,Amiens SCF,293,31873
+3528,Mendoza,FW,Amiens SCF,293,47745
+3529,Traore,FW,Amiens SCF,293,34108
+3530,Konaté,FW,Amiens SCF,293,63904
+3531,Zelazny,XX,ES Troyes AC,293,43062
+3532,Deplagne,DF,ES Troyes AC,293,53701
+3533,Vizcarrondo,DF,ES Troyes AC,293,10495
+3534,Hérelle,DF,ES Troyes AC,293,68900
+3535,Traoré,DF,ES Troyes AC,293,107537
+3536,Bellugou,DM,ES Troyes AC,293,23394
+3537,Walter,DM,ES Troyes AC,293,77898
+3538,Khaoui,AM,ES Troyes AC,293,103944
+3539,Nivet,AM,ES Troyes AC,293,2712
+3540,Pelé,MF,ES Troyes AC,293,82008
+3541,Niané,FW,ES Troyes AC,293,80384
+3542,Butelle,XX,Angers SCO,294,862
+3543,Manceau,DF,Angers SCO,294,51109
+3544,Traore,DF,Angers SCO,294,14906
+3545,Pavlović,DF,Angers SCO,294,61304
+3546,Bamba,DF,Angers SCO,294,51123
+3547,Santamaria,FW,Angers SCO,294,103910
+3548,Reine-Adelaide,MF,Angers SCO,294,100525
+3549,Oniangue,MF,Angers SCO,294,25045
+3550,Mangani,DM,Angers SCO,294,559
+3551,Tait,MF,Angers SCO,294,81759
+3552,Toko Ekambi,FW,Angers SCO,294,103713
+3553,Vercoutre,XX,Stade Malherbe Caen,294,1264
+3554,Guilbert,DF,Stade Malherbe Caen,294,98543
+3555,Da Silva,DF,Stade Malherbe Caen,294,21684
+3556,Diomandé,DM,Stade Malherbe Caen,294,58876
+3557,Djiku,DF,Stade Malherbe Caen,294,75891
+3558,Bessat,MF,Stade Malherbe Caen,294,11245
+3559,Feret,AM,Stade Malherbe Caen,294,15387
+3560,Peeters,MF,Stade Malherbe Caen,294,66406
+3561,Aït Bennasser,DM,Stade Malherbe Caen,294,103901
+3562,Santini,FW,Stade Malherbe Caen,294,33266
+3563,Repas,AM,Stade Malherbe Caen,294,105988
+3564,Lecomte,XX,Montpellier-HSC,295,51234
+3565,Mukiele,DF,Montpellier-HSC,295,106875
+3566,Hilton,DF,Montpellier-HSC,295,2765
+3567,Pedro Mendes,DF,Montpellier-HSC,295,66639
+3568,Aguilar,DF,Montpellier-HSC,295,103583
+3569,Skhiri,DM,Montpellier-HSC,295,93851
+3570,Lasne,MF,Montpellier-HSC,295,38560
+3571,Poaty,DF,Montpellier-HSC,295,112227
+3572,Dolly,FW,Montpellier-HSC,295,110659
+3573,Ninga,FW,Montpellier-HSC,295,106298
+3574,Sio,FW,Montpellier-HSC,295,44772
+3575,Reynet,XX,Dijon FCO,295,62178
+3576,Yambere,DF,Dijon FCO,295,95738
+3577,Djilobodji,DF,Dijon FCO,295,50930
+3578,Lautoa,DF,Dijon FCO,295,50917
+3579,Chafik,DF,Dijon FCO,295,73531
+3580,Marié,DM,Dijon FCO,295,81786
+3581,Amalfitano,MF,Dijon FCO,295,50897
+3582,Rosier,DF,Dijon FCO,295,116905
+3583,Saïd,FW,Dijon FCO,295,79468
+3584,Tavares,FW,Dijon FCO,295,73518
+3585,Sliti,FW,Dijon FCO,295,62655
+3586,Lafont,XX,Toulouse FC,296,107060
+3587,Yago,DF,Toulouse FC,296,63773
+3588,Diop,DF,Toulouse FC,296,106946
+3589,Amian,DF,Toulouse FC,296,105292
+3590,Sylla,MF,Toulouse FC,296,76048
+3591,Somália,MF,Toulouse FC,296,61209
+3592,Cahuzac,DM,Toulouse FC,296,22360
+3593,Imbula,DM,Toulouse FC,296,44580
+3594,Mubele,FW,Toulouse FC,296,98243
+3595,Sanogo,FW,Toulouse FC,296,34528
+3596,Gradel,FW,Toulouse FC,296,26373
+3597,Oukidja,XX,RC Strasbourg,296,25036
+3598,Seka,DF,RC Strasbourg,296,82736
+3599,Kone,DF,RC Strasbourg,296,15203
+3600,Martínez,DF,RC Strasbourg,296,81774
+3601,N Dour,DF,RC Strasbourg,296,110489
+3602,Martin,MF,RC Strasbourg,296,51194
+3603,Aholou,DM,RC Strasbourg,296,85538
+3604,Liénard,MF,RC Strasbourg,296,111346
+3605,Corgnet,AM,RC Strasbourg,296,50881
+3606,Blayac,FW,RC Strasbourg,296,27593
+3607,Bahoken,FW,RC Strasbourg,296,59411
+3608,Benítez,XX,OGC Nice,297,64701
+3609,Souquet,DF,OGC Nice,297,41303
+3610,Dante,DF,OGC Nice,297,9099
+3611,Sarr,DF,OGC Nice,297,111035
+3612,Le Marchand,DF,OGC Nice,297,41029
+3613,Lees-Melou,MF,OGC Nice,297,103598
+3614,Cyprien,MF,OGC Nice,297,81865
+3615,Seri,MF,OGC Nice,297,83642
+3616,Saint-Maximin,FW,OGC Nice,297,82829
+3617,Balotelli,FW,OGC Nice,297,15257
+3618,Pléa,FW,OGC Nice,297,65937
+3619,Aréola,XX,Paris Saint-Germain FC,297,51211
+3620,Daniel Alves,DF,Paris Saint-Germain FC,297,941
+3621,Thiago Silva,DF,Paris Saint-Germain FC,297,16839
+3622,Kimpembe,DF,Paris Saint-Germain FC,297,92924
+3623,Yuri,DF,Paris Saint-Germain FC,297,40247
+3624,Verratti,MF,Paris Saint-Germain FC,297,44932
+3625,Rabiot,MF,Paris Saint-Germain FC,297,73635
+3626,Draxler,FW,Paris Saint-Germain FC,297,55354
+3627,Mbappé,FW,Paris Saint-Germain FC,297,107095
+3628,Cavani,FW,Paris Saint-Germain FC,297,6737
+3629,Di Maria,FW,Paris Saint-Germain FC,297,5016
+3630,Kawashima,XX,FC Metz,298,17507
+3631,Balliu,DF,FC Metz,298,63988
+3632,Diagne,DF,FC Metz,298,28322
+3633,Niakhaté,DF,FC Metz,298,103642
+3634,Rivierez,DF,FC Metz,298,44581
+3635,Cohade,MF,FC Metz,298,11220
+3636,Poblete,MF,FC Metz,298,62314
+3637,Dossevi,FW,FC Metz,298,25039
+3638,Miličević,AM,FC Metz,298,32061
+3639,Roux,FW,FC Metz,298,28351
+3640,Niane,FW,FC Metz,298,118018
+3641,Tătăruşanu,XX,FC Nantes,298,19829
+3642,Dubois,DF,FC Nantes,298,89668
+3643,Diego Carlos,DF,FC Nantes,298,104102
+3644,Pallois,DF,FC Nantes,298,51219
+3645,Lima,DF,FC Nantes,298,73439
+3646,Krhin,DM,FC Nantes,298,40392
+3647,Touré,DM,FC Nantes,298,82029
+3648,El Ghanassy,FW,FC Nantes,298,30567
+3649,Rongier,DM,FC Nantes,298,93214
+3650,Thomasson,MF,FC Nantes,298,70193
+3651,Sala,FW,FC Nantes,298,62170
+3652,Ruffier,XX,AS Saint-Etienne,299,11267
+3653,Debuchy,DF,AS Saint-Etienne,299,3166
+3654,Perrin,DF,AS Saint-Etienne,299,6789
+3655,Subotić,DF,AS Saint-Etienne,299,8857
+3656,Gabriel Silva,DF,AS Saint-Etienne,299,48104
+3657,Selnæs,DM,AS Saint-Etienne,299,60538
+3658,M Vila,DM,AS Saint-Etienne,299,25046
+3659,Bamba,FW,AS Saint-Etienne,299,96869
+3660,Cabella,AM,AS Saint-Etienne,299,38629
+3661,Monnet-Paquet,FW,AS Saint-Etienne,299,2899
+3662,Berič,FW,AS Saint-Etienne,299,52204
+3663,Johnsson,XX,EA Guingamp,299,27032
+3664,Martins Pereira,DF,EA Guingamp,299,11191
+3665,Kerbrat,DF,EA Guingamp,299,61035
+3666,Sorbon,DF,EA Guingamp,299,11153
+3667,Ikoko,DF,EA Guingamp,299,82743
+3668,Phiri,DM,EA Guingamp,299,78818
+3669,Grenier,AM,EA Guingamp,299,38653
+3670,Coco,FW,EA Guingamp,299,98346
+3671,Blas,MF,EA Guingamp,299,106708
+3672,Briand,FW,EA Guingamp,299,2663
+3673,Thuram,FW,EA Guingamp,299,104062
+3674,Mandanda,XX,Olympique de Marseille,300,11353
+3675,Sakai,DF,Olympique de Marseille,300,27859
+3676,Rami,DF,Olympique de Marseille,300,8882
+3677,Rolando,DF,Olympique de Marseille,300,3623
+3678,Amavi,DF,Olympique de Marseille,300,82028
+3679,López,MF,Olympique de Marseille,300,106713
+3680,Luiz Gustavo,DM,Olympique de Marseille,300,13486
+3681,Thauvin,FW,Olympique de Marseille,300,73628
+3682,Payet,FW,Olympique de Marseille,300,2589
+3683,Ocampos,FW,Olympique de Marseille,300,63120
+3684,Germain,FW,Olympique de Marseille,300,54508
+3685,Lopes,XX,Olympique Lyonnais,300,51203
+3686,Rafael,DF,Olympique Lyonnais,300,25647
+3687,Marcelo,DF,Olympique Lyonnais,300,17121
+3688,Morel,DF,Olympique Lyonnais,300,2625
+3689,Mendy,DF,Olympique Lyonnais,300,103732
+3690,Ndombèlé Alvaro,MF,Olympique Lyonnais,300,110596
+3691,Tousart,DM,Olympique Lyonnais,300,103639
+3692,Aouar,MF,Olympique Lyonnais,300,105657
+3693,Traore,FW,Olympique Lyonnais,300,67484
+3694,Mariano,FW,Olympique Lyonnais,300,89032
+3695,Cornet,FW,Olympique Lyonnais,300,81769
+3696,Reynet,XX,Dijon FCO,301,62178
+3697,Rosier,DF,Dijon FCO,301,116905
+3698,Yambere,DF,Dijon FCO,301,95738
+3699,Lautoa,DF,Dijon FCO,301,50917
+3700,Haddadi,DF,Dijon FCO,301,100107
+3701,Balmont,MF,Dijon FCO,301,2615
+3702,Amalfitano,MF,Dijon FCO,301,50897
+3703,Xeka,MF,Dijon FCO,301,114145
+3704,Saïd,FW,Dijon FCO,301,79468
+3705,Tavares,FW,Dijon FCO,301,73518
+3706,Sammaritano,FW,Dijon FCO,301,27814
+3707,Mandanda,XX,Olympique de Marseille,301,11353
+3708,Sarr,MF,Olympique de Marseille,301,73522
+3709,Rami,DF,Olympique de Marseille,301,8882
+3710,Rolando,DF,Olympique de Marseille,301,3623
+3711,Kamara,DF,Olympique de Marseille,301,114515
+3712,Zambo Anguissa,DM,Olympique de Marseille,301,98555
+3713,Luiz Gustavo,DM,Olympique de Marseille,301,13486
+3714,Payet,FW,Olympique de Marseille,301,2589
+3715,Sanson,MF,Olympique de Marseille,301,73514
+3716,Ocampos,FW,Olympique de Marseille,301,63120
+3717,Germain,FW,Olympique de Marseille,301,54508
+3718,Johnsson,XX,EA Guingamp,302,27032
+3719,Ikoko,DF,EA Guingamp,302,82743
+3720,Kerbrat,DF,EA Guingamp,302,61035
+3721,Sorbon,DF,EA Guingamp,302,11153
+3722,Rebocho,DF,EA Guingamp,302,101269
+3723,Diallo,DM,EA Guingamp,302,37789
+3724,Didot,MF,EA Guingamp,302,2658
+3725,Salibur,FW,EA Guingamp,302,38607
+3726,Grenier,AM,EA Guingamp,302,38653
+3727,Benezet,FW,EA Guingamp,302,53478
+3728,Briand,FW,EA Guingamp,302,2663
+3729,Costil,XX,FC Girondins de Bordeaux,302,11144
+3730,Sabaly,DF,FC Girondins de Bordeaux,302,80337
+3731,Koundé,DF,FC Girondins de Bordeaux,302,122801
+3732,Baysse,DF,FC Girondins de Bordeaux,302,1308
+3733,Poundjé,DF,FC Girondins de Bordeaux,302,73630
+3734,Lerager,MF,FC Girondins de Bordeaux,302,80963
+3735,Otavio,DM,FC Girondins de Bordeaux,302,87169
+3736,Meité,DM,FC Girondins de Bordeaux,302,62164
+3737,Malcom,FW,FC Girondins de Bordeaux,302,89633
+3738,De Préville,FW,FC Girondins de Bordeaux,302,41128
+3739,Braithwaite,FW,FC Girondins de Bordeaux,302,36105
+3740,Vercoutre,XX,Stade Malherbe Caen,303,1264
+3741,Guilbert,DF,Stade Malherbe Caen,303,98543
+3742,Genevois,DF,Stade Malherbe Caen,303,15397
+3743,Djiku,DF,Stade Malherbe Caen,303,75891
+3744,Bessat,MF,Stade Malherbe Caen,303,11245
+3745,Feret,AM,Stade Malherbe Caen,303,15387
+3746,Sankoh,DM,Stade Malherbe Caen,303,63723
+3747,Peeters,MF,Stade Malherbe Caen,303,66406
+3748,Rodelin,FW,Stade Malherbe Caen,303,32238
+3749,Santini,FW,Stade Malherbe Caen,303,33266
+3750,Bazile,FW,Stade Malherbe Caen,303,30579
+3751,Lecomte,XX,Montpellier-HSC,303,51234
+3752,Mukiele,DF,Montpellier-HSC,303,106875
+3753,Hilton,DF,Montpellier-HSC,303,2765
+3754,Congré,DF,Montpellier-HSC,303,5791
+3755,Aguilar,DF,Montpellier-HSC,303,103583
+3756,Skhiri,DM,Montpellier-HSC,303,93851
+3757,Lasne,MF,Montpellier-HSC,303,38560
+3758,Roussillon,DF,Montpellier-HSC,303,55616
+3759,Ikoné,FW,Montpellier-HSC,303,105274
+3760,Sambia,MF,Montpellier-HSC,303,103634
+3761,Sio,FW,Montpellier-HSC,303,44772
+3762,Maignan,XX,Lille OSC,304,81994
+3763,Malcuit,DF,Lille OSC,304,47300
+3764,Edgar Ié,DF,Lille OSC,304,75774
+3765,Alonso,DF,Lille OSC,304,77052
+3766,Ballo-Toure,DF,Lille OSC,304,105273
+3767,Thiago Mendes,MF,Lille OSC,304,79916
+3768,Amadou,DM,Lille OSC,304,74398
+3769,Thiago Maia,DM,Lille OSC,304,95761
+3770,Benzia,AM,Lille OSC,304,70642
+3771,Pepe,FW,Lille OSC,304,110880
+3772,Mothiba,FW,Lille OSC,304,110661
+3773,Gurtner,XX,Amiens SCF,304,46337
+3774,Cissokho,DF,Amiens SCF,304,61024
+3775,Gouano,DF,Amiens SCF,304,61030
+3776,Adenon,DF,Amiens SCF,304,15498
+3777,Dibassy,DF,Amiens SCF,304,110734
+3778,Mendoza,FW,Amiens SCF,304,47745
+3779,Zungu,MF,Amiens SCF,304,87916
+3780,Monconduit,DM,Amiens SCF,304,58347
+3781,Avelar,DF,Amiens SCF,304,50273
+3782,Kakuta,FW,Amiens SCF,304,31873
+3783,Konaté,FW,Amiens SCF,304,63904
+3784,Tătăruşanu,XX,FC Nantes,305,19829
+3785,Dubois,DF,FC Nantes,305,89668
+3786,Diego Carlos,DF,FC Nantes,305,104102
+3787,Pallois,DF,FC Nantes,305,51219
+3788,Lima,DF,FC Nantes,305,73439
+3789,Krhin,DM,FC Nantes,305,40392
+3790,Moutoussamy,MF,FC Nantes,305,120300
+3791,El Ghanassy,FW,FC Nantes,305,30567
+3792,Rongier,DM,FC Nantes,305,93214
+3793,Bammou,FW,FC Nantes,305,93215
+3794,Sala,FW,FC Nantes,305,62170
+3795,Ruffier,XX,AS Saint-Etienne,305,11267
+3796,Debuchy,DF,AS Saint-Etienne,305,3166
+3797,Perrin,DF,AS Saint-Etienne,305,6789
+3798,Subotić,DF,AS Saint-Etienne,305,8857
+3799,Gabriel Silva,DF,AS Saint-Etienne,305,48104
+3800,Selnæs,DM,AS Saint-Etienne,305,60538
+3801,M Vila,DM,AS Saint-Etienne,305,25046
+3802,Bamba,FW,AS Saint-Etienne,305,96869
+3803,Cabella,AM,AS Saint-Etienne,305,38629
+3804,Monnet-Paquet,FW,AS Saint-Etienne,305,2899
+3805,Hamouma,FW,AS Saint-Etienne,305,41212
+3806,Oukidja,XX,RC Strasbourg,306,25036
+3807,Seka,DF,RC Strasbourg,306,82736
+3808,Kone,DF,RC Strasbourg,306,15203
+3809,Martínez,DF,RC Strasbourg,306,81774
+3810,N Dour,DF,RC Strasbourg,306,110489
+3811,Martin,MF,RC Strasbourg,306,51194
+3812,Aholou,DM,RC Strasbourg,306,85538
+3813,Liénard,MF,RC Strasbourg,306,111346
+3814,Corgnet,AM,RC Strasbourg,306,50881
+3815,Blayac,FW,RC Strasbourg,306,27593
+3816,Bahoken,FW,RC Strasbourg,306,59411
+3817,Kawashima,XX,FC Metz,306,17507
+3818,Balliu,DF,FC Metz,306,63988
+3819,Selimovic,DF,FC Metz,306,111008
+3820,Niakhaté,DF,FC Metz,306,103642
+3821,Rivierez,DF,FC Metz,306,44581
+3822,Cohade,MF,FC Metz,306,11220
+3823,Poblete,MF,FC Metz,306,62314
+3824,Dossevi,FW,FC Metz,306,25039
+3825,Mollet,AM,FC Metz,306,70643
+3826,Roux,FW,FC Metz,306,28351
+3827,Rivière,FW,FC Metz,306,25306
+3828,Zelazny,XX,ES Troyes AC,307,43062
+3829,Deplagne,DF,ES Troyes AC,307,53701
+3830,Vizcarrondo,DF,ES Troyes AC,307,10495
+3831,Hérelle,DF,ES Troyes AC,307,68900
+3832,Traoré,DF,ES Troyes AC,307,107537
+3833,Bellugou,DM,ES Troyes AC,307,23394
+3834,Grandsir,FW,ES Troyes AC,307,108740
+3835,Azamoum,MF,ES Troyes AC,307,103914
+3836,Nivet,AM,ES Troyes AC,307,2712
+3837,Darbion,MF,ES Troyes AC,307,22467
+3838,Niané,FW,ES Troyes AC,307,80384
+3839,Benítez,XX,OGC Nice,307,64701
+3840,Souquet,DF,OGC Nice,307,41303
+3841,Marlon,DF,OGC Nice,307,90081
+3842,Dante,DF,OGC Nice,307,9099
+3843,Le Marchand,DF,OGC Nice,307,41029
+3844,Lees-Melou,MF,OGC Nice,307,103598
+3845,Seri,MF,OGC Nice,307,83642
+3846,Cyprien,MF,OGC Nice,307,81865
+3847,Saint-Maximin,FW,OGC Nice,307,82829
+3848,Balotelli,FW,OGC Nice,307,15257
+3849,Pléa,FW,OGC Nice,307,65937
+3850,Lopes,XX,Olympique Lyonnais,308,51203
+3851,Rafael,DF,Olympique Lyonnais,308,25647
+3852,Marcelo,DF,Olympique Lyonnais,308,17121
+3853,Morel,DF,Olympique Lyonnais,308,2625
+3854,Mendy,DF,Olympique Lyonnais,308,103732
+3855,Ndombèlé Alvaro,MF,Olympique Lyonnais,308,110596
+3856,Tousart,DM,Olympique Lyonnais,308,103639
+3857,Aouar,MF,Olympique Lyonnais,308,105657
+3858,Traore,FW,Olympique Lyonnais,308,67484
+3859,Depay,FW,Olympique Lyonnais,308,68281
+3860,Cornet,FW,Olympique Lyonnais,308,81769
+3861,Lafont,XX,Toulouse FC,308,107060
+3862,Amian,DF,Toulouse FC,308,105292
+3863,Diop,DF,Toulouse FC,308,106946
+3864,Jullien,DF,Toulouse FC,308,69598
+3865,Sylla,MF,Toulouse FC,308,76048
+3866,Cahuzac,DM,Toulouse FC,308,22360
+3867,Jean,FW,Toulouse FC,308,73964
+3868,Sangaré,MF,Toulouse FC,308,112348
+3869,Imbula,DM,Toulouse FC,308,44580
+3870,Gradel,FW,Toulouse FC,308,26373
+3871,Sanogo,FW,Toulouse FC,308,34528
+3872,Koubek,XX,Stade Rennais FC,309,58527
+3873,Danzé,DF,Stade Rennais FC,309,3375
+3874,Gelin,DF,Stade Rennais FC,309,105662
+3875,Gnagnon,DF,Stade Rennais FC,309,106299
+3876,Baal,DF,Stade Rennais FC,309,11183
+3877,Prcić,MF,Stade Rennais FC,309,64461
+3878,Sarr,FW,Stade Rennais FC,309,111005
+3879,André,MF,Stade Rennais FC,309,28214
+3880,Lea Siliki,MF,Stade Rennais FC,309,114520
+3881,Bourigeaud,MF,Stade Rennais FC,309,90571
+3882,Khazri,FW,Stade Rennais FC,309,41118
+3883,Subašić,XX,AS Monaco,309,39386
+3884,Sidibe,DF,AS Monaco,309,63254
+3885,Glik,DF,AS Monaco,309,31005
+3886,Jemerson,DF,AS Monaco,309,80756
+3887,Raggi,DF,AS Monaco,309,1468
+3888,Lopes,FW,AS Monaco,309,76765
+3889,Fabinho,DM,AS Monaco,309,73889
+3890,N Doram,DM,AS Monaco,309,106390
+3891,Lemar,MF,AS Monaco,309,81768
+3892,Jovetić,FW,AS Monaco,309,11031
+3893,Falcao,FW,AS Monaco,309,4985
+3894,Ruffier,XX,AS Saint-Etienne,310,11267
+3895,Debuchy,DF,AS Saint-Etienne,310,3166
+3896,Perrin,DF,AS Saint-Etienne,310,6789
+3897,Subotić,DF,AS Saint-Etienne,310,8857
+3898,Gabriel Silva,DF,AS Saint-Etienne,310,48104
+3899,Selnæs,DM,AS Saint-Etienne,310,60538
+3900,M Vila,DM,AS Saint-Etienne,310,25046
+3901,Bamba,FW,AS Saint-Etienne,310,96869
+3902,Cabella,AM,AS Saint-Etienne,310,38629
+3903,Monnet-Paquet,FW,AS Saint-Etienne,310,2899
+3904,Hamouma,FW,AS Saint-Etienne,310,41212
+3905,Aréola,XX,Paris Saint-Germain FC,310,51211
+3906,Meunier,DF,Paris Saint-Germain FC,310,62078
+3907,Marquinhos,DF,Paris Saint-Germain FC,310,70255
+3908,Kimpembe,DF,Paris Saint-Germain FC,310,92924
+3909,Kurzawa,DF,Paris Saint-Germain FC,310,53511
+3910,Lo Celso,AM,Paris Saint-Germain FC,310,97036
+3911,Diarra,DM,Paris Saint-Germain FC,310,532
+3912,Rabiot,MF,Paris Saint-Germain FC,310,73635
+3913,Di Maria,FW,Paris Saint-Germain FC,310,5016
+3914,Mbappé,FW,Paris Saint-Germain FC,310,107095
+3915,Pastore,AM,Paris Saint-Germain FC,310,21660
+3916,Subašić,XX,AS Monaco,311,39386
+3917,Sidibe,DF,AS Monaco,311,63254
+3918,Glik,DF,AS Monaco,311,31005
+3919,Jemerson,DF,AS Monaco,311,80756
+3920,Jorge,DF,AS Monaco,311,95762
+3921,Fabinho,DM,AS Monaco,311,73889
+3922,Tielemans,MF,AS Monaco,311,83341
+3923,Baldé,FW,AS Monaco,311,82895
+3924,João Moutinho,MF,AS Monaco,311,1159
+3925,Lopes,FW,AS Monaco,311,76765
+3926,Falcao,FW,AS Monaco,311,4985
+3927,Tătăruşanu,XX,FC Nantes,311,19829
+3928,Dubois,DF,FC Nantes,311,89668
+3929,Diego Carlos,DF,FC Nantes,311,104102
+3930,Pallois,DF,FC Nantes,311,51219
+3931,Djidji,DF,FC Nantes,311,73529
+3932,Krhin,DM,FC Nantes,311,40392
+3933,Thomasson,MF,FC Nantes,311,70193
+3934,Rongier,DM,FC Nantes,311,93214
+3935,Touré,DM,FC Nantes,311,82029
+3936,Lima,DF,FC Nantes,311,73439
+3937,Sala,FW,FC Nantes,311,62170
+3938,Gurtner,XX,Amiens SCF,312,46337
+3939,Cissokho,DF,Amiens SCF,312,61024
+3940,Gouano,DF,Amiens SCF,312,61030
+3941,Adenon,DF,Amiens SCF,312,15498
+3942,Dibassy,DF,Amiens SCF,312,110734
+3943,Monconduit,DM,Amiens SCF,312,58347
+3944,Zungu,MF,Amiens SCF,312,87916
+3945,Gakpe,FW,Amiens SCF,312,552
+3946,Kakuta,FW,Amiens SCF,312,31873
+3947,Mendoza,FW,Amiens SCF,312,47745
+3948,Konaté,FW,Amiens SCF,312,63904
+3949,Vercoutre,XX,Stade Malherbe Caen,312,1264
+3950,Guilbert,DF,Stade Malherbe Caen,312,98543
+3951,Da Silva,DF,Stade Malherbe Caen,312,21684
+3952,Djiku,DF,Stade Malherbe Caen,312,75891
+3953,Bessat,MF,Stade Malherbe Caen,312,11245
+3954,Sankoh,DM,Stade Malherbe Caen,312,63723
+3955,Feret,AM,Stade Malherbe Caen,312,15387
+3956,Deminguet,MF,Stade Malherbe Caen,312,121441
+3957,Genevois,DF,Stade Malherbe Caen,312,15397
+3958,Santini,FW,Stade Malherbe Caen,312,33266
+3959,Rodelin,FW,Stade Malherbe Caen,312,32238
+3960,Butelle,XX,Angers SCO,313,862
+3961,Manceau,DF,Angers SCO,313,51109
+3962,Traore,DF,Angers SCO,313,14906
+3963,Thomas,DF,Angers SCO,313,22488
+3964,Bamba,DF,Angers SCO,313,51123
+3965,Santamaria,FW,Angers SCO,313,103910
+3966,Reine-Adelaide,MF,Angers SCO,313,100525
+3967,Oniangue,MF,Angers SCO,313,25045
+3968,Mangani,DM,Angers SCO,313,559
+3969,Tait,MF,Angers SCO,313,81759
+3970,Toko Ekambi,FW,Angers SCO,313,103713
+3971,Oukidja,XX,RC Strasbourg,313,25036
+3972,Gonçalves,MF,RC Strasbourg,313,41211
+3973,Kone,DF,RC Strasbourg,313,15203
+3974,Martínez,DF,RC Strasbourg,313,81774
+3975,Seka,DF,RC Strasbourg,313,82736
+3976,Martin,MF,RC Strasbourg,313,51194
+3977,Aholou,DM,RC Strasbourg,313,85538
+3978,Liénard,MF,RC Strasbourg,313,111346
+3979,Corgnet,AM,RC Strasbourg,313,50881
+3980,Terrier,FW,RC Strasbourg,313,113059
+3981,Bahoken,FW,RC Strasbourg,313,59411
+3982,Costil,XX,FC Girondins de Bordeaux,314,11144
+3983,Sabaly,DF,FC Girondins de Bordeaux,314,80337
+3984,Koundé,DF,FC Girondins de Bordeaux,314,122801
+3985,Pablo,DF,FC Girondins de Bordeaux,314,53184
+3986,Poundjé,DF,FC Girondins de Bordeaux,314,73630
+3987,Lerager,MF,FC Girondins de Bordeaux,314,80963
+3988,Plašil,MF,FC Girondins de Bordeaux,314,550
+3989,Meité,DM,FC Girondins de Bordeaux,314,62164
+3990,Malcom,FW,FC Girondins de Bordeaux,314,89633
+3991,Braithwaite,FW,FC Girondins de Bordeaux,314,36105
+3992,Kamano,FW,FC Girondins de Bordeaux,314,93209
+3993,Koffi,XX,Lille OSC,314,114783
+3994,Malcuit,DF,Lille OSC,314,47300
+3995,Edgar Ié,DF,Lille OSC,314,75774
+3996,Dabila,DF,Lille OSC,314,121073
+3997,Mendyl,DF,Lille OSC,314,114521
+3998,Benzia,AM,Lille OSC,314,70642
+3999,Thiago Maia,DM,Lille OSC,314,95761
+4000,Thiago Mendes,MF,Lille OSC,314,79916
+4001,Pepe,FW,Lille OSC,314,110880
+4002,Mothiba,FW,Lille OSC,314,110661
+4003,Luiz Araújo,FW,Lille OSC,314,108919
+4004,Johnsson,XX,EA Guingamp,315,27032
+4005,Ikoko,DF,EA Guingamp,315,82743
+4006,Kerbrat,DF,EA Guingamp,315,61035
+4007,Sorbon,DF,EA Guingamp,315,11153
+4008,Rebocho,DF,EA Guingamp,315,101269
+4009,Diallo,DM,EA Guingamp,315,37789
+4010,Didot,MF,EA Guingamp,315,2658
+4011,Ngbakoto,FW,EA Guingamp,315,44034
+4012,Grenier,AM,EA Guingamp,315,38653
+4013,Benezet,FW,EA Guingamp,315,53478
+4014,Briand,FW,EA Guingamp,315,2663
+4015,Zelazny,XX,ES Troyes AC,315,43062
+4016,Deplagne,DF,ES Troyes AC,315,53701
+4017,Giraudon,DF,ES Troyes AC,315,110714
+4018,Hérelle,DF,ES Troyes AC,315,68900
+4019,Traoré,DF,ES Troyes AC,315,107537
+4020,Bellugou,DM,ES Troyes AC,315,23394
+4021,Pelé,MF,ES Troyes AC,315,82008
+4022,Confais,DF,ES Troyes AC,315,106677
+4023,Walter,DM,ES Troyes AC,315,77898
+4024,Darbion,MF,ES Troyes AC,315,22467
+4025,Niané,FW,ES Troyes AC,315,80384
+4026,Lafont,XX,Toulouse FC,316,107060
+4027,Amian,DF,Toulouse FC,316,105292
+4028,Diop,DF,Toulouse FC,316,106946
+4029,Fortes,DF,Toulouse FC,316,81861
+4030,Sylla,MF,Toulouse FC,316,76048
+4031,Sangaré,MF,Toulouse FC,316,112348
+4032,Blin,DM,Toulouse FC,316,97259
+4033,Delort,FW,Toulouse FC,316,41327
+4034,Somália,MF,Toulouse FC,316,61209
+4035,Gradel,FW,Toulouse FC,316,26373
+4036,Sanogo,FW,Toulouse FC,316,34528
+4037,Reynet,XX,Dijon FCO,316,62178
+4038,Rosier,DF,Dijon FCO,316,116905
+4039,Varrault,DF,Dijon FCO,316,2614
+4040,Djilobodji,DF,Dijon FCO,316,50930
+4041,Haddadi,DF,Dijon FCO,316,100107
+4042,CH Kwon,AM,Dijon FCO,316,80447
+4043,Marié,DM,Dijon FCO,316,81786
+4044,Amalfitano,MF,Dijon FCO,316,50897
+4045,Sliti,FW,Dijon FCO,316,62655
+4046,Saïd,FW,Dijon FCO,316,79468
+4047,Tavares,FW,Dijon FCO,316,73518
+4048,Benítez,XX,OGC Nice,317,64701
+4049,Souquet,DF,OGC Nice,317,41303
+4050,Marlon,DF,OGC Nice,317,90081
+4051,Dante,DF,OGC Nice,317,9099
+4052,Le Marchand,DF,OGC Nice,317,41029
+4053,Lees-Melou,MF,OGC Nice,317,103598
+4054,Seri,MF,OGC Nice,317,83642
+4055,Cyprien,MF,OGC Nice,317,81865
+4056,Saint-Maximin,FW,OGC Nice,317,82829
+4057,Balotelli,FW,OGC Nice,317,15257
+4058,Pléa,FW,OGC Nice,317,65937
+4059,Koubek,XX,Stade Rennais FC,317,58527
+4060,Zeffane,DF,Stade Rennais FC,317,67283
+4061,Gelin,DF,Stade Rennais FC,317,105662
+4062,Gnagnon,DF,Stade Rennais FC,317,106299
+4063,Bensebaini,DF,Stade Rennais FC,317,95735
+4064,Bourigeaud,MF,Stade Rennais FC,317,90571
+4065,André,MF,Stade Rennais FC,317,28214
+4066,Prcić,MF,Stade Rennais FC,317,64461
+4067,Sarr,FW,Stade Rennais FC,317,111005
+4068,Khazri,FW,Stade Rennais FC,317,41118
+4069,Sakho,FW,Stade Rennais FC,317,44033
+4070,Kawashima,XX,FC Metz,318,17507
+4071,Mandjeck,DM,FC Metz,318,11385
+4072,Diagne,DF,FC Metz,318,28322
+4073,Niakhaté,DF,FC Metz,318,103642
+4074,Balliu,DF,FC Metz,318,63988
+4075,Mollet,AM,FC Metz,318,70643
+4076,Cohade,MF,FC Metz,318,11220
+4077,Palmieri,DF,FC Metz,318,8820
+4078,Dossevi,FW,FC Metz,318,25039
+4079,Roux,FW,FC Metz,318,28351
+4080,Rivière,FW,FC Metz,318,25306
+4081,Lopes,XX,Olympique Lyonnais,318,51203
+4082,Rafael,DF,Olympique Lyonnais,318,25647
+4083,Marcelo,DF,Olympique Lyonnais,318,17121
+4084,Morel,DF,Olympique Lyonnais,318,2625
+4085,Mendy,DF,Olympique Lyonnais,318,103732
+4086,Ferri,MF,Olympique Lyonnais,318,65590
+4087,Tousart,DM,Olympique Lyonnais,318,103639
+4088,Ndombèlé Alvaro,MF,Olympique Lyonnais,318,110596
+4089,Aouar,MF,Olympique Lyonnais,318,105657
+4090,Traore,FW,Olympique Lyonnais,318,67484
+4091,Depay,FW,Olympique Lyonnais,318,68281
+4092,Pelé,XX,Olympique de Marseille,319,2734
+4093,Sakai,DF,Olympique de Marseille,319,27859
+4094,Kamara,DF,Olympique de Marseille,319,114515
+4095,Luiz Gustavo,DM,Olympique de Marseille,319,13486
+4096,Amavi,DF,Olympique de Marseille,319,82028
+4097,López,MF,Olympique de Marseille,319,106713
+4098,Sanson,MF,Olympique de Marseille,319,73514
+4099,Sarr,MF,Olympique de Marseille,319,73522
+4100,Payet,FW,Olympique de Marseille,319,2589
+4101,Ocampos,FW,Olympique de Marseille,319,63120
+4102,Germain,FW,Olympique de Marseille,319,54508
+4103,Lecomte,XX,Montpellier-HSC,319,51234
+4104,Aguilar,DF,Montpellier-HSC,319,103583
+4105,Mukiele,DF,Montpellier-HSC,319,106875
+4106,Hilton,DF,Montpellier-HSC,319,2765
+4107,Congré,DF,Montpellier-HSC,319,5791
+4108,Roussillon,DF,Montpellier-HSC,319,55616
+4109,Ikoné,FW,Montpellier-HSC,319,105274
+4110,Lasne,MF,Montpellier-HSC,319,38560
+4111,Skhiri,DM,Montpellier-HSC,319,93851
+4112,Sambia,MF,Montpellier-HSC,319,103634
+4113,Sio,FW,Montpellier-HSC,319,44772
+4114,Butelle,XX,Angers SCO,320,862
+4115,Manceau,DF,Angers SCO,320,51109
+4116,Traore,DF,Angers SCO,320,14906
+4117,Thomas,DF,Angers SCO,320,22488
+4118,Bamba,DF,Angers SCO,320,51123
+4119,Santamaria,FW,Angers SCO,320,103910
+4120,Reine-Adelaide,MF,Angers SCO,320,100525
+4121,Oniangue,MF,Angers SCO,320,25045
+4122,Mangani,DM,Angers SCO,320,559
+4123,Tait,MF,Angers SCO,320,81759
+4124,Toko Ekambi,FW,Angers SCO,320,103713
+4125,Benítez,XX,OGC Nice,320,64701
+4126,Souquet,DF,OGC Nice,320,41303
+4127,Marlon,DF,OGC Nice,320,90081
+4128,Dante,DF,OGC Nice,320,9099
+4129,Le Marchand,DF,OGC Nice,320,41029
+4130,Lees-Melou,MF,OGC Nice,320,103598
+4131,Tameze Aoutsa,DM,OGC Nice,320,77757
+4132,Seri,MF,OGC Nice,320,83642
+4133,Srarfi,FW,OGC Nice,320,115537
+4134,Pléa,FW,OGC Nice,320,65937
+4135,Saint-Maximin,FW,OGC Nice,320,82829

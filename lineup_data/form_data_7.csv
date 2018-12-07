@@ -1,0 +1,371 @@
+,goals_for,goals_against,team,game_id,date
+0,1,0,Chelsea,173,09Dec
+1,0,4,Chelsea,173,06Dec
+2,4,2,Chelsea,173,05Dec
+3,1,1,Chelsea,173,05Dec
+4,3,1,Chelsea,173,02Dec
+5,1,1,Southampton,173,10Dec
+6,1,1,Southampton,173,03Dec
+7,2,1,Southampton,173,29Nov
+8,4,1,Southampton,173,26Nov
+9,3,0,Southampton,173,18Nov
+10,5,1,Stoke City,174,09Dec
+11,2,1,Stoke City,174,02Dec
+12,0,3,Stoke City,174,29Nov
+13,2,1,Stoke City,174,25Nov
+14,2,2,Stoke City,174,20Nov
+15,1,0,West Ham United,174,09Dec
+16,4,0,West Ham United,174,05Dec
+17,2,1,West Ham United,174,03Dec
+18,4,0,West Ham United,174,29Nov
+19,,,West Ham United,174,28Nov
+20,1,0,Watford,175,09Dec
+21,1,1,Watford,175,02Dec
+22,2,4,Watford,175,28Nov
+23,0,3,Watford,175,25Nov
+24,2,0,Watford,175,19Nov
+25,2,0,Huddersfield Town,175,09Dec
+26,2,0,Huddersfield Town,175,02Dec
+27,5,0,Huddersfield Town,175,29Nov
+28,1,2,Huddersfield Town,175,26Nov
+29,4,0,Huddersfield Town,175,18Nov
+30,1,2,Manchester City,176,10Dec
+31,2,1,Manchester City,176,06Dec
+32,2,1,Manchester City,176,06Dec
+33,2,1,Manchester City,176,03Dec
+34,,,Manchester City,176,29Nov
+35,5,1,Tottenham Hotspur,176,09Dec
+36,4,1,Tottenham Hotspur,176,06Dec
+37,3,0,Tottenham Hotspur,176,06Dec
+38,1,1,Tottenham Hotspur,176,02Dec
+39,2,1,Tottenham Hotspur,176,28Nov
+40,1,0,West Bromwich Albion,177,09Dec
+41,0,0,West Bromwich Albion,177,02Dec
+42,2,2,West Bromwich Albion,177,28Nov
+43,1,1,West Bromwich Albion,177,25Nov
+44,0,4,West Bromwich Albion,177,18Nov
+45,1,2,Manchester United,177,10Dec
+46,1,0,Manchester United,177,05Dec
+47,2,1,Manchester United,177,05Dec
+48,1,3,Manchester United,177,02Dec
+49,2,4,Manchester United,177,28Nov
+50,2,2,Bournemouth,178,09Dec
+51,1,1,Bournemouth,178,03Dec
+52,1,2,Bournemouth,178,29Nov
+53,0,0,Bournemouth,178,25Nov
+54,4,0,Bournemouth,178,18Nov
+55,1,1,Liverpool,178,10Dec
+56,2,0,Liverpool,178,06Dec
+57,7,0,Liverpool,178,06Dec
+58,1,5,Liverpool,178,02Dec
+59,0,3,Liverpool,178,29Nov
+60,1,1,Everton,179,10Dec
+61,0,3,Everton,179,07Dec
+62,2,0,Everton,179,02Dec
+63,4,0,Everton,179,29Nov
+64,4,1,Everton,179,26Nov
+65,1,0,Swansea City,179,09Dec
+66,2,3,Swansea City,179,05Dec
+67,2,1,Swansea City,179,02Dec
+68,1,0,Swansea City,179,29Nov
+69,0,0,Swansea City,179,25Nov
+70,1,0,Arsenal,180,16Dec
+71,0,0,Arsenal,180,13Dec
+72,1,1,Arsenal,180,10Dec
+73,6,0,Arsenal,180,07Dec
+74,1,3,Arsenal,180,02Dec
+75,0,0,Liverpool,180,13Dec
+76,1,1,Liverpool,180,10Dec
+77,2,0,Liverpool,180,06Dec
+78,7,0,Liverpool,180,06Dec
+79,1,5,Liverpool,180,02Dec
+80,0,1,Everton,181,13Dec
+81,1,1,Everton,181,10Dec
+82,0,3,Everton,181,07Dec
+83,2,0,Everton,181,02Dec
+84,4,0,Everton,181,29Nov
+85,1,0,Chelsea,181,16Dec
+86,1,3,Chelsea,181,12Dec
+87,1,0,Chelsea,181,09Dec
+88,0,4,Chelsea,181,06Dec
+89,4,2,Chelsea,181,05Dec
+90,2,0,Brighton & Hove Albion,182,13Dec
+91,2,0,Brighton & Hove Albion,182,09Dec
+92,1,5,Brighton & Hove Albion,182,02Dec
+93,0,0,Brighton & Hove Albion,182,28Nov
+94,1,0,Brighton & Hove Albion,182,25Nov
+95,2,1,Watford,182,12Dec
+96,1,0,Watford,182,09Dec
+97,1,1,Watford,182,02Dec
+98,2,4,Watford,182,28Nov
+99,0,3,Watford,182,25Nov
+100,4,1,Manchester City,183,16Dec
+101,0,4,Manchester City,183,13Dec
+102,1,2,Manchester City,183,10Dec
+103,2,1,Manchester City,183,06Dec
+104,2,1,Manchester City,183,06Dec
+105,0,4,Bournemouth,183,17Dec
+106,1,0,Bournemouth,183,13Dec
+107,2,2,Bournemouth,183,09Dec
+108,1,1,Bournemouth,183,03Dec
+109,1,2,Bournemouth,183,29Nov
+110,1,4,Southampton,184,13Dec
+111,1,1,Southampton,184,10Dec
+112,1,1,Southampton,184,03Dec
+113,2,1,Southampton,184,29Nov
+114,4,1,Southampton,184,26Nov
+115,1,3,Huddersfield Town,184,12Dec
+116,2,0,Huddersfield Town,184,09Dec
+117,2,0,Huddersfield Town,184,02Dec
+118,5,0,Huddersfield Town,184,29Nov
+119,1,2,Huddersfield Town,184,26Nov
+120,1,0,Stoke City,185,12Dec
+121,5,1,Stoke City,185,09Dec
+122,2,1,Stoke City,185,02Dec
+123,0,3,Stoke City,185,29Nov
+124,2,1,Stoke City,185,25Nov
+125,0,0,West Bromwich Albion,185,13Dec
+126,1,0,West Bromwich Albion,185,09Dec
+127,0,0,West Bromwich Albion,185,02Dec
+128,2,2,West Bromwich Albion,185,28Nov
+129,1,1,West Bromwich Albion,185,25Nov
+130,0,4,Swansea City,186,13Dec
+131,1,0,Swansea City,186,09Dec
+132,2,3,Swansea City,186,05Dec
+133,2,1,Swansea City,186,02Dec
+134,1,0,Swansea City,186,29Nov
+135,2,1,Crystal Palace,186,12Dec
+136,2,2,Crystal Palace,186,09Dec
+137,0,0,Crystal Palace,186,02Dec
+138,0,0,Crystal Palace,186,28Nov
+139,2,1,Crystal Palace,186,25Nov
+140,0,3,West Ham United,187,16Dec
+141,0,0,West Ham United,187,13Dec
+142,1,0,West Ham United,187,09Dec
+143,4,0,West Ham United,187,05Dec
+144,2,1,West Ham United,187,03Dec
+145,0,1,Newcastle United,187,13Dec
+146,2,3,Newcastle United,187,09Dec
+147,3,1,Newcastle United,187,02Dec
+148,2,2,Newcastle United,187,28Nov
+149,0,3,Newcastle United,187,25Nov
+150,1,0,Burnley,188,12Dec
+151,1,0,Burnley,188,09Dec
+152,1,0,Burnley,188,02Dec
+153,1,2,Burnley,188,29Nov
+154,0,1,Burnley,188,26Nov
+155,2,0,Tottenham Hotspur,188,13Dec
+156,5,1,Tottenham Hotspur,188,09Dec
+157,4,1,Tottenham Hotspur,188,06Dec
+158,3,0,Tottenham Hotspur,188,06Dec
+159,1,1,Tottenham Hotspur,188,02Dec
+160,0,3,Leicester City,189,16Dec
+161,1,4,Leicester City,189,13Dec
+162,2,3,Leicester City,189,09Dec
+163,1,2,Leicester City,189,05Dec
+164,1,0,Leicester City,189,02Dec
+165,1,2,Manchester United,189,17Dec
+166,1,0,Manchester United,189,13Dec
+167,1,2,Manchester United,189,10Dec
+168,1,0,Manchester United,189,05Dec
+169,2,1,Manchester United,189,05Dec
+170,4,1,Tottenham Hotspur,190,16Dec
+171,2,0,Tottenham Hotspur,190,13Dec
+172,5,1,Tottenham Hotspur,190,09Dec
+173,4,1,Tottenham Hotspur,190,06Dec
+174,3,0,Tottenham Hotspur,190,06Dec
+175,1,0,Southampton,190,16Dec
+176,1,4,Southampton,190,13Dec
+177,1,1,Southampton,190,10Dec
+178,1,1,Southampton,190,03Dec
+179,2,1,Southampton,190,29Nov
+180,2,1,Bournemouth,191,20Dec
+181,0,4,Bournemouth,191,17Dec
+182,1,0,Bournemouth,191,13Dec
+183,2,2,Bournemouth,191,09Dec
+184,1,1,Bournemouth,191,03Dec
+185,1,0,West Ham United,191,19Dec
+186,0,3,West Ham United,191,16Dec
+187,0,0,West Ham United,191,13Dec
+188,1,0,West Ham United,191,09Dec
+189,4,0,West Ham United,191,05Dec
+190,2,1,Chelsea,192,20Dec
+191,1,0,Chelsea,192,16Dec
+192,1,3,Chelsea,192,12Dec
+193,1,0,Chelsea,192,09Dec
+194,0,4,Chelsea,192,06Dec
+195,0,0,Brighton & Hove Albion,192,16Dec
+196,2,0,Brighton & Hove Albion,192,13Dec
+197,2,0,Brighton & Hove Albion,192,09Dec
+198,1,5,Brighton & Hove Albion,192,02Dec
+199,0,0,Brighton & Hove Albion,192,28Nov
+200,1,4,Huddersfield Town,193,16Dec
+201,1,3,Huddersfield Town,193,12Dec
+202,2,0,Huddersfield Town,193,09Dec
+203,2,0,Huddersfield Town,193,02Dec
+204,5,0,Huddersfield Town,193,29Nov
+205,0,3,Stoke City,193,16Dec
+206,1,0,Stoke City,193,12Dec
+207,5,1,Stoke City,193,09Dec
+208,2,1,Stoke City,193,02Dec
+209,0,3,Stoke City,193,29Nov
+210,2,1,Manchester United,194,20Dec
+211,1,2,Manchester United,194,17Dec
+212,1,0,Manchester United,194,13Dec
+213,1,2,Manchester United,194,10Dec
+214,1,0,Manchester United,194,05Dec
+215,0,0,Burnley,194,16Dec
+216,1,0,Burnley,194,12Dec
+217,1,0,Burnley,194,09Dec
+218,1,0,Burnley,194,02Dec
+219,1,2,Burnley,194,29Nov
+220,1,4,Watford,195,16Dec
+221,2,1,Watford,195,12Dec
+222,1,0,Watford,195,09Dec
+223,1,1,Watford,195,02Dec
+224,2,4,Watford,195,28Nov
+225,1,1,Leicester City,195,19Dec
+226,0,3,Leicester City,195,16Dec
+227,1,4,Leicester City,195,13Dec
+228,2,3,Leicester City,195,09Dec
+229,1,2,Leicester City,195,05Dec
+230,1,2,West Bromwich Albion,196,17Dec
+231,0,0,West Bromwich Albion,196,13Dec
+232,1,0,West Bromwich Albion,196,09Dec
+233,0,0,West Bromwich Albion,196,02Dec
+234,2,2,West Bromwich Albion,196,28Nov
+235,3,1,Everton,196,18Dec
+236,0,1,Everton,196,13Dec
+237,1,1,Everton,196,10Dec
+238,0,3,Everton,196,07Dec
+239,2,0,Everton,196,02Dec
+240,0,4,Liverpool,197,17Dec
+241,0,0,Liverpool,197,13Dec
+242,1,1,Liverpool,197,10Dec
+243,2,0,Liverpool,197,06Dec
+244,7,0,Liverpool,197,06Dec
+245,3,1,Swansea City,197,18Dec
+246,0,4,Swansea City,197,13Dec
+247,1,0,Swansea City,197,09Dec
+248,2,3,Swansea City,197,05Dec
+249,2,1,Swansea City,197,02Dec
+250,1,0,Newcastle United,198,16Dec
+251,0,1,Newcastle United,198,13Dec
+252,2,3,Newcastle United,198,09Dec
+253,3,1,Newcastle United,198,02Dec
+254,2,2,Newcastle United,198,28Nov
+255,1,1,Manchester City,198,19Dec
+256,4,1,Manchester City,198,16Dec
+257,0,4,Manchester City,198,13Dec
+258,1,2,Manchester City,198,10Dec
+259,2,1,Manchester City,198,06Dec
+260,0,3,Crystal Palace,199,16Dec
+261,2,1,Crystal Palace,199,12Dec
+262,2,2,Crystal Palace,199,09Dec
+263,0,0,Crystal Palace,199,02Dec
+264,0,0,Crystal Palace,199,28Nov
+265,1,0,Arsenal,199,19Dec
+266,1,0,Arsenal,199,16Dec
+267,0,0,Arsenal,199,13Dec
+268,1,1,Arsenal,199,10Dec
+269,6,0,Arsenal,199,07Dec
+270,4,0,Bournemouth,200,23Dec
+271,2,1,Bournemouth,200,20Dec
+272,0,4,Bournemouth,200,17Dec
+273,1,0,Bournemouth,200,13Dec
+274,2,2,Bournemouth,200,09Dec
+275,0,0,Everton,200,23Dec
+276,3,1,Everton,200,18Dec
+277,0,1,Everton,200,13Dec
+278,1,1,Everton,200,10Dec
+279,0,3,Everton,200,07Dec
+280,0,0,Chelsea,201,23Dec
+281,2,1,Chelsea,201,20Dec
+282,1,0,Chelsea,201,16Dec
+283,1,3,Chelsea,201,12Dec
+284,1,0,Chelsea,201,09Dec
+285,3,1,Stoke City,201,23Dec
+286,0,3,Stoke City,201,16Dec
+287,1,0,Stoke City,201,12Dec
+288,5,1,Stoke City,201,09Dec
+289,2,1,Stoke City,201,02Dec
+290,1,1,Huddersfield Town,202,23Dec
+291,1,4,Huddersfield Town,202,16Dec
+292,1,3,Huddersfield Town,202,12Dec
+293,2,0,Huddersfield Town,202,09Dec
+294,2,0,Huddersfield Town,202,02Dec
+295,0,3,Burnley,202,23Dec
+296,0,0,Burnley,202,16Dec
+297,1,0,Burnley,202,12Dec
+298,1,0,Burnley,202,09Dec
+299,1,0,Burnley,202,02Dec
+300,3,3,Liverpool,203,22Dec
+301,0,4,Liverpool,203,17Dec
+302,0,0,Liverpool,203,13Dec
+303,1,1,Liverpool,203,10Dec
+304,2,0,Liverpool,203,06Dec
+305,2,2,Leicester City,203,23Dec
+306,1,1,Leicester City,203,19Dec
+307,0,3,Leicester City,203,16Dec
+308,1,4,Leicester City,203,13Dec
+309,2,3,Leicester City,203,09Dec
+310,2,3,Newcastle United,204,23Dec
+311,1,0,Newcastle United,204,16Dec
+312,0,1,Newcastle United,204,13Dec
+313,2,3,Newcastle United,204,09Dec
+314,3,1,Newcastle United,204,02Dec
+315,1,0,Brighton & Hove Albion,204,23Dec
+316,0,0,Brighton & Hove Albion,204,16Dec
+317,2,0,Brighton & Hove Albion,204,13Dec
+318,2,0,Brighton & Hove Albion,204,09Dec
+319,1,5,Brighton & Hove Albion,204,02Dec
+320,1,0,Watford,205,23Dec
+321,1,4,Watford,205,16Dec
+322,2,1,Watford,205,12Dec
+323,1,0,Watford,205,09Dec
+324,1,1,Watford,205,02Dec
+325,1,1,Swansea City,205,23Dec
+326,3,1,Swansea City,205,18Dec
+327,0,4,Swansea City,205,13Dec
+328,1,0,Swansea City,205,09Dec
+329,2,3,Swansea City,205,05Dec
+330,2,2,Manchester United,206,23Dec
+331,2,1,Manchester United,206,20Dec
+332,1,2,Manchester United,206,17Dec
+333,1,0,Manchester United,206,13Dec
+334,1,2,Manchester United,206,10Dec
+335,1,1,Southampton,206,23Dec
+336,1,0,Southampton,206,16Dec
+337,1,4,Southampton,206,13Dec
+338,1,1,Southampton,206,10Dec
+339,1,1,Southampton,206,03Dec
+340,1,1,Crystal Palace,207,23Dec
+341,0,3,Crystal Palace,207,16Dec
+342,2,1,Crystal Palace,207,12Dec
+343,2,2,Crystal Palace,207,09Dec
+344,0,0,Crystal Palace,207,02Dec
+345,4,0,Manchester City,207,23Dec
+346,1,1,Manchester City,207,19Dec
+347,4,1,Manchester City,207,16Dec
+348,0,4,Manchester City,207,13Dec
+349,1,2,Manchester City,207,10Dec
+350,3,1,West Bromwich Albion,208,23Dec
+351,1,2,West Bromwich Albion,208,17Dec
+352,0,0,West Bromwich Albion,208,13Dec
+353,1,0,West Bromwich Albion,208,09Dec
+354,0,0,West Bromwich Albion,208,02Dec
+355,3,3,Arsenal,208,22Dec
+356,1,0,Arsenal,208,19Dec
+357,1,0,Arsenal,208,16Dec
+358,0,0,Arsenal,208,13Dec
+359,1,1,Arsenal,208,10Dec
+360,2,0,Brighton & Hove Albion,209,26Dec
+361,1,0,Brighton & Hove Albion,209,23Dec
+362,0,0,Brighton & Hove Albion,209,16Dec
+363,2,0,Brighton & Hove Albion,209,13Dec
+364,2,0,Brighton & Hove Albion,209,09Dec
+365,3,3,Bournemouth,209,26Dec
+366,4,0,Bournemouth,209,23Dec
+367,2,1,Bournemouth,209,20Dec
+368,0,4,Bournemouth,209,17Dec
+369,1,0,Bournemouth,209,13Dec

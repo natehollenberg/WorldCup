@@ -1,0 +1,50 @@
+,home,away,league,game_id,season,temp,weather_desc,date
+0,West Ham United,Southampton,FA_Premier_League,305,2017-2018,4C,Cloudy,31-Mar-18
+1,Brighton & Hove Albion,Leicester City,FA_Premier_League,306,2017-2018,4C,Cloudy,31-Mar-18
+2,Manchester United,Swansea City,FA_Premier_League,307,2017-2018,6C,Cloudy,31-Mar-18
+3,Newcastle United,Huddersfield Town,FA_Premier_League,308,2017-2018,3C,Cloudy,31-Mar-18
+4,Watford,Bournemouth,FA_Premier_League,309,2017-2018,3C,Cloudy,31-Mar-18
+5,West Bromwich Albion,Burnley,FA_Premier_League,310,2017-2018,3C,Cloudy,31-Mar-18
+6,Everton,Manchester City,FA_Premier_League,311,2017-2018,4C,Rain,31-Mar-18
+7,Arsenal,Stoke City,FA_Premier_League,312,2017-2018,5C,Cloudy,01-Apr-18
+8,Chelsea,Tottenham Hotspur,FA_Premier_League,313,2017-2018,4C,Cloudy,01-Apr-18
+9,Everton,Liverpool,FA_Premier_League,314,2017-2018,8C,Cloudy,07-Apr-18
+10,Bournemouth,Crystal Palace,FA_Premier_League,315,2017-2018,8C,Cloudy,07-Apr-18
+11,Brighton & Hove Albion,Huddersfield Town,FA_Premier_League,316,2017-2018,12C,Cloudy,07-Apr-18
+12,Leicester City,Newcastle United,FA_Premier_League,317,2017-2018,7C,Cloudy,07-Apr-18
+13,Stoke City,Tottenham Hotspur,FA_Premier_League,318,2017-2018,9C,Showers,07-Apr-18
+14,Watford,Burnley,FA_Premier_League,319,2017-2018,7C,Cloudy,07-Apr-18
+15,West Bromwich Albion,Swansea City,FA_Premier_League,320,2017-2018,8C,Showers,07-Apr-18
+16,Manchester City,Manchester United,FA_Premier_League,321,2017-2018,9C,Cloudy,07-Apr-18
+17,Arsenal,Southampton,FA_Premier_League,322,2017-2018,10C,Showers,08-Apr-18
+18,Chelsea,West Ham United,FA_Premier_League,323,2017-2018,10C,Showers,08-Apr-18
+19,Southampton,Chelsea,FA_Premier_League,324,2017-2018,6C,Cloudy,14-Apr-18
+20,Burnley,Leicester City,FA_Premier_League,325,2017-2018,7C,Cloudy,14-Apr-18
+21,Crystal Palace,Brighton & Hove Albion,FA_Premier_League,326,2017-2018,17C,Cloudy,14-Apr-18
+22,Huddersfield Town,Watford,FA_Premier_League,327,2017-2018,7C,Cloudy,14-Apr-18
+23,Swansea City,Everton,FA_Premier_League,328,2017-2018,14C,Cloudy,14-Apr-18
+24,Liverpool,Bournemouth,FA_Premier_League,329,2017-2018,8C,Cloudy,14-Apr-18
+25,Tottenham Hotspur,Manchester City,FA_Premier_League,330,2017-2018,8C,Cloudy,14-Apr-18
+26,Newcastle United,Arsenal,FA_Premier_League,331,2017-2018,4C,Cloudy,15-Apr-18
+27,Manchester United,West Bromwich Albion,FA_Premier_League,332,2017-2018,10C,Cloudy,15-Apr-18
+28,West Ham United,Stoke City,FA_Premier_League,333,2017-2018,8C,Cloudy,16-Apr-18
+29,Brighton & Hove Albion,Tottenham Hotspur,FA_Premier_League,334,2017-2018,10C,Cloudy,17-Apr-18
+30,Bournemouth,Manchester United,FA_Premier_League,335,2017-2018,13C,Cloudy,18-Apr-18
+31,Burnley,Chelsea,FA_Premier_League,336,2017-2018,12C,Clear,19-Apr-18
+32,Leicester City,Southampton,FA_Premier_League,337,2017-2018,11C,Cloudy,19-Apr-18
+33,West Bromwich Albion,Liverpool,FA_Premier_League,338,2017-2018,20C,Cloudy,21-Apr-18
+34,Watford,Crystal Palace,FA_Premier_League,339,2017-2018,21C,Cloudy,21-Apr-18
+35,Arsenal,West Ham United,FA_Premier_League,340,2017-2018,14C,Clear,22-Apr-18
+36,Stoke City,Burnley,FA_Premier_League,341,2017-2018,14C,Clear,22-Apr-18
+37,Manchester City,Swansea City,FA_Premier_League,342,2017-2018,15C,Cloudy,22-Apr-18
+38,Everton,Newcastle United,FA_Premier_League,343,2017-2018,9C,Cloudy,23-Apr-18
+39,Liverpool,Stoke City,FA_Premier_League,344,2017-2018,5C,Cloudy,28-Apr-18
+40,Burnley,Brighton & Hove Albion,FA_Premier_League,345,2017-2018,7C,Cloudy,28-Apr-18
+41,Crystal Palace,Leicester City,FA_Premier_League,346,2017-2018,8C,Cloudy,28-Apr-18
+42,Huddersfield Town,Everton,FA_Premier_League,347,2017-2018,8C,Cloudy,28-Apr-18
+43,Newcastle United,West Bromwich Albion,FA_Premier_League,348,2017-2018,7C,Cloudy,28-Apr-18
+44,Southampton,Bournemouth,FA_Premier_League,349,2017-2018,8C,Cloudy,28-Apr-18
+45,Swansea City,Chelsea,FA_Premier_League,350,2017-2018,7C,Cloudy,28-Apr-18
+46,West Ham United,Manchester City,FA_Premier_League,351,2017-2018,7C,Cloudy,29-Apr-18
+47,Manchester United,Arsenal,FA_Premier_League,352,2017-2018,5C,Cloudy,29-Apr-18
+48,Tottenham Hotspur,Watford,FA_Premier_League,353,2017-2018,6C,Showers,30-Apr-18

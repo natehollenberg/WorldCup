@@ -1,0 +1,38 @@
+,home,away,league,game_id,season,temp,weather_desc,date
+0,Chelsea,Southampton,FA_Premier_League,173,2017-2018,0C,Cloudy,16-Dec-17
+1,Stoke City,West Ham United,FA_Premier_League,174,2017-2018,-1C,Cloudy,16-Dec-17
+2,Watford,Huddersfield Town,FA_Premier_League,175,2017-2018,-1C,Cloudy,16-Dec-17
+3,Manchester City,Tottenham Hotspur,FA_Premier_League,176,2017-2018,-1C,Cloudy,16-Dec-17
+4,West Bromwich Albion,Manchester United,FA_Premier_League,177,2017-2018,1C,Cloudy,17-Dec-17
+5,Bournemouth,Liverpool,FA_Premier_League,178,2017-2018,1C,Cloudy,17-Dec-17
+6,Everton,Swansea City,FA_Premier_League,179,2017-2018,5C,Cloudy,18-Dec-17
+7,Arsenal,Liverpool,FA_Premier_League,180,2017-2018,9C,Cloudy,22-Dec-17
+8,Everton,Chelsea,FA_Premier_League,181,2017-2018,7C,Cloudy,23-Dec-17
+9,Brighton & Hove Albion,Watford,FA_Premier_League,182,2017-2018,9C,Cloudy,23-Dec-17
+10,Manchester City,Bournemouth,FA_Premier_League,183,2017-2018,8C,Cloudy,23-Dec-17
+11,Southampton,Huddersfield Town,FA_Premier_League,184,2017-2018,8C,Cloudy,23-Dec-17
+12,Stoke City,West Bromwich Albion,FA_Premier_League,185,2017-2018,6C,Cloudy,23-Dec-17
+13,Swansea City,Crystal Palace,FA_Premier_League,186,2017-2018,8C,Cloudy,23-Dec-17
+14,West Ham United,Newcastle United,FA_Premier_League,187,2017-2018,10C,Cloudy,23-Dec-17
+15,Burnley,Tottenham Hotspur,FA_Premier_League,188,2017-2018,6C,Cloudy,23-Dec-17
+16,Leicester City,Manchester United,FA_Premier_League,189,2017-2018,7C,Cloudy,23-Dec-17
+17,Tottenham Hotspur,Southampton,FA_Premier_League,190,2017-2018,3C,Cloudy,26-Dec-17
+18,Bournemouth,West Ham United,FA_Premier_League,191,2017-2018,5C,Breezy,26-Dec-17
+19,Chelsea,Brighton & Hove Albion,FA_Premier_League,192,2017-2018,3C,Clear,26-Dec-17
+20,Huddersfield Town,Stoke City,FA_Premier_League,193,2017-2018,2C,Cloudy,26-Dec-17
+21,Manchester United,Burnley,FA_Premier_League,194,2017-2018,3C,Showers,26-Dec-17
+22,Watford,Leicester City,FA_Premier_League,195,2017-2018,3C,Clear,26-Dec-17
+23,West Bromwich Albion,Everton,FA_Premier_League,196,2017-2018,4C,Cloudy,26-Dec-17
+24,Liverpool,Swansea City,FA_Premier_League,197,2017-2018,4C,Showers,26-Dec-17
+25,Newcastle United,Manchester City,FA_Premier_League,198,2017-2018,0C,Cloudy,27-Dec-17
+26,Crystal Palace,Arsenal,FA_Premier_League,199,2017-2018,0C,Clear,28-Dec-17
+27,Bournemouth,Everton,FA_Premier_League,200,2017-2018,13C,Breezy,30-Dec-17
+28,Chelsea,Stoke City,FA_Premier_League,201,2017-2018,8C,Cloudy,30-Dec-17
+29,Huddersfield Town,Burnley,FA_Premier_League,202,2017-2018,2C,Cloudy,30-Dec-17
+30,Liverpool,Leicester City,FA_Premier_League,203,2017-2018,3C,Cloudy,30-Dec-17
+31,Newcastle United,Brighton & Hove Albion,FA_Premier_League,204,2017-2018,1C,Rain,30-Dec-17
+32,Watford,Swansea City,FA_Premier_League,205,2017-2018,7C,Cloudy,30-Dec-17
+33,Manchester United,Southampton,FA_Premier_League,206,2017-2018,3C,Cloudy,30-Dec-17
+34,Crystal Palace,Manchester City,FA_Premier_League,207,2017-2018,12C,Cloudy,31-Dec-17
+35,West Bromwich Albion,Arsenal,FA_Premier_League,208,2017-2018,11C,Showers,31-Dec-17
+36,Brighton & Hove Albion,Bournemouth,FA_Premier_League,209,2017-2018,8C,Cloudy,01-Jan-18

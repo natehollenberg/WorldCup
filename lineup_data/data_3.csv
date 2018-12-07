@@ -1,0 +1,32 @@
+,home,away,league,game_id,season,temp,weather_desc,date
+0,Bournemouth,Brighton & Hove Albion,FA_Premier_League,40,2017-2018,9C,Cloudy,15-Sep-17
+1,Crystal Palace,Southampton,FA_Premier_League,41,2017-2018,8C,Cloudy,16-Sep-17
+2,Huddersfield Town,Leicester City,FA_Premier_League,42,2017-2018,8C,Cloudy,16-Sep-17
+3,Liverpool,Burnley,FA_Premier_League,43,2017-2018,11C,Cloudy,16-Sep-17
+4,Newcastle United,Stoke City,FA_Premier_League,44,2017-2018,10C,Showers,16-Sep-17
+5,Watford,Manchester City,FA_Premier_League,45,2017-2018,8C,Cloudy,16-Sep-17
+6,West Bromwich Albion,West Ham United,FA_Premier_League,46,2017-2018,10C,Cloudy,16-Sep-17
+7,Tottenham Hotspur,Swansea City,FA_Premier_League,47,2017-2018,9C,Cloudy,16-Sep-17
+8,Chelsea,Arsenal,FA_Premier_League,48,2017-2018,8C,Cloudy,17-Sep-17
+9,Manchester United,Everton,FA_Premier_League,49,2017-2018,9C,Showers,17-Sep-17
+10,West Ham United,Tottenham Hotspur,FA_Premier_League,50,2017-2018,13C,Cloudy,23-Sep-17
+11,Burnley,Huddersfield Town,FA_Premier_League,51,2017-2018,11C,Cloudy,23-Sep-17
+12,Everton,Bournemouth,FA_Premier_League,52,2017-2018,13C,Cloudy,23-Sep-17
+13,Manchester City,Crystal Palace,FA_Premier_League,53,2017-2018,12C,Cloudy,23-Sep-17
+14,Southampton,Manchester United,FA_Premier_League,54,2017-2018,13C,Showers,23-Sep-17
+15,Stoke City,Chelsea,FA_Premier_League,55,2017-2018,12C,Cloudy,23-Sep-17
+16,Swansea City,Watford,FA_Premier_League,56,2017-2018,15C,Showers,23-Sep-17
+17,Leicester City,Liverpool,FA_Premier_League,57,2017-2018,13C,Cloudy,23-Sep-17
+18,Brighton & Hove Albion,Newcastle United,FA_Premier_League,58,2017-2018,11C,Cloudy,24-Sep-17
+19,Arsenal,West Bromwich Albion,FA_Premier_League,59,2017-2018,15C,Showers,25-Sep-17
+20,Huddersfield Town,Tottenham Hotspur,FA_Premier_League,60,2017-2018,9C,Cloudy,30-Sep-17
+21,Bournemouth,Leicester City,FA_Premier_League,61,2017-2018,12C,Cloudy,30-Sep-17
+22,Manchester United,Crystal Palace,FA_Premier_League,62,2017-2018,10C,Showers,30-Sep-17
+23,Stoke City,Southampton,FA_Premier_League,63,2017-2018,8C,Cloudy,30-Sep-17
+24,West Bromwich Albion,Watford,FA_Premier_League,64,2017-2018,8C,Cloudy,30-Sep-17
+25,West Ham United,Swansea City,FA_Premier_League,65,2017-2018,12C,Cloudy,30-Sep-17
+26,Chelsea,Manchester City,FA_Premier_League,66,2017-2018,12C,Cloudy,30-Sep-17
+27,Arsenal,Brighton & Hove Albion,FA_Premier_League,67,2017-2018,15C,Showers,01-Oct-17
+28,Everton,Burnley,FA_Premier_League,68,2017-2018,13C,Showers,01-Oct-17
+29,Newcastle United,Liverpool,FA_Premier_League,69,2017-2018,11C,Showers,01-Oct-17
+30,Liverpool,Manchester United,FA_Premier_League,70,2017-2018,17C,Cloudy,14-Oct-17
