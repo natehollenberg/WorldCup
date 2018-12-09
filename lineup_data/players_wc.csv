@@ -1,0 +1,1409 @@
+,name,position,team,game_id,player_id
+0,Akinfeev,XX,Russia,277228,6065
+1,Mario Fernandes,DF,Russia,277228,38164
+2,Kutepov,DF,Russia,277228,73695
+3,Ignashevich,DF,Russia,277228,6068
+4,Zhirkov,MF,Russia,277228,6075
+5,Gazinsky,MF,Russia,277228,24852
+6,Zobnin,MF,Russia,277228,80972
+7,Samedov,MF,Russia,277228,10354
+8,Dzagoev,AM,Russia,277228,19439
+9,Golovin,MF,Russia,277228,94791
+10,Smolov,FW,Russia,277228,10426
+11,Al Muaiouf,XX,Saudi Arabia,277228,69699
+12,Al-Burayk,DF,Saudi Arabia,277228,97267
+13,Osama Hawsawi,DF,Saudi Arabia,277228,17726
+14,Omar Hawsawi,DF,Saudi Arabia,277228,57051
+15,Al-Shahrani,DF,Saudi Arabia,277228,90915
+16,Al-Shehri,AM,Saudi Arabia,277228,48336
+17,Al-Jassim,MF,Saudi Arabia,277228,17731
+18,Otayf,DM,Saudi Arabia,277228,97281
+19,Al-Faraj,MF,Saudi Arabia,277228,71548
+20,Al-Dossari,FW,Saudi Arabia,277228,71558
+21,Al-Sahlawi,FW,Saudi Arabia,277228,48337
+22,El Shenawy,XX,Egypt,277229,126268
+23,Fathi,DF,Egypt,277229,6527
+24,Gabr,DF,Egypt,277229,114824
+25,Hegazy,DF,Egypt,277229,40854
+26,Abdel-Shafy,DF,Egypt,277229,43630
+27,El Nenny,DM,Egypt,277229,72708
+28,Hamed,DM,Egypt,277229,90809
+29,Amr Warda,FW,Egypt,277229,104319
+30,Said,AM,Egypt,277229,76362
+31,Trezeguet,FW,Egypt,277229,76365
+32,Mohsen,FW,Egypt,277229,72706
+33,Muslera,XX,Uruguay,277229,13562
+34,Varela,DF,Uruguay,277229,77016
+35,Gimenez,DF,Uruguay,277229,79085
+36,Godín,DF,Uruguay,277229,10474
+37,Cáceres,DF,Uruguay,277229,12813
+38,Nández,MF,Uruguay,277229,87925
+39,Vecino,MF,Uruguay,277229,64311
+40,Bentancur,MF,Uruguay,277229,99470
+41,de Arrascaeta,AM,Uruguay,277229,77023
+42,Suárez,FW,Uruguay,277229,2396
+43,Cavani,FW,Uruguay,277229,6737
+44,Munir,XX,Morocco,277234,76735
+45,Amrabat,FW,Morocco,277234,12383
+46,Benatia,DF,Morocco,277234,23335
+47,Saïss,DM,Morocco,277234,73536
+48,Achraf,DF,Morocco,277234,105329
+49,El Ahmadi,DM,Morocco,277234,3774
+50,Ziyech,AM,Morocco,277234,73287
+51,Belhanda,AM,Morocco,277234,38632
+52,Boussoufa,AM,Morocco,277234,9066
+53,Harit,AM,Morocco,277234,110219
+54,El Kaabi,FW,Morocco,277234,127779
+55,Beiranvand,XX,Iran,277234,90540
+56,Rezaeian,DF,Iran,277234,97920
+57,Pouraliganji,DF,Iran,277234,97917
+58,Cheshmi,DM,Iran,277234,122542
+59,Hajsafi,DF,Iran,277234,15129
+60,Ebrahimi,MF,Iran,277234,72033
+61,Jahanbakhsh,FW,Iran,277234,82087
+62,Shojaei,AM,Iran,277234,7982
+63,Amiri,FW,Iran,277234,97919
+64,Ansarifard,FW,Iran,277234,55275
+65,Azmoun,FW,Iran,277234,79284
+66,Rui Patrício,XX,Portugal,277235,4203
+67,Cédric,DF,Portugal,277235,46131
+68,Pepe,DF,Portugal,277235,3572
+69,José Fonte,DF,Portugal,277235,3693
+70,Raphaël Guerreiro,MF,Portugal,277235,73496
+71,Bernardo Silva,FW,Portugal,277235,85349
+72,João Moutinho,MF,Portugal,277235,1159
+73,William Carvalho,DM,Portugal,277235,57985
+74,Bruno Fernandes,AM,Portugal,277235,75805
+75,Gonçalo Guedes,FW,Portugal,277235,95547
+76,Cristiano Ronaldo,FW,Portugal,277235,61
+77,De Gea,XX,Spain,277235,41206
+78,Nacho,DF,Spain,277235,58551
+79,Piqué,DF,Spain,277235,917
+80,Ramos,DF,Spain,277235,40
+81,Jordi Alba,DF,Spain,277235,40382
+82,Koke,MF,Spain,277235,40555
+83,Busquets,DM,Spain,277235,28213
+84,Iniesta,AM,Spain,277235,852
+85,Silva,AM,Spain,277235,861
+86,Diego Costa,FW,Spain,277235,5952
+87,Isco,AM,Spain,277235,54348
+88,Lloris,XX,France,277248,2610
+89,Pavard,DF,France,277248,98332
+90,Varane,DF,France,277248,53951
+91,Umtiti,DF,France,277248,51205
+92,Hernández,DF,France,277248,85109
+93,Tolisso,MF,France,277248,82027
+94,Kanté,DM,France,277248,73549
+95,Pogba,MF,France,277248,56805
+96,Griezmann,FW,France,277248,44311
+97,Mbappé,FW,France,277248,107095
+98,Dembèlé,FW,France,277248,106642
+99,Ryan,XX,Australia,277248,41314
+100,Risdon,DF,Australia,277248,52808
+101,Sainsbury,DF,Australia,277248,54524
+102,Milligan,DM,Australia,277248,7646
+103,Behich,DF,Australia,277248,44364
+104,Jedinák,DM,Australia,277248,23334
+105,Mooy,MF,Australia,277248,41166
+106,Leckie,FW,Australia,277248,40744
+107,Rogić,AM,Australia,277248,67464
+108,Kruse,FW,Australia,277248,26165
+109,Nabbout,FW,Australia,277248,75519
+110,Caballero,XX,Argentina,277254,8292
+111,Salvio,MF,Argentina,277254,26954
+112,Otamendi,DF,Argentina,277254,21163
+113,Rojo,DF,Argentina,277254,31237
+114,Tagliafico,DF,Argentina,277254,45429
+115,Mascherano,DM,Argentina,277254,997
+116,Biglia,DM,Argentina,277254,8279
+117,Meza,AM,Argentina,277254,69151
+118,Messi,FW,Argentina,277254,9
+119,Di Maria,FW,Argentina,277254,5016
+120,Agüero,FW,Argentina,277254,874
+121,Halldórsson,XX,Iceland,277254,36430
+122,Sævarsson,DF,Iceland,277254,18500
+123,Árnason,DF,Iceland,277254,6887
+124,Sigurðsson,DF,Iceland,277254,6541
+125,Magnússon,DF,Iceland,277254,82877
+126,Guðmundsson,FW,Iceland,277254,49182
+127,Gunnarsson,MF,Iceland,277254,16087
+128,Hallfredsson,MF,Iceland,277254,6934
+129,Bjarnason,MF,Iceland,277254,18604
+130,Sigurðsson,AM,Iceland,277254,25685
+131,Finnbogason,FW,Iceland,277254,50311
+132,Gallese,XX,Peru,277249,73323
+133,Advíncula,DF,Peru,277249,31915
+134,Ramos,DF,Peru,277249,20191
+135,Alberto R,DF,Peru,277249,6241
+136,Trauco,DF,Peru,277249,73309
+137,Tapia,MF,Peru,277249,77035
+138,Yotún,MF,Peru,277249,59472
+139,Carrillo,FW,Peru,277249,55420
+140,Cueva,AM,Peru,277249,33540
+141,Flores,FW,Peru,277249,63795
+142,Farfán,FW,Peru,277249,1130
+143,Schmeichel,XX,Denmark,277249,6670
+144,Dalsgaard,DF,Denmark,277249,31389
+145,Kjær,DF,Denmark,277249,6191
+146,Christensen,DF,Denmark,277249,79602
+147,Stryger Larsen,DF,Denmark,277249,35860
+148,Kvist,DM,Denmark,277249,1085
+149,Delaney,MF,Denmark,277249,34236
+150,Poulsen,FW,Denmark,277249,66588
+151,Eriksen,AM,Denmark,277249,44435
+152,Sisto,FW,Denmark,277249,75087
+153,Jørgensen,FW,Denmark,277249,32172
+154,Subašić,XX,Croatia,277255,39386
+155,Vrsaljko,DF,Croatia,277255,51045
+156,Lovren,DF,Croatia,277255,24024
+157,Vida,DF,Croatia,277255,47594
+158,Strinić,DF,Croatia,277255,39395
+159,Modrić,MF,Croatia,277255,7928
+160,Rakitić,MF,Croatia,277255,4020
+161,Perišić,FW,Croatia,277255,25165
+162,Kramarić,FW,Croatia,277255,36993
+163,Rebić,FW,Croatia,277255,61605
+164,Mandžukić,FW,Croatia,277255,14060
+165,Uzoho,XX,Nigeria,277255,122686
+166,Shehu,DM,Nigeria,277255,80420
+167,Troost-Ekong,DF,Nigeria,277255,82092
+168,Balogun,DF,Nigeria,277255,26567
+169,Idowu,DF,Nigeria,277255,70279
+170,Ndidi,DM,Nigeria,277255,80418
+171,Etebo,AM,Nigeria,277255,110644
+172,Moses,MF,Nigeria,277255,19680
+173,Mikel,DM,Nigeria,277255,623
+174,Iwobi,FW,Nigeria,277255,95055
+175,Ighalo,FW,Nigeria,277255,18815
+176,Navas,XX,Costa Rica,277260,14748
+177,Acosta,DF,Costa Rica,277260,57935
+178,González,DF,Costa Rica,277260,27219
+179,Duarte,DF,Costa Rica,277260,56892
+180,Gamboa,DF,Costa Rica,277260,37923
+181,Borges,MF,Costa Rica,277260,14752
+182,Guzman,DM,Costa Rica,277260,39348
+183,Calvo,DF,Costa Rica,277260,59579
+184,Ruiz,AM,Costa Rica,277260,9319
+185,Venegas,FW,Costa Rica,277260,82619
+186,Ureña,FW,Costa Rica,277260,41149
+187,Stojkovic,XX,Serbia,277260,2863
+188,Ivanović,DF,Serbia,277260,10368
+189,Milenković,DF,Serbia,277260,110100
+190,Tošić,DF,Serbia,277260,2811
+191,Kolarov,DF,Serbia,277260,11995
+192,Milivojević,DM,Serbia,277260,61174
+193,Matić,DM,Serbia,277260,31740
+194,Tadic,FW,Serbia,277260,25134
+195,Milinković-Savić,MF,Serbia,277260,92993
+196,Ljajic,AM,Serbia,277260,24777
+197,Mitrović,FW,Serbia,277260,72915
+198,Neuer,XX,Germany,277266,2141
+199,Kimmich,DF,Germany,277266,85188
+200,Boateng,DF,Germany,277266,5965
+201,Hummels,DF,Germany,277266,656
+202,Plattenhardt,DF,Germany,277266,53690
+203,Khedira,MF,Germany,277266,2909
+204,Kroos,MF,Germany,277266,11106
+205,Müller,FW,Germany,277266,24642
+206,Özil,AM,Germany,277266,2070
+207,Draxler,FW,Germany,277266,55354
+208,Werner,FW,Germany,277266,81505
+209,Ochoa,XX,Mexico,277266,4415
+210,Salcedo,DF,Mexico,277266,77633
+211,Ayala,DF,Mexico,277266,16657
+212,Moreno,DF,Mexico,277266,15883
+213,Gallardo,MF,Mexico,277266,96067
+214,Herrera,MF,Mexico,277266,32083
+215,Guardado,MF,Mexico,277266,4420
+216,Layún,DF,Mexico,277266,20923
+217,Vela,FW,Mexico,277266,11533
+218,Lozano,FW,Mexico,277266,87140
+219,Hernández,FW,Mexico,277266,16954
+220,Alisson,XX,Brazil,277261,82741
+221,Danilo,DF,Brazil,277261,50348
+222,Thiago Silva,DF,Brazil,277261,16839
+223,Miranda,DF,Brazil,277261,9391
+224,Marcelo,DF,Brazil,277261,5676
+225,Paulinho,MF,Brazil,277261,13943
+226,Casemiro,DM,Brazil,277261,50707
+227,Philippe Coutinho,FW,Brazil,277261,43859
+228,Willian,FW,Brazil,277261,10229
+229,Gabriel Jesus,FW,Brazil,277261,100929
+230,Neymar,FW,Brazil,277261,34907
+231,Sommer,XX,Switzerland,277261,21279
+232,Lichtsteiner,DF,Switzerland,277261,2724
+233,Schär,DF,Switzerland,277261,71301
+234,Akanji,DF,Switzerland,277261,97743
+235,Rodríguez,DF,Switzerland,277261,36864
+236,Behrami,DM,Switzerland,277261,4287
+237,Xhaka,DM,Switzerland,277261,49774
+238,Shaqiri,FW,Switzerland,277261,36861
+239,Džemaili,MF,Switzerland,277261,7649
+240,Zuber,MF,Switzerland,277261,23385
+241,Seferović,FW,Switzerland,277261,34385
+242,Olsen,XX,Sweden,277267,80769
+243,Lustig,DF,Sweden,277267,10992
+244,Jansson,DF,Sweden,277267,39717
+245,Granqvist,DF,Sweden,277267,5937
+246,Augustinsson,DF,Sweden,277267,58922
+247,Claesson,FW,Sweden,277267,65455
+248,Larsson,MF,Sweden,277267,4233
+249,Ekdal,MF,Sweden,277267,7377
+250,Forsberg,MF,Sweden,277267,34694
+251,Berg,FW,Sweden,277267,5880
+252,Toivonen,FW,Sweden,277267,5798
+253,Cho Hyun-woo,XX,South Korea,277267,127550
+254,Yong Lee,DF,South Korea,277267,69443
+255,HS Jang,DF,South Korea,277267,67401
+256,Young-Gwon Kim,DF,South Korea,277267,40968
+257,Joo-Ho Park,DF,South Korea,277267,32625
+258,SY Ki,DM,South Korea,277267,24485
+259,Hee-Chan Hwang,FW,South Korea,277267,105728
+260,Jae-Sung Lee,AM,South Korea,277267,88066
+261,Ja-Cheol Koo,AM,South Korea,277267,30198
+262,Heung-Min Son,FW,South Korea,277267,48353
+263,Shin-Wook Kim,FW,South Korea,277267,33295
+264,Courtois,XX,Belgium,277272,34241
+265,Alderweireld,DF,Belgium,277272,31872
+266,Boyata,DF,Belgium,277272,43564
+267,Vertonghen,DF,Belgium,277272,849
+268,Meunier,DF,Belgium,277272,62078
+269,De Bruyne,AM,Belgium,277272,34705
+270,Witsel,MF,Belgium,277272,9435
+271,Carrasco,FW,Belgium,277272,75050
+272,Mertens,FW,Belgium,277272,25905
+273,Hazard,FW,Belgium,277272,14903
+274,Lukaku,FW,Belgium,277272,38757
+275,Penedo,XX,Panama,277272,9965
+276,Murillo,DF,Panama,277272,98375
+277,Torres,DF,Panama,277272,9957
+278,Escobar,DF,Panama,277272,98376
+279,Davis,DF,Panama,277272,37999
+280,Gómez,DM,Panama,277272,9963
+281,Bárcenas,FW,Panama,277272,81968
+282,Cooper,MF,Panama,277272,38003
+283,Godoy,MF,Panama,277272,59631
+284,Rodríguez,MF,Panama,277272,127666
+285,Blas Pérez,FW,Panama,277272,7508
+286,Hassen,XX,Tunisia,277273,77083
+287,Bronn,DF,Tunisia,277273,110500
+288,Ben Youssef,DF,Tunisia,277273,67322
+289,Meriah,DF,Tunisia,277273,122521
+290,Maâloul,DF,Tunisia,277273,98248
+291,Sassi,MF,Tunisia,277273,98250
+292,Skhiri,DM,Tunisia,277273,93851
+293,Badri,FW,Tunisia,277273,95869
+294,Ben Youssef,FW,Tunisia,277273,77434
+295,Khazri,FW,Tunisia,277273,41118
+296,Sliti,FW,Tunisia,277273,62655
+297,Pickford,XX,England,277273,67696
+298,Walker,DF,England,277273,37666
+299,Stones,DF,England,277273,58793
+300,Maguire,DF,England,277273,57627
+301,Trippier,DF,England,277273,40791
+302,Lingard,AM,England,277273,71489
+303,Henderson,MF,England,277273,30627
+304,Alli,AM,England,277273,74303
+305,Young,DF,England,277273,1896
+306,Sterling,FW,England,277273,69315
+307,Kane,FW,England,277273,41936
+308,Ospina,XX,Colombia,277279,16883
+309,Arias,DF,Colombia,277279,47621
+310,Sánchez,DF,Colombia,277279,84584
+311,Murillo,DF,Colombia,277279,45045
+312,Mojica,MF,Colombia,277279,76595
+313,Sánchez,DM,Colombia,277279,11231
+314,Lerma,DM,Colombia,277279,78987
+315,Cuadrado,FW,Colombia,277279,36551
+316,Quintero,AM,Colombia,277279,59221
+317,Izquierdo,FW,Colombia,277279,47635
+318,Falcao,FW,Colombia,277279,4985
+319,Kawashima,XX,Japan,277279,17507
+320,Sakai,DF,Japan,277279,27859
+321,Yoshida,DF,Japan,277279,24453
+322,Shoji,DF,Japan,277279,57108
+323,Nagatomo,DF,Japan,277279,24449
+324,Shibasaki,MF,Japan,277279,57107
+325,Hasebe,DM,Japan,277279,15051
+326,Haraguchi,FW,Japan,277279,26909
+327,Kagawa,AM,Japan,277279,24457
+328,Inui,FW,Japan,277279,30108
+329,Osako,FW,Japan,277279,32624
+330,Szczęsny,XX,Poland,277278,10594
+331,Piszczek,DF,Poland,277278,398
+332,Thiago Cionek,DF,Poland,277278,31011
+333,Pazdan,DF,Poland,277278,13564
+334,Rybus,MF,Poland,277278,14869
+335,Krychowiak,DM,Poland,277278,10589
+336,Zieliński,MF,Poland,277278,74397
+337,Błaszczykowski,MF,Poland,277278,209
+338,Milik,FW,Poland,277278,65509
+339,Grosicki,FW,Poland,277278,480
+340,Lewandowski,FW,Poland,277278,28177
+341,N Diaye,XX,Senegal,277278,59749
+342,Wague,DF,Senegal,277278,101641
+343,Sané,DF,Senegal,277278,54802
+344,Koulibaly,DF,Senegal,277278,51137
+345,Sabaly,DF,Senegal,277278,80337
+346,Sarr,FW,Senegal,277278,111005
+347,Gueye,DM,Senegal,277278,44582
+348,N Diaye,DM,Senegal,277278,23306
+349,Mané,FW,Senegal,277278,72713
+350,Diouf,FW,Senegal,277278,18699
+351,Niang,FW,Senegal,277278,58601
+352,Akinfeev,XX,Russia,277230,6065
+353,Mario Fernandes,DF,Russia,277230,38164
+354,Kutepov,DF,Russia,277230,73695
+355,Ignashevich,DF,Russia,277230,6068
+356,Zhirkov,MF,Russia,277230,6075
+357,Gazinsky,MF,Russia,277230,24852
+358,Zobnin,MF,Russia,277230,80972
+359,Samedov,MF,Russia,277230,10354
+360,Golovin,MF,Russia,277230,94791
+361,Cheryshev,FW,Russia,277230,59789
+362,Dzyuba,FW,Russia,277230,6489
+363,El Shenawy,XX,Egypt,277230,126268
+364,Fathi,DF,Egypt,277230,6527
+365,Gabr,DF,Egypt,277230,114824
+366,Hegazy,DF,Egypt,277230,40854
+367,Abdel-Shafy,DF,Egypt,277230,43630
+368,El Nenny,DM,Egypt,277230,72708
+369,Hamed,DM,Egypt,277230,90809
+370,Salah,FW,Egypt,277230,71707
+371,Said,AM,Egypt,277230,76362
+372,Trezeguet,FW,Egypt,277230,76365
+373,Mohsen,FW,Egypt,277230,72706
+374,Rui Patrício,XX,Portugal,277236,4203
+375,Cédric,DF,Portugal,277236,46131
+376,Pepe,DF,Portugal,277236,3572
+377,José Fonte,DF,Portugal,277236,3693
+378,Raphaël Guerreiro,MF,Portugal,277236,73496
+379,Bernardo Silva,FW,Portugal,277236,85349
+380,João Moutinho,MF,Portugal,277236,1159
+381,William Carvalho,DM,Portugal,277236,57985
+382,João Mário,AM,Portugal,277236,66772
+383,Gonçalo Guedes,FW,Portugal,277236,95547
+384,Cristiano Ronaldo,FW,Portugal,277236,61
+385,Munir,XX,Morocco,277236,76735
+386,Dirar,MF,Morocco,277236,9194
+387,Benatia,DF,Morocco,277236,23335
+388,Manuel da Costa,DF,Morocco,277236,1127
+389,Achraf,DF,Morocco,277236,105329
+390,El Ahmadi,DM,Morocco,277236,3774
+391,Amrabat,FW,Morocco,277236,12383
+392,Belhanda,AM,Morocco,277236,38632
+393,Boussoufa,AM,Morocco,277236,9066
+394,Ziyech,AM,Morocco,277236,73287
+395,Boutaïb,FW,Morocco,277236,73534
+396,Muslera,XX,Uruguay,277231,13562
+397,Varela,DF,Uruguay,277231,77016
+398,Gimenez,DF,Uruguay,277231,79085
+399,Godín,DF,Uruguay,277231,10474
+400,Cáceres,DF,Uruguay,277231,12813
+401,Sánchez,MF,Uruguay,277231,44611
+402,Vecino,MF,Uruguay,277231,64311
+403,Bentancur,MF,Uruguay,277231,99470
+404,Rodríguez,MF,Uruguay,277231,577
+405,Suárez,FW,Uruguay,277231,2396
+406,Cavani,FW,Uruguay,277231,6737
+407,Al-Owais,XX,Saudi Arabia,277231,91104
+408,Al-Burayk,DF,Saudi Arabia,277231,97267
+409,Osama Hawsawi,DF,Saudi Arabia,277231,17726
+410,Al-Boleahi,DF,Saudi Arabia,277231,112730
+411,Al-Shahrani,DF,Saudi Arabia,277231,90915
+412,Otayf,DM,Saudi Arabia,277231,97281
+413,Hattan Bahebri,FW,Saudi Arabia,277231,96919
+414,Al-Jassim,MF,Saudi Arabia,277231,17731
+415,Al-Faraj,MF,Saudi Arabia,277231,71548
+416,Al-Dossari,FW,Saudi Arabia,277231,71558
+417,Al-Muwallad,FW,Saudi Arabia,277231,91025
+418,Beiranvand,XX,Iran,277237,90540
+419,Rezaeian,DF,Iran,277237,97920
+420,Pouraliganji,DF,Iran,277237,97917
+421,Hosseini,DF,Iran,277237,115856
+422,Hajsafi,DF,Iran,277237,15129
+423,Taromi,FW,Iran,277237,99231
+424,Ebrahimi,MF,Iran,277237,72033
+425,Ezzatollahi,MF,Iran,277237,100200
+426,Amiri,FW,Iran,277237,97919
+427,Ansarifard,FW,Iran,277237,55275
+428,Azmoun,FW,Iran,277237,79284
+429,De Gea,XX,Spain,277237,41206
+430,Carvajal,DF,Spain,277237,71968
+431,Piqué,DF,Spain,277237,917
+432,Ramos,DF,Spain,277237,40
+433,Jordi Alba,DF,Spain,277237,40382
+434,Silva,AM,Spain,277237,861
+435,Busquets,DM,Spain,277237,28213
+436,Iniesta,AM,Spain,277237,852
+437,Lucas Vázquez,FW,Spain,277237,73891
+438,Diego Costa,FW,Spain,277237,5952
+439,Isco,AM,Spain,277237,54348
+440,Schmeichel,XX,Denmark,277251,6670
+441,Dalsgaard,DF,Denmark,277251,31389
+442,Kjær,DF,Denmark,277251,6191
+443,Christensen,DF,Denmark,277251,79602
+444,Stryger Larsen,DF,Denmark,277251,35860
+445,Schøne,DM,Denmark,277251,12395
+446,Delaney,MF,Denmark,277251,34236
+447,Poulsen,FW,Denmark,277251,66588
+448,Eriksen,AM,Denmark,277251,44435
+449,Sisto,FW,Denmark,277251,75087
+450,Jørgensen,FW,Denmark,277251,32172
+451,Ryan,XX,Australia,277251,41314
+452,Risdon,DF,Australia,277251,52808
+453,Sainsbury,DF,Australia,277251,54524
+454,Milligan,DM,Australia,277251,7646
+455,Behich,DF,Australia,277251,44364
+456,Mooy,MF,Australia,277251,41166
+457,Jedinák,DM,Australia,277251,23334
+458,Leckie,FW,Australia,277251,40744
+459,Rogić,AM,Australia,277251,67464
+460,Kruse,FW,Australia,277251,26165
+461,Nabbout,FW,Australia,277251,75519
+462,Lloris,XX,France,277250,2610
+463,Pavard,DF,France,277250,98332
+464,Varane,DF,France,277250,53951
+465,Umtiti,DF,France,277250,51205
+466,Hernández,DF,France,277250,85109
+467,Pogba,MF,France,277250,56805
+468,Kanté,DM,France,277250,73549
+469,Mbappé,FW,France,277250,107095
+470,Griezmann,FW,France,277250,44311
+471,Matuidi,MF,France,277250,2710
+472,Giroud,FW,France,277250,27591
+473,Gallese,XX,Peru,277250,73323
+474,Advíncula,DF,Peru,277250,31915
+475,Ramos,DF,Peru,277250,20191
+476,Alberto R,DF,Peru,277250,6241
+477,Trauco,DF,Peru,277250,73309
+478,Aquino,MF,Peru,277250,87170
+479,Yotún,MF,Peru,277250,59472
+480,Carrillo,FW,Peru,277250,55420
+481,Cueva,AM,Peru,277250,33540
+482,Flores,FW,Peru,277250,63795
+483,Guerrero,FW,Peru,277250,1182
+484,Caballero,XX,Argentina,277256,8292
+485,Mercado,DF,Argentina,277256,6632
+486,Otamendi,DF,Argentina,277256,21163
+487,Tagliafico,DF,Argentina,277256,45429
+488,Salvio,MF,Argentina,277256,26954
+489,Mascherano,DM,Argentina,277256,997
+490,Pérez,MF,Argentina,277256,5517
+491,Acuña,MF,Argentina,277256,62592
+492,Messi,FW,Argentina,277256,9
+493,Meza,AM,Argentina,277256,69151
+494,Agüero,FW,Argentina,277256,874
+495,Subašić,XX,Croatia,277256,39386
+496,Vrsaljko,DF,Croatia,277256,51045
+497,Lovren,DF,Croatia,277256,24024
+498,Vida,DF,Croatia,277256,47594
+499,Strinić,DF,Croatia,277256,39395
+500,Brozović,MF,Croatia,277256,62235
+501,Rebić,FW,Croatia,277256,61605
+502,Modrić,MF,Croatia,277256,7928
+503,Rakitić,MF,Croatia,277256,4020
+504,Perišić,FW,Croatia,277256,25165
+505,Mandžukić,FW,Croatia,277256,14060
+506,Alisson,XX,Brazil,277262,82741
+507,Fagner,DF,Brazil,277262,11437
+508,Thiago Silva,DF,Brazil,277262,16839
+509,Miranda,DF,Brazil,277262,9391
+510,Marcelo,DF,Brazil,277262,5676
+511,Paulinho,MF,Brazil,277262,13943
+512,Casemiro,DM,Brazil,277262,50707
+513,Philippe Coutinho,FW,Brazil,277262,43859
+514,Willian,FW,Brazil,277262,10229
+515,Gabriel Jesus,FW,Brazil,277262,100929
+516,Neymar,FW,Brazil,277262,34907
+517,Navas,XX,Costa Rica,277262,14748
+518,Acosta,DF,Costa Rica,277262,57935
+519,González,DF,Costa Rica,277262,27219
+520,Duarte,DF,Costa Rica,277262,56892
+521,Gamboa,DF,Costa Rica,277262,37923
+522,Borges,MF,Costa Rica,277262,14752
+523,Guzman,DM,Costa Rica,277262,39348
+524,Oviedo,DF,Costa Rica,277262,39345
+525,Venegas,FW,Costa Rica,277262,82619
+526,Ruiz,AM,Costa Rica,277262,9319
+527,Ureña,FW,Costa Rica,277262,41149
+528,Uzoho,XX,Nigeria,277257,122686
+529,Balogun,DF,Nigeria,277257,26567
+530,Troost-Ekong,DF,Nigeria,277257,82092
+531,Omeruo,DF,Nigeria,277257,68794
+532,Moses,MF,Nigeria,277257,19680
+533,Mikel,DM,Nigeria,277257,623
+534,Ndidi,DM,Nigeria,277257,80418
+535,Idowu,DF,Nigeria,277257,70279
+536,Etebo,AM,Nigeria,277257,110644
+537,Iheanacho,FW,Nigeria,277257,92880
+538,Musa,FW,Nigeria,277257,51680
+539,Halldórsson,XX,Iceland,277257,36430
+540,Sævarsson,DF,Iceland,277257,18500
+541,Árnason,DF,Iceland,277257,6887
+542,Sigurðsson,DF,Iceland,277257,6541
+543,Magnússon,DF,Iceland,277257,82877
+544,Gíslason,FW,Iceland,277257,10784
+545,Gunnarsson,MF,Iceland,277257,16087
+546,Sigurðsson,AM,Iceland,277257,25685
+547,Bjarnason,MF,Iceland,277257,18604
+548,Böðvarsson,FW,Iceland,277257,70720
+549,Finnbogason,FW,Iceland,277257,50311
+550,Stojkovic,XX,Serbia,277263,2863
+551,Ivanović,DF,Serbia,277263,10368
+552,Milenković,DF,Serbia,277263,110100
+553,Tošić,DF,Serbia,277263,2811
+554,Kolarov,DF,Serbia,277263,11995
+555,Matić,DM,Serbia,277263,31740
+556,Milivojević,DM,Serbia,277263,61174
+557,Tadic,FW,Serbia,277263,25134
+558,Milinković-Savić,MF,Serbia,277263,92993
+559,Kostic,FW,Serbia,277263,74720
+560,Mitrović,FW,Serbia,277263,72915
+561,Sommer,XX,Switzerland,277263,21279
+562,Lichtsteiner,DF,Switzerland,277263,2724
+563,Schär,DF,Switzerland,277263,71301
+564,Akanji,DF,Switzerland,277263,97743
+565,Rodríguez,DF,Switzerland,277263,36864
+566,Behrami,DM,Switzerland,277263,4287
+567,Xhaka,DM,Switzerland,277263,49774
+568,Shaqiri,FW,Switzerland,277263,36861
+569,Džemaili,MF,Switzerland,277263,7649
+570,Zuber,MF,Switzerland,277263,23385
+571,Seferović,FW,Switzerland,277263,34385
+572,Courtois,XX,Belgium,277274,34241
+573,Alderweireld,DF,Belgium,277274,31872
+574,Boyata,DF,Belgium,277274,43564
+575,Vertonghen,DF,Belgium,277274,849
+576,Meunier,DF,Belgium,277274,62078
+577,De Bruyne,AM,Belgium,277274,34705
+578,Witsel,MF,Belgium,277274,9435
+579,Carrasco,FW,Belgium,277274,75050
+580,Mertens,FW,Belgium,277274,25905
+581,Hazard,FW,Belgium,277274,14903
+582,Lukaku,FW,Belgium,277274,38757
+583,Ben Mustapha,XX,Tunisia,277274,43810
+584,Bronn,DF,Tunisia,277274,110500
+585,Ben Youssef,DF,Tunisia,277274,67322
+586,Meriah,DF,Tunisia,277274,122521
+587,Maâloul,DF,Tunisia,277274,98248
+588,Skhiri,DM,Tunisia,277274,93851
+589,Sassi,MF,Tunisia,277274,98250
+590,Ben Youssef,FW,Tunisia,277274,77434
+591,Khaoui,AM,Tunisia,277274,103944
+592,Badri,FW,Tunisia,277274,95869
+593,Khazri,FW,Tunisia,277274,41118
+594,Cho Hyun-woo,XX,South Korea,277269,127550
+595,Yong Lee,DF,South Korea,277269,69443
+596,HS Jang,DF,South Korea,277269,67401
+597,Young-Gwon Kim,DF,South Korea,277269,40968
+598,Min-Woo Kim,MF,South Korea,277269,40967
+599,Se-Jong Ju,MF,South Korea,277269,102230
+600,SY Ki,DM,South Korea,277269,24485
+601,Moon,AM,South Korea,277269,104871
+602,Jae-Sung Lee,AM,South Korea,277269,88066
+603,Hee-Chan Hwang,FW,South Korea,277269,105728
+604,Heung-Min Son,FW,South Korea,277269,48353
+605,Ochoa,XX,Mexico,277269,4415
+606,Álvarez,DF,Mexico,277269,111090
+607,Salcedo,DF,Mexico,277269,77633
+608,Moreno,DF,Mexico,277269,15883
+609,Gallardo,MF,Mexico,277269,96067
+610,Herrera,MF,Mexico,277269,32083
+611,Guardado,MF,Mexico,277269,4420
+612,Layún,DF,Mexico,277269,20923
+613,Vela,FW,Mexico,277269,11533
+614,Lozano,FW,Mexico,277269,87140
+615,Hernández,FW,Mexico,277269,16954
+616,Neuer,XX,Germany,277268,2141
+617,Kimmich,DF,Germany,277268,85188
+618,Boateng,DF,Germany,277268,5965
+619,Rüdiger,DF,Germany,277268,61115
+620,Hector,DF,Germany,277268,68582
+621,Rudy,MF,Germany,277268,24869
+622,Kroos,MF,Germany,277268,11106
+623,Müller,FW,Germany,277268,24642
+624,Reus,FW,Germany,277268,27060
+625,Draxler,FW,Germany,277268,55354
+626,Werner,FW,Germany,277268,81505
+627,Olsen,XX,Sweden,277268,80769
+628,Lustig,DF,Sweden,277268,10992
+629,Lindelöf,DF,Sweden,277268,74233
+630,Granqvist,DF,Sweden,277268,5937
+631,Augustinsson,DF,Sweden,277268,58922
+632,Claesson,FW,Sweden,277268,65455
+633,Larsson,MF,Sweden,277268,4233
+634,Ekdal,MF,Sweden,277268,7377
+635,Forsberg,MF,Sweden,277268,34694
+636,Toivonen,FW,Sweden,277268,5798
+637,Berg,FW,Sweden,277268,5880
+638,Pickford,XX,England,277275,67696
+639,Walker,DF,England,277275,37666
+640,Stones,DF,England,277275,58793
+641,Maguire,DF,England,277275,57627
+642,Trippier,DF,England,277275,40791
+643,Loftus-Cheek,MF,England,277275,97151
+644,Henderson,MF,England,277275,30627
+645,Lingard,AM,England,277275,71489
+646,Young,DF,England,277275,1896
+647,Sterling,FW,England,277275,69315
+648,Kane,FW,England,277275,41936
+649,Penedo,XX,Panama,277275,9965
+650,Murillo,DF,Panama,277275,98375
+651,Torres,DF,Panama,277275,9957
+652,Escobar,DF,Panama,277275,98376
+653,Davis,DF,Panama,277275,37999
+654,Gómez,DM,Panama,277275,9963
+655,Bárcenas,FW,Panama,277275,81968
+656,Cooper,MF,Panama,277275,38003
+657,Godoy,MF,Panama,277275,59631
+658,Rodríguez,MF,Panama,277275,127666
+659,Blas Pérez,FW,Panama,277275,7508
+660,Kawashima,XX,Japan,277280,17507
+661,Sakai,DF,Japan,277280,27859
+662,Yoshida,DF,Japan,277280,24453
+663,Shoji,DF,Japan,277280,57108
+664,Nagatomo,DF,Japan,277280,24449
+665,Hasebe,DM,Japan,277280,15051
+666,Shibasaki,MF,Japan,277280,57107
+667,Haraguchi,FW,Japan,277280,26909
+668,Kagawa,AM,Japan,277280,24457
+669,Inui,FW,Japan,277280,30108
+670,Osako,FW,Japan,277280,32624
+671,N Diaye,XX,Senegal,277280,59749
+672,Wague,DF,Senegal,277280,101641
+673,Sané,DF,Senegal,277280,54802
+674,Koulibaly,DF,Senegal,277280,51137
+675,Sabaly,DF,Senegal,277280,80337
+676,N Diaye,DM,Senegal,277280,23306
+677,Sarr,FW,Senegal,277280,111005
+678,NDiaye,MF,Senegal,277280,69649
+679,Gueye,DM,Senegal,277280,44582
+680,Mané,FW,Senegal,277280,72713
+681,Niang,FW,Senegal,277280,58601
+682,Szczęsny,XX,Poland,277281,10594
+683,Piszczek,DF,Poland,277281,398
+684,Bednarek,DF,Poland,277281,111247
+685,Pazdan,DF,Poland,277281,13564
+686,Bereszyński,DF,Poland,277281,45451
+687,Krychowiak,DM,Poland,277281,10589
+688,Goralski,DM,Poland,277281,111481
+689,Rybus,MF,Poland,277281,14869
+690,Zieliński,MF,Poland,277281,74397
+691,Lewandowski,FW,Poland,277281,28177
+692,Kownacki,FW,Poland,277281,92525
+693,Ospina,XX,Colombia,277281,16883
+694,Arias,DF,Colombia,277281,47621
+695,Mina,DF,Colombia,277281,83593
+696,Sánchez,DF,Colombia,277281,84584
+697,Mojica,MF,Colombia,277281,76595
+698,Aguilar,MF,Colombia,277281,15419
+699,Barrios,DM,Colombia,277281,77570
+700,Cuadrado,FW,Colombia,277281,36551
+701,Quintero,AM,Colombia,277281,59221
+702,James,AM,Colombia,277281,25024
+703,Falcao,FW,Colombia,277281,4985
+704,Al-Musalim,XX,Saudi Arabia,277233,17724
+705,Al-Burayk,DF,Saudi Arabia,277233,97267
+706,Osama Hawsawi,DF,Saudi Arabia,277233,17726
+707,Motaz Hawsawi,DF,Saudi Arabia,277233,96818
+708,Al-Shahrani,DF,Saudi Arabia,277233,90915
+709,Otayf,DM,Saudi Arabia,277233,97281
+710,Hattan Bahebri,FW,Saudi Arabia,277233,96919
+711,Al Mogahwi,MF,Saudi Arabia,277233,90902
+712,Al-Faraj,MF,Saudi Arabia,277233,71548
+713,Al-Dossari,FW,Saudi Arabia,277233,71558
+714,Al-Muwallad,FW,Saudi Arabia,277233,91025
+715,El-Hadary,XX,Egypt,277233,15635
+716,Fathi,DF,Egypt,277233,6527
+717,Gabr,DF,Egypt,277233,114824
+718,Hegazy,DF,Egypt,277233,40854
+719,Abdel-Shafy,DF,Egypt,277233,43630
+720,Said,AM,Egypt,277233,76362
+721,El Nenny,DM,Egypt,277233,72708
+722,Hamed,DM,Egypt,277233,90809
+723,Trezeguet,FW,Egypt,277233,76365
+724,Salah,FW,Egypt,277233,71707
+725,Mohsen,FW,Egypt,277233,72706
+726,Muslera,XX,Uruguay,277232,13562
+727,Cáceres,DF,Uruguay,277232,12813
+728,Coates,DF,Uruguay,277232,32036
+729,Godín,DF,Uruguay,277232,10474
+730,Laxalt,MF,Uruguay,277232,77020
+731,Nández,MF,Uruguay,277232,87925
+732,Torreira,DM,Uruguay,277232,95657
+733,Vecino,MF,Uruguay,277232,64311
+734,Bentancur,MF,Uruguay,277232,99470
+735,Suárez,FW,Uruguay,277232,2396
+736,Cavani,FW,Uruguay,277232,6737
+737,Akinfeev,XX,Russia,277232,6065
+738,Smolnikov,DF,Russia,277232,17137
+739,Kutepov,DF,Russia,277232,73695
+740,Ignashevich,DF,Russia,277232,6068
+741,Kudryashov,DF,Russia,277232,10396
+742,Gazinsky,MF,Russia,277232,24852
+743,Zobnin,MF,Russia,277232,80972
+744,Samedov,MF,Russia,277232,10354
+745,Miranchuk,AM,Russia,277232,79357
+746,Cheryshev,FW,Russia,277232,59789
+747,Dzyuba,FW,Russia,277232,6489
+748,Beiranvand,XX,Iran,277238,90540
+749,Rezaeian,DF,Iran,277238,97920
+750,Pouraliganji,DF,Iran,277238,97917
+751,Hosseini,DF,Iran,277238,115856
+752,Hajsafi,DF,Iran,277238,15129
+753,Ezzatollahi,MF,Iran,277238,100200
+754,Jahanbakhsh,FW,Iran,277238,82087
+755,Ebrahimi,MF,Iran,277238,72033
+756,Amiri,FW,Iran,277238,97919
+757,Taromi,FW,Iran,277238,99231
+758,Azmoun,FW,Iran,277238,79284
+759,Rui Patrício,XX,Portugal,277238,4203
+760,Cédric,DF,Portugal,277238,46131
+761,Pepe,DF,Portugal,277238,3572
+762,José Fonte,DF,Portugal,277238,3693
+763,Raphaël Guerreiro,MF,Portugal,277238,73496
+764,Ricardo Quaresma,FW,Portugal,277238,3569
+765,Adrien Silva,MF,Portugal,277238,11796
+766,William Carvalho,DM,Portugal,277238,57985
+767,João Mário,AM,Portugal,277238,66772
+768,André Silva,FW,Portugal,277238,101592
+769,Cristiano Ronaldo,FW,Portugal,277238,61
+770,De Gea,XX,Spain,277239,41206
+771,Carvajal,DF,Spain,277239,71968
+772,Piqué,DF,Spain,277239,917
+773,Ramos,DF,Spain,277239,40
+774,Jordi Alba,DF,Spain,277239,40382
+775,Busquets,DM,Spain,277239,28213
+776,Thiago Alcántara,MF,Spain,277239,34813
+777,Silva,AM,Spain,277239,861
+778,Isco,AM,Spain,277239,54348
+779,Iniesta,AM,Spain,277239,852
+780,Diego Costa,FW,Spain,277239,5952
+781,Munir,XX,Morocco,277239,76735
+782,Dirar,MF,Morocco,277239,9194
+783,Manuel da Costa,DF,Morocco,277239,1127
+784,Saïss,DM,Morocco,277239,73536
+785,Achraf,DF,Morocco,277239,105329
+786,El Ahmadi,DM,Morocco,277239,3774
+787,Amrabat,FW,Morocco,277239,12383
+788,Boussoufa,AM,Morocco,277239,9066
+789,Belhanda,AM,Morocco,277239,38632
+790,Ziyech,AM,Morocco,277239,73287
+791,Boutaïb,FW,Morocco,277239,73534
+792,Schmeichel,XX,Denmark,277252,6670
+793,Dalsgaard,DF,Denmark,277252,31389
+794,Kjær,DF,Denmark,277252,6191
+795,Zanka,DF,Denmark,277252,10741
+796,Stryger Larsen,DF,Denmark,277252,35860
+797,Christensen,DF,Denmark,277252,79602
+798,Braithwaite,FW,Denmark,277252,36105
+799,Eriksen,AM,Denmark,277252,44435
+800,Delaney,MF,Denmark,277252,34236
+801,Sisto,FW,Denmark,277252,75087
+802,Cornelius,FW,Denmark,277252,69509
+803,Mandanda,XX,France,277252,11353
+804,Sidibe,DF,France,277252,63254
+805,Varane,DF,France,277252,53951
+806,Kimpembe,DF,France,277252,92924
+807,Hernández,DF,France,277252,85109
+808,Kanté,DM,France,277252,73549
+809,Nzonzi,DM,France,277252,21056
+810,Dembèlé,FW,France,277252,106642
+811,Griezmann,FW,France,277252,44311
+812,Lemar,MF,France,277252,81768
+813,Giroud,FW,France,277252,27591
+814,Ryan,XX,Australia,277253,41314
+815,Risdon,DF,Australia,277253,52808
+816,Sainsbury,DF,Australia,277253,54524
+817,Milligan,DM,Australia,277253,7646
+818,Behich,DF,Australia,277253,44364
+819,Jedinák,DM,Australia,277253,23334
+820,Mooy,MF,Australia,277253,41166
+821,Leckie,FW,Australia,277253,40744
+822,Rogić,AM,Australia,277253,67464
+823,Kruse,FW,Australia,277253,26165
+824,Jurić,FW,Australia,277253,63226
+825,Gallese,XX,Peru,277253,73323
+826,Advíncula,DF,Peru,277253,31915
+827,Ramos,DF,Peru,277253,20191
+828,Santamaría,DM,Peru,277253,73238
+829,Trauco,DF,Peru,277253,73309
+830,Tapia,MF,Peru,277253,77035
+831,Yotún,MF,Peru,277253,59472
+832,Carrillo,FW,Peru,277253,55420
+833,Cueva,AM,Peru,277253,33540
+834,Flores,FW,Peru,277253,63795
+835,Guerrero,FW,Peru,277253,1182
+836,Uzoho,XX,Nigeria,277258,122686
+837,Balogun,DF,Nigeria,277258,26567
+838,Troost-Ekong,DF,Nigeria,277258,82092
+839,Omeruo,DF,Nigeria,277258,68794
+840,Moses,MF,Nigeria,277258,19680
+841,Ndidi,DM,Nigeria,277258,80418
+842,Mikel,DM,Nigeria,277258,623
+843,Etebo,AM,Nigeria,277258,110644
+844,Idowu,DF,Nigeria,277258,70279
+845,Musa,FW,Nigeria,277258,51680
+846,Iheanacho,FW,Nigeria,277258,92880
+847,Armani,XX,Argentina,277258,59046
+848,Mercado,DF,Argentina,277258,6632
+849,Otamendi,DF,Argentina,277258,21163
+850,Rojo,DF,Argentina,277258,31237
+851,Tagliafico,DF,Argentina,277258,45429
+852,Pérez,MF,Argentina,277258,5517
+853,Mascherano,DM,Argentina,277258,997
+854,Banega,MF,Argentina,277258,4843
+855,Di Maria,FW,Argentina,277258,5016
+856,Messi,FW,Argentina,277258,9
+857,Higuaín,FW,Argentina,277258,4989
+858,Halldórsson,XX,Iceland,277259,36430
+859,Sævarsson,DF,Iceland,277259,18500
+860,Ingason,DF,Iceland,277259,60731
+861,Sigurðsson,DF,Iceland,277259,6541
+862,Magnússon,DF,Iceland,277259,82877
+863,Hallfredsson,MF,Iceland,277259,6934
+864,Gunnarsson,MF,Iceland,277259,16087
+865,Guðmundsson,FW,Iceland,277259,49182
+866,Sigurðsson,AM,Iceland,277259,25685
+867,Bjarnason,MF,Iceland,277259,18604
+868,Finnbogason,FW,Iceland,277259,50311
+869,Kalinić,XX,Croatia,277259,52468
+870,Jedvaj,DF,Croatia,277259,80846
+871,Ćorluka,DF,Croatia,277259,9634
+872,Ćaleta-Car,DF,Croatia,277259,93889
+873,Pivarić,DF,Croatia,277259,62234
+874,Modrić,MF,Croatia,277259,7928
+875,Badelj,MF,Croatia,277259,24025
+876,Kovačić,MF,Croatia,277259,55243
+877,Pjaca,FW,Croatia,277259,68553
+878,Perišić,FW,Croatia,277259,25165
+879,Kramarić,FW,Croatia,277259,36993
+880,Cho Hyun-woo,XX,South Korea,277270,127550
+881,Yong Lee,DF,South Korea,277270,69443
+882,YS Yun,DF,South Korea,277270,45990
+883,Young-Gwon Kim,DF,South Korea,277270,40968
+884,C Hong,DF,South Korea,277270,45991
+885,Jae-Sung Lee,AM,South Korea,277270,88066
+886,HS Jang,DF,South Korea,277270,67401
+887,WY Jung,DM,South Korea,277270,67402
+888,Moon,AM,South Korea,277270,104871
+889,Heung-Min Son,FW,South Korea,277270,48353
+890,Ja-Cheol Koo,AM,South Korea,277270,30198
+891,Neuer,XX,Germany,277270,2141
+892,Kimmich,DF,Germany,277270,85188
+893,Süle,DF,Germany,277270,79520
+894,Hummels,DF,Germany,277270,656
+895,Hector,DF,Germany,277270,68582
+896,Khedira,MF,Germany,277270,2909
+897,Kroos,MF,Germany,277270,11106
+898,Goretzka,MF,Germany,277270,73696
+899,Özil,AM,Germany,277270,2070
+900,Reus,FW,Germany,277270,27060
+901,Werner,FW,Germany,277270,81505
+902,Ochoa,XX,Mexico,277271,4415
+903,Álvarez,DF,Mexico,277271,111090
+904,Salcedo,DF,Mexico,277271,77633
+905,Moreno,DF,Mexico,277271,15883
+906,Gallardo,MF,Mexico,277271,96067
+907,Herrera,MF,Mexico,277271,32083
+908,Guardado,MF,Mexico,277271,4420
+909,Layún,DF,Mexico,277271,20923
+910,Vela,FW,Mexico,277271,11533
+911,Lozano,FW,Mexico,277271,87140
+912,Hernández,FW,Mexico,277271,16954
+913,Olsen,XX,Sweden,277271,80769
+914,Lustig,DF,Sweden,277271,10992
+915,Lindelöf,DF,Sweden,277271,74233
+916,Granqvist,DF,Sweden,277271,5937
+917,Augustinsson,DF,Sweden,277271,58922
+918,Claesson,FW,Sweden,277271,65455
+919,Larsson,MF,Sweden,277271,4233
+920,Ekdal,MF,Sweden,277271,7377
+921,Forsberg,MF,Sweden,277271,34694
+922,Berg,FW,Sweden,277271,5880
+923,Toivonen,FW,Sweden,277271,5798
+924,Stojkovic,XX,Serbia,277264,2863
+925,Rukavina,DF,Serbia,277264,11035
+926,Milenković,DF,Serbia,277264,110100
+927,Veljkovic,DF,Serbia,277264,85840
+928,Kolarov,DF,Serbia,277264,11995
+929,Milinković-Savić,MF,Serbia,277264,92993
+930,Matić,DM,Serbia,277264,31740
+931,Tadic,FW,Serbia,277264,25134
+932,Ljajic,AM,Serbia,277264,24777
+933,Kostic,FW,Serbia,277264,74720
+934,Mitrović,FW,Serbia,277264,72915
+935,Alisson,XX,Brazil,277264,82741
+936,Fagner,DF,Brazil,277264,11437
+937,Thiago Silva,DF,Brazil,277264,16839
+938,Miranda,DF,Brazil,277264,9391
+939,Marcelo,DF,Brazil,277264,5676
+940,Paulinho,MF,Brazil,277264,13943
+941,Casemiro,DM,Brazil,277264,50707
+942,Philippe Coutinho,FW,Brazil,277264,43859
+943,Willian,FW,Brazil,277264,10229
+944,Gabriel Jesus,FW,Brazil,277264,100929
+945,Neymar,FW,Brazil,277264,34907
+946,Sommer,XX,Switzerland,277265,21279
+947,Lichtsteiner,DF,Switzerland,277265,2724
+948,Schär,DF,Switzerland,277265,71301
+949,Akanji,DF,Switzerland,277265,97743
+950,Rodríguez,DF,Switzerland,277265,36864
+951,Behrami,DM,Switzerland,277265,4287
+952,Xhaka,DM,Switzerland,277265,49774
+953,Shaqiri,FW,Switzerland,277265,36861
+954,Džemaili,MF,Switzerland,277265,7649
+955,Embolo,FW,Switzerland,277265,88238
+956,Gavranović,FW,Switzerland,277265,29412
+957,Navas,XX,Costa Rica,277265,14748
+958,Acosta,DF,Costa Rica,277265,57935
+959,González,DF,Costa Rica,277265,27219
+960,Waston,DF,Costa Rica,277265,40769
+961,Gamboa,DF,Costa Rica,277265,37923
+962,Borges,MF,Costa Rica,277265,14752
+963,Guzman,DM,Costa Rica,277265,39348
+964,Oviedo,DF,Costa Rica,277265,39345
+965,Colindres,FW,Costa Rica,277265,63882
+966,Ruiz,AM,Costa Rica,277265,9319
+967,Campbell,FW,Costa Rica,277265,53628
+968,Kawashima,XX,Japan,277282,17507
+969,Sakai,DF,Japan,277282,27859
+970,Yoshida,DF,Japan,277282,24453
+971,Makino,DF,Japan,277282,34323
+972,Nagatomo,DF,Japan,277282,24449
+973,Sakai,DF,Japan,277282,29645
+974,Shibasaki,MF,Japan,277282,57107
+975,Yamaguchi,MF,Japan,277282,46760
+976,Usami,AM,Japan,277282,32648
+977,Muto,FW,Japan,277282,80834
+978,Okazaki,FW,Japan,277282,24460
+979,Fabiański,XX,Poland,277282,347
+980,Bereszyński,DF,Poland,277282,45451
+981,Glik,DF,Poland,277282,31005
+982,Bednarek,DF,Poland,277282,111247
+983,Jędrzejczyk,DF,Poland,277282,10676
+984,Krychowiak,DM,Poland,277282,10589
+985,Goralski,DM,Poland,277282,111481
+986,Grosicki,FW,Poland,277282,480
+987,Zieliński,MF,Poland,277282,74397
+988,Kurzawa R,MF,Poland,277282,111395
+989,Lewandowski,FW,Poland,277282,28177
+990,N Diaye,XX,Senegal,277283,59749
+991,Gassama,DF,Senegal,277283,29930
+992,Sané,DF,Senegal,277283,54802
+993,Koulibaly,DF,Senegal,277283,51137
+994,Sabaly,DF,Senegal,277283,80337
+995,Sarr,FW,Senegal,277283,111005
+996,Kouyaté,DM,Senegal,277283,15881
+997,Gueye,DM,Senegal,277283,44582
+998,Baldé,FW,Senegal,277283,82895
+999,Mané,FW,Senegal,277283,72713
+1000,Niang,FW,Senegal,277283,58601
+1001,Ospina,XX,Colombia,277283,16883
+1002,Arias,DF,Colombia,277283,47621
+1003,Mina,DF,Colombia,277283,83593
+1004,Sánchez,DF,Colombia,277283,84584
+1005,Mojica,MF,Colombia,277283,76595
+1006,Sánchez,DM,Colombia,277283,11231
+1007,Uribe,MF,Colombia,277283,67794
+1008,Cuadrado,FW,Colombia,277283,36551
+1009,Quintero,AM,Colombia,277283,59221
+1010,James,AM,Colombia,277283,25024
+1011,Falcao,FW,Colombia,277283,4985
+1012,Pickford,XX,England,277276,67696
+1013,Jones,DF,England,277276,40780
+1014,Stones,DF,England,277276,58793
+1015,Cahill,DF,England,277276,4194
+1016,Arnold,DF,England,277276,110457
+1017,Loftus-Cheek,MF,England,277276,97151
+1018,Dier,DM,England,277276,55465
+1019,Delph,MF,England,277276,25974
+1020,Rose,DF,England,277276,11147
+1021,Rashford,FW,England,277276,105232
+1022,Vardy,FW,England,277276,63664
+1023,Courtois,XX,Belgium,277276,34241
+1024,Dendoncker,DM,Belgium,277276,83340
+1025,Boyata,DF,Belgium,277276,43564
+1026,Vermaelen,DF,Belgium,277276,839
+1027,Chadli,MF,Belgium,277276,25903
+1028,Tielemans,MF,Belgium,277276,83341
+1029,Dembélé,MF,Belgium,277276,2323
+1030,Hazard,FW,Belgium,277276,58887
+1031,Januzaj,AM,Belgium,277276,79603
+1032,Fellaini,MF,Belgium,277276,9302
+1033,Batshuayi,FW,Belgium,277276,60973
+1034,Penedo,XX,Panama,277277,9965
+1035,Machado,DF,Panama,277277,44456
+1036,Torres,DF,Panama,277277,9957
+1037,Escobar,DF,Panama,277277,98376
+1038,Ovalle,DF,Panama,277277,67568
+1039,Gómez,DM,Panama,277277,9963
+1040,Rodríguez,MF,Panama,277277,127666
+1041,Godoy,MF,Panama,277277,59631
+1042,Ávila,MF,Panama,277277,123857
+1043,Bárcenas,FW,Panama,277277,81968
+1044,Torres,FW,Panama,277277,9971
+1045,Mathlouthi,XX,Tunisia,277277,15091
+1046,Nagguez,DF,Tunisia,277277,114809
+1047,Bedoui,DF,Tunisia,277277,98246
+1048,Meriah,DF,Tunisia,277277,122521
+1049,Haddadi,DF,Tunisia,277277,100107
+1050,Chaalali,MF,Tunisia,277277,122522
+1051,Skhiri,DM,Tunisia,277277,93851
+1052,Sassi,MF,Tunisia,277277,98250
+1053,Ben Youssef,FW,Tunisia,277277,77434
+1054,Khazri,FW,Tunisia,277277,41118
+1055,Sliti,FW,Tunisia,277277,62655
+1056,Lloris,XX,France,289963,2610
+1057,Pavard,DF,France,289963,98332
+1058,Varane,DF,France,289963,53951
+1059,Umtiti,DF,France,289963,51205
+1060,Hernández,DF,France,289963,85109
+1061,Pogba,MF,France,289963,56805
+1062,Kanté,DM,France,289963,73549
+1063,Mbappé,FW,France,289963,107095
+1064,Griezmann,FW,France,289963,44311
+1065,Matuidi,MF,France,289963,2710
+1066,Giroud,FW,France,289963,27591
+1067,Armani,XX,Argentina,289963,59046
+1068,Mercado,DF,Argentina,289963,6632
+1069,Otamendi,DF,Argentina,289963,21163
+1070,Rojo,DF,Argentina,289963,31237
+1071,Tagliafico,DF,Argentina,289963,45429
+1072,Pérez,MF,Argentina,289963,5517
+1073,Mascherano,DM,Argentina,289963,997
+1074,Banega,MF,Argentina,289963,4843
+1075,Pavón,FW,Argentina,289963,85659
+1076,Messi,FW,Argentina,289963,9
+1077,Di Maria,FW,Argentina,289963,5016
+1078,Muslera,XX,Uruguay,289905,13562
+1079,Cáceres,DF,Uruguay,289905,12813
+1080,Gimenez,DF,Uruguay,289905,79085
+1081,Godín,DF,Uruguay,289905,10474
+1082,Laxalt,MF,Uruguay,289905,77020
+1083,Nández,MF,Uruguay,289905,87925
+1084,Torreira,DM,Uruguay,289905,95657
+1085,Vecino,MF,Uruguay,289905,64311
+1086,Bentancur,MF,Uruguay,289905,99470
+1087,Suárez,FW,Uruguay,289905,2396
+1088,Cavani,FW,Uruguay,289905,6737
+1089,Rui Patrício,XX,Portugal,289905,4203
+1090,Ricardo,DF,Portugal,289905,68232
+1091,Pepe,DF,Portugal,289905,3572
+1092,José Fonte,DF,Portugal,289905,3693
+1093,Raphaël Guerreiro,MF,Portugal,289905,73496
+1094,Bernardo Silva,FW,Portugal,289905,85349
+1095,Adrien Silva,MF,Portugal,289905,11796
+1096,William Carvalho,DM,Portugal,289905,57985
+1097,João Mário,AM,Portugal,289905,66772
+1098,Gonçalo Guedes,FW,Portugal,289905,95547
+1099,Cristiano Ronaldo,FW,Portugal,289905,61
+1100,De Gea,XX,Spain,289906,41206
+1101,Nacho,DF,Spain,289906,58551
+1102,Piqué,DF,Spain,289906,917
+1103,Ramos,DF,Spain,289906,40
+1104,Jordi Alba,DF,Spain,289906,40382
+1105,Koke,MF,Spain,289906,40555
+1106,Busquets,DM,Spain,289906,28213
+1107,Marco Asensio,FW,Spain,289906,84634
+1108,Silva,AM,Spain,289906,861
+1109,Isco,AM,Spain,289906,54348
+1110,Diego Costa,FW,Spain,289906,5952
+1111,Akinfeev,XX,Russia,289906,6065
+1112,Mario Fernandes,DF,Russia,289906,38164
+1113,Kutepov,DF,Russia,289906,73695
+1114,Ignashevich,DF,Russia,289906,6068
+1115,Kudryashov,DF,Russia,289906,10396
+1116,Zhirkov,MF,Russia,289906,6075
+1117,Samedov,MF,Russia,289906,10354
+1118,Zobnin,MF,Russia,289906,80972
+1119,Kuzyaev,MF,Russia,289906,90420
+1120,Golovin,MF,Russia,289906,94791
+1121,Dzyuba,FW,Russia,289906,6489
+1122,Subašić,XX,Croatia,289964,39386
+1123,Vrsaljko,DF,Croatia,289964,51045
+1124,Lovren,DF,Croatia,289964,24024
+1125,Vida,DF,Croatia,289964,47594
+1126,Strinić,DF,Croatia,289964,39395
+1127,Brozović,MF,Croatia,289964,62235
+1128,Rebić,FW,Croatia,289964,61605
+1129,Modrić,MF,Croatia,289964,7928
+1130,Rakitić,MF,Croatia,289964,4020
+1131,Perišić,FW,Croatia,289964,25165
+1132,Mandžukić,FW,Croatia,289964,14060
+1133,Schmeichel,XX,Denmark,289964,6670
+1134,Dalsgaard,DF,Denmark,289964,31389
+1135,Kjær,DF,Denmark,289964,6191
+1136,Zanka,DF,Denmark,289964,10741
+1137,Knudsen,DF,Denmark,289964,46004
+1138,Poulsen,FW,Denmark,289964,66588
+1139,Christensen,DF,Denmark,289964,79602
+1140,Delaney,MF,Denmark,289964,34236
+1141,Braithwaite,FW,Denmark,289964,36105
+1142,Eriksen,AM,Denmark,289964,44435
+1143,Cornelius,FW,Denmark,289964,69509
+1144,Alisson,XX,Brazil,290042,82741
+1145,Fagner,DF,Brazil,290042,11437
+1146,Thiago Silva,DF,Brazil,290042,16839
+1147,Miranda,DF,Brazil,290042,9391
+1148,Filipe Luis,DF,Brazil,290042,1252
+1149,Paulinho,MF,Brazil,290042,13943
+1150,Casemiro,DM,Brazil,290042,50707
+1151,Philippe Coutinho,FW,Brazil,290042,43859
+1152,Willian,FW,Brazil,290042,10229
+1153,Gabriel Jesus,FW,Brazil,290042,100929
+1154,Neymar,FW,Brazil,290042,34907
+1155,Ochoa,XX,Mexico,290042,4415
+1156,Álvarez,DF,Mexico,290042,111090
+1157,Ayala,DF,Mexico,290042,16657
+1158,Salcedo,DF,Mexico,290042,77633
+1159,Gallardo,MF,Mexico,290042,96067
+1160,Herrera,MF,Mexico,290042,32083
+1161,Rafa Márquez,DF,Mexico,290042,3
+1162,Guardado,MF,Mexico,290042,4420
+1163,Lozano,FW,Mexico,290042,87140
+1164,Hernández,FW,Mexico,290042,16954
+1165,Vela,FW,Mexico,290042,11533
+1166,Courtois,XX,Belgium,290329,34241
+1167,Alderweireld,DF,Belgium,290329,31872
+1168,Kompany,DF,Belgium,290329,1170
+1169,Vertonghen,DF,Belgium,290329,849
+1170,Meunier,DF,Belgium,290329,62078
+1171,Witsel,MF,Belgium,290329,9435
+1172,De Bruyne,AM,Belgium,290329,34705
+1173,Carrasco,FW,Belgium,290329,75050
+1174,Mertens,FW,Belgium,290329,25905
+1175,Hazard,FW,Belgium,290329,14903
+1176,Lukaku,FW,Belgium,290329,38757
+1177,Kawashima,XX,Japan,290329,17507
+1178,Sakai,DF,Japan,290329,27859
+1179,Yoshida,DF,Japan,290329,24453
+1180,Shoji,DF,Japan,290329,57108
+1181,Nagatomo,DF,Japan,290329,24449
+1182,Hasebe,DM,Japan,290329,15051
+1183,Shibasaki,MF,Japan,290329,57107
+1184,Haraguchi,FW,Japan,290329,26909
+1185,Kagawa,AM,Japan,290329,24457
+1186,Inui,FW,Japan,290329,30108
+1187,Osako,FW,Japan,290329,32624
+1188,Olsen,XX,Sweden,290043,80769
+1189,Lustig,DF,Sweden,290043,10992
+1190,Lindelöf,DF,Sweden,290043,74233
+1191,Granqvist,DF,Sweden,290043,5937
+1192,Augustinsson,DF,Sweden,290043,58922
+1193,Claesson,FW,Sweden,290043,65455
+1194,Svensson,DM,Sweden,290043,6540
+1195,Ekdal,MF,Sweden,290043,7377
+1196,Forsberg,MF,Sweden,290043,34694
+1197,Berg,FW,Sweden,290043,5880
+1198,Toivonen,FW,Sweden,290043,5798
+1199,Sommer,XX,Switzerland,290043,21279
+1200,Lang,DF,Switzerland,290043,12186
+1201,Djourou,DF,Switzerland,290043,535
+1202,Akanji,DF,Switzerland,290043,97743
+1203,Rodríguez,DF,Switzerland,290043,36864
+1204,Behrami,DM,Switzerland,290043,4287
+1205,Xhaka,DM,Switzerland,290043,49774
+1206,Shaqiri,FW,Switzerland,290043,36861
+1207,Džemaili,MF,Switzerland,290043,7649
+1208,Zuber,MF,Switzerland,290043,23385
+1209,Drmić,FW,Switzerland,290043,44798
+1210,Ospina,XX,Colombia,290330,16883
+1211,Arias,DF,Colombia,290330,47621
+1212,Mina,DF,Colombia,290330,83593
+1213,Sánchez,DF,Colombia,290330,84584
+1214,Mojica,MF,Colombia,290330,76595
+1215,Sánchez,DM,Colombia,290330,11231
+1216,Barrios,DM,Colombia,290330,77570
+1217,Lerma,DM,Colombia,290330,78987
+1218,Quintero,AM,Colombia,290330,59221
+1219,Cuadrado,FW,Colombia,290330,36551
+1220,Falcao,FW,Colombia,290330,4985
+1221,Pickford,XX,England,290330,67696
+1222,Walker,DF,England,290330,37666
+1223,Stones,DF,England,290330,58793
+1224,Maguire,DF,England,290330,57627
+1225,Trippier,DF,England,290330,40791
+1226,Lingard,AM,England,290330,71489
+1227,Henderson,MF,England,290330,30627
+1228,Alli,AM,England,290330,74303
+1229,Young,DF,England,290330,1896
+1230,Sterling,FW,England,290330,69315
+1231,Kane,FW,England,290330,41936
+1232,Muslera,XX,Uruguay,290803,13562
+1233,Cáceres,DF,Uruguay,290803,12813
+1234,Gimenez,DF,Uruguay,290803,79085
+1235,Godín,DF,Uruguay,290803,10474
+1236,Laxalt,MF,Uruguay,290803,77020
+1237,Nández,MF,Uruguay,290803,87925
+1238,Torreira,DM,Uruguay,290803,95657
+1239,Vecino,MF,Uruguay,290803,64311
+1240,Bentancur,MF,Uruguay,290803,99470
+1241,Suárez,FW,Uruguay,290803,2396
+1242,Stuani,FW,Uruguay,290803,15886
+1243,Lloris,XX,France,290803,2610
+1244,Pavard,DF,France,290803,98332
+1245,Varane,DF,France,290803,53951
+1246,Umtiti,DF,France,290803,51205
+1247,Hernández,DF,France,290803,85109
+1248,Pogba,MF,France,290803,56805
+1249,Kanté,DM,France,290803,73549
+1250,Mbappé,FW,France,290803,107095
+1251,Griezmann,FW,France,290803,44311
+1252,Tolisso,MF,France,290803,82027
+1253,Giroud,FW,France,290803,27591
+1254,Alisson,XX,Brazil,291225,82741
+1255,Fagner,DF,Brazil,291225,11437
+1256,Thiago Silva,DF,Brazil,291225,16839
+1257,Miranda,DF,Brazil,291225,9391
+1258,Marcelo,DF,Brazil,291225,5676
+1259,Paulinho,MF,Brazil,291225,13943
+1260,Fernandinho,DM,Brazil,291225,6084
+1261,Philippe Coutinho,FW,Brazil,291225,43859
+1262,Willian,FW,Brazil,291225,10229
+1263,Gabriel Jesus,FW,Brazil,291225,100929
+1264,Neymar,FW,Brazil,291225,34907
+1265,Courtois,XX,Belgium,291225,34241
+1266,Meunier,DF,Belgium,291225,62078
+1267,Alderweireld,DF,Belgium,291225,31872
+1268,Kompany,DF,Belgium,291225,1170
+1269,Vertonghen,DF,Belgium,291225,849
+1270,Fellaini,MF,Belgium,291225,9302
+1271,Witsel,MF,Belgium,291225,9435
+1272,Chadli,MF,Belgium,291225,25903
+1273,De Bruyne,AM,Belgium,291225,34705
+1274,Hazard,FW,Belgium,291225,14903
+1275,Lukaku,FW,Belgium,291225,38757
+1276,Olsen,XX,Sweden,291228,80769
+1277,Krafth,DF,Sweden,291228,59646
+1278,Lindelöf,DF,Sweden,291228,74233
+1279,Granqvist,DF,Sweden,291228,5937
+1280,Augustinsson,DF,Sweden,291228,58922
+1281,Claesson,FW,Sweden,291228,65455
+1282,Larsson,MF,Sweden,291228,4233
+1283,Ekdal,MF,Sweden,291228,7377
+1284,Forsberg,MF,Sweden,291228,34694
+1285,Berg,FW,Sweden,291228,5880
+1286,Toivonen,FW,Sweden,291228,5798
+1287,Pickford,XX,England,291228,67696
+1288,Walker,DF,England,291228,37666
+1289,Stones,DF,England,291228,58793
+1290,Maguire,DF,England,291228,57627
+1291,Trippier,DF,England,291228,40791
+1292,Lingard,AM,England,291228,71489
+1293,Henderson,MF,England,291228,30627
+1294,Alli,AM,England,291228,74303
+1295,Young,DF,England,291228,1896
+1296,Sterling,FW,England,291228,69315
+1297,Kane,FW,England,291228,41936
+1298,Akinfeev,XX,Russia,291117,6065
+1299,Mario Fernandes,DF,Russia,291117,38164
+1300,Kutepov,DF,Russia,291117,73695
+1301,Ignashevich,DF,Russia,291117,6068
+1302,Kudryashov,DF,Russia,291117,10396
+1303,Zobnin,MF,Russia,291117,80972
+1304,Kuzyaev,MF,Russia,291117,90420
+1305,Samedov,MF,Russia,291117,10354
+1306,Golovin,MF,Russia,291117,94791
+1307,Cheryshev,FW,Russia,291117,59789
+1308,Dzyuba,FW,Russia,291117,6489
+1309,Subašić,XX,Croatia,291117,39386
+1310,Vrsaljko,DF,Croatia,291117,51045
+1311,Lovren,DF,Croatia,291117,24024
+1312,Vida,DF,Croatia,291117,47594
+1313,Strinić,DF,Croatia,291117,39395
+1314,Modrić,MF,Croatia,291117,7928
+1315,Rakitić,MF,Croatia,291117,4020
+1316,Rebić,FW,Croatia,291117,61605
+1317,Kramarić,FW,Croatia,291117,36993
+1318,Perišić,FW,Croatia,291117,25165
+1319,Mandžukić,FW,Croatia,291117,14060
+1320,Lloris,XX,France,291280,2610
+1321,Pavard,DF,France,291280,98332
+1322,Varane,DF,France,291280,53951
+1323,Umtiti,DF,France,291280,51205
+1324,Hernández,DF,France,291280,85109
+1325,Pogba,MF,France,291280,56805
+1326,Kanté,DM,France,291280,73549
+1327,Mbappé,FW,France,291280,107095
+1328,Griezmann,FW,France,291280,44311
+1329,Matuidi,MF,France,291280,2710
+1330,Giroud,FW,France,291280,27591
+1331,Courtois,XX,Belgium,291280,34241
+1332,Chadli,MF,Belgium,291280,25903
+1333,Alderweireld,DF,Belgium,291280,31872
+1334,Kompany,DF,Belgium,291280,1170
+1335,Vertonghen,DF,Belgium,291280,849
+1336,Witsel,MF,Belgium,291280,9435
+1337,Dembélé,MF,Belgium,291280,2323
+1338,De Bruyne,AM,Belgium,291280,34705
+1339,Fellaini,MF,Belgium,291280,9302
+1340,Hazard,FW,Belgium,291280,14903
+1341,Lukaku,FW,Belgium,291280,38757
+1342,Subašić,XX,Croatia,291283,39386
+1343,Vrsaljko,DF,Croatia,291283,51045
+1344,Lovren,DF,Croatia,291283,24024
+1345,Vida,DF,Croatia,291283,47594
+1346,Strinić,DF,Croatia,291283,39395
+1347,Brozović,MF,Croatia,291283,62235
+1348,Rebić,FW,Croatia,291283,61605
+1349,Modrić,MF,Croatia,291283,7928
+1350,Rakitić,MF,Croatia,291283,4020
+1351,Perišić,FW,Croatia,291283,25165
+1352,Mandžukić,FW,Croatia,291283,14060
+1353,Pickford,XX,England,291283,67696
+1354,Walker,DF,England,291283,37666
+1355,Stones,DF,England,291283,58793
+1356,Maguire,DF,England,291283,57627
+1357,Trippier,DF,England,291283,40791
+1358,Lingard,AM,England,291283,71489
+1359,Henderson,MF,England,291283,30627
+1360,Alli,AM,England,291283,74303
+1361,Young,DF,England,291283,1896
+1362,Sterling,FW,England,291283,69315
+1363,Kane,FW,England,291283,41936
+1364,Courtois,XX,Belgium,291687,34241
+1365,Alderweireld,DF,Belgium,291687,31872
+1366,Kompany,DF,Belgium,291687,1170
+1367,Vertonghen,DF,Belgium,291687,849
+1368,Meunier,DF,Belgium,291687,62078
+1369,Tielemans,MF,Belgium,291687,83341
+1370,Witsel,MF,Belgium,291687,9435
+1371,Chadli,MF,Belgium,291687,25903
+1372,De Bruyne,AM,Belgium,291687,34705
+1373,Hazard,FW,Belgium,291687,14903
+1374,Lukaku,FW,Belgium,291687,38757
+1375,Pickford,XX,England,291687,67696
+1376,Jones,DF,England,291687,40780
+1377,Stones,DF,England,291687,58793
+1378,Maguire,DF,England,291687,57627
+1379,Trippier,DF,England,291687,40791
+1380,Loftus-Cheek,MF,England,291687,97151
+1381,Dier,DM,England,291687,55465
+1382,Delph,MF,England,291687,25974
+1383,Rose,DF,England,291687,11147
+1384,Sterling,FW,England,291687,69315
+1385,Kane,FW,England,291687,41936
+1386,Lloris,XX,France,291688,2610
+1387,Pavard,DF,France,291688,98332
+1388,Varane,DF,France,291688,53951
+1389,Umtiti,DF,France,291688,51205
+1390,Hernández,DF,France,291688,85109
+1391,Pogba,MF,France,291688,56805
+1392,Kanté,DM,France,291688,73549
+1393,Mbappé,FW,France,291688,107095
+1394,Griezmann,FW,France,291688,44311
+1395,Matuidi,MF,France,291688,2710
+1396,Giroud,FW,France,291688,27591
+1397,Subašić,XX,Croatia,291688,39386
+1398,Vrsaljko,DF,Croatia,291688,51045
+1399,Lovren,DF,Croatia,291688,24024
+1400,Vida,DF,Croatia,291688,47594
+1401,Strinić,DF,Croatia,291688,39395
+1402,Brozović,MF,Croatia,291688,62235
+1403,Rebić,FW,Croatia,291688,61605
+1404,Modrić,MF,Croatia,291688,7928
+1405,Rakitić,MF,Croatia,291688,4020
+1406,Perišić,FW,Croatia,291688,25165
+1407,Mandžukić,FW,Croatia,291688,14060
