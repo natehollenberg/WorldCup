@@ -1,0 +1,65 @@
+,home,away,league,game_id,season,temp,weather_desc,date,home_market_value,away_market_value,90HG,90AG,120HG,120AG,FTHG,FTAG
+0,Russia,Saudi Arabia,World_Cup_Russia,277228,2018,10C,Cloudy,14-Jun-18,161830000,18700000,5,0,5,0,5,0
+1,Uruguay,Saudi Arabia,World_Cup_Russia,277231,2018,20C,Sunny,20-Jun-18,367500000,18700000,0,1,0,1,0,1
+2,Russia,Egypt,World_Cup_Russia,277230,2018,13C,Cloudy,19-Jun-18,161830000,196880000,0,1,0,1,0,1
+3,Saudi Arabia,Egypt,World_Cup_Russia,277233,2018,23C,Cloudy,25-Jun-18,18700000,196880000,3,3,3,3,3,3
+4,Russia,Croatia,World_Cup_Russia,291117,2018,18C,Sunny,7-Jul-18,161830000,354500000,2,1,2,1,2,1
+5,France,Croatia,World_Cup_Russia,291688,2018,18C,Cloudy,15-Jul-18,1080000000,354500000,1,1,1,1,1,1
+6,Argentina,Croatia,World_Cup_Russia,277256,2018,16C,Sunny,21-Jun-18,708000000,354500000,0,1,0,1,0,1
+7,Iceland,Croatia,World_Cup_Russia,277259,2018,23C,Cloudy,26-Jun-18,76400000,354500000,2,0,2,0,2,0
+8,Egypt,Uruguay,World_Cup_Russia,277229,2018,10C,Sunny,15-Jun-18,196880000,367500000,0,1,0,1,0,1
+9,Morocco,Iran,World_Cup_Russia,277234,2018,15C,Cloudy,15-Jun-18,122750000,43050000,0,1,0,1,0,1
+10,Portugal,Spain,World_Cup_Russia,277235,2018,23C,Cloudy,15-Jun-18,465500000,1040000000,1,1,1,1,1,1
+11,Iran,Spain,World_Cup_Russia,277237,2018,20C,Cloudy,20-Jun-18,43050000,1040000000,1,0,1,0,1,0
+12,Portugal,Morocco,World_Cup_Russia,277236,2018,16C,Sunny,20-Jun-18,465500000,122750000,3,0,3,0,3,0
+13,Spain,Morocco,World_Cup_Russia,277239,2018,11C,Cloudy,25-Jun-18,1040000000,122750000,1,2,1,2,1,2
+14,France,Australia,World_Cup_Russia,277248,2018,10C,Sunny,16-Jun-18,1080000000,49550000,1,2,1,2,1,2
+15,Denmark,Australia,World_Cup_Russia,277251,2018,17C,Sunny,21-Jun-18,262050000,49550000,1,2,1,2,1,2
+16,France,Peru,World_Cup_Russia,277250,2018,13C,Sunny,21-Jun-18,1080000000,37500000,3,1,3,1,3,1
+17,Australia,Peru,World_Cup_Russia,277253,2018,21C,Cloudy,26-Jun-18,49550000,37500000,1,0,1,0,1,0
+18,France,Argentina,World_Cup_Russia,289963,2018,18C,Sunny,30-Jun-18,1080000000,708000000,1,0,1,0,1,0
+19,Nigeria,Argentina,World_Cup_Russia,277258,2018,13C,Sunny,26-Jun-18,133000000,708000000,0,1,0,1,0,1
+20,France,Belgium,World_Cup_Russia,291280,2018,13C,Cloudy,10-Jul-18,1080000000,756000000,1,1,1,1,1,1
+21,Brazil,Belgium,World_Cup_Russia,291225,2018,19C,Sunny,6-Jul-18,952000000,756000000,1,0,1,0,1,0
+22,England,Belgium,World_Cup_Russia,277276,2018,16C,Cloudy,28-Jun-18,874000000,756000000,0,3,0,3,0,3
+23,Argentina,Iceland,World_Cup_Russia,277254,2018,12C,Sunny,16-Jun-18,708000000,76400000,2,0,2,0,2,0
+24,Nigeria,Iceland,World_Cup_Russia,277257,2018,22C,Sunny,22-Jun-18,133000000,76400000,2,0,2,0,2,0
+25,Peru,Denmark,World_Cup_Russia,277249,2018,14C,Sunny,16-Jun-18,37500000,262050000,1,2,1,2,1,2
+26,Croatia,Denmark,World_Cup_Russia,289964,2018,25C,Cloudy,1-Jul-18,354500000,262050000,5,2,5,2,5,2
+27,Croatia,Nigeria,World_Cup_Russia,277255,2018,16C,Cloudy,16-Jun-18,354500000,133000000,1,2,1,2,1,2
+28,Croatia,England,World_Cup_Russia,291283,2018,17C,Cloudy,11-Jul-18,354500000,874000000,2,1,2,1,2,1
+29,Sweden,England,World_Cup_Russia,291228,2018,19C,Cloudy,7-Jul-18,118950000,874000000,6,1,6,1,6,1
+30,Belgium,England,World_Cup_Russia,291687,2018,15C,Cloudy,14-Jul-18,756000000,874000000,2,2,2,2,2,2
+31,Tunisia,England,World_Cup_Russia,277273,2018,18C,Sunny,18-Jun-18,58130000,874000000,0,3,0,3,0,3
+32,Colombia,England,World_Cup_Russia,290330,2018,15C,Sunny,3-Jul-18,256350000,874000000,2,1,2,1,2,1
+33,Costa Rica,Serbia,World_Cup_Russia,277260,2018,14C,Sunny,17-Jun-18,42080000,241450000,3,0,3,0,3,0
+34,Germany,Mexico,World_Cup_Russia,277266,2018,16C,Cloudy,17-Jun-18,884000000,145100000,1,1,1,1,1,1
+35,Brazil,Mexico,World_Cup_Russia,290042,2018,24C,Sunny,2-Jul-18,952000000,145100000,2,2,2,2,2,2
+36,South Korea,Mexico,World_Cup_Russia,277269,2018,26C,Cloudy,23-Jun-18,84530000,145100000,0,0,0,0,0,0
+37,Germany,Sweden,World_Cup_Russia,277268,2018,19C,Thunderstorms,23-Jun-18,884000000,118950000,0,2,0,2,0,2
+38,Mexico,Sweden,World_Cup_Russia,277271,2018,22C,Cloudy,27-Jun-18,145100000,118950000,1,2,1,2,1,2
+39,Brazil,Switzerland,World_Cup_Russia,277261,2018,20C,Breezy,17-Jun-18,952000000,217600000,1,2,1,2,1,2
+40,Sweden,Switzerland,World_Cup_Russia,290043,2018,10C,Cloudy,3-Jul-18,118950000,217600000,2,0,2,0,2,0
+41,Serbia,Switzerland,World_Cup_Russia,277263,2018,12C,Breezy,22-Jun-18,241450000,217600000,0,3,0,3,0,3
+42,Brazil,Costa Rica,World_Cup_Russia,277262,2018,17C,Showers,22-Jun-18,952000000,42080000,0,2,0,2,0,2
+43,Switzerland,Costa Rica,World_Cup_Russia,277265,2018,18C,Cloudy,27-Jun-18,217600000,42080000,2,2,2,2,2,2
+44,Sweden,South Korea,World_Cup_Russia,277267,2018,16C,Sunny,18-Jun-18,118950000,84530000,0,1,0,1,0,1
+45,Belgium,Panama,World_Cup_Russia,277272,2018,19C,Cloudy,18-Jun-18,756000000,9130000,0,1,0,1,0,1
+46,England,Panama,World_Cup_Russia,277275,2018,22C,Cloudy,24-Jun-18,874000000,9130000,0,1,0,1,0,1
+47,Belgium,Tunisia,World_Cup_Russia,277274,2018,17C,Cloudy,23-Jun-18,756000000,58130000,1,2,1,2,1,2
+48,Panama,Tunisia,World_Cup_Russia,277277,2018,20C,Sunny,28-Jun-18,9130000,58130000,4,3,4,3,4,3
+49,Belgium,Japan,World_Cup_Russia,290329,2018,19C,Sunny,2-Jul-18,756000000,73400000,2,1,2,1,2,1
+50,Colombia,Japan,World_Cup_Russia,277279,2018,16C,Sunny,19-Jun-18,256350000,73400000,1,1,1,1,1,2
+51,Poland,Senegal,World_Cup_Russia,277278,2018,20C,Cloudy,19-Jun-18,259350000,290200000,1,1,1,1,2,1
+52,Japan,Senegal,World_Cup_Russia,277280,2018,17C,Sunny,24-Jun-18,73400000,290200000,2,0,2,0,2,0
+53,Poland,Colombia,World_Cup_Russia,277281,2018,22C,Cloudy,24-Jun-18,259350000,256350000,3,2,3,2,3,2
+54,Senegal,Colombia,World_Cup_Russia,277283,2018,22C,Sunny,28-Jun-18,290200000,256350000,1,0,1,0,1,0
+55,Uruguay,Russia,World_Cup_Russia,277232,2018,23C,Sunny,25-Jun-18,367500000,161830000,1,1,1,1,1,2
+56,Spain,Russia,World_Cup_Russia,289906,2018,19C,Cloudy,1-Jul-18,1040000000,161830000,0,2,0,2,0,2
+57,Uruguay,Portugal,World_Cup_Russia,289905,2018,22C,Thunderstorms,30-Jun-18,367500000,465500000,1,2,1,2,1,2
+58,Iran,Portugal,World_Cup_Russia,277238,2018,22C,Cloudy,25-Jun-18,43050000,465500000,0,2,0,2,0,2
+59,Uruguay,France,World_Cup_Russia,290803,2018,17C,Sunny,6-Jul-18,367500000,1080000000,1,1,2,2,2,3
+60,Denmark,France,World_Cup_Russia,277252,2018,16C,Sunny,26-Jun-18,262050000,1080000000,1,0,1,0,1,0
+61,Serbia,Brazil,World_Cup_Russia,277264,2018,18C,Cloudy,27-Jun-18,241450000,952000000,1,1,2,1,2,1
+62,South Korea,Germany,World_Cup_Russia,277270,2018,22C,Cloudy,27-Jun-18,84530000,884000000,2,0,2,0,2,0
+63,Japan,Poland,World_Cup_Russia,277282,2018,27C,Sunny,28-Jun-18,73400000,259350000,4,2,4,2,4,2
